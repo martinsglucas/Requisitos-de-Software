@@ -20,7 +20,7 @@ function App() {
     <ThemeProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/2024.1-Firefox/" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
