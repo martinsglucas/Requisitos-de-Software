@@ -1,4 +1,6 @@
 import { NavLink } from "react-router-dom";
+import React from 'react';
+import { ThemeContext } from "../../context/themeContext";
 import logo from "../../assets/logo.png";
 import styled from "styled-components";
 import {FaHome, FaCalendarCheck} from "react-icons/fa";
@@ -16,10 +18,11 @@ import { GrValidate } from "react-icons/gr";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import SidebarMenu from "./SidebarMenu";
+import { VscColorMode } from "react-icons/vsc";
 
 const routes = [
   {
-    path: "/",
+    path: "/2024.1-Firefox/Inicio",
     name: "Inicio",
     icon: <FaHome />,
   },
@@ -162,6 +165,7 @@ const routes = [
 const SideBar = ({ children }) => {
   const [isOpen, setIsOpen] = useState(false);
   const toggle = () => setIsOpen(!isOpen);
+  const { theme, setTheme } = React.useContext(ThemeContext);
   const inputAnimation = {
     hidden: {
       width: 0,
@@ -196,6 +200,8 @@ const SideBar = ({ children }) => {
     },
   };
 
+  const toggleTheme = () => {setTheme(theme === "light" ? "dark" : "light");};
+
   return (
     <>
       <div className="main-container">
@@ -229,6 +235,27 @@ const SideBar = ({ children }) => {
               <Image src={logo} onClick={toggle} />
             </div>
           </div>
+          <div className="top_section">
+            <AnimatePresence>
+              {isOpen && (
+                <motion.h1
+                  variants={showAnimation}
+                  initial="hidden"
+                  animate="show"
+                  exit="hidden"
+                  className="logo"
+                >
+                  Tema
+                </motion.h1>
+              )}
+            </AnimatePresence>
+
+            <div className="bars">
+              <VscColorMode onClick={toggleTheme} />
+            </div>
+          </div>
+
+
           <section className="routes">
             {routes.map((route, index) => {
               if (route.subRoutes) {

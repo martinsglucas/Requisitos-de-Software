@@ -7,6 +7,7 @@ import './app.css'
 // pages
 import HomePage from './pages/HomePage';
 import NotFound from './pages/NotFound';
+import Capa from './pages/Capa';
 
 function App() {
   const [user, setUser] = useState(0);
@@ -20,7 +21,8 @@ function App() {
     <ThemeProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="/2024.1-Firefox/" element={<HomePage />} />
+          <Route path="/2024.1-Firefox/" element={<Capa />} />
+          <Route path="/2024.1-Firefox/inicio" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
