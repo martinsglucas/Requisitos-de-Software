@@ -1,3 +1,6 @@
+import React, { useContext } from 'react';
+import { ThemeContext } from '../context/themeContext';
+
 import notfound from '../assets/notfound.gif';
 import styled from 'styled-components';
 import SideBar from '../components/sidebar/SideBar';
