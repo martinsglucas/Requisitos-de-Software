@@ -1,21 +1,29 @@
-import ReactMarkdown from 'react-markdown';
 import styled from 'styled-components';
-import React, { useContext } from 'react';
-import { ThemeContext } from '../context/themeContext';
+import React, {useState, useEffect} from 'react';
+import Markdown from 'markdown-to-jsx';
 
-const MarkdownRenderer = ({ markdown }) => {
+export default function MarkdownRenderer({ filePath }) {
+  const [post, setPost] = useState('');
+
+  useEffect(() => {
+    import(filePath)
+      .then((res) => {
+        fetch(res.default)
+          .then((res) => res.text())
+          .then((res) => setPost(res))
+      })
+      .catch((err) => console.log(err));
+  }, [filePath]);
+
+
   return (
-    <StyledMarkdown>
-      <div>
-      <ReactMarkdown>{markdown}</ReactMarkdown>
-      </div>
-    </StyledMarkdown>
+    <>
+      <StyledMarkdown>{post}</StyledMarkdown>
+    </>
   );
 };
 
-export default MarkdownRenderer;
-
-const StyledMarkdown = styled.div`
+const StyledMarkdown = styled(Markdown)`
   width: 100%;
   text-align: justify;
   padding: 5% 20%;
@@ -33,12 +41,39 @@ const StyledMarkdown = styled.div`
     margin-bottom: 8px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-
   }
 
   p {
     font-size: 1.3rem;
     line-height: 1.5;
+    margin-bottom: 16px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #000;
+  }
+
+  th {
+    font-size: 1.3rem;
+    font-weight: 600;
+    border-bottom: 1px solid #000; 
+  }
+
+  td {
+    border-bottom: 1px solid #000; 
+  }
+
+  img {
+    width: 100%;
+    height: auto;
     margin-bottom: 16px;
   }
 `;
