@@ -25,6 +25,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 4. Miro. Disponível em: https://miro.com/pt/. Acesso em: 28 de mar. de 2024.
 5. Visual Studio Code. Disponível em: https://code.visualstudio.com/docs. Acesso em: 28 de mar. de 2024.
 6. MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 28 de mar. de 2024.
+7. Whatsapp. Disponível em: https://developers.facebook.com/docs/whatsapp/?locale=pt_BR. Acesso em 31 de mar. 2024.
 
 ## Histórico de versões
 
