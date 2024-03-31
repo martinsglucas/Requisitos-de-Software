@@ -30,4 +30,4 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
 | Versão | Data       | Descrição                        | Autor               | Revisor |
 | ------ | ---------- | -------------------------------- | ------------------- | ------- |
-| 1.0    | 28/03/2024 | Criação da página de ferramentas | Guilherme Westphall | ?       |
+| 1.0    | 28/03/2024 | Criação da página de ferramentas | Guilherme Westphall | Lucas Martins |
