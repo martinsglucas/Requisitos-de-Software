@@ -19,4 +19,4 @@ Analisamos Firefox a fim de conseguir elencar as principais funcionalidades do a
 
 Versão  | Data | Descrição | Autor | Revisor
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 01/04/2024 | Primeira versão do Rich Picture  | [Lucas Martins](https://github.com/martinsglucas) | 
+`1.0` | 01/04/2024 | Primeira versão do Rich Picture  | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7)

@@ -30,6 +30,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 <p align="center"><b>Tabela 02</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
  
+
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                                  | *Revisores*                                            | *Data de Revisão*   |
 |------------------------------------------|--------------|--------------|-------------------------------------------------|--------------------------------------------------------|---------------------|
 | Escolha do app a ser trabalhado            | 27/03/2024 | 28/03/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 31/03/2024          |
@@ -51,6 +52,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 <p align="center"><b>Tabela 03</b> - Execução do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
  
+
 | *Atividade*                                | *Início*     | *Fim*    | *Responsáveis*                                    | *Revisores*                                            | *Data de Revisão* |
 |--------------------------------------------|--------------|----------|---------------------------------------------------|--------------------------------------------------------|---------------------|
 | Escolha do app a ser trabalhado            | 27/03/2024 | 28/03/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 29/03/2024          |
@@ -72,7 +74,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 <center> <b>Tabela 04</b> - Planejamento da etapa 2 - Elicitação de Requisitos </p>
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Data de Revisão* |
-|----------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|---------------------|
+|----------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------|
 | Correções pós entrega 1                            | 02/04/2024 | 05/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024        |
 | Definição do perfil do usuário                     | 02/04/2024 | 05/04/2024 | Leonardo, Lucas                                  | Kallyne, Guilherme, Kauan, Davi                  | 16/04/2024        |
 | Levantamento e definição de técnicas de elicitação | 04/04/2024 | 08/04/2024 | Kallyne, Kauan                                   | Leonardo, Guilherme, Lucas, Davi                 | 16/04/2024        |
@@ -181,7 +183,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                       | Autor               | Revisor |
-| ------ | ---------- | --------------------------------| ------------------- | ------- |
-| 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins |
-| 1.1    | 01/04/2024 | Correções de data | Davi Pierre | Kallyne Macêdo |
+| Versão | Data       | Descrição                       | Autor                                         | Revisor        |
+| ------ | ---------- | --------------------------------| --------------------------------------------- | -------------- |
+| 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins  |
+| 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo |
