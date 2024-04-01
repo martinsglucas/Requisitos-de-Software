@@ -6,7 +6,16 @@ import './app.css'
 
 // pages
 import HomePage from './pages/HomePage';
-import AppEscolhido from './pages/AppEscolhido';
+// pre-rastreabilidade
+import AppEscolhido from './pages/pre-rastreabilidade/AppEscolhido';
+import Heatmap from './pages/pre-rastreabilidade/Heatmap';
+import TermoDeUso from './pages/pre-rastreabilidade/TermosDeUso';
+import Licenca from './pages/pre-rastreabilidade/Licenca';
+
+// Planejamento
+import FerramentasUtilizadas from './pages/planejamento/FerramentasUtilizadas';
+
+
 import NotFound from './pages/NotFound';
 import Capa from './pages/Capa';
 
@@ -24,7 +33,11 @@ function App() {
         <Routes>
           <Route path="/2024.1-Firefox/" element={<Capa />} />
           <Route path="/2024.1-Firefox/inicio" element={<HomePage />} />
-          <Route path= "//2024.1-Firefox/pre-rastreabilidade/app-escolhido" element={<AppEscolhido/>} />
+          <Route path= "/2024.1-Firefox/pre-rastreabilidade/app-escolhido" element={<AppEscolhido/>} />
+          <Route path="/2024.1-Firefox/pre-rastreabilidade/heatmap-de-disponibilidade" element={<Heatmap />} />
+          <Route path="/2024.1-Firefox/pre-rastreabilidade/termo-de-uso" element={<TermoDeUso />} />
+          <Route path="/2024.1-Firefox/pre-rastreabilidade/licenca" element={<Licenca />} />
+          <Route path="/2024.1-Firefox/planejamento/ferramentas-utilizadas" element={<FerramentasUtilizadas />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

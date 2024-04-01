@@ -21,11 +21,13 @@
     place-items: center;
   }
   
-  /* Sidebar */
   .sidebar {
-    background: rgb(0, 7, 61);
+    background: #000;
     color: white;
     overflow-y: auto;
+    height: 100%;
+    position: fixed;
+    top:0; 
   }
   
   .top_section {
@@ -89,12 +91,12 @@
   }
   .link:hover {
     border-right: 4px solid white;
-    background: rgb(45, 51, 89);
+    background: #242424;
     transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
   }
   .active {
     border-right: 4px solid white;
-    background: rgb(45, 51, 89);
+    background: #F47030;
   }
   .link_text {
     white-space: nowrap;
