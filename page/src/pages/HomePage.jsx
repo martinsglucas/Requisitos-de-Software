@@ -4,6 +4,7 @@ import SideBar from '../components/sidebar/SideBar';
 import { ThemeContext } from '../context/themeContext';
 import { Tilt } from 'react-tilt';
 import logo from "../assets/images/logo.png"
+import leonardo from "../assets/images/Leonardo.jpeg";
 
 import { Container, Texto, Titulo, H1, P, A, TR, TD, Table, Section} from '../assets/styles/General';
 
@@ -54,6 +55,12 @@ const HomePage = () => {
                 <Membro href="https://github.com/martinsglucas">
                   <Avatar src="https://avatars.githubusercontent.com/u/104236229?v=4"/>
                   <Nome theme={theme}>Lucas Martins</Nome>
+                </Membro>
+                </Tilt>
+                <Tilt options={defaultOptions}>
+                <Membro href="https://github.com/Leonardo0o0">
+                  <Avatar src={leonardo}/>
+                  <Nome theme={theme}>Leonardo Sobrinho</Nome>
                 </Membro>
                 </Tilt>
               </Membros>
