@@ -1,12 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
-import SideBar from '../components/sidebar/SideBar';
-import { ThemeContext } from '../context/themeContext';
+import SideBar from '../../components/sidebar/SideBar';
+import { ThemeContext } from '../../context/themeContext';
 import { Tilt } from 'react-tilt';
-import logo from "../assets/images/logo.png"
-import comparacao from "../assets/images/page/comparacaofirefox.png"
+import logo from "../../assets/images/firefox.webp";
+import comparacao from "../../assets/images/page/comparacaofirefox.png"
 
-import { Container, Texto, Titulo, H1, H2, TR, TD, Table, UL, LI, P, A, Legenda, Section} from '../assets/styles/General';
+import { Container, Texto, Titulo, H1, H2, TR, TD, Table, UL, LI, P, A, Legenda, Section, Image} from '../../assets/styles/General';
 
 
 const AppEscolhido = () => {
@@ -23,7 +23,7 @@ const AppEscolhido = () => {
             <Section>
                 <H1>Introdução</H1>
                 <P theme={theme}>O Firefox é um navegador web gratuito e de código aberto desenvolvido pela Mozilla Foundation. É uma ótima alternativa aos navegadores mais populares, como Chrome e Safari. O Firefox pode oferecer algumas vantagens em relação outros navegadores como Navegação rápida e eficiente, Segurança e privacidade, Personalização, entre outras vantagens. O site da da <A href="https://www.mozilla.org/pt-BR/firefox/browsers/compare/">Mozilla</A> mostra uma comparação entre o Firefox e outros navegadores populares:</P>
-                <Comparacao src={comparacao}/>
+                <Image src={comparacao}/>
                 <Legenda theme={theme}><A href="https://www.mozilla.org/pt-BR/firefox/browsers/compare/">Figura 1:</A> Comparação do Firefox com outros navegadores</Legenda>
             </Section>
             <Section>
@@ -59,14 +59,7 @@ const AppEscolhido = () => {
                 <TD theme={theme}>1.0</TD>
                 <TD theme={theme}>31/03/2024</TD>
                 <TD theme={theme}>Criação do documento</TD>
-                <TD theme={theme}>Kauan de Torres Eiras</TD>
-                <TD theme={theme}>Kallyne Passos</TD>
-              </TR>
-              <TR theme={theme}>
-                <TD theme={theme}>-</TD>
-                <TD theme={theme}>-</TD>
-                <TD theme={theme}>Correções pós feedback do monitor</TD>
-                <TD theme={theme}>-</TD>
+                <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
                 <TD theme={theme}>-</TD>
               </TR>
             </Table>
@@ -80,12 +73,6 @@ export default AppEscolhido;
 const Imagem = styled.img`
   width: 20vw;
   padding: 40px;
-`;
-
-const Comparacao = styled.img`
-  width: 100%;
-  margin-top: 40px;
-  margin-bottom: 40px;
 `;
 
 const defaultOptions = {

@@ -36,16 +36,16 @@ const routes = [
         name: "Apresentação 1 ",
         icon: <TbHexagonNumber1 />,
       },
-      {
-        path: "/2024.1-Firefox/apresentacao/2",
-        name: "Apresentação 2",
-        icon: <TbHexagonNumber2 />,
-      },
-      {
-        path: "/2024.1-Firefox/apresentacao/3",
-        name: "Apresentação 3",
-        icon: <TbHexagonNumber3 />,
-      },
+      // {
+      //   path: "/2024.1-Firefox/apresentacao/2",
+      //   name: "Apresentação 2",
+      //   icon: <TbHexagonNumber2 />,
+      // },
+      // {
+      //   path: "/2024.1-Firefox/apresentacao/3",
+      //   name: "Apresentação 3",
+      //   icon: <TbHexagonNumber3 />,
+      // },
     ],
   },
   {
@@ -63,11 +63,11 @@ const routes = [
         name: "01/04/2024",
         icon: <MdOutlineDateRange />,
       },
-      {
-        path: "/2024.1-Firefox/ata/3",
-        name: "03/04/2024",
-        icon: <MdOutlineDateRange />,
-      },
+      // {
+      //   path: "/2024.1-Firefox/ata/3",
+      //   name: "03/04/2024",
+      //   icon: <MdOutlineDateRange />,
+      // },
     ],
   },
   {
@@ -78,7 +78,7 @@ const routes = [
       
       {
         path: "/2024.1-Firefox/pre-rastreabilidade/heatmap-de-disponibilidade",
-        name: "Heatmap de Disponibilidade",
+        name: "Heatmap",
         icon: <AiOutlineHeatMap />,
       },
       {
@@ -86,14 +86,19 @@ const routes = [
         name: "Rich Picture",
         icon: <AiFillPicture />,
       },
-      {
-        path: "/2024.1-Firefox/pre-rastreabilidade/apps-analisados",
-        name: "Apps Analisados",
-        icon: <MdOutlineSystemUpdate />,
-      },
+      // {
+      //   path: "/2024.1-Firefox/pre-rastreabilidade/apps-analisados",
+      //   name: "Apps Analisados",
+      //   icon: <MdOutlineSystemUpdate />,
+      // },
       {
         path: "/2024.1-Firefox/pre-rastreabilidade/app-escolhido",
         name: "App Escolhido",
+        icon: <AiOutlineAppstoreAdd />,
+      },
+      {
+        path: "/2024.1-Firefox/pre-rastreabilidade/termo-de-uso",
+        name: "Termo de Uso",
         icon: <AiOutlineAppstoreAdd />,
       },
       {
@@ -254,7 +259,6 @@ const SideBar = ({ children }) => {
               <VscColorMode onClick={toggleTheme} />
             </div>
           </div>
-
 
           <section className="routes">
             {routes.map((route, index) => {

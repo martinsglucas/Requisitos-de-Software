@@ -25,6 +25,13 @@ const HomePage = () => {
             <Section>
               <H1 theme={theme}>Membros do Grupo</H1>
               <Membros>
+              
+              <Tilt options={defaultOptions}>
+                <Membro href="https://github.com/DaviPierre">
+                  <Avatar src="https://media.licdn.com/dms/image/D4D35AQE-dMlUvuh1Tw/profile-framedphoto-shrink_800_800/0/1684538643670?e=1712599200&v=beta&t=3EEfKjwCj7oAk9eyWmxVaUhZxroZRHytmqdl1pPep0I"/>
+                  <Nome theme={theme}>Guilherme Westphall</Nome>
+                </Membro>
+                </Tilt>
                 <Tilt options={defaultOptions}>
                 <Membro href="https://github.com/west7">
                   <Avatar src="https://avatars.githubusercontent.com/u/101183849?v=4"/>
@@ -34,7 +41,7 @@ const HomePage = () => {
                 <Tilt options={defaultOptions}>
                 <Membro href="https://github.com/kalipassos">
                   <Avatar src="https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1717632000&v=beta&t=m2MffYI54l4dkBtnoTA-G9isHnY5iRga6RRApZYqwRI"/>
-                  <Nome theme={theme}>Kallyne Passos</Nome>
+                  <Nome theme={theme}>Kallyne Macedo</Nome>
                 </Membro>
                 </Tilt>
                 <Tilt options={defaultOptions}>
@@ -64,9 +71,23 @@ const HomePage = () => {
                 <TR theme={theme}>
                   <TD theme={theme}>1.0</TD>
                   <TD theme={theme}>31/03/2024</TD>
-                  <TD theme={theme}>Criação do documento</TD>
-                  <TD theme={theme}>Kauan de Torres Eiras</TD>
-                  <TD theme={theme}>Kallyne Passos</TD>
+                  <TD theme={theme}>Criação do Pages</TD>
+                  <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
+                  <TD theme={theme}>-</TD>
+                </TR>
+                <TR theme={theme}>
+                  <TD theme={theme}>1.0</TD>
+                  <TD theme={theme}>01/04/2024</TD>
+                  <TD theme={theme}>Tema claro e escuro</TD>
+                  <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
+                  <TD theme={theme}>-</TD>
+                </TR>
+                <TR theme={theme}>
+                  <TD theme={theme}>1.0</TD>
+                  <TD theme={theme}>01/04/2024</TD>
+                  <TD theme={theme}>Formatação das páginas do Pages</TD>
+                  <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
+                  <TD theme={theme}>-</TD>
                 </TR>
               </Table>
             </Section>
