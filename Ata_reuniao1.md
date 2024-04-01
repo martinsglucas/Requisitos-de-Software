@@ -50,10 +50,14 @@
 
 ### **7. Link da gravação**
 
-#### [_Reunião 01_](Planejamento 27.03-20240327_201543-Gravação de Reunião.mp4)
+<center> Figura 01 - Vídeo da reunião 01 </center>
+
+<iframe src="https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/embed.aspx?UniqueId=6fe71a42-61e7-4b70-b4e0-13b1a74b9394&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Planejamento 27.03-20240327_201543-Gravação de Reunião.mp4"></iframe>
+
 
 ## Histórico de Versão 
 
 | Versão |    Data    |                 Descrição                 |                                         Responsáveis                                         |                     Revisor                     |
 | :----: | :--------: | :---------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 01/10/2023 |      Adicionando a ata no git pages       |                           [Leonardo](https://github.com/Leonardo0o0)                            |    [Kallyne](https://github.com/kalipassos)     |
+|  1.0   | 01/04/2024 |      Adicionando a ata no git pages       |                 [Leonardo](https://github.com/Leonardo0o0)                |    [Kallyne](https://github.com/kalipassos)     |
+|  1.1   | 01/04/2024|      Revisão e adição link da reunião       |              [Kallyne](https://github.com/kalipassos)                |    [Leonardo](https://github.com/Leonardo0o0)       |
