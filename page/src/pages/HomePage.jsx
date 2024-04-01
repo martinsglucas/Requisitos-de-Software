@@ -59,7 +59,7 @@ const HomePage = () => {
                 </Tilt>
                 <Tilt options={defaultOptions}>
                 <Membro href="https://github.com/Leonardo0o0">
-                  <Avatar src={leonardo}/>
+                  <Avatar src={leonardo} style={{objectFit: 'cover'}}/>
                   <Nome theme={theme}>Leonardo Sobrinho</Nome>
                 </Membro>
                 </Tilt>
