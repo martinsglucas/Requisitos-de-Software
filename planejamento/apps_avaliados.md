@@ -10,7 +10,8 @@ Na primeira fase do projeto cada integrante se responsabilizou por levantar um a
 | Aplicativo | Membro que avaliou  |
 | ---------- | ------------------- |
 | **GIMP**    | Guilherme Westphall |
-| **CTPS Digital**  | Kallyne Macêdo | 
+| **CTPS Digital**  | Kallyne Macêdo |
+| **Tesouro Direto** | Lucas Martins |
 
 ## GIMP
 
@@ -43,15 +44,26 @@ Abaixo estão algumas razões pelas quais a participante do grupo [Kallyne Macê
 
 Entretanto, em virtude da natureza majoritariamente consultiva do aplicativo, que não permite que o usuário gere alterações ou crie instâncias, ele foi descartado na escolha do aplicativo a ser trabalhado.  
 
+## Tesouro Direto
+
+O aplicativo oficial do Tesouro Direto é uma ferramenta gratuita que permite investir em títulos públicos com segurança e praticidade, diretamente do seu smartphone. Desenvolvido pelo Tesouro Nacional, o app oferece aos cidadãos brasileiros a oportunidade de diversificar seus investimentos e alcançar seus objetivos financeiros com autonomia e confiança. No aplicativo, o usuário pode: fazer compra e venda de títulos, fazer simulações de investimentos, acompanhar os investimentos, consultar extratos e saldos, gerenciar a carteira, entre outras funcionalidades.
+Abaixo estão algumas razões pelas quais o membro do grupo [Lucas Martins](https://github.com/martinsglucas) escolheu o aplicativo do Tesouro Direto:
+- Permissão para estudo: Por ser um app desenvolvido pelo Governo Federal, sua análise é possível no âmbito da disciplina.
+- Funcionalidades: O aplicativo oferece uma série de funcionalidades que podem ser exploradas e avaliadas, como compra e venda de títulos, simulações de investimentos, acompanhamento da carteira, entre outras. O aplicativo também possui perspectivas de melhorias e novas funcionalidades que podem ser sugeridas.
+
+Entretanto, o aplicativo não possui um grande número de usuários, o que dificulta a coleta de dados e a realização de testes com um público mais diversificado. Além disso, o aplicativo é voltado para um público específico, que já possui conhecimento sobre investimentos e títulos públicos, o que pode limitar o alcance do projeto. Por esses motivos, o aplicativo do Tesouro Direto foi descartado na escolha do aplicativo a ser trabalhado.
 
 
 ## Referências bibliográficas
 
 1. **GIMP**: Disponível em: https://www.gimp.org/docs/
+2. **CTPS Digital**: Disponível em: www.gov.br
+3. **Tesouro Direto**: Disponível em: https://www.tesourodireto.com.br/
 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                           | Autor               | Revisor |
 | ------ | ---------- | ----------------------------------- | ------------------- | ------- |
 | 1.0    | 01/04/2024 | Criação da página de apps avaliados | Guilherme Westphall | Kallyne Macêdo |
-| 1.1   | 01/04/2024 | Adição avaliação CTPS | Kallyne Macêdo  | Lucas Martins | Revisor | 
+| 1.1   | 01/04/2024 | Adição avaliação CTPS | Kallyne Macêdo  | Lucas Martins |
+| 1.2   | 01/04/2024 | Adição avaliação Tesouro Direto | Lucas Martins  | Leonardo Sobrinho |
