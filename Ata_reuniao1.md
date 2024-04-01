@@ -46,14 +46,16 @@
 | 3   | Rich Picture        | Lucas   | 01/04/2024 |
 | 4   | Cronograma V0        | Davi, Kallyne e Leonardo | 01/04/2024 |
 | 5   | Avaliação de Aplicativos   | Todos           | 01/04/2024 |
-| 6   | criar página do git pages   | Kauan           | 01/04/2024 |
+| 6   | criar página do git pages   | Kauan           | 01/04/2024 | 
+
 
 ### **7. Link da gravação**
 
-<center> Figura 01 - Vídeo da reunião 01 </center>
+<center> Figura 01 - Vídeo da reunião 01 <br>
 
 <iframe src="https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/embed.aspx?UniqueId=6fe71a42-61e7-4b70-b4e0-13b1a74b9394&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Planejamento 27.03-20240327_201543-Gravação de Reunião.mp4"></iframe>
 
+</center>
 
 ## Histórico de Versão 
 
