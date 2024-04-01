@@ -57,7 +57,7 @@ const TermoDeUso = () => {
                 <TD theme={theme}>01/03/2024</TD>
                 <TD theme={theme}>Criação do documento de Termos de Uso</TD>
                 <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                <TD theme={theme}>-</TD>
+                <TD theme={theme}><A href="https://github.com/martinsglucas">Lucas Martins</A></TD>
               </TR>
             </Table>
       </Texto>

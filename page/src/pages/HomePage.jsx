@@ -73,21 +73,21 @@ const HomePage = () => {
                   <TD theme={theme}>31/03/2024</TD>
                   <TD theme={theme}>Criação do Pages</TD>
                   <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                  <TD theme={theme}>-</TD>
+                  <TD theme={theme}><A href='https://github.com/kalipassos'>Kallyne Macedo</A></TD>
                 </TR>
                 <TR theme={theme}>
                   <TD theme={theme}>1.0</TD>
                   <TD theme={theme}>01/04/2024</TD>
                   <TD theme={theme}>Tema claro e escuro</TD>
                   <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                  <TD theme={theme}>-</TD>
+                  <TD theme={theme}><A href='https://github.com/kalipassos'>Kallyne Macedo</A></TD>
                 </TR>
                 <TR theme={theme}>
                   <TD theme={theme}>1.0</TD>
                   <TD theme={theme}>01/04/2024</TD>
                   <TD theme={theme}>Formatação das páginas do Pages</TD>
                   <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                  <TD theme={theme}>-</TD>
+                  <TD theme={theme}><A href='https://github.com/kalipassos'>Kallyne Macedo</A></TD>
                 </TR>
               </Table>
             </Section>
