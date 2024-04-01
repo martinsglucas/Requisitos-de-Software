@@ -9,8 +9,8 @@ Na primeira fase do projeto cada integrante se responsabilizou por levantar um a
 
 | Aplicativo | Membro que avaliou  |
 | ---------- | ------------------- |
-| **GIMP**   | Guilherme Westphall |
-|            |
+| **GIMP**    | Guilherme Westphall |
+| **CTPS Digital**  | Kallyne Macêdo | 
 
 ## GIMP
 
@@ -26,6 +26,25 @@ O GIMP, ou GNU Image Manipulation Program, é uma solução tecnológica que rev
 
 - Atualizações Constantes: O GIMP recebe atualizações regulares, com melhorias de desempenho, correções de bugs e novos recursos, garantindo que os usuários sempre tenham acesso às últimas inovações e aprimoramentos no software.
 
+
+## CTPS Digital 
+
+O aplicativo da Carteira de Trabalho Digital (CTPS) é desenvolvido pelo governo brasileiro com o objetivo de trazer para os cidadãos às informações relativas aos seus vínculos empregatícios do presente ou passado, atuando como uma substituição da Carteira de Trabalho antes emitida fisicamente. 
+
+Através do uso do aplicativo, é possível ter acesso aos dados contratos de trabalho, histórico salarial, solicitação e consulta à benefícios, entre outras funcionalidades que tangem a atuação profissional de um cidadão.
+
+Abaixo estão algumas razões pelas quais a participante do grupo [Kallyne Macêdo](https://github.com/kalipassos) escolheu analisar a CTPS:
+
+- Origem governamental: Por ser um app desenvolvido pelo Governo Federal, sua análise é possível no âmbito da disciplina.
+
+- Quantidade de usuários: O aplicativo da CTPS faz parte do dia a dia de uma comunidade de milhões de brasileiros, o que possibilita pesquisas, entrevistas e avaliações de uso do público geral. 
+
+- Múltiplas funcionalidades: Há uma gama de funcionalidades de nível de baixa complexidade que o usuário pode explorar no sistema.
+
+Entretanto, em virtude da natureza majoritariamente consultiva do aplicativo, que não permite que o usuário gere alterações ou crie instâncias, ele foi descartado na escolha do aplicativo a ser trabalhado.  
+
+
+
 ## Referências bibliográficas
 
 1. **GIMP**: Disponível em: https://www.gimp.org/docs/
@@ -34,4 +53,5 @@ O GIMP, ou GNU Image Manipulation Program, é uma solução tecnológica que rev
 
 | Versão | Data       | Descrição                           | Autor               | Revisor |
 | ------ | ---------- | ----------------------------------- | ------------------- | ------- |
-| 1.0    | 01/04/2024 | Criação da página de apps avaliados | Guilherme Westphall | Revisor |
+| 1.0    | 01/04/2024 | Criação da página de apps avaliados | Guilherme Westphall | Kallyne Macêdo |
+| 1.1   | 01/04/2024 | Adição avaliação CTPS | Kallyne Macêdo  | Lucas Martins | Revisor | 
