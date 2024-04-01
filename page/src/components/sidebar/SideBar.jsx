@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import React from 'react';
 import { ThemeContext } from "../../context/themeContext";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/images/logo.png";
 import styled from "styled-components";
 import {FaHome, FaCalendarCheck} from "react-icons/fa";
 import { FaListCheck } from "react-icons/fa6";
@@ -92,7 +92,7 @@ const routes = [
         icon: <MdOutlineSystemUpdate />,
       },
       {
-        path: "/2024.1-Firefox/pre-rastreabilidade/apps-escolhido",
+        path: "/2024.1-Firefox/pre-rastreabilidade/app-escolhido",
         name: "App Escolhido",
         icon: <AiOutlineAppstoreAdd />,
       },
@@ -175,7 +175,7 @@ const SideBar = ({ children }) => {
       },
     },
     show: {
-      width: "140px",
+      width: "200px",
       padding: "5px 15px",
       transition: {
         duration: 0.2,
@@ -207,7 +207,7 @@ const SideBar = ({ children }) => {
       <div className="main-container">
         <motion.div
           animate={{
-            width: isOpen ? "200px" : "45px",
+            width: isOpen ? "250px" : "70px",
             transition: {
               duration: 0.5,
               type: "spring",
@@ -250,7 +250,7 @@ const SideBar = ({ children }) => {
               )}
             </AnimatePresence>
 
-            <div className="bars">
+            <div className="theme">
               <VscColorMode onClick={toggleTheme} />
             </div>
           </div>
@@ -308,4 +308,5 @@ export default SideBar;
 const Image = styled.img`
   width: 100%;
   cursor: pointer;
+  
 `;

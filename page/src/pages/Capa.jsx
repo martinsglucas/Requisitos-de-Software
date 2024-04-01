@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import cover from "../assets/cover.png";
-import logo from "../assets/logo.png";
+import cover from "../assets/images/cover.png";
+import logo from "../assets/images/logo.png";
 import { Tilt } from 'react-tilt'
 import { NavLink } from "react-router-dom";
 

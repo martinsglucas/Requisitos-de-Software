@@ -6,6 +6,7 @@ import './app.css'
 
 // pages
 import HomePage from './pages/HomePage';
+import AppEscolhido from './pages/AppEscolhido';
 import NotFound from './pages/NotFound';
 import Capa from './pages/Capa';
 
@@ -23,6 +24,7 @@ function App() {
         <Routes>
           <Route path="/2024.1-Firefox/" element={<Capa />} />
           <Route path="/2024.1-Firefox/inicio" element={<HomePage />} />
+          <Route path= "//2024.1-Firefox/pre-rastreabilidade/app-escolhido" element={<AppEscolhido/>} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
