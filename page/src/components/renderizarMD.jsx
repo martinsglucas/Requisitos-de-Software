@@ -1,20 +1,24 @@
 import styled from 'styled-components';
-import React, {useState, useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 import Markdown from 'markdown-to-jsx';
 
 export default function MarkdownRenderer({ filePath }) {
   const [post, setPost] = useState('');
 
   useEffect(() => {
-    import(filePath)
-      .then((res) => {
-        fetch(res.default)
-          .then((res) => res.text())
-          .then((res) => setPost(res))
-      })
-      .catch((err) => console.log(err));
-  }, [filePath]);
+    const fetchData = async () => {
+      try {
+        const module = await import(filePath);
+        const response = await fetch(module.default);
+        const text = await response.text();
+        setPost(text);
+      } catch (error) {
+        console.error('Error fetching Markdown file:', error);
+      }
+    };
 
+    fetchData();
+  }, [filePath]);
 
   return (
     <>
