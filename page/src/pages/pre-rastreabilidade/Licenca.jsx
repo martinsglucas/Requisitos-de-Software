@@ -67,13 +67,13 @@ export default function Licenca() {
                 <TD theme={theme}>01/04/2024</TD>
                 <TD theme={theme}>Criação da página da licença</TD>
                 <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                <TD theme={theme}>-</TD>
+                <TD theme={theme}><A href="https://github.com/martinsglucas">Lucas Martins</A></TD>
               </TR><TR theme={theme}>
                 <TD theme={theme}>1.0</TD>
                 <TD theme={theme}>01/04/2024</TD>
                 <TD theme={theme}>Tradução da licença</TD>
                 <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                <TD theme={theme}>-</TD>
+                <TD theme={theme}><A href="https://github.com/martinsglucas">Lucas Martins</A></TD>
               </TR>
             </Table>
           </Texto>

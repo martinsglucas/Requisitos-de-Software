@@ -26,48 +26,38 @@ const routes = [
     name: "Inicio",
     icon: <FaHome />,
   },
-  {
-    path: "/2024.1-Firefox/apresentacao",
-    name: "Apresentações ▾",
-    icon: <RiPresentationFill />,
-    subRoutes: [
-      {
-        path: "/2024.1-Firefox/apresentacao/1",
-        name: "Apresentação 1 ",
-        icon: <TbHexagonNumber1 />,
-      },
-      // {
-      //   path: "/2024.1-Firefox/apresentacao/2",
-      //   name: "Apresentação 2",
-      //   icon: <TbHexagonNumber2 />,
-      // },
-      // {
-      //   path: "/2024.1-Firefox/apresentacao/3",
-      //   name: "Apresentação 3",
-      //   icon: <TbHexagonNumber3 />,
-      // },
-    ],
-  },
+  // {
+  //   path: "/2024.1-Firefox/apresentacao",
+  //   name: "Apresentações ▾",
+  //   icon: <RiPresentationFill />,
+  //   subRoutes: [
+  //     {
+  //       path: "/2024.1-Firefox/apresentacao/1",
+  //       name: "Apresentação 1 ",
+  //       icon: <TbHexagonNumber1 />,
+  //     },
+  //     // {
+  //     //   path: "/2024.1-Firefox/apresentacao/2",
+  //     //   name: "Apresentação 2",
+  //     //   icon: <TbHexagonNumber2 />,
+  //     // },
+  //     // {
+  //     //   path: "/2024.1-Firefox/apresentacao/3",
+  //     //   name: "Apresentação 3",
+  //     //   icon: <TbHexagonNumber3 />,
+  //     // },
+  //   ],
+  // },
   {
     path: "/2024.1-Firefox/atas",
     name: "Atas ▾",
     icon: <BiLogoMicrosoftTeams />,
     subRoutes: [
       {
-        path: "/2024.1-Firefox/ata/1",
+        path: "/2024.1-Firefox/atas/ata2703",
         name: "27/03/2024",
         icon: <MdOutlineDateRange />,
       },
-      {
-        path: "/2024.1-Firefox/ata/2",
-        name: "01/04/2024",
-        icon: <MdOutlineDateRange />,
-      },
-      // {
-      //   path: "/2024.1-Firefox/ata/3",
-      //   name: "03/04/2024",
-      //   icon: <MdOutlineDateRange />,
-      // },
     ],
   },
   {
@@ -86,11 +76,11 @@ const routes = [
         name: "Rich Picture",
         icon: <AiFillPicture />,
       },
-      // {
-      //   path: "/2024.1-Firefox/pre-rastreabilidade/apps-analisados",
-      //   name: "Apps Analisados",
-      //   icon: <MdOutlineSystemUpdate />,
-      // },
+      {
+        path: "/2024.1-Firefox/pre-rastreabilidade/apps-avaliados",
+        name: "Apps Avaliados",
+        icon: <MdOutlineSystemUpdate />,
+      },
       {
         path: "/2024.1-Firefox/pre-rastreabilidade/app-escolhido",
         name: "App Escolhido",
@@ -118,11 +108,11 @@ const routes = [
         name: "Cronograma Planejado",
         icon: <MdOutlineAccessTime />,
       },
-      {
-        path: "/2024.1-Firefox/planejamento/cronograma-realizado",
-        name: "Cronograma Realizado",
-        icon: <MdMoreTime />,
-      },
+      // {
+      //   path: "/2024.1-Firefox/planejamento/cronograma-realizado",
+      //   name: "Cronograma Realizado",
+      //   icon: <MdMoreTime />,
+      // },
       {
         path: "/2024.1-Firefox/planejamento/ferramentas-utilizadas",
         name: "Ferramentas Utilizadas",
@@ -130,41 +120,41 @@ const routes = [
       },
     ],
   },
-  {
-    path: "/2024.1-Firefox/elicitacao",
-    name: "Elicitação ▾",
-    icon: <FaListCheck />,
-  },
-  {
-    path: "/2024.1-Firefox/modelagem",
-    name: "Modelagem ▾",
-    icon: <TbGeometry />,
-  },
-  {
-    path: "/2024.1-Firefox/agil",
-    name: "Ágil ▾",
-    icon: <RiSpeedFill />,
-  },
-  {
-    path: "/2024.1-Firefox/verificacao",
-    name: "Verificação ▾",
-    icon: <MdDomainVerification />,
-  },
-  {
-    path: "/2024.1-Firefox/validacao",
-    name: "Validação ▾",
-    icon: <GrValidate />,
-  },
-  {
-    path: "/2024.1-Firefox/pos-rastreabilidade",
-    name: "Pós-Rastreabilidade ▾",
-    icon: <BsFillPinMapFill />,
-  },
-  {
-    path: "/2024.1-Firefox/entrega-final",
-    name: "Entrega-Final ▾",
-    icon: <FaCalendarCheck />,
-  },
+  // {
+  //   path: "/2024.1-Firefox/elicitacao",
+  //   name: "Elicitação ▾",
+  //   icon: <FaListCheck />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/modelagem",
+  //   name: "Modelagem ▾",
+  //   icon: <TbGeometry />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/agil",
+  //   name: "Ágil ▾",
+  //   icon: <RiSpeedFill />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/verificacao",
+  //   name: "Verificação ▾",
+  //   icon: <MdDomainVerification />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/validacao",
+  //   name: "Validação ▾",
+  //   icon: <GrValidate />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/pos-rastreabilidade",
+  //   name: "Pós-Rastreabilidade ▾",
+  //   icon: <BsFillPinMapFill />,
+  // },
+  // {
+  //   path: "/2024.1-Firefox/entrega-final",
+  //   name: "Entrega-Final ▾",
+  //   icon: <FaCalendarCheck />,
+  // },
 ];
 
 const SideBar = ({ children }) => {

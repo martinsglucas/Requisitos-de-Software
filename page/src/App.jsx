@@ -11,10 +11,16 @@ import AppEscolhido from './pages/pre-rastreabilidade/AppEscolhido';
 import Heatmap from './pages/pre-rastreabilidade/Heatmap';
 import TermoDeUso from './pages/pre-rastreabilidade/TermosDeUso';
 import Licenca from './pages/pre-rastreabilidade/Licenca';
+import RichPicture from './pages/pre-rastreabilidade/RichPicture';
+import AppsAvaliados from './pages/pre-rastreabilidade/AppsAvaliados';
 
 // Planejamento
 import FerramentasUtilizadas from './pages/planejamento/FerramentasUtilizadas';
+import CronogramaPlanejado from './pages/planejamento/CronogramaPlanejado';
 
+
+// Atas
+import AtaDeReuniao2703 from './pages/atas/ata2703';
 
 import NotFound from './pages/NotFound';
 import Capa from './pages/Capa';
@@ -37,7 +43,11 @@ function App() {
           <Route path="/2024.1-Firefox/pre-rastreabilidade/heatmap-de-disponibilidade" element={<Heatmap />} />
           <Route path="/2024.1-Firefox/pre-rastreabilidade/termo-de-uso" element={<TermoDeUso />} />
           <Route path="/2024.1-Firefox/pre-rastreabilidade/licenca" element={<Licenca />} />
+          <Route path="/2024.1-Firefox/pre-rastreabilidade/rich-picture" element={<RichPicture />} />
+          <Route path="/2024.1-Firefox/pre-rastreabilidade/apps-avaliados" element={<AppsAvaliados />} />
           <Route path="/2024.1-Firefox/planejamento/ferramentas-utilizadas" element={<FerramentasUtilizadas />} />
+          <Route path="/2024.1-Firefox/planejamento/cronograma-planejado" element={<CronogramaPlanejado />} />
+          <Route path="/2024.1-Firefox/atas/ata2703" element={<AtaDeReuniao2703 />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

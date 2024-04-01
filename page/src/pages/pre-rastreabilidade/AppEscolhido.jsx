@@ -60,7 +60,7 @@ const AppEscolhido = () => {
                 <TD theme={theme}>31/03/2024</TD>
                 <TD theme={theme}>Criação do documento</TD>
                 <TD theme={theme}><A href='https://github.com/kauaneiras'>Kauan de Torres Eiras</A></TD>
-                <TD theme={theme}>-</TD>
+                <TD theme={theme}><A href='https://github.com/leonard0o0'>Leonardo Aguiar</A></TD>
               </TR>
             </Table>
       </Texto>
