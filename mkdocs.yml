@@ -2,5 +2,11 @@ site_name: Firefox
 site_url: https://requisitos-de-software.github.io/2024.1-Firefox/
 nav: 
   - Home: index.md
+  - Cronograma: cronograma.md
+  - Ferramentas: ferramentas.md
+  - Heatmap: heatmap.md
+  - Apps Avaliados: apps_avaliados.md
+  - Rich Picture: rich-picture.md
+  
 
 theme: readthedocs
