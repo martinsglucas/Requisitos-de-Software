@@ -26,16 +26,16 @@ const routes = [
     name: "Inicio",
     icon: <FaHome />,
   },
-  // {
-  //   path: "/2024.1-Firefox/apresentacao",
-  //   name: "Apresentações ▾",
-  //   icon: <RiPresentationFill />,
-  //   subRoutes: [
-  //     {
-  //       path: "/2024.1-Firefox/apresentacao/1",
-  //       name: "Apresentação 1 ",
-  //       icon: <TbHexagonNumber1 />,
-  //     },
+  {
+    path: "/2024.1-Firefox/apresentacao",
+    name: "Apresentações ▾",
+    icon: <RiPresentationFill />,
+    subRoutes: [
+      {
+        path: "/2024.1-Firefox/apresentacao/1",
+        name: "Apresentação 1 ",
+        icon: <TbHexagonNumber1 />,
+      },
   //     // {
   //     //   path: "/2024.1-Firefox/apresentacao/2",
   //     //   name: "Apresentação 2",
@@ -46,8 +46,8 @@ const routes = [
   //     //   name: "Apresentação 3",
   //     //   icon: <TbHexagonNumber3 />,
   //     // },
-  //   ],
-  // },
+    ],
+  },
   {
     path: "/2024.1-Firefox/atas",
     name: "Atas ▾",

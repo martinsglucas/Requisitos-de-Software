@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 import SideBar from '../../components/sidebar/SideBar';
 import { ThemeContext } from '../../context/themeContext';
 
@@ -13,7 +12,7 @@ export default function CronogramaPlanejado() {
     <Container theme={theme}>
       <SideBar />
       <Texto>
-        <Titulo theme={theme}>Cronograma Planejado</Titulo>
+        <Titulo theme={theme}>Cronograma</Titulo>
         <Section>
           <H1 theme={theme}>Introdução</H1>
           <P theme={theme}>Os cronogramas planejado e executado objetivam a organização da realização de tarefas e da criação de artefatos necessários para o desenvolvimento do projeto, assim como o acompanhamento do andamento das tarefas, através da disponibilização de tabelas. O artefato presente segue as datas definidas no plano de ensino letivo da disciplina Requisitos de Software, no semestre 2024.1, e está sujeito a mudanças conforme o decorrer do semestre.</P>
@@ -86,10 +85,12 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>25/06/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/kalipassos'>Kallyne Macêdo</A></Legenda>
+
         </Section>
         <Section>
           <H1 theme={theme}>Cronograma planejado entrega 1</H1>
-          <P theme={theme}>Na Tabela 2, tem-se o cronograma planejado para a primeira etapa de entrega.</P>
+          <P theme={theme}>Tabela 2 - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -188,6 +189,7 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>01/04/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/kalipassos'>Kallyne Macêdo</A>, <A href='https://github.com/DaviPierre'>Davi Pierre</A></Legenda>
         </Section>
         <Section>
           <H1 theme={theme}>Cronograma executado entrega 1</H1>
@@ -282,10 +284,11 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>01/04/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/DaviPierre'>Davi Pierre</A></Legenda>
         </Section>
         <Section>
           <H1 theme={theme}>Cronograma planejado entrega 2</H1>
-          <P theme={theme}>Na Tabela 4, tem-se o cronograma planejado para a segunda etapa de entrega.</P>
+          <P theme={theme}>Tabela 4 - Planejamento da etapa 2 - Elicitação de Requisitos</P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -360,10 +363,11 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>13/04/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/DaviPierre'>Davi Pierre</A></Legenda>
         </Section>
         <Section>
           <H1 theme={theme}>Cronograma planejado entrega 3</H1>
-          <P theme={theme}>Na Tabela 5, tem-se o cronograma planejado para a terceira etapa de entrega.</P>
+          <P theme={theme}>Tabela 5 - Planejamento da etapa 3 - Modelagem de Requisitos I</P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -430,10 +434,11 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>06/05/2024 - 06/05/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
         </Section>
         <Section>
           <H1 theme={theme}>Cronograma planejado entrega 4</H1>
-          <P theme={theme}>Na Tabela 6, tem-se o cronograma planejado para a quarta etapa de entrega.</P>
+          <P theme={theme}>Tabela 6 - Planejamento da etapa 4 - Modelagem de Requisitos II </P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -492,9 +497,10 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>13/05/2024 - 13/05/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/kalipassos'>Kallyne Macêdo</A>, <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
         </Section>
         <Section>
-          <H1 theme={theme}>Cronograma planejado entrega 5.2</H1>
+          <H1 theme={theme}>Cronograma planejado entrega 5.1</H1>
           <P theme={theme}>Na Tabela 8, tem-se o cronograma planejado para a quinta etapa de entrega.</P>
           <Table>
             <TR theme={theme}>
@@ -546,10 +552,12 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>25/05/2024 - 25/05/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
         </Section>
+
         <Section>
           <H1 theme={theme}>Cronograma planejado entrega 6</H1>
-          <P theme={theme}>Na Tabela 9, tem-se o cronograma planejado para a sexta etapa de entrega.</P>
+          <P theme={theme}> Tabela 8 - Planejamento da etapa 6  - Pós Rastreabilidade</P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -560,16 +568,16 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>Periodo de Revisão</TD>
             </TR>
             <TR theme={theme}>
-              <TD theme={theme}>Correções pós entrega 5.2</TD>
-              <TD theme={theme}>26/05/2024</TD>
-              <TD theme={theme}>27/05/2024</TD>
+              <TD theme={theme}>Correções pós entrega 5.1</TD>
+              <TD theme={theme}>23/05/2024</TD>
+              <TD theme={theme}>25/05/2024</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
               <TD theme={theme}>29/05/2024 - 02/06/2024</TD>
             </TR>
             <TR theme={theme}>
               <TD theme={theme}>Pós-Rastreabilidade - Gerência</TD>
-              <TD theme={theme}>26/05/2024</TD>
+              <TD theme={theme}>23/05/2024</TD>
               <TD theme={theme}>29/05/2024</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
@@ -579,7 +587,7 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>Realizar a ata das reuniões</TD>
               <TD theme={theme}>29/05/2024</TD>
               <TD theme={theme}>02/06/2024</TD>
-              <TD theme={theme}>Kauan</TD>
+              <TD theme={theme}>Kauan </TD>
               <TD theme={theme}>Guilherme</TD>
               <TD theme={theme}>29/05/2024 - 02/06/2024</TD>
             </TR>
@@ -592,56 +600,60 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>03/06/2024 - 03/06/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
         </Section>
-        <Section>
-          <H1 theme={theme}>Cronograma planejado entrega 7</H1>
-          <P theme={theme}>Na Tabela 10, tem-se o cronograma planejado para a sétima etapa de entrega.</P>
-          <Table>
-            <TR theme={theme}>
-              <TD theme={theme}>Atividade</TD>
-              <TD theme={theme}>Início</TD>
-              <TD theme={theme}>Fim</TD>
-              <TD theme={theme}>Responsáveis</TD>
-              <TD theme={theme}>Revisores</TD>
-              <TD theme={theme}>Data de Revisão</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Correções pós entrega 6</TD>
-              <TD theme={theme}>07/06/2024</TD>
-              <TD theme={theme}>09/06/2024</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>13/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Análise de Requisitos: Verificação dos Artefatos</TD>
-              <TD theme={theme}>09/06/2024</TD>
-              <TD theme={theme}>13/06/2024</TD>
-              <TD theme={theme}>Guilherme, Lucas, Kauan</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Davi</TD>
-              <TD theme={theme}>13/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Análise de Requisitos: Validação</TD>
-              <TD theme={theme}>09/06/2024</TD>
-              <TD theme={theme}>13/06/2024</TD>
-              <TD theme={theme}>Leonardo, Davi, Kallyne</TD>
-              <TD theme={theme}>Guilherme, Kauan, Lucas</TD>
-              <TD theme={theme}>13/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Ajustes finais da entrega 5.2</TD>
-              <TD theme={theme}>12/06/2024</TD>
-              <TD theme={theme}>16/06/2024</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>13/06/2024</TD>
-            </TR>
-          </Table>
-        </Section>
+
+      <Section>
+        <H1 theme={theme}>Cronograma planejado entrega 5.2</H1>
+        <P theme={theme}>Tabela 9 - Planejamento da etapa 5.2  - Pós Rastreabilidade</P>
+        <Table>
+          <TR theme={theme}>
+            <TD theme={theme}>Atividade</TD>
+            <TD theme={theme}>Início</TD>
+            <TD theme={theme}>Fim</TD>
+            <TD theme={theme}>Responsáveis</TD>
+            <TD theme={theme}>Revisores</TD>
+            <TD theme={theme}>Periodo de Revisão</TD>
+          </TR>
+          <TR theme={theme}>
+            <TD theme={theme}>Correções pós entrega 6</TD>
+            <TD theme={theme}>04/06/2024</TD>
+            <TD theme={theme}>06/06/2024</TD>
+            <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
+            <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
+            <TD theme={theme}>06/06/2024 - 16/06/2024</TD>
+          </TR>
+          <TR theme={theme}>
+            <TD theme={theme}>Análise de Requisitos: Verificação dos Artefatos</TD>
+            <TD theme={theme}>06/06/2024</TD>
+            <TD theme={theme}>13/06/2024</TD>
+            <TD theme={theme}>Guilherme, Lucas, Kauan</TD>
+            <TD theme={theme}>Kallyne, Leonardo, Davi</TD>
+            <TD theme={theme}>13/06/2024 - 16/06/2024</TD>
+          </TR>
+          <TR theme={theme}>
+            <TD theme={theme}>Análise de Requisitos: Validação</TD>
+            <TD theme={theme}>06/06/2024</TD>
+            <TD theme={theme}>13/06/2024</TD>
+            <TD theme={theme}>Leonardo, Davi, Kali</TD>
+            <TD theme={theme}>Guilherme, Kauan, Lucas</TD>
+            <TD theme={theme}>13/06/2024 - 16/06/2024</TD>
+          </TR>
+          <TR theme={theme}>
+            <TD theme={theme}>Ajustes finais da entrega 5.2</TD>
+            <TD theme={theme}>12/06/2024</TD>
+            <TD theme={theme}>16/06/2024</TD>
+            <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
+            <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
+            <TD theme={theme}>16/06/2024</TD>
+          </TR>
+        </Table>
+        <Legenda theme={theme}>Fonte: <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
+      </Section>
+
         <Section>
           <H1 theme={theme}>Cronograma planejado Entrega Final</H1>
-          <P theme={theme}>Na Tabela 11, tem-se o cronograma planejado para a etapa de Entrega Final.</P>
+          <P theme={theme}>Tabela 10 - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos</P>
           <Table>
             <TR theme={theme}>
               <TD theme={theme}>Atividade</TD>
@@ -652,39 +664,17 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>Periodo de Revisão</TD>
             </TR>
             <TR theme={theme}>
-              <TD theme={theme}>Correções pós entrega 7</TD>
-              <TD theme={theme}>14/06/2024</TD>
-              <TD theme={theme}>16/06/2024</TD>
+              <TD theme={theme}>Finalização de artefatos</TD>
+              <TD theme={theme}>18/06/2024</TD>
+              <TD theme={theme}>23/06/2024</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
               <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>19/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Pós-Rastreabilidade - Gerência</TD>
-              <TD theme={theme}>14/06/2024</TD>
-              <TD theme={theme}>19/06/2024</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>19/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Realizar a ata das reuniões</TD>
-              <TD theme={theme}>19/06/2024</TD>
-              <TD theme={theme}>21/06/2024</TD>
-              <TD theme={theme}>Kauan</TD>
-              <TD theme={theme}>Guilherme</TD>
-              <TD theme={theme}>19/06/2024</TD>
-            </TR>
-            <TR theme={theme}>
-              <TD theme={theme}>Gravar a apresentação</TD>
-              <TD theme={theme}>22/06/2024</TD>
-              <TD theme={theme}>22/06/2024</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi</TD>
-              <TD theme={theme}>22/06/2024</TD>
+              <TD theme={theme}>23/06/2024</TD>
             </TR>
           </Table>
+          <Legenda theme={theme}>Fonte: <A href='https://github.com/Leonardo0o'>Leonardo Aguiar</A></Legenda>
         </Section>
+
         <Section>
           <H1 theme={theme}>Histórico de versões</H1>
           <Table>
@@ -702,9 +692,24 @@ export default function CronogramaPlanejado() {
               <TD theme={theme}>Davi Pierre, Kallyne Macêdo e Leonardo Aguiar</TD>
               <TD theme={theme}>Lucas Martins</TD>
             </TR>
+            <TR theme={theme}>
+              <TD theme={theme}>1.1</TD>
+              <TD theme={theme}>01/04/2024</TD>
+              <TD theme={theme}>Correções de data</TD>
+              <TD theme={theme}>Davi Pierre</TD>
+              <TD theme={theme}>Kallyne Macêdo</TD>
+            </TR>
+            <TR theme={theme}>
+              <TD theme={theme}>1.1</TD>
+              <TD theme={theme}>01/04/2024</TD>
+              <TD theme={theme}>Formatação e Atualização do GitPages</TD>
+              <TD theme={theme}>Kauan T. Eiras</TD>
+              <TD theme={theme}>Kallyne Macêdo</TD>
+            </TR>
           </Table>
         </Section>
-        </Texto>
+      </Texto>
     </Container>
   )
 };
+   
