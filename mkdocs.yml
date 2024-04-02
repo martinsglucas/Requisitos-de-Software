@@ -1,0 +1,6 @@
+site_name: Firefox
+site_url: https://requisitos-de-software.github.io/2024.1-Firefox/
+nav: 
+  - Home: index.md
+
+theme: readthedocs
