@@ -22,6 +22,9 @@ import CronogramaPlanejado from './pages/planejamento/CronogramaPlanejado';
 // Atas
 import AtaDeReuniao2703 from './pages/atas/ata2703';
 
+// Apresentacoes
+import Apresentacao1 from './pages/apresentacao/apresentacao1';
+
 import NotFound from './pages/NotFound';
 import Capa from './pages/Capa';
 
@@ -48,6 +51,7 @@ function App() {
           <Route path="/2024.1-Firefox/planejamento/ferramentas-utilizadas" element={<FerramentasUtilizadas />} />
           <Route path="/2024.1-Firefox/planejamento/cronograma-planejado" element={<CronogramaPlanejado />} />
           <Route path="/2024.1-Firefox/atas/ata2703" element={<AtaDeReuniao2703 />} />
+          <Route path="2024.1-Firefox/apresentacao/1" element={<Apresentacao1 />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
