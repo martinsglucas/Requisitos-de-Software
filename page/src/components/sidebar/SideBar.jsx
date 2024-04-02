@@ -105,7 +105,7 @@ const routes = [
     subRoutes: [
       {
         path: "/2024.1-Firefox/planejamento/cronograma-planejado",
-        name: "Cronograma Planejado",
+        name: "Cronograma",
         icon: <MdOutlineAccessTime />,
       },
       // {

@@ -30,7 +30,7 @@ const HomePage = () => {
               <Tilt options={defaultOptions}>
                 <Membro href="https://github.com/DaviPierre">
                   <Avatar src="https://media.licdn.com/dms/image/D4D35AQE-dMlUvuh1Tw/profile-framedphoto-shrink_800_800/0/1684538643670?e=1712599200&v=beta&t=3EEfKjwCj7oAk9eyWmxVaUhZxroZRHytmqdl1pPep0I"/>
-                  <Nome theme={theme}>Guilherme Westphall</Nome>
+                  <Nome theme={theme}>Davi Pierre</Nome>
                 </Membro>
                 </Tilt>
                 <Tilt options={defaultOptions}>
