@@ -39,6 +39,9 @@ Assim, entende-se que a célula marcada como 0 indica que não há disponibilida
 
 Portanto, com referência no heatmap de disponibilidade dos membros do grupo exposto abaixo, é possível verificar as janelas de horário que podem ser aproveitadas, sendo estas às **segundas-feiras das 16h às 21h**, e às **quartas-feiras, das 20h à 21h**. 
 
+## Bibliografia
+Heatmap de Disponibilidade - EconomiaDF. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/heatmap-disponibilidade/#heatmap. Acesso em 31 abr 2024. 
+
 ## Histórico de Versão
 
 | Versão |    Data    |                 Descrição                 |                                         Responsáveis                                         |                     Revisor                     |
