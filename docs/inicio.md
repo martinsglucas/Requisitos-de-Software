@@ -28,7 +28,7 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 **Leonardo Sobrinho**
 
-[![Avatar](/images/leonardo.jpeg)](https://github.com/Leonardo0o0)
+[![Avatar](https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/images/leonardo.jpeg?raw=true)](https://github.com/Leonardo0o0)
 
 ## Histórico de Versões
 
