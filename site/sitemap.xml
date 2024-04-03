@@ -2,32 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/apps_avaliados/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/cronograma/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/ferramentas/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/heatmap/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2024.1-Firefox/inicio/</loc>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2024.1-Firefox/rich-picture/</loc>
-         <lastmod>2024-04-02</lastmod>
+         <lastmod>2024-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2024.1-Firefox/atas/ata_27_03/</loc>
+         <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

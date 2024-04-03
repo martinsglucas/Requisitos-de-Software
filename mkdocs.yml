@@ -1,12 +1,66 @@
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Firefox/
+repo_name: 2024.1-Firefox
+
 site_name: Firefox
 site_url: https://requisitos-de-software.github.io/2024.1-Firefox/
-nav: 
-  - Home: index.md
-  - Cronograma: cronograma.md
-  - Ferramentas: ferramentas.md
-  - Heatmap: heatmap.md
-  - Apps Avaliados: apps_avaliados.md
-  - Rich Picture: rich-picture.md
-  
+site_author: Grupo 06
+site_description: Site destinado à apresentação do projeto de requisitos de software do Firefox
 
-theme: readthedocs
+nav: 
+  - Início: inicio.md
+  - Atas: 
+    - Reunião 27/03: atas/ata_27_03.md
+  - Apresentações:
+    - Apresentação 1: apresentacao_1.md
+  - Planejamento do projeto:
+    - Heatmap: heatmap.md
+    - Ferramentas: ferramentas.md
+    - Apps Avaliados: apps_avaliados.md
+    - App Escolhido: app_escolhido.md
+    - Termo de Uso: termo_de_uso.md
+    - Licença: licenca.md
+    - Cronograma: cronograma.md
+    - Rich Picture: rich-picture.md
+  
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Mudar para o modo escuro
+      primary: '#195EBB'
+      accent: purple
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para o modo claro
+      primary: '#195EBB'
+      accent: lime
+  favicon: imagens/logo.png
+  logo: imagens/logo.png
+
+
+  language: pt-BR
+  extra_css: [stylesheets/extra.css]
+  logo: images/firefox.png
+  repo: https://github.com/Requisitos-de-Software/2024.1-Firefox
+
