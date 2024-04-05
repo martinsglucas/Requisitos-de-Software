@@ -1,6 +1,9 @@
 # **Requisitos de Software: Mozilla Firefox**
 
-![Logo](../assets/images/logo.png)
+<!-- ![Logo](images/firefox.png) -->
+<div align="center">
+    <img src="images/firefox.png" width=180 height=180>
+</div>
 
 Esta página é dedicada à documentação de todos os artefatos produzidos pelo [grupo 06](https://github.com/Requisitos-de-Software/2024.1-Firefox) da disciplina de [Requisitos de Software](https://github.com/Requisitos-de-Software) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 1º semestre de 2024. O objetivo do projeto é fazer a avaliação sobre requisitos do aplicativo Firefox, na versão mobile para [Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=pt_BR&gl=US) e [iOS](https://apps.apple.com/br/app/firefox-private-safe-browser/id989804926). O app em questão, é um navegador de internet Open Source e sem fins lucrativos, que promete uma navegação eficiente e segura pela internet.
 

@@ -48,6 +48,7 @@ Entretanto, em virtude da natureza majoritariamente consultiva do aplicativo, qu
 
 O aplicativo oficial do Tesouro Direto é uma ferramenta gratuita que permite investir em títulos públicos com segurança e praticidade, diretamente do seu smartphone. Desenvolvido pelo Tesouro Nacional, o app oferece aos cidadãos brasileiros a oportunidade de diversificar seus investimentos e alcançar seus objetivos financeiros com autonomia e confiança. No aplicativo, o usuário pode: fazer compra e venda de títulos, fazer simulações de investimentos, acompanhar os investimentos, consultar extratos e saldos, gerenciar a carteira, entre outras funcionalidades.
 Abaixo estão algumas razões pelas quais o membro do grupo [Lucas Martins](https://github.com/martinsglucas) escolheu o aplicativo do Tesouro Direto:
+
 - Permissão para estudo: Por ser um app desenvolvido pelo Governo Federal, sua análise é possível no âmbito da disciplina.
 - Funcionalidades: O aplicativo oferece uma série de funcionalidades que podem ser exploradas e avaliadas, como compra e venda de títulos, simulações de investimentos, acompanhamento da carteira, entre outras. O aplicativo também possui perspectivas de melhorias e novas funcionalidades que podem ser sugeridas.
 
@@ -56,9 +57,9 @@ Entretanto, o aplicativo não possui um grande número de usuários, o que dific
 
 ## Referências bibliográficas
 
-1. **GIMP**: Disponível em: https://www.gimp.org/docs/
-2. **CTPS Digital**: Disponível em: www.gov.br
-3. **Tesouro Direto**: Disponível em: https://www.tesourodireto.com.br/
+1. **GIMP**: Disponível em: [https://www.gimp.org/docs/](https://www.gimp.org/docs/)
+2. **CTPS Digital**: Disponível em: [www.gov.br](https://www.gov.br/)
+3. **Tesouro Direto**: Disponível em: [https://www.tesourodireto.com.br/](https://www.tesourodireto.com.br/)
 
 ## Histórico de versões
 
