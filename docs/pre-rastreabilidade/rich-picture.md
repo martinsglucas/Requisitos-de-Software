@@ -10,7 +10,7 @@ Analisamos Firefox a fim de conseguir elencar as principais funcionalidades do a
 
 <font size="3"><p style="text-align: center">Figura 1: Rich Picture</p></font>
 
-<img src="[https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/imagens/RichPicture.png](https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/images/RichPicture.png?raw=true)">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/images/RichPicture.png?raw=true">
 
 ## Referências
 > [1] BENYON, David. Interação humano-computador. Traduçao de Heloısa Coimbra de Souza. 2a. ed. Sao Paulo: Person Prentice Hall, 2011. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844961/mod_resource/content/1/RichPicture.pdf>. Acesso em 01 abr. 2024.
