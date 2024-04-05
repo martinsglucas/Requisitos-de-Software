@@ -27,8 +27,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 1.
 
-
-<p align="center"><b>Tabela 02</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
+<center><p><b>Tabela 02</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
  
 
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                                  | *Revisores*                                            | *Periodo de Revisão*    |
@@ -41,11 +40,32 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 | Configuração GitPages                      | 28/03/2024 | 29/03/2024 | Kauan                                             | Kallyne                                                | 29/03/2024 - 31/03/2024 |
 | Confecção ata das reuniões                 | 29/03/2024 | 31/03/2024 | Leonardo                                          | Kallyne                                                | 31/03/2024              |
 | Definição de ferramentas                   | 27/03/2024 | 28/03/2024 | Guilherme                                         | Lucas                                                  | 28/03/2024 - 31/03/2024 |
-| Confecção a RichPicture do aplicativo      | 28/03/2024 | 31/03/2024 | Lucas                                             | ---                                                    | 31/03/2024              |
+| Confecção a RichPicture do aplicativo      | 28/03/2024 | 31/03/2024 | Lucas                                             | Guilherme                                              | 31/03/2024              |
 | Correção após a Entrega 1                  | 02/04/2024 | 05/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 05/04/2024 - 06/04/2024 |
 | Gravação da apresentação                   | 31/03/2024 | 01/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 01/04/2024              |
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Davi Pierre](https://github.com/DaviPierre).</font> </center>
+
+## Cronograma executado entrega 1.
+
+Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
+
+<center><p><b>Tabela 03</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
+
+| *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                                  | *Revisores*                                            | *Data de Revisão*    |
+|------------------------------------------|--------------|--------------|-------------------------------------------------|--------------------------------------------------------|-------------------------|
+| Escolha do app a ser trabalhado            | 27/03/2024 | 28/03/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 29/03/2024              |
+| Heatmap dos membros                        | 20/03/2024 | 22/03/2024 | Kallyne                                           | Leonardo, Guilherme, Kauan, Lucas, Davi                | 28/03/2024              |
+| Análises de aplicativos para o trabalho    | 20/03/2024 | 28/03/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 01/04/2024              |
+| Introduzir o aplicativo selecionado        | 28/03/2024 | 29/03/2024 | Kauan                                             | Davi                                                   | 30/03/2024              |
+| Definição do Cronograma                    | 28/03/2024 | 31/03/2024 | Kallyne, Leonardo, Davi                           | Guilherme, Kauan, Lucas                                | 01/04/2024              |
+| Configuração GitPages                      | 28/03/2024 | 29/03/2024 | Kauan                                             | Kallyne                                                | 31/03/2024              |
+| Confecção ata das reuniões                 | 29/03/2024 | 31/03/2024 | Leonardo                                          | Kallyne                                                | 31/03/2024              |
+| Definição de ferramentas                   | 27/03/2024 | 28/03/2024 | Guilherme                                         | Lucas                                                  | 31/03/2024              |
+| Confecção a RichPicture do aplicativo      | 28/03/2024 | 31/03/2024 | Lucas                                             | Guilherme                                              | 31/03/2024              |
+| Gravação da apresentação                   | 31/03/2024 | 01/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 01/04/2024              |
+
+<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre).</font> </center>
 
 
 ## Cronograma planejado entrega 2.
@@ -68,7 +88,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 3.
 
-<p align="center"><b>Tabela 05</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
+<center><p><b>Tabela 05</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
 
 | *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
 |--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
@@ -86,8 +106,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 4.
 
-
-<p align="center"><b>Tabela 06</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
+<center><p><b>Tabela 06</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
 
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
@@ -104,8 +123,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 5.1.
 
-
-<p align="center"><b>Tabela 07</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 07</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -120,8 +138,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 6.
 
-
-<p align="center"><b>Tabela 08</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 08</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -135,7 +152,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado entrega 5.2.
 
-<p align="center"><b>Tabela 09</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 09</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
 
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
@@ -149,8 +166,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 ## Cronograma planejado Entrega Final.
 
-
-<p align="center"><b>Tabela 10</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 10</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
