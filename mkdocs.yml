@@ -7,20 +7,21 @@ site_author: Grupo 06
 site_description: Site destinado à apresentação do projeto de requisitos de software do Firefox
 
 nav: 
-  - Início: inicio.md
+  - Início: index.md
   - Atas: 
     - Reunião 27/03: atas/ata_27_03.md
   - Apresentações:
-    - Apresentação 1: apresentacao_1.md
+    - Apresentação 1: apresentacoes/apresentacao_1.md
   - Planejamento do projeto:
-    - Heatmap: heatmap.md
-    - Ferramentas: ferramentas.md
-    - Apps Avaliados: apps_avaliados.md
-    - App Escolhido: app_escolhido.md
-    - Termo de Uso: termo_de_uso.md
-    - Licença: licenca.md
-    - Cronograma: cronograma.md
-    - Rich Picture: rich-picture.md
+    - Heatmap: planejamento/heatmap.md
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Apps Avaliados: planejamento/apps_avaliados.md
+    - App Escolhido: planejamento/app_escolhido.md
+    - Termo de Uso: planejamento/termo_de_uso.md
+    - Licença: planejamento/licenca.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastreabilidade/rich-picture.md
   
 theme:
   name: material
@@ -46,7 +47,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Mudar para o modo escuro
-      primary: '#195EBB'
+      primary: orange
       accent: purple
 
     - scheme: slate
