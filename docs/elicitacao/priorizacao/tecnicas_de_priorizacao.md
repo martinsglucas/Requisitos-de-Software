@@ -36,5 +36,5 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 
 | Versão | Data       | Descrição                                    | Autor                                           | Revisor |
 | ------ | ---------- | -------------------------------------------- | ----------------------------------------------- | ------- |
-| 1.0    | 10/04/2024 | Criação da página de técnicas de priorização | [Guilherme Westphall](https://github.com/west7) | ?       |
-| 1.1| 10/04/2024 | Explicação das técnicas 1 e 2 | [Guilherme Westphall](https://github.com/west7) | ? |   
+| 1.0    | 10/04/2024 | Criação da página de técnicas de priorização | [Guilherme Westphall](https://github.com/west7) | Davi Pierre      |
+| 1.1| 10/04/2024 | Explicação das técnicas 1 e 2 | [Guilherme Westphall](https://github.com/west7) | Davi Pierre |   
