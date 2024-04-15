@@ -5,13 +5,20 @@
 Na primeira fase do projeto cada integrante se responsabilizou por levantar um aplicativo que seria uma escolha possível para o projeto. As únicas restrições para a escolha é que deveria ser um aplicativo desktop ou celular, e os termos deveriam permitir o estudo e a engenharia reversa do aplicativo.
 
 
-**Tabela 1: Aplicativos avaliados**
+<center> 
+
+<p>Tabela 1: Aplicativos avaliados</p>
 
 | Aplicativo | Membro que avaliou  |
-| ---------- | ------------------- |
+| :----------: | :-------------------: |
 | **GIMP**    | Guilherme Westphall |
 | **CTPS Digital**  | Kallyne Macêdo |
 | **Tesouro Direto** | Lucas Martins |
+
+Fonte: [Guilherme Westphall](https://github.com/west7)
+
+</center> 
+
 
 ## GIMP
 
