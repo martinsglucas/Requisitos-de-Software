@@ -20,5 +20,5 @@ VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: 
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Questionário | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1    | 14/04/2024 | Correções pontuais de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
+| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Questionário | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1    | 14/04/2024 | Correções pontuais de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |

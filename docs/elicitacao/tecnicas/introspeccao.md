@@ -20,4 +20,4 @@ SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelag
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Introspecção | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Introspecção | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |

@@ -18,4 +18,4 @@ GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Téc
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
+| 1.0    | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |

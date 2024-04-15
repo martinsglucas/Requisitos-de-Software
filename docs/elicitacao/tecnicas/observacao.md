@@ -1,19 +1,30 @@
-# Introdução
+# Elicitação de Requisitos: Observação
+
+## Introdução
 
 No contexto do navegador Firefox, no dia 14 de abril de 2024 foi realizada uma reunião no Teams, entre [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras) como, respectivamente, mediador e usuário para elicitar os requisitos do aplicativo.
 
-# Metodologia
+
+## Justificativa 
+
+Por ser uma técnica etnográfica (que estuda o comportamento e os hábitos do usuário) e que pode ser aplicada pelo próprio analista do projeto, a escolha da observação direta como método de elicitação de requisitos é justificada ao permitir a coleta de requisitos que poderiam não ser identificados por meio de outras técnicas. 
+
+## Metodologia
 
 A metodologia utilizada para a elicitação de requisitos das **Tabelas 2 e 3** foi a **Observação direta ativa**. Os requisitos são elicitados com base na observação de um processo no qual o usuário irá utilizar o produto. Na forma ativa, o observador conduz o usuário por meio de perguntas durante o uso do aplicativo. Ao contrário de outros métodos de coleta de dados, como questionários ou entrevistas, a observação direta ativa permite capturar informações em tempo real, sem depender da memória ou interpretação posterior dos usuários. Isso proporciona uma visão mais precisa e detalhada do uso do navegador, revelando insights valiosos que podem orientar melhorias no design, na usabilidade e na experiência do usuário. 
 
-## Tabela 1: Participantes
+
+<center> Tabela 1: Participantes
+
 
 | Nome      | Função     |
 | --------- | ---------- |
 | Guilherme | Observador |
 | Kauan     | Usuário    |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 # Requisitos elicitados
 
@@ -23,7 +34,8 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 - **RNFx**: Requisito não funcional nº x
 - **OBSx**: Requisito nº x elicitado pela técnica de observação
 
-## Tabela 2: Requisitos Funcionais
+<br>
+<center> Tabela 2: Requisitos Funcionais
 
 | Tipo | Descrição                                                                     | ID    | Implementado |
 | ---- | ----------------------------------------------------------------------------- | ----- | ------------ |
@@ -62,9 +74,12 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 | RF33 | Deve oferecer opção de impressão                                              | OBS33 | Sim          |
 | RF34 | Deve conter opção de traduzir páginas                                         | OBS34 | Não          |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
 
-## Tabela 3: Requisitos não funcionais 
+
+
+
+<br>Tabela 3: Requisitos não funcionais 
 
 | Tipo  | Descrição                                                         | ID    | Implementado |
 | ----- | ----------------------------------------------------------------- | ----- | ------------ |
@@ -72,11 +87,19 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 | RFN02 | O navegador deve proteger os dados do usuário durante a navegação | OBS36 | Sim          |
 | RNF03 | O navegador deve proteger contra rastreamento de dados            | OBS37 | Sim          |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 # Link da gravação
 
-[Observação direta ativa](https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitos%2DG6%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20240414%5F165450%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+<center> Vídeo 1: Técnica de Observação <br>
+
+<iframe src="https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/embed.aspx?UniqueId=eeace3fd-f68e-48c0-aa6e-cdcd402149e5&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20240414_165450-Gravação de Reunião.mp4"></iframe>
+
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 # Bibliografia
 
@@ -86,7 +109,8 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 | Versão | Data       | Descrição                                 | Autor                                           | Revisor                                      |
 | ------ | ---------- | ----------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| 1.0    | 14/04/2024 | Criação do documento                      | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.1    | 14/04/2024 | Adição da introdução e metodologia        | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.2    | 14/04/2024 | Adição das tabelas                        | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.3    | 14/04/2024 | Adição do link de gravação e bibliografia | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
+| 1.0    | 14/04/2024 | Criação do documento                      | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.1    | 14/04/2024 | Adição da introdução e metodologia        | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.2    | 14/04/2024 | Adição das tabelas                        | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.3    | 14/04/2024 | Adição do link de gravação e bibliografia | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.4    | 15/04/2024 | Adição de justificativa e correções de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
