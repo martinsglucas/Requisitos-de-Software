@@ -26,8 +26,16 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 
 // Explicar a técnica
 
-### Técnica 4: ?
 
+
+
+
+### Técnica 4: MoSCoW
+  Essa técnica conciste em dividir os requisitos em 5 categorias sendo elas representadas no nome do método:
+- Must-haves: são os requisitos com maior prioridade entre todos os outros, não existe entrega sem eles.
+- Should-haves: são requisitos que tem prioridade secundária,ou seja, são importantes para a entrega mas a mesma pode continuar sem eles.
+- Could-haves: são requisitos que tem menor prioridade, se não forem completados não atrapalha na entrega.
+- Won't-haves: são requisitos inviáveis de serem entregues no momento, mas tem a possibilidade de serem desenvolvidos em entregas seguintes.
 ## Bibliografia
 
 1. FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
