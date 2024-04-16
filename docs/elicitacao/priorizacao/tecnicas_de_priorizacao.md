@@ -21,16 +21,8 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 - Média-prioridade: O requisito é importante mas não urgente.
   
 - Baixa-prioridade: O requisito não é nem importante e nem urgente.
-[Guilherme Westphall](https://github.com/west7)
-### Técnica 3: $100
 
-// Explicar a técnica
-
-
-
-
-
-### Técnica 4: MoSCoW
+### Técnica 3: MoSCoW
   Essa técnica conciste em dividir os requisitos em 5 categorias sendo elas representadas no nome do método:
 - Must-haves: são os requisitos com maior prioridade entre todos os outros, não existe entrega sem eles.
 - Should-haves: são requisitos que tem prioridade secundária,ou seja, são importantes para a entrega mas a mesma pode continuar sem eles.
@@ -44,5 +36,7 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 
 | Versão | Data       | Descrição                                    | Autor                                           | Revisor |
 | ------ | ---------- | -------------------------------------------- | ----------------------------------------------- | ------- |
-| 1.0    | 10/04/2024 | Criação da página de técnicas de priorização | [Guilherme Westphall](https://github.com/west7) | Davi Pierre      |
-| 1.1| 10/04/2024 | Explicação das técnicas 1 e 2 | [Guilherme Westphall](https://github.com/west7) | Davi Pierre |   
+| 1.0    | 10/04/2024 | Criação da página de técnicas de priorização | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)      |
+| 1.1| 10/04/2024 | Explicação das técnicas 1 e 2 | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) | 
+| 1.2    | 16/04/2024 | Explicação da técnica 3 | [Davi Pierre](https://github.com/DaviPierre) |    [Guilherme Westphall](https://github.com/west7)   |
+
