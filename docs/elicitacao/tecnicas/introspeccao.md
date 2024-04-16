@@ -12,12 +12,11 @@ Embora esta técnica não leve em consideração as necessidades e avaliações 
 
 SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) Acesso em: 12/04/2024. 
 
-<!--  
-<center><font size="3">Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)</font></center> -->
+Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
 
 ## Histórico de Versões 
 
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Introspecção | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Introspecção | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
