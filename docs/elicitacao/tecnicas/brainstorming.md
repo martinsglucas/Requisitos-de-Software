@@ -12,15 +12,8 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 | Nome                                              | Função   |
 | ------------------------------------------------- | -------- |
 | [Guilherme Westphall](https://github.com/west7)   | Mediador |
-| [Kauan T. Eiras](https://github.com/kauaneiras)   | Mediador |
-| [Kallyne Macedo](https://github.com/kalipassos)   | Mediador |
-| [Leonardo Aguiar](https://github.com/Leonardo0o0) | Mediador |
 | [Lucas Martins](https://github.com/martinsglucas) | Mediador |
-| [Davi Pierre](https://github.com/DaviPierre)      | Mediador |
 | Guilherme Dutra                                   | Usuário  |
-| Júlio Roberto                                     | Usuário  |
-| Matheus Duarte                                    | Usuário  |
-| Leandro Almeida                                   | Usuário  |
 | Hugo Queiroz                                      | Usuário  |
 
 ## Desenvolvimento
@@ -32,6 +25,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 - Criação de vários perfis
 - Proteção de dados
 - Compatibilidade
+- Assertividade
 
 ### Pergunta 2 - O que te faria usar o Firefox?
 - Sincronização com a conta Google
@@ -108,6 +102,11 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 
 Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
+
+## Link da gravação
+
+[Brainstorming](https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitos%2DG6%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20240417%5F153813%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+)
 ## Bibliografia
 
 GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
@@ -121,3 +120,4 @@ GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Téc
 |  1.0   | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 |  1.1   | 16/04/2024 | Adição das perguntas                             | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 |  1.2   | 16/04/2024 | Adiciona tabela 1 e 2                            | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.3 | 17/04 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) | 
