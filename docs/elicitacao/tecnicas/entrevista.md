@@ -15,7 +15,7 @@ Pessoas idade superior a 12 anos, que utilizem navegadores de internet.
 ## Metodologia
 Na metodologia entrevista, alguns precauçẽos devem ser tomados, como o consentimento que será apresentado ao mesmo antes da entrevista e novamente será perguntado para confirmar a intenção do usuário em colaborar com o trabalho. Após a realização da entrevista, serão elicitados os requisitos baseando-se nos resultados obtidos.
 
-As entrevistas foram conduzidas de maneiras distintas, tendo um roteiro de perguntas principal, mas adaptando-o para cada tipo de resposta do entrevistado, tendo perguntas abertas e permitindo que os entrevistados expressassem suas opniões, experiências e sugestões de forma livre. Devido a possibilidade dos entrevistados serem um publico leigo em relação ao uso de computadores, foi utilizado o Whatsapp como ferramenta principal de comunicação, pois o Whatsapp no ano de 2024 é de facil acesso para a maior parte das pessoas. 
+As entrevistas foram conduzidas de maneiras distintas, tendo um roteiro de perguntas principal, mas adaptando-o para cada tipo de resposta do entrevistado, tendo perguntas abertas e permitindo que os entrevistados expressassem suas opniões, experiências e sugestões de forma livre. A ferramenta utilizada para as entrevistas gravadas foi o Google Meets, e para a entrevista sem gravação, foi utilizado o Whatsapp.
 
 As gravações das entrevistas serão disponibilizadas no presente artefato, e o cronograma da entrevista que foi utilizado em todas as entrevistas e o termo de consentimento que tambem foi utilizado em todas as entrevistas e pode ser conferido clicando [aqui](https://drive.google.com/drive/folders/1rE7I4LeM09IeOsDSxTvZ2_RKEwCYpVEF?usp=drive_link).
 
@@ -28,14 +28,15 @@ Na tabela a seguir será apresentado informações sobre os entrevistados.
 ### Tabela 1: Informações dos entrevistados
 | Entrevistado | Idade | Gênero | Escolaridade | Ocupação | Estado civil |
 |--------------|-------|--------|--------------|----------|--------------|
-| Nathalia Pimentel de Assis| 24 | Feminino | Estudante | Solteira| 
-| Amanda Ferreira de Torres | 46 | Feminino | Professora | Casada |
-| Jesoe Paulino da Silva | 47 | Masculino | Técnico | Casado |
+| Nathalia Pimentel de Assis| 24 | Feminino | Estudante e Desenvolvedora Full Stack | Solteira| 
+| Amanda Ferreira | 46 | Feminino | Professora | Casada |
+| Carla Clementino | 23 | Feminino | Desenvolvedora Front-End | Solteiro |
+| José Roberto | 22 | Masculino | Estudante e Desenvolvedora Full-Stack | Solteiro |
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ## Entrevista 1
-A primeira entrevista foi com a Nathalia Pimentel de Assis, mulher, 24 anos, estudante de Engenharia da Computação na Universidade de Brasilia (UnB). Ela já utilizou o Firefox tanto no computador como no celular, porém, atualmente utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e o [Brave](https://brave.com/pt-br/) em seu celular.
+A primeira entrevista foi com a [Nathalia Assis](https://www.linkedin.com/in/nathalia-p-assis/), mulher, 24 anos, estudante de Engenharia da Computação na Universidade de Brasilia (UnB) e estágiária em desenvolvimento de software full stack em uma startup. Ela já utilizou o Firefox tanto no computador como no celular, porém, atualmente utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e o [Brave](https://brave.com/pt-br/) em seu celular.
 
 ### Vídeo - Entrevista 1
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=1FsLuImzNow)
@@ -44,7 +45,7 @@ A primeira entrevista foi com a Nathalia Pimentel de Assis, mulher, 24 anos, est
 
 ***Video Entrevista 1 - Nathália***
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Tabela 2: Transcrição da entrevista
 | Pergunta | Respostas da Nathalia |
@@ -59,8 +60,7 @@ Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
 | Tem mais alguma coisa que você acharia interessante implementarem no Firefox? | Eu acho que apenas essa função de sincronização e bloqueio de anúncios seria um diferencial muito grande para o Firefox. | 
 | Você gostaria de acrescentar algo mais? | Eu já testei o Firefox no celular, mas não me adaptei por conta dos pontos que mencionei. No entanto, um ponto positivo do Firefox é que ao abrir o aplicativo, já tinha as páginas que visitei recentemente. Esse recurso é muito interessante. | 
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
-
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ## Entrevista 2
 A segunda entrevista foi com a Amanda Ferreira de Torres, mulher, 46 anos, professora de ensino fundamental 1. Ela já utilizou o Firefox, mas, atualmente, utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e em seu celular.
@@ -72,7 +72,7 @@ A segunda entrevista foi com a Amanda Ferreira de Torres, mulher, 46 anos, profe
 
 ***Video Entrevista 2 - Amanda***
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Tabela 3: Transcrição da entrevista
 | Pergunta | Respostas da Amanda |
@@ -84,7 +84,7 @@ Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
 | Se o Firefox tivesse um bloqueador de anuncios, você instalaria? | Com certeza | 
 | Tem algo que você sente falta nos navegadores? | Para o que eu utilizo, só a retirada de anuncios já ficaria otimo |
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ## Entrevista 3
 A terceira entrevista foi com a [Carla Clementino](https://www.linkedin.com/in/carlaacr/?locale=en_US), mulher, 23 anos, desenvolvedora Front-End em uma software house. Ela gosta de analisar interfaces de aplicativos e já foi entrevistada anteriormente em outro projeto da disciplina sobre o Open Street Map. Carla utiliza o Firefox diariamente como desenvolvedora, para verificar se sua aplicação está funcionando em vários navegadores. Porém, o navegador principal que ela utiliza é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
@@ -96,7 +96,7 @@ A terceira entrevista foi com a [Carla Clementino](https://www.linkedin.com/in/c
 
 ***Video Entrevista 3 - Carla***
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Tabela 4: Transcrição da entrevista
 | Pergunta | Respostas da Carla |
@@ -110,13 +110,33 @@ Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
 
 Após interromper a gravação, Carla levantou outros itens que ela acredita que o Firefox poderia melhorar. Não há opções de personalizar melhor as cores para daltônicos, ou melhorar o contraste para quem possui algum problema de visão. Além de que poderia ter outros temas que tornassem o navegador mais amigável e personalizado para o gosto de quem está usando.
 
-Fonte: [Kauan de Torres Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+
+## Entrevista 4
+A quarta entrevista foi com o [José Roberto](https://www.linkedin.com/in/joseroberto0908/?originalSubdomain=br), homem, 22 anos, estudante de Engenharia de Computação e estagiário na área de desenvolvedor full stack na Presidência da República. Questiona fortemente a simplicidade do Firefox, falando sobre recursos que podem acabar sendo exagerados, poluindo a interface e pesando o aplicativo. José conhece o Firefox, já utilizou e instalou o aplicativo para analisar antes da entrevista, mas seu principal navegador é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
+
+### Vídeo - Entrevista 4
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=lXuBau7JaNA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXuBau7JaNA?si=qnBAv3o1KxlmZOEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+***Video Entrevista 4 - José***
+
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+
+### Tabela 5: Transcrição da entrevista
+| Pergunta | Respostas do José |
+|----------|----------| 
+| você já utilizou Firefox ou utiliza hoje em dia? | Eu utilizava antigamente. Faz tempo que eu não utilizo. Eu tenho optado por usar o Chrome. Meu celular é um da xiaomi, então eu tenho preferência pelo Chrome tanto pela facilidade que eu tenho com ele como pela praticidade |
+| Por que você não aderiu o Firefox como primeiro navegador? Tem alguma coisa que você gosta mais no Chrome? | Comecei a usar o Chrome quando entrou na moda. A Google tava lançando um navegador novo e tava todo mundo começando a usar, então foi mais pela força do ábito. O Explorer era mais lento. Na época eu via o Firefox como uma terceira opção. Eu usava às vezes quando eu tinha alguns problemas com o Chrome. Mas eu sempre usei o Chrome. Acho que mais por costume, não necessariamente pelo fato do navegador ser bom, mas por estar acostumado a usar ele. Também uso no celular por ele já vir baixado, o que facilita bastante. |
+| Teria alguma funcionalidade que se fosse implementada no Firefox você instalaria no seu celular? | Eu acho que o primeiro ponto que ele teria que ter seria a sincronização com o Google, que facilita bastante podendo importar a barra de favoritos e podendo ver o histórico. Essas coisas facilitaria muito o uso dele. Eu não uso muito as funcionalidades específicas do Chrome, eu só uso ele: abro, pesquiso, faço o que eu quero e fecho, então assim eu creio que qualquer navegador consiga ter o que eu preciso. Acho que o Firefox não ter essa questão da sincronização atrapalha. Acho que é principalmente isso. Se ele puder garantir a segurança dos dados e essas coisas também seria bom. Então acho que essas duas coisas seria importante. |
+| Você considera a interface do Firefox bonita ou tem alguma coisa que te desagrada? | Olhando por acho que talvez poderia deixar as coisas mais arredondadas. Tem essa opção aqui esquisita de pesquisar com alguma das opções de Google, Bing, DuckGo. Eu nunca vou usar isso, sempre vou pesquisar pelo Google. Eu vejo isso aqui como desnecessário, que só ocupa espaço. |   
 
 ## Resultado
 
-Após a realização da entrevista com o usuária e ex-usuárias do aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 5. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
+Após a realização da entrevista com o usuária e ex-usuárias do aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 6. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
 
-### Tabela 5: Requisitos elicitados na Entrevista.
+### Tabela 6: Requisitos elicitados na Entrevista.
 | Identificador | Requisitos | Tipo | Implementado | 
 |---------------|------------|------|--------------|
 | ENT01 | Sincronização de dados com a conta do Google | RF | Não Implementado |
@@ -137,9 +157,11 @@ VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: 
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Entrevista | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1    | 15/04/2024 | Adição da Metodologia e Desenvolvimento | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
-| 1.1    | 15/04/2024 | Adição da Metodologia e Desenvolvimento | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
-| 1.1    | 15/04/2024 | Adição da Entrevista 1: Natália | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
-| 1.1    | 15/04/2024 | Adição da Entrevista 2: Amanda | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
-| 1.1    | 15/04/2024 | Adição da Entrevista 3: Carla | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Entrevista | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1    | 15/04/2024 | Adição da Metodologia e Desenvolvimento | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.1    | 15/04/2024 | Adição da Metodologia e Desenvolvimento | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.1    | 15/04/2024 | Adição da Entrevista 1: Natália | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.1    | 15/04/2024 | Adição da Entrevista 2: Amanda | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.1    | 15/04/2024 | Adição da Entrevista 3: Carla | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.1    | 15/04/2024 | Adição da Entrevista 4: José | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| 1.2    | 17/04/2024 | Resultado| [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
