@@ -121,7 +121,7 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 |---------------|------------|------|--------------|
 | ENT01 | Sincronização de dados com a conta do Google | RF | Não Implementado |
 | ENT02 | Bloqueio de anúncios | RF | Não Implementado | 
-| ENT03 | Rede privada virtual (VPN) | Não Implementado | 
+| ENT03 | Rede privada virtual (VPN) | RF | Não Implementado | 
 | ENT04 | Ser mais leve que o Chrome | RNF | Implementado |
 | ENT05 | Acesso à sites acessados recentemente | RF | Implementado | 
 | ENT06 | Temas mais arredondados | RNF |  Não Implementado| 
