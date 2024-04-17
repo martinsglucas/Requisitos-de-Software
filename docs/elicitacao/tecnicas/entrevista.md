@@ -132,6 +132,8 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 | Teria alguma funcionalidade que se fosse implementada no Firefox você instalaria no seu celular? | Eu acho que o primeiro ponto que ele teria que ter seria a sincronização com o Google, que facilita bastante podendo importar a barra de favoritos e podendo ver o histórico. Essas coisas facilitaria muito o uso dele. Eu não uso muito as funcionalidades específicas do Chrome, eu só uso ele: abro, pesquiso, faço o que eu quero e fecho, então assim eu creio que qualquer navegador consiga ter o que eu preciso. Acho que o Firefox não ter essa questão da sincronização atrapalha. Acho que é principalmente isso. Se ele puder garantir a segurança dos dados e essas coisas também seria bom. Então acho que essas duas coisas seria importante. |
 | Você considera a interface do Firefox bonita ou tem alguma coisa que te desagrada? | Olhando por acho que talvez poderia deixar as coisas mais arredondadas. Tem essa opção aqui esquisita de pesquisar com alguma das opções de Google, Bing, DuckGo. Eu nunca vou usar isso, sempre vou pesquisar pelo Google. Eu vejo isso aqui como desnecessário, que só ocupa espaço. |   
 
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+
 ## Resultado
 
 Após a realização da entrevista com o usuária e ex-usuárias do aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 6. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
@@ -149,6 +151,8 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 | ENT08 | Capacidade de simular aplicações em outros navegadores | RF | Não Implementado|
 | ENT09 | Retirar excesso de funções que usuários não vão utilizar | RNF | Não Implementado |
 | ENT10 | Crianção de atalhos no inicio | RF | Implementado |
+
+Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ## Bibliografia 
 VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
