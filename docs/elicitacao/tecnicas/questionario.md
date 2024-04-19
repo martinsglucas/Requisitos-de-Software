@@ -87,20 +87,20 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 ## Analise para motivação do uso de cada navegadore
 
 ### Tabela 1 - Motivação do usuário para utilização dos navegadores
-| Navegador | Motivo de utilizar | Firefox tem implementado |
-| --------- | ------------------ | ------------------------ |
-| Google Chrome | Sincronização de dados com conta Google | Não implementado | 
-| Google Chrome | Personalização da aparencia do navegador | Implementado |
-| Google Chrome | Criação de perfís de usuário | Não implementado| 
-| Google Chrome | Veio instalado no dispositivo | Não se aplica | 
-| Google Chrome | Limpo e facil de usar | Implementado | 
-| Google Chrome | Estética mais agradável | 
-| Google Chrome | Costume de utilizar o Chrome | 
-| Apple Safari | Já veio instalado no dispositivo | Não se aplica |
-| Apple Safari | Limpo e facil de usar | Implementado | 
-| Apple Safari | É rápido | Não se aplica | 
-| Brave | Bloqueia anúncios | Não Implementado | 
-| Firefox | Tem menos bugs | Implementado| 
+| Navegador     | Motivo de utilizar                       | Firefox tem implementado |
+| ------------- | ---------------------------------------- | ------------------------ |
+| Google Chrome | Sincronização de dados com conta Google  | Não implementado         |
+| Google Chrome | Personalização da aparencia do navegador | Implementado             |
+| Google Chrome | Criação de perfís de usuário             | Não implementado         |
+| Google Chrome | Veio instalado no dispositivo            | Não se aplica            |
+| Google Chrome | Limpo e facil de usar                    | Implementado             |
+| Google Chrome | Estética mais agradável                  |
+| Google Chrome | Costume de utilizar o Chrome             |
+| Apple Safari  | Já veio instalado no dispositivo         | Não se aplica            |
+| Apple Safari  | Limpo e facil de usar                    | Implementado             |
+| Apple Safari  | É rápido                                 | Não se aplica            |
+| Brave         | Bloqueia anúncios                        | Não Implementado         |
+| Firefox       | Tem menos bugs                           | Implementado             |
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
@@ -109,16 +109,17 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 2. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
 
 ### Tabela 2: Requisitos elicitados na Entrevista.
-| Identificador | Requisitos | Tipo | Implementado | 
-|---------------|------------|------|--------------|
-| ENT01 | Sincronização de dados com a conta do Google | RF | Não Implementado |
-| ENT02 | Bloqueio de anúncios | RF | Não Implementado | 
-| ENT03 | Ser mais leve | RNF | Não Implementado |
-| ENT04 | Temas mais agradáveis | RNF |  Não Implementado| 
-| ENT05 | Liberdade na personalização de cores | RNF | Não Implementado|
-| ENT06 | Retirar excesso de funções que usuários não vão utilizar | RNF | Não Implementado |
-| ENT07 | Criação de perfís de usuário | RF | Não Implementado |
-| ENT08 | Consumir menos espaço no celular | RNF | Não Implementado |
+
+| Identificador | Requisitos                                               | Tipo | Implementado     |
+| ------------- | -------------------------------------------------------- | ---- | ---------------- |
+| ENT01         | Sincronização de dados com a conta do Google             | RF   | Não Implementado |
+| ENT02         | Bloqueio de anúncios                                     | RF   | Não Implementado |
+| ENT03         | Ser mais leve                                            | RNF  | Não Implementado |
+| ENT04         | Temas mais agradáveis                                    | RNF  | Não Implementado |
+| ENT05         | Liberdade na personalização de cores                     | RNF  | Não Implementado |
+| ENT06         | Retirar excesso de funções que usuários não vão utilizar | RNF  | Não Implementado |
+| ENT07         | Criação de perfís de usuário                             | RF   | Não Implementado |
+| ENT08         | Consumir menos espaço no celular                         | RNF  | Não Implementado |
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
@@ -129,9 +130,9 @@ VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: 
 ## Histórico de Versões 
 
 
-| Versão | Data | Descrição | Autor | Revisor
-|:------:|:----:|-----------|:-----:|:------:
-| 1.0    | 12/04/2024 | Descrição do método de Elicitação: Questionário | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1    | 14/04/2024 | Correções pontuais de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.2    | 15/04/2024 | Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
-| 1.3    | 17/04/2024 | Resultados | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
+| Versão |    Data    | Descrição                                       |                      Autor                      |                     Revisor                     |
+| :----: | :--------: | ----------------------------------------------- | :---------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 12/04/2024 | Descrição do método de Elicitação: Questionário |  [Kauan Eiras](https://github.com/kauaneiras)   | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 14/04/2024 | Correções pontuais de forma                     | [Kallyne Macedo](https://github.com/kalipassos) |  [Kauan Eiras](https://github.com/kauaneiras)   |
+|  1.2   | 15/04/2024 | Metodologia                                     |  [Kauan Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+|  1.3   | 17/04/2024 | Resultados                                      |  [Kauan Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
