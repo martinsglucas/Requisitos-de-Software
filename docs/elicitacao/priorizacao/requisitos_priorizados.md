@@ -63,7 +63,9 @@ Fonte: Guilherme Westphall e Kauan Eiras, 2024
 
 # Link da gravação
 
-[Priorização - In or Out](https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitos%2DG6%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20240419%5F202808%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+[Priorização - In or Out](https://www.youtube.com/watch?v=yE3rQ8teDhQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Histórico de versões
 
@@ -72,3 +74,4 @@ Fonte: Guilherme Westphall e Kauan Eiras, 2024
 | 1.0    | 19/04/2024 | Cria página               | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.1    | 19/04/2024 | Adiciona tabela 1 e 2     | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.2    | 19/04/2024 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.3    | 20/04/2024 | Atualização do link da gravação para youtube | [Kauan T. Eiras](https://github.com/kauaneiras) |[Guilherme Westphall](https://github.com/west7) |
