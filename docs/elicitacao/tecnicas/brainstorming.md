@@ -104,9 +104,10 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https:
 
 
 ## Link da gravação
+[Brainstorming](https://www.youtube.com/watch?v=narh2r5dhUg)
 
-[Brainstorming](https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitos%2DG6%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20240417%5F153813%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
-)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/narh2r5dhUg?si=fdIlbsQ10JuP6_GD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
