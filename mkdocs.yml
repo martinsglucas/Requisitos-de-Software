@@ -26,6 +26,16 @@ nav:
     - Definição do Perfil de Usuário:
       - Análise de Documentos: elicitacao/perfil_usuario/analise_documento.md
       - Perfil de Usuário: elicitacao/perfil_usuario/perfil_de_usuario.md
+    - Elicitação de Requisitos:
+      - Técnicas:
+        - Brainstorming: elicitacao/tecnicas/brainstorming.md
+        - Entrevista: elicitacao/tecnicas/entrevista.md
+        - Observação: elicitacao/tecnicas/observacao.md
+        - Questionário: elicitacao/tecnicas/questionario.md
+      - Requisitos Elicitados: elicitacao/tecnicas/requisitos_elicitados.md
+    - Priorização de Requisitos: 
+      - Técnicas: elicitacao/priorizacao/tecnicas_de_priorizacao.md
+      - Requisitos Priorizados: elicitacao/priorizacao/requisitos_priorizados.md
 
   
 theme:
@@ -53,14 +63,14 @@ theme:
         icon: material/weather-night
         name: Mudar para o modo escuro
       primary: orange
-      accent: purple
+      accent: orange
 
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Mudar para o modo claro
       primary: orange
-      accent: lime
+      accent: orange
 
 
   language: pt-BR
