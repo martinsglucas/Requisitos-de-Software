@@ -66,13 +66,12 @@ Fonte: Guilherme Westphall, 2024
 
 Fonte: Guilherme Westphall e Kauan Eiras, 2024
 
-</center>
 
-### Link da gravação
-
-[Priorização - In or Out](https://www.youtube.com/watch?v=yE3rQ8teDhQ)
+#### Vídeo 1: Gravação da reunião de aplicação da técnica "In or Out".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Three Level Scale
 
@@ -148,7 +147,7 @@ Fonte: Lucas Martins, 2024
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Média     |
 
 
-#### Vídeo 1: Gravação da reunião
+#### Vídeo 2: Gravação da reunião de aplicação da técnica "Three Level Scale".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
