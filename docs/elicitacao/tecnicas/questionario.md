@@ -109,17 +109,16 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 2. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
 
 ### Tabela 2: Requisitos elicitados na Entrevista.
-
-| Identificador | Requisitos                                               | Tipo | Implementado     |
-| ------------- | -------------------------------------------------------- | ---- | ---------------- |
-| ENT01         | Sincronização de dados com a conta do Google             | RF   | Não Implementado |
-| ENT02         | Bloqueio de anúncios                                     | RF   | Não Implementado |
-| ENT03         | Ser mais leve                                            | RNF  | Não Implementado |
-| ENT04         | Temas mais agradáveis                                    | RNF  | Não Implementado |
-| ENT05         | Liberdade na personalização de cores                     | RNF  | Não Implementado |
-| ENT06         | Retirar excesso de funções que usuários não vão utilizar | RNF  | Não Implementado |
-| ENT07         | Criação de perfís de usuário                             | RF   | Não Implementado |
-| ENT08         | Consumir menos espaço no celular                         | RNF  | Não Implementado |
+| Identificador | Requisitos                                               | Tipo | Implementado    | 
+|---------------|----------------------------------------------------------|------|-----------------|
+| QST01         | Sincronização de dados com a conta do Google             | RF  | Não Implementado |
+| QST02         | Bloqueio de anúncios                                     | RF  | Não Implementado | 
+| QST03         | Ser mais leve                                            | RNF | Não Implementado |
+| QST04         | Temas mais agradáveis                                    | RNF | Não Implementado | 
+| QST05         | Liberdade na personalização de cores                     | RNF | Não Implementado |
+| QST06         | Retirar excesso de funções que usuários não vão utilizar | RNF | Não Implementado |
+| QST07         | Criação de perfís de usuário                             | RF  | Não Implementado |
+| QST08         | Consumir menos espaço no celular                         | RNF | Não Implementado |
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
