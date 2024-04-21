@@ -1,6 +1,11 @@
-# Introdução
+# Requisitos Priorizados
+## Introdução
 
-Nessa página iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](/docs/elicitacao/tecnicas/requisitos_elicitados.md).
+Nessa página iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](../tecnicas/requisitos_elicitados.md).
+
+## In or Out
+
+<center>
 
 #### Tabela 1: Participantes
 
@@ -61,13 +66,100 @@ Fonte: Guilherme Westphall, 2024
 
 Fonte: Guilherme Westphall e Kauan Eiras, 2024
 
-# Link da gravação
+</center>
+
+### Link da gravação
 
 [Priorização - In or Out](https://www.youtube.com/watch?v=yE3rQ8teDhQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Histórico de versões
+## Three Level Scale
+
+A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams e uso da plataforma Mural. No Mural, foi criado uma lista dos requisitos e uma tabela com as colunas Alta Prioridade, Média Prioridade e Baixa Prioridade. Durante a reunião foi feita a discussão de cada requisito e a sua priorização em uma das colunas da tabela. Na tabela 3, é possível visualizar a lista de participantes da reunião.
+
+<center>
+
+#### Tabela 3: Participantes
+
+| Nome                | Função   |
+| ------------------- | -------- |
+| Davi Pierre | Mediador |
+| Guilherme Dutra | Usuário |
+| Julia Gabriela | Usuário |
+| Lucas Martins | Mediador |
+
+Fonte: Lucas Martins, 2024
+
+#### Diagrama 1: Site mural
+
+<iframe src='https://app.mural.co/embed/e3aa0280-083f-4c3e-b05f-6a37b452ff2c'
+  width='100%'
+  height='480px'
+  style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+  sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'></iframe>
+
+
+#### Tabela 4: Priorização pela técnica "Three Level Scale".
+
+| Tipo | Descrição                                                                    | Rastreabilidade            | Prioridade|
+| ---- | ---------------------------------------------------------------------------- | -------------------------- | --------- |
+| RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | Alta      |
+| RF   | O aplicativo deve ter opção de navegação anônima                             | OBS02                      | Média     |
+| RF   | Deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | Baixa     |
+| RF   | Deve possuir opção de favoritar sites                                        | OBS04                      | Alta      |
+| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Médi      |
+| RF   | Deve possuir histórico de downloads                                          | OBS06                      | Baixa     |
+| RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Alta      |
+| RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, QST01, BRS14 | Alta      |
+| RF   | Deve ser possível visualizar em formato desktop                              | OBS09                      | Alta      |
+| RF   | Deve ser possível criar atalhos na tela inicial do dispositivo               | OBS10, ENT10               | Alta      |
+| RF   | O navegador deve oferecer sugestões personalizadas de pesquisa               | OBS12, BRS15               | Média     |
+| RF   | Deve ser possível personalizar a tela inicial do navegador                   | OBS13, BRS22               | Alta      |
+| RF   | Deve ser possível mudar o idioma                                             | OBS14                      | Média     |
+| RF   | Deve ser possível mudar entre tema claro e escuro                            | OBS15, OBS16, ENT06, QST04 | Alta      |
+| RF   | Deve possuir atalhos de gestos                                               | OBS18                      | Média     |
+| RF   | Deve ser possível trocar de conta                                            | OBS20                      | Alta      |
+| RF   | Deve ser possível alterar senha                                              | OBS21                      | Alta      |
+| RF   | Deve ser possível limpar histórico de navegação                              | OBS22                      | Média     |
+| RF   | Deve ser possível limpar dados do usuário                                    | OBS23                      | Média     |
+| RF   | Deve ser possível habilitar e bloquear notificações                          | OBS24                      | Alta      |
+| RF   | Deve ser possível alterar fonte do navegador em tipo e tamanho               | OBS26, OBS19               | Alta      |
+| RF   | O navegador deve incluir opção de bloquear anúncios                          | OBS27, BRS08, QST02        | Alta      |
+| RF   | O navegador deve incluir opção de busca na página                            | OBS28                      | Alta      |
+| RF   | A barra de pesquisa deve incluir opção de pesquisa por voz                   | OBS29                      | Alta      |
+| RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | Alta      |
+| RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | Alta      |
+| RF   | Deve oferecer opção de impressão                                             | OBS33                      | Média     |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34                      | Alta      |
+| RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | Alta      |
+| RF   | Rede privada virtual (VPN)                                                   | ENT03                      | Média     |
+| RNF  | Ser leve                                                                     | ENT04, QST03               | Baixa     |
+| RNF  | Acesso rápido à sites acessados recentemente                                 | ENT05, BRS24               | Baixa     |
+| RNF  | Temas mais arredondados                                                      | ENT06                      | Baixa     |
+| RNF  | Modo para daltônicos                                                         | ENT07, BRS17, QST04        | Baixa     |
+| RF   | Capacidade de usar aplicações em outros navegadores                          | ENT08                      | Baixa     |
+| RNF  | Retirar excesso de funções que usuários não vão utilizar                     | ENT09, QST06               | Média     |
+| RNF  | O navegador deve ser rápido                                                  | BRS01                      | Alta      |
+| RNF  | O sistema deve gerir bem a memória                                           | BRS02                      | Alta      |
+| RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               | Média     |
+| RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 | Alta      |
+| RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Alta      |
+| RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Média     |
+
+
+#### Vídeo 1: Gravação da reunião
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+## Referências
+
+1. WIEGERS, Karl E.; BEATTY, Joy. Software requirements. Pearson Education, 2013.
+
+
+## Histórico de versões
 
 | Versão | Data       | Descrição                 | Autor                                           | Revisor                                         |
 | ------ | ---------- | ------------------------- | ----------------------------------------------- | ----------------------------------------------- |
@@ -75,3 +167,4 @@ Fonte: Guilherme Westphall e Kauan Eiras, 2024
 | 1.1    | 19/04/2024 | Adiciona tabela 1 e 2     | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.2    | 19/04/2024 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.3    | 20/04/2024 | Atualização do link da gravação para youtube | [Kauan T. Eiras](https://github.com/kauaneiras) |[Guilherme Westphall](https://github.com/west7) |
+| 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale     | [Lucas Martins](https://github.com/martinglucas) | [Davi Pierre](https://github.com/DaviPierre)
