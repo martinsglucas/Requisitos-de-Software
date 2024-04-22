@@ -48,7 +48,7 @@ Fonte: Guilherme Westphall, 2024
 | RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | In        |
 | RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | In        |
 | RF   | Deve oferecer opção de impressão                                             | OBS33                      | Out       |
-| RF   | Deve conter opção de traduzir páginas                                        | OBS34                      | In        |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | In        |
 | RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | In        |
 | RF   | Rede privada virtual (VPN)                                                   | ENT03                      | Out       |
 | RNF  | Ser leve                                                                     | ENT04, QST03               | In        |
@@ -130,7 +130,7 @@ Fonte: Lucas Martins, 2024
 | RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | Alta      |
 | RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | Alta      |
 | RF   | Deve oferecer opção de impressão                                             | OBS33                      | Média     |
-| RF   | Deve conter opção de traduzir páginas                                        | OBS34                      | Alta      |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | Alta      |
 | RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | Alta      |
 | RF   | Rede privada virtual (VPN)                                                   | ENT03                      | Média     |
 | RNF  | Ser leve                                                                     | ENT04, QST03               | Baixa     |

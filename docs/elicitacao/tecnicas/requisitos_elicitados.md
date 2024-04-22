@@ -42,7 +42,7 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 | RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               |
 | RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               |
 | RF   | Deve oferecer opção de impressão                                             | OBS33                      |
-| RF   | Deve conter opção de traduzir páginas                                        | OBS34                      |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               |
 | RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        |
 | RF   | Rede privada virtual (VPN)                                                   | ENT03                      |
 | RNF  | Ser leve                                                                     | ENT04, QST03               |
@@ -55,7 +55,6 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 | RNF  | O sistema deve gerir bem a memória                                           | BRS02                      |
 | RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               |
 | RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 |
-| RF   | Deve fornecer uma ferramenta de tradução de páginas                          | BRS10                      |
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      |
 
