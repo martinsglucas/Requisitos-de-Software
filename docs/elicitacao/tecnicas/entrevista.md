@@ -41,7 +41,7 @@ A primeira entrevista foi com a [Nathalia Assis](https://www.linkedin.com/in/nat
 ### Vídeo - Entrevista 1
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=1FsLuImzNow)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1FsLuImzNow" title="Entrevista 1 - Nathália" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FsLuImzNow?si=BQpnzOy01gUifS3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***Video Entrevista 1 - Nathália***
 
