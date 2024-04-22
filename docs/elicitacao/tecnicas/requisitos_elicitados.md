@@ -61,7 +61,7 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 
 Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
-# Histórico de versões
+## Histórico de versões
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor                                         |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ----------------------------------------------- |
