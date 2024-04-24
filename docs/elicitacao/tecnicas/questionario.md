@@ -26,63 +26,63 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 ## Perguntas sobre perfil do usuário:
 
 ### Imagem 1 - Permissão do usuário
-<img style="" src="./questionario/Q01.png" width="100%;" alt=""/>
+![Imagem 1](./questionario/Q01.png)
 
 **Descrição:** Quem não concordou em participar, não teve seus dados adicionados no resultado.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 2 - Faixa etária
-<img style="" src="./questionario/Q02.png" width="100%;" alt=""/>
+![Imagem 2](./questionario/Q02.png)
 
 **Descrição:** Na imagem, pode-se ver a quantidade de participantes respondentes a cada faixa etária.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 3 - Identidade de gênero
-<img style="" src="./questionario/Q03.png" width="100%;" alt=""/>
+![Imagem 3](./questionario/Q03.png)
 
 **Descrição:** Quantidade de pessoas com cada gênero.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 4 - Quantidade de usuários do Firefox
-<img style="" src="./questionario/Q04.png" width="100%;" alt=""/>
+![Imagem 4](./questionario/Q04.png)
 
 **Descrição:** Aqui foram apresentadas a quatidade de pessoas que utilizam, já utilizaram ou nunca utilizaram o Firefox. 
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 5 - Facilidade para utilizar
-<img style="" src="./questionario/Q05.png" width="100%;" alt=""/>
+![Imagem 5](./questionario/Q05.png)
 
 **Descrição:** Aqui mostra pessoas que consideram o Firefox simples de utilizar. A maioria das pessoas consideram simples de usar. O usuário que considerava dificil de usar possui entre 18 a 30 anos, que é a mesma idade de pessoas que consideraram simples demais e poderia ter mais opções.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 6 - Pessoas que usariam recursos dos 3 pontinhos
-<img style="" src="./questionario/Q06.png" width="100%;" alt=""/>
+![Imagem 6](./questionario/Q06.png)
 
 **Descrição:** considerando as diferentes idades, uma pessoa de 30 a 60 anos considerou dificil utilizar os recursos dos 3 pontinhos, duas pessoas de 30 a 60 anos disse que não usaria. A pessoa de 60 a 70 anos considerou util e usaria.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 7 - Navegadores utilizados nos dispositivos móveis
-<img style="" src="./questionario/Q07.png" width="100%;" alt=""/>
+![Imagem 7](./questionario/Q07.png)
 
 **Descrição:** Os navegadores mais utilizados pelos participantes são o Google Chrome, seguido do Safari e Samsung Internet.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 8 - Navegadores utilizados nos computadores
-<img style="" src="./questionario/Q08.png" width="100%;" alt=""/>
+![Imagem 8](./questionario/Q08.png)
 
 **Descrição:** Nos computadores, o cenário muda um pouco. O Google Chrome continua liderando entre os mais utilizados, mas depois temos o Firefox e o Opera.
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 ### Imagem 9 - Motivos para utilizar cada navegador
-<img style="" src="./questionario/Q09.png" width="100%;" alt=""/>
+![Imagem 9](./questionario/Q09.png)
 
 ## Analise para motivação do uso de cada navegadore
 
