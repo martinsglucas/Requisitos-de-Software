@@ -1,7 +1,7 @@
 # Requisitos Priorizados
 ## Introdução
 
-Nessa página iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](../tecnicas/requisitos_elicitados.md).
+Nessa página, iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](../tecnicas/requisitos_elicitados.md).
 
 ## In or Out
 
@@ -15,7 +15,7 @@ Nessa página iremos realizar a priorização dos requisitos elicitados pelas t�
 | Kauan T. Eiras      | Mediador |
 | Matheus Duarte      | Usuário  |
 
-Fonte: Guilherme Westphall, 2024
+Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
 #### Tabela 2: Priorização pela técnica "In or out".
 
@@ -64,12 +64,20 @@ Fonte: Guilherme Westphall, 2024
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | In        |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Out       |
 
-Fonte: Guilherme Westphall e Kauan Eiras, 2024
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
+</center>
+
+<center>
 
 #### Vídeo 1: Gravação da reunião de aplicação da técnica "In or Out".
 
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -81,6 +89,8 @@ A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams 
 
 #### Tabela 3: Participantes
 
+<center>
+
 | Nome                | Função   |
 | ------------------- | -------- |
 | Davi Pierre | Mediador |
@@ -88,7 +98,9 @@ A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams 
 | Julia Gabriela | Usuário |
 | Lucas Martins | Mediador |
 
-Fonte: Lucas Martins, 2024
+Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
+
+</center>
 
 #### Diagrama 1: Site mural
 
@@ -98,8 +110,12 @@ Fonte: Lucas Martins, 2024
   style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
   sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'></iframe>
 
+Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
+
 
 #### Tabela 4: Priorização pela técnica "Three Level Scale".
+
+<center>
 
 | Tipo | Descrição                                                                    | Rastreabilidade            | Prioridade|
 | ---- | ---------------------------------------------------------------------------- | -------------------------- | --------- |
@@ -146,8 +162,13 @@ Fonte: Lucas Martins, 2024
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Alta      |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Média     |
 
+Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
+
+</center>
 
 #### Vídeo 2: Gravação da reunião de aplicação da técnica "Three Level Scale".
+
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -155,18 +176,24 @@ Fonte: Lucas Martins, 2024
 
 ## MOSCOW
 
+A aplicação dessa técnica se deu através de reunião do Microsoft Teams e com uso da ferramenta Miro para diagramação dos requisitos elicitados em tabela dividida nos componentes da técnica MoSCoW. A priorização foi feita ao longo da chamada. Na tabela 5, é possível verificar os participantes. 
+
 <center>
 
-#### Tabela 1: Participantes
+#### Tabela 5: Participantes
+
 
 | Nome           | Função   |
 | -------------- | -------- |
 | Kallyne Macedo | Mediador |
-| Mariana vignon | Usuário  |
+| Mariana Vignon | Usuário  |
 
-Fonte: Leonardo Sobrinho, 2024
+Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 
-#### Legenda das iniciais da técnica "MOSCOW".
+
+#### Tabela 6: Legenda das iniciais da técnica "MOSCOW".
+
+
 
 | Inicial        | Significado                           |
 | -------------- | --------                              |
@@ -175,9 +202,12 @@ Fonte: Leonardo Sobrinho, 2024
 | C | Poderia ter, Interessante para a release futura    |
 | W | teria , pode ou não aparecer em uma release futura |
 
-Fonte: Leonardo Sobrinho, 2024
+Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 
-#### Tabela 2: Priorização pela técnica "MOSCOW".
+
+
+#### Tabela 7: Priorização pela técnica "MOSCOW".
+
 
 | Tipo | Descrição                                                                    | Rastreabilidade            | M S C W  |
 | ---- | ---------------------------------------------------------------------------- | -------------------------- | -------- |
@@ -224,7 +254,22 @@ Fonte: Leonardo Sobrinho, 2024
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | M        |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | C        |
 
-Fonte: Leonardo Sobrinho, 2024
+Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
+
+</center>
+
+#### Vídeo 3: Gravação da reunião de aplicação da técnica "MoSCoW".
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rVQSXssAvRE?si=tijv7M6PMBKwttF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024 
+
+</center>
+
+</center>
+
 
 ## Referências
 
@@ -239,5 +284,6 @@ Fonte: Leonardo Sobrinho, 2024
 | 1.1    | 19/04/2024 | Adiciona tabela 1 e 2     | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.2    | 19/04/2024 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.3    | 20/04/2024 | Atualização do link da gravação para youtube | [Kauan T. Eiras](https://github.com/kauaneiras) |[Guilherme Westphall](https://github.com/west7) |
-| 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale     | [Lucas Martins](https://github.com/martinglucas) | [Davi Pierre](https://github.com/DaviPierre)
+| 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale     | [Lucas Martins](https://github.com/martinglucas) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.5    | 20/04/2024 | Adiciona o metodo MOSCOW | [Leonardo Sobrinho](https://github.com/Leonardo0o0) |[Kallyne Macedo](https://github.com/kalipassos) |
+| 1.6    | 22/04/2024 | Adiciona o vídeo do método MOSCOW | [Kallyne Macedo](https://github.com/kalipassos) | [Guilherme Westphall](https://github.com/west7) |
