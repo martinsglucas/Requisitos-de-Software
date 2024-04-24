@@ -6,7 +6,7 @@ A priorização de requisitos é o ato de classificar os requisitos elicitados q
 
 ## Técnicas de priorização
 
-Existem diversas técnicas de priorização de requisitos, para o projeto escolheremos: **In or Out, Three Level Scale e $100**.
+Existem diversas técnicas de priorização de requisitos, para o projeto escolheremos: **In or Out, Three Level Scale e MoSCoW**.
 
 ### Técnica 1: In or Out
 
