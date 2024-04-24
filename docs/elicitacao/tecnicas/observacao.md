@@ -26,7 +26,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 </center>
 
-# Requisitos elicitados
+## Requisitos elicitados
 
 > Legenda para tabelas 2 e 3:
 >
@@ -91,7 +91,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 </center>
 
-# Link da gravação
+## Link da gravação
 
 <center> Vídeo 1: Técnica de Observação <br>
 
@@ -101,11 +101,11 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 </center>
 
-# Bibliografia
+## Bibliografia
 
 1. Universidade Federal de Santa Catarina. Guia de Retreinamento - Técnicas de Elicitação de Requisitos: Observação Direta. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
-# Histórico de versões
+## Histórico de versões
 
 | Versão | Data       | Descrição                                 | Autor                                           | Revisor                                      |
 | ------ | ---------- | ----------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
