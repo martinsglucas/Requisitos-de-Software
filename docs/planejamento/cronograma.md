@@ -4,7 +4,7 @@
 
 Os cronogramas planejado e executado objetivam a organização da realização de tarefas e da criação de artefatos necessários para o desenvolvimento do projeto, assim como o acompanhamento do andamento das tarefas, através da disponibilização de tabelas. O artefato presente segue as datas definidas no plano de ensino letivo da disciplina Requisitos de Software, no semestre 2024.1, e está sujeito a mudanças conforme o decorrer do semestre. 
 
-## Cronograma geral do projeto 
+## Cronograma Geral do Projeto 
 
 Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
@@ -25,7 +25,9 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 
 
-## Cronograma planejado entrega 1.
+## Cronograma Planejado: Entrega 1 - Planejamento do Projeto.
+
+Na Tabela 2, tem-se o cronograma planejado para a fase de planejamento do projeto.
 
 <center><p><b>Tabela 02</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
  
@@ -46,13 +48,13 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Davi Pierre](https://github.com/DaviPierre).</font> </center>
 
-## Cronograma executado entrega 1.
+## Cronograma Executado: Entrega 1 - Planejamento do Projeto.
 
 Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 
-<center><p><b>Tabela 03</b> - Planejamento do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
+<center><p><b>Tabela 03</b> - Execução do cronograma etapa 1 - Planejamento do Projeto e RichPicture</p>
 
-| *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                                  | *Revisores*                                            | *Data de Revisão*    |
+| *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                                  | *Revisores*                                            | *Período de Revisão*    |
 |------------------------------------------|--------------|--------------|-------------------------------------------------|--------------------------------------------------------|-------------------------|
 | Escolha do app a ser trabalhado            | 27/03/2024 | 28/03/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 29/03/2024              |
 | Heatmap dos membros                        | 20/03/2024 | 22/03/2024 | Kallyne                                           | Leonardo, Guilherme, Kauan, Lucas, Davi                | 28/03/2024              |
@@ -68,7 +70,7 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 <font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre).</font> </center>
 
 
-## Cronograma planejado entrega 2.
+## Cronograma Planejado: Entrega 2 - Elicitação de Requisitos.
 
 <center> <b>Tabela 04</b> - Planejamento da etapa 2 - Elicitação de Requisitos </p>
 
@@ -84,6 +86,34 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 | Ajustes finais da entrega 2                        | 12/04/2024 | 16/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
  
 <font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre).</font> </center>
+
+
+
+## Cronograma Executado: Entrega 2 - Elicitação de Requisitos.
+
+Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
+
+<center> <b>Tabela 05</b> - Execução da etapa 2 - Elicitação de Requisitos </p>
+
+| *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
+|----------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 1                            | 02/04/2024 | 08/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 09/04/2024 - 16/04/2024 |
+| Definição do perfil do usuário                     | 13/04/2024 | 15/04/2024 | Leonardo, Lucas                                  | Kallyne, Guilherme                  | 15/04/2024 - 17/04/2024 |
+| Pesquisa de elicitação: Observação | 14/04/2024 | 14/04/2024 |  Kauan                                   | Kallyne                 | 15/04/2024 - 16/04/2024 |
+| Pesquisa de elicitação: Brainstorming  | 14/04/2024 | 14/04/2024 | Kallyne                                  | Kauan                 | 14/04/2024 - 16/04/2024 |
+| Pesquisa e aplicação de elicitação: Questionário e Entrevista | 12/04/2024 | 17/04/2024 |  Kauan                                   | Kallyne                 | 17/04/2024 |
+| Aplicação de elicitação: Brainstorming | 16/04/2024 | 20/04/2024 |  Guilherme, Kauan                                   | Kallyne                 | 20/04/2024 - 21/04/2024 |
+| Aplicação de elicitação: Observação | 14/04/2024 | 15/04/2024 |  Kauan, Guilherme                                   | Kallyne                 | 16/04/2024 - 20/04/2024 |
+| Pesquisa de priorização: In or Out, Three Level Scale e MoSCoW | 10/04/2024 | 16/04/2024 | Davi, Guilherme                                 | Lucas                  | 17/04/2024 - 21/04/2024 |
+| Aplicação de técnica de priorização: In or Out | 19/04/2024 | 20/04/2024 | Kauan, Guilherme                                 | Lucas                  | 20/04/2024 - 22/04/2024 |
+| Aplicação de técnica de priorização: Three Level Scale | 17/04/2024 | 21/04/2024 | Davi, Lucas                                 | Guilherme                  | 21/04/2024 - 22/04/2024 |
+| Aplicação de técnica de priorização: MoSCoW | 16/04/2024 | 20/04/2024 | Kallyne, Leonardo                                | Guilherme                  | 17/04/2024 - 22/04/2024 |
+| Definição e criação de personas                    | 15/04/2024 | 16/04/2024 | Kallyne, Leonardo                              |  Davi                    | 17/04/2024 - 22/04/2024 |
+| Ajustes finais da entrega 2                        | 12/04/2024 | 21/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 21/04/2024              |
+| Confecção das atas de reunião                        | 12/04/2024 | 16/04/2024 | Davi | Leonardo | 16/04/2024              |
+| Cronograma Executado                        | 21/04/2024 | 22/04/2024 | Kallyne | Leonardo | 22/04/2024              |
+ 
+<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos).</font> </center>
 
 
 ## Cronograma planejado entrega 3.
@@ -182,3 +212,4 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 | ------ | ---------- | --------------------------------| --------------------------------------------- | -------------- |
 | 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins  |
 | 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo |
+| 1.2    | 22/04/2024 | Cronograma Executado Entrega 02              | Kallyne Macêdo                                   | Kallyne Macêdo |
