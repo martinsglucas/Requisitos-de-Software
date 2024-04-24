@@ -153,6 +153,79 @@ Fonte: Lucas Martins, 2024
 
 </center>
 
+## MOSCOW
+
+<center>
+
+#### Tabela 1: Participantes
+
+| Nome           | Função   |
+| -------------- | -------- |
+| Kallyne Macedo | Mediador |
+| Mariana vignon | Usuário  |
+
+Fonte: Leonardo Sobrinho, 2024
+
+#### Legenda das iniciais da técnica "MOSCOW".
+
+| Inicial        | Significado                           |
+| -------------- | --------                              |
+| M | Tem que ter, necessário para a release atual       |
+| S | Deveria ter, necessário para a release futura      |
+| C | Poderia ter, Interessante para a release futura    |
+| W | teria , pode ou não aparecer em uma release futura |
+
+Fonte: Leonardo Sobrinho, 2024
+
+#### Tabela 2: Priorização pela técnica "MOSCOW".
+
+| Tipo | Descrição                                                                    | Rastreabilidade            | M S C W  |
+| ---- | ---------------------------------------------------------------------------- | -------------------------- | -------- |
+| RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | M        |
+| RF   | O aplicativo deve ter opção de navegação anônima                             | OBS02                      | S        |
+| RF   | Deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | C        |
+| RF   | Deve possuir opção de favoritar sites                                        | OBS04                      | S        |
+| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | M        |
+| RF   | Deve possuir histórico de downloads                                          | OBS06                      | M        |
+| RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | S        |
+| RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, QST01, BRS14 | M        |
+| RF   | Deve ser possível visualizar em formato desktop                              | OBS09                      | M        |
+| RF   | Deve ser possível criar atalhos na tela inicial do dispositivo               | OBS10, ENT10               | S        |
+| RF   | O navegador deve oferecer sugestões personalizadas de pesquisa               | OBS12, BRS15               | C        |
+| RF   | Deve ser possível personalizar a tela inicial do navegador                   | OBS13, BRS22               | W        |
+| RF   | Deve ser possível mudar o idioma                                             | OBS14                      | M        |
+| RF   | Deve ser possível mudar entre tema claro e escuro                            | OBS15, OBS16, ENT06, QST04 | C        |
+| RF   | Deve possuir atalhos de gestos                                               | OBS18                      | M        |
+| RF   | Deve ser possível trocar de conta                                            | OBS20                      | M        |
+| RF   | Deve ser possível alterar senha                                              | OBS21                      | M        |
+| RF   | Deve ser possível limpar histórico de navegação                              | OBS22                      | M        |
+| RF   | Deve ser possível limpar dados do usuário                                    | OBS23                      | M        |
+| RF   | Deve ser possível habilitar e bloquear notificações                          | OBS24                      | S        |
+| RF   | Deve ser possível alterar fonte do navegador em tipo e tamanho               | OBS26, OBS19               | M        |
+| RF   | O navegador deve incluir opção de bloquear anúncios                          | OBS27, BRS08, QST02        | S        |
+| RF   | O navegador deve incluir opção de busca na página                            | OBS28                      | S        |
+| RF   | A barra de pesquisa deve incluir opção de pesquisa por voz                   | OBS29                      | M        |
+| RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | M        |
+| RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | M        |
+| RF   | Deve oferecer opção de impressão                                             | OBS33                      | S        |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | M        |
+| RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | S        |
+| RF   | Rede privada virtual (VPN)                                                   | ENT03                      | S        |
+| RNF  | Ser leve                                                                     | ENT04, QST03               | S        |
+| RNF  | Acesso rápido à sites acessados recentemente                                 | ENT05, BRS24               | S        |
+| RNF  | Temas mais arredondados                                                      | ENT06                      | W        |
+| RNF  | Modo para daltônicos                                                         | ENT07, BRS17, QST04        | M        |
+| RF   | Capacidade de usar aplicações em outros navegadores                          | ENT08                      | M        |
+| RNF  | Retirar excesso de funções que usuários não vão utilizar                     | ENT09, QST06               | S        |
+| RNF  | O navegador deve ser rápido                                                  | BRS01                      | M        |
+| RNF  | O sistema deve gerir bem a memória                                           | BRS02                      | M        |
+| RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               | M        |
+| RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 | M        |
+| RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | M        |
+| RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | C        |
+
+Fonte: Leonardo Sobrinho, 2024
+
 ## Referências
 
 1. WIEGERS, Karl E.; BEATTY, Joy. Software requirements. Pearson Education, 2013.
@@ -167,3 +240,4 @@ Fonte: Lucas Martins, 2024
 | 1.2    | 19/04/2024 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.3    | 20/04/2024 | Atualização do link da gravação para youtube | [Kauan T. Eiras](https://github.com/kauaneiras) |[Guilherme Westphall](https://github.com/west7) |
 | 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale     | [Lucas Martins](https://github.com/martinglucas) | [Davi Pierre](https://github.com/DaviPierre)
+| 1.5    | 20/04/2024 | Adiciona o metodo MOSCOW | [Leonardo Sobrinho](https://github.com/Leonardo0o0) |[Kallyne Macedo](https://github.com/kalipassos) |
