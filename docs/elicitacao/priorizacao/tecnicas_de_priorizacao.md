@@ -24,6 +24,7 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 
 ### Técnica 3: MoSCoW
   Essa técnica consiste em dividir os requisitos em 4 categorias sendo elas representadas no nome do método:
+
 - Must-haves: são os requisitos com maior prioridade entre todos os outros, não existe entrega sem eles.
 - Should-haves: são requisitos que tem prioridade secundária,ou seja, são importantes para a entrega mas a mesma pode continuar sem eles.
 - Could-haves: são requisitos que tem menor prioridade, se não forem completados não atrapalha na entrega.
