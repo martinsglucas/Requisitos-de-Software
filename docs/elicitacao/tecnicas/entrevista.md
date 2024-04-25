@@ -9,7 +9,7 @@ No contexto da elicitação de requisitos, a entrevista se destaca como uma ferr
 ## Objetivo
 Empregamos a técnica de entrevista com o propósito de realizar entrevistas com os usuários, ex-usuários ou não usuários do Firefox, mas que utilizam algum navegador como o Google Chrome, Microsoft Edge, Safari, ou outro. O objetivo principal das entrevistas foi buscar necessidades dos usuários e entender o motivo de utilizarem cada navegador. Adicionalmente, buscamos compreender suas experiências, desafios e preferências ao utilizar navegadores, visando identificar possiveis aprimoramentos para o Firefox.
 
-## Publico Algo
+## Público Alvo
 Pessoas idade superior a 12 anos, que utilizem navegadores de internet.
 
 ## Metodologia

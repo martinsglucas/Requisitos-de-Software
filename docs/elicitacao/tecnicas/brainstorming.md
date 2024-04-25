@@ -50,7 +50,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 - Controle parental
 - Correção ortográfica
 
-### Pergunta 5 - O que pode ser melhorado no Fireox?
+### Pergunta 5 - O que pode ser melhorado no Firefox?
 - Padronização entre plataformas
 
 ### Pergunta 6 - Você considera a interface do Firefox intuitivo?

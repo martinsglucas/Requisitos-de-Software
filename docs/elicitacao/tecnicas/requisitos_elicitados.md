@@ -1,4 +1,6 @@
-# Introdução
+# Requisitos Elicitados
+
+## Introdução
 
 A seguinte tabela contém os requisitos elicitados a partir das técnicas utilizadas. Vale ressaltar que requisitos repetidos e requisitos muito similares foram agrupados em um única célula, para fins de simplificação, porém sempre mantendo a rastreabilidade.
 
