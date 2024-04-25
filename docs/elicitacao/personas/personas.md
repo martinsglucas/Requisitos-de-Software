@@ -14,7 +14,7 @@ As personas definidas tiveram como base a análise de documentos correspondente 
 <center>
 Persona - Anna Beatriz
 
-![](/docs/images/annabeatriz.png)
+![](../../images/annabeatriz.png)
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
@@ -33,7 +33,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 <center>
 Persona - Ronaldo
 
-![](/docs/images/ronaldo.png)
+![](../../images/ronaldo.png)
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
@@ -51,7 +51,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 <center>
 Persona - Maria
 
-![](/docs/images/maria.png)
+![](../../images/maria.png)
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
@@ -69,7 +69,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 <center>
 Antipersona - Steve
 
-![](/docs/images/steve.png)
+![](../../images/steve.png)
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
