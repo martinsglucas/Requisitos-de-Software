@@ -60,9 +60,18 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 
 Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
+## Bibliografia
+
+1. GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024.
+
+2. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
+
+3. Universidade Federal de Santa Catarina. Guia de Retreinamento - Técnicas de Elicitação de Requisitos: Observação Direta. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor                                         |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 19/04/2024 | Cria página       | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.1    | 19/04/2024 | Adiciona tabela 1 | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.2    | 19/04/2024 | Adiciona bibliografia | [Lucas Gabriel](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) | 
