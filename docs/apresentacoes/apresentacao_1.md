@@ -19,7 +19,7 @@ O propósito desta página é hospedar a apresentação da Primeira Entrega em f
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 01.04.2024 | Criação do documento | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
-| 1.1 | 01.04.2024 | Adição do link da 1º apresentação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
-| 1.2 | 01.04.2024 | Adição e formatação do github pages | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
-| 1.3 | 08.04.2024 | Correção embed | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) 
+| 1.0 | 01/04/2024 | Criação do documento | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.1 | 01/04/2024 | Adição do link da 1º apresentação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.2 | 01/04/2024 | Adição e formatação do github pages | [Kauan T. Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.3 | 08/04/2024 | Correção embed | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) 
