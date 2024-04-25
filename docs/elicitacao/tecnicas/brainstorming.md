@@ -100,7 +100,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 | RF18  | Deve ser possível a criação de atalhos                          | BRS25 | Sim          |
 
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
+Fonte: [Guilherme Westphall](https://github.com/west7) e [Lucas Martins](https://github.com/martinsglucas), 2024
 
 
 ## Link da gravação
