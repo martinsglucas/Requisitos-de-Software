@@ -93,5 +93,5 @@ This Person Does Not Exist. Disponível em: https://thispersondoesnotexist.com/.
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 15/04/2024 | Estrutura do documento | [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](github.com/leonard0o0)
-| 1.1 | 16/04/2024 | Adição de informações | [Leonardo Aguiar](github.com/leonard0o0) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.0 | 15/04/2024 | Estrutura do documento | [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](https://github.com/Leonardo0o0)
+| 1.1 | 16/04/2024 | Adição de informações | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos)

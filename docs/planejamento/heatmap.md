@@ -43,6 +43,6 @@ Portanto, com referência no heatmap de disponibilidade dos membros do grupo exp
 
 | Versão |    Data    |                 Descrição                 |                                         Responsáveis                                         |                     Revisor                     |
 | :----: | :--------: | :---------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 29/03/2024 |      Criação e redação da página          |                        [Kallyne Macedo](https://github.com/kalipassos)                       |    [Leonardo Aguiar](github.com/leonard0o0)     |
+|  1.0   | 29/03/2024 |      Criação e redação da página          |                        [Kallyne Macedo](https://github.com/kalipassos)                       |    [Leonardo Aguiar](https://github.com/Leonardo0o0)     |
 
 
