@@ -19,6 +19,7 @@ nav:
     - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
+    - Contribuição: planejamento/contribuicao.md
     - Apps Avaliados: planejamento/apps_avaliados.md
     - App Escolhido: planejamento/app_escolhido.md
     - Termo de Uso: planejamento/termo_de_uso.md
@@ -82,3 +83,5 @@ theme:
   favicon: images/firefox.png
   extra_css: [stylesheets/extra.css]
 
+plugins:
+  - mermaid2
