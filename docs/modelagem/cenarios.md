@@ -7,22 +7,21 @@ Os cenários são uma estratégia essencial para compreender a interação entre
 A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e IOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, três membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
 | Identificador | Descrição | Membro de Equipe |
-| :-----------: | :-------: | :-----: |
-| CEN01 | O aplicativo deve possuir uma barra de pesquisa | - | 
-| CEN02 | Deve possuir opção de sincronizar dados e salvar | - | 	
-| CEN03 | Deve ser possível mudar o idioma e traduzir páginas | - |
-| CEN04 | Deve ser possível trocar de conta e alterar senha	| - |
-| CEN05 | Deve ser possível alterar fonte do navegador em tipo e tamanho | - |
+| :-----------: | :-------: | :------: |
+| CEN01 | O aplicativo deve possuir uma barra de pesquisa | [Leonardo Aguiar](https://github.com/Leonardo0o0) | 
+| CEN02 | Deve possuir opção de sincronizar e salvar dados | [Leonardo Aguiar](https://github.com/Leonardo0o0) | 	
+| CEN03 | Deve ser possível traduzir páginas | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| CEN04 | Deve ser possível trocar de conta	| [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| CEN05 | Deve ser possível alterar fonte do navegador em tipo e tamanho | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | CEN06 | O navegador deve incluir opção de bloquear anúncios | - | 
 | CEN07 | O navegador deve incluir opção de busca na página | - |
-| CEN08 | A barra de pesquisa deve incluir opção de pesquisa por voz | - |
+| CEN08 | Deve ser possível realizar pesquisa por voz | - |
 | CEN09 | O navegador deve possuir opção de leitura da página para deficientes visuais | - |
-| CEN10 | Deve possuir opção de controle parental	| [Kauan T. Eiras](https://github.com/kauaneiras) | |
-| CEN11 | O sistema deve gerir bem a memória | [Kauan T. Eiras](https://github.com/kauaneiras) | |
-| CEN12 | O navegador deve ser seguro	| [Kauan T. Eiras](https://github.com/kauaneiras) | |
-| CEN13 | Sistema deve ser de fácil uso | [Kauan T. Eiras](https://github.com/kauaneiras) | |
+| CEN10 | Deve possuir opção de controle parental	| [Kauan T. Eiras](https://github.com/kauaneiras) | 
+| CEN12 | Deve ser possível alterar senha	| [Kauan T. Eiras](https://github.com/kauaneiras) | 
+| CEN13 | Deve ser possível mudar o idioma | [Kauan T. Eiras](https://github.com/kauaneiras) |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
 Cada cenário é descrito conforme a tabela 2 [1]:
 | Elemento | Descrição |
@@ -38,6 +37,20 @@ Cada cenário é descrito conforme a tabela 2 [1]:
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
+## Cenarios
+tabela 3
+| Elemento | Descrição |
+| :-----------: | :-------: |
+| título | O aplicativo deve possuir uma barra de pesquisa |
+| objetivo | Realizar uma pesquisa na internet atraves da barra de pesquisa |
+| contexto | Local: em casa,<br> Tempo: durante o dia realizado em 1 minuto,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| recursos | Aparelho celular,<br> Acesso à internet |
+| atores | Usuário do aplicativo Firefox |
+| episódios | Usuário deseja realizar uma pesquisa sobre cachorros,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário abre a barra de pesquisa,<br> Usuário digita o que deseja pesquisar,<br> Usuário aperta o botão para realizar a pesquisa  |
+| restrição | O aplicativo deve estar atualizado para evitar erros |
+| exceção | Queda de internet,<br> O aparelho celular não funcionar |
+
+Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
 ## Bibliografia
 
@@ -49,4 +62,5 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 | Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
 | :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 15/05/2024 | Introdução e Metodologia |[Kauan T. Eiras](https://github.com/kauaneiras) | |
+|  1.1   | 16/05/2024 | Correções e criação da tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | |
 
