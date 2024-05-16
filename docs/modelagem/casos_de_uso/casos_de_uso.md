@@ -6,7 +6,7 @@ Casos de uso são uma ferramenta fundamental na engenharia de requisitos. Eles d
 
 ## Metodologia
 
-Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/personas.md) **Ronaldo**, para entender melhor a atividade do usuário no navegador Firefox. O processo envolve identificar os atores, que neste caso seerão o usuário (ator principal) e o servidor (ator secundário), o limite do sistema e a definição dos casos de uso que indicam o fluxo de ações dentro do sistema. Usaremos a ferramenta [Miro.io](https://miro.com/pt/) para a construção do diagrama. A legenda para o diagrama está presente na tabela 1.
+Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/personas.md) **Ronaldo**, para entender melhor a atividade do usuário no navegador Firefox. O processo envolve identificar os atores, que neste caso será apenas o usuário (ator principal), o limite do sistema e a definição dos casos de uso que indicam o fluxo de ações dentro do sistema. Usaremos a ferramenta [Miro](https://miro.com/pt/) para a construção do diagrama. A legenda para o diagrama está presente na tabela 1.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para o diagrama</p></font>
@@ -29,6 +29,29 @@ Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/pe
 
 ## Especificação de casos de uso
 
+### 1. Caso de Uso - 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação - Caso de uso </p></font>
+</div>
+
+| - | Título do Caso de Uso |
+| -: | :- |
+| **Descrição** | - |
+| **Ator** | Usuário |
+| **Frequência de Uso** |  |
+| **Pré-condições** | |
+| **Fluxo principal** |  |
+| **Fluxos alternativos** |   |
+| **Fluxos de exceção** |  |
+| **Pós-condições** |   |
+| **Data da Criação** | 16/05/2024 |
+| **Rastreabilidade** | [Link](Link) |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macêdo</a>, 2024</p></font>
+</div>
+
+
 ## Referências bibliográficas
 
 1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
@@ -39,4 +62,4 @@ Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/pe
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | ---     |
+| 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)     |
