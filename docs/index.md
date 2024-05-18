@@ -9,34 +9,32 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 ## Membros do Grupo
 
-**Davi Pierre**
+<table>
+<tr>
+<center>
+<td align="center"><a href="https://github.com/DaviPierre"><img style="border-radius: 50%;" src="https://i.ibb.co/8MNFcD5/image.png" width="100px;" alt=""/><br /><sub><b>Davi Pierre</b></sub></a><br /></td>
 
-[![Avatar](https://media.licdn.com/dms/image/D4D35AQE-dMlUvuh1Tw/profile-framedphoto-shrink_800_800/0/1684538643670?e=1712599200&v=beta&t=3EEfKjwCj7oAk9eyWmxVaUhZxroZRHytmqdl1pPep0I)](https://github.com/DaviPierre)
+<td align="center"><a href="https://github.com/west7"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101183849?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Westphall</b></sub></a><br /></td>
 
-**Guilherme Westphall**
+<td align="center"><a href="https://github.com/kalipassos"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1717632000&v=beta&t=m2MffYI54l4dkBtnoTA-G9isHnY5iRga6RRApZYqwRI" width="100px;" alt=""/><br /><sub><b>Kallyne Macêdo</b></sub></a><br /></td>
 
-[![Avatar](https://avatars.githubusercontent.com/u/101183849?v=4)](https://github.com/west7)
+<td align="center"><a href="https://github.com/kauaneiras"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43351064?v=4" width="100px;" alt=""/><br /><sub><b>Kauan T. Eiras</b></sub></a><br /></td>
 
-**Kallyne Macedo**
+<td align="center"><a href="https://github.com/martinsglucas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104236229?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Martins</b></sub></a><br /></td>
 
-[![Avatar](https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1717632000&v=beta&t=m2MffYI54l4dkBtnoTA-G9isHnY5iRga6RRApZYqwRI)](https://github.com/kalipassos)
+<td align="center"><a href="https://github.com/Leonardo0o0"><img style="border-radius: 50%;" src="https://i.ibb.co/frtnYkn/image.png" width="100px;" alt=""/><br /><sub><b>Leonardo Sobrinho</b></sub></a><br /></td>
+</center>
 
-**Kauan T. Eiras**
+</tr>
+</table>
 
-[![Avatar](https://avatars.githubusercontent.com/u/43351064?v=4)](https://github.com/kauaneiras)
 
-**Lucas Martins**
-
-[![Avatar](https://avatars.githubusercontent.com/u/104236229?v=4)](https://github.com/martinsglucas)
-
-**Leonardo Sobrinho**
-
-[![Avatar](https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/images/leonardo.jpeg?raw=true)](https://github.com/Leonardo0o0)
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                    | Autor(es)                               | Revisor(es)                             |
 | ------ | ---------- | ---------------------------- | --------------------------------------- | --------------------------------------- |
 | 1.0    | 31/03/2024 | Criação do Pages             | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.0    | 01/04/2024 | Tema claro e escuro          | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.0    | 01/04/2024 | Formatação das páginas do Pages | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1    | 01/04/2024 | Tema claro e escuro          | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 2.0    | 01/04/2024 | Formatação das páginas do Pages | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 2.1    | 18/04/2024 | Correção tópico membros do grupo | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
