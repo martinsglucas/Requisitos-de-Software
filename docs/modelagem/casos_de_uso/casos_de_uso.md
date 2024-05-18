@@ -6,7 +6,7 @@ Casos de uso são uma ferramenta fundamental na engenharia de requisitos. Eles d
 
 ## Metodologia
 
-Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/personas.md) **Ronaldo**, para entender melhor a atividade do usuário no navegador Firefox. O processo envolve identificar os atores, que neste caso será apenas o usuário (ator principal), o limite do sistema e a definição dos casos de uso que indicam o fluxo de ações dentro do sistema. Usaremos a ferramenta [Miro](https://miro.com/pt/) para a construção do diagrama. A legenda para o diagrama está presente na tabela 1.
+Na definição dos casos de uso, utilizaremos as personas definidas para entender melhor a atividade do usuário no navegador Firefox. O processo envolve identificar os atores, que neste caso será apenas o usuário (ator principal), o limite do sistema e a definição dos casos de uso que indicam o fluxo de ações dentro do sistema. Usaremos a ferramenta [Miro](https://miro.com/pt/) para a construção do diagrama. A legenda para o diagrama está presente na tabela 1.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para o diagrama</p></font>
@@ -27,25 +27,37 @@ Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/pe
 
 ## Diagrama de casos de uso
 
-## Especificação de casos de uso
+A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Firefox.
 
-### 1. Caso de Uso - 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação - Caso de uso </p></font>
+    <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de casos de uso</p></font>
 </div>
 
-| - | Título do Caso de Uso |
+<center> <img src="assets/REQ 2024.1 - G6 - Frame 2.jpg"/> </center>
+
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+</div>
+
+## Especificação de casos de uso
+
+### Realizar pesquisa na Web 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação - Realizar pesquisa na Web  </p></font>
+</div>
+
+|  | Realizar pesquisa na Web |
 | -: | :- |
-| **Descrição** | - |
+| **Descrição** | O usuário realiza uma pesquisa na web, o que envolve acessar a barra de pesquisa e depois acessar o site com resultados da pesquisa. |
 | **Ator** | Usuário |
-| **Frequência de Uso** |  |
-| **Pré-condições** | |
-| **Fluxo principal** |  |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |   |
+| **Frequência de Uso** | Alta |
+| **Pré-condições** | Conexão à Internet, acesso ao navegador, acesso a um mecanismo de buscas (Google, Bing, DuckDuckGo, etc.) |
+| **Fluxo principal** | - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa e navegação. Aciona caso de uso "Acessar barra de pesquisa". <br> - Usuário insere o que deseja pesquisar na Web e confirma. <br> - Usuário é redirecionado para a página com resultados da pesquisa. Aciona o caso de uso "Acessar página com resultados". <br> - Pesquisa realizada com sucesso. |
+| **Fluxos alternativos** | <b> FA.1: Sugestões de pesquisa </b> <br> - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa e navegação. Aciona caso de uso "Acessar barra de pesquisa". <br> - O usuário começa a digitar na barra de pesquisa. <br> - O usuário recebe sugestões personalizadas baseadas em seu histórico. Aciona caso de uso "Receber sugestões personalizadas de pesquisa". <br> - Usuário seleciona uma sugestão e confirma. <br> - Usuário é redirecionado para a página com resultados da pesquisa. Aciona o caso de uso "Acessar página com resultados". <br> - Pesquisa realizada com sucesso. |
+| **Fluxos de exceção** | FE.1: <b> Resultado não encontrado </b> <br> - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa e navegação. Aciona caso de uso "Acessar barra de pesquisa". <br> - Usuário insere o que deseja pesquisar na Web e confirma. <br> - Usuário não encontra resultados para sua pesquisa <br> - O usuário pode tentar  repetir ou buscar com outros termos.  |
+| **Pós-condições** |  O usuário visualiza os resultados da pesquisa.  |
 | **Data da Criação** | 16/05/2024 |
-| **Rastreabilidade** | [Link](Link) |
+| **Rastreabilidade** | OBS01,  OBS12, BRS23, BRS15 |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macêdo</a>, 2024</p></font>
@@ -63,3 +75,4 @@ Na definição dos casos de uso, utilizaremos a [persona](elicitacao/personas/pe
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)     |
+| 1.1    | 18/05/2024 | Adição diagrama e caso de uso 1 | [Kallyne Macedo](https://github.com/kalipassos) |  [Davi Pierre](https://github.com/DaviPierre)    |
