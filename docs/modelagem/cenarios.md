@@ -27,6 +27,7 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
 ### Cada cenário é descrito conforme a tabela 2 [1]:
+
 | Elemento | Descrição |
 | --- | --- |
 | título | o título do cenário |
@@ -118,6 +119,36 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+
+### Tabela 8 - CEN06: Bloquear anúncios de sites
+
+| Elemento | Descrição |
+|----------|-----------|
+| Título | Bloquear anúncios de sites |
+| Objetivo | Permitir que o usuário configure o navegador para bloquear anúncios em sites diversos, permitindo uma navegação mais rápida e limpa |
+| Contexto | Local: em casa ou no trabalho<br>Tempo: durante o dia, realizado em 2 minutos<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| Recursos | Aparelho celular ou computador<br>Acesso à internet |
+| Atores | Usuário do aplicativo Firefox |
+| Episódios | <ul><li>Usuário está navegando em um site e é incomodado por muitos anúncios</li><li>Usuário decide bloquear os anúncios</li><li>Usuário pega o celular ou está no computador</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu de configurações</li><li>Usuário seleciona a opção "Bloqueio de anúncios"</li><li>Usuário ativa a opção para bloquear anúncios</li><li>Usuário personaliza as configurações de bloqueio, se desejar (ex.: bloquear todos os anúncios, permitir anúncios em sites específicos)</li><li>Usuário salva as configurações</li><li>O aplicativo Firefox aplica as configurações de bloqueio de anúncios</li></ul> |
+| Restrição | O aplicativo deve estar atualizado para evitar erros<br>Usuário deve ter permissões administrativas no dispositivo |
+| Exceção   | <ul><li>Queda de internet</li><li>O aparelho celular ou computador não funcionar</li><li>O aplicativo não aplicar corretamente as configurações de bloqueio</li><li>O site detectar e não permitir o bloqueio de anúncios</ul> |
+
+Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+
+### Tabela 9 - CEN07: Busca por texto em páginas
+
+| Elemento | Descrição |
+|----------|-----------|
+| Título   | Busca por texto em páginas| 
+| Objetivo | Permitir que o usuário encontre rapidamente palavras ou frases específicas em uma página web aberta no navegador |
+| Contexto | Local: em casa ou no trabalho<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| Recursos | Aparelho celular ou computador<br>Acesso à internet |
+| Atores | Usuário do aplicativo Firefox |
+| Episódios |<ul><li>Usuário está lendo um artigo longo e precisa encontrar uma informação específica</li><li>Usuário decide usar a função de busca por texto</li><li>Usuário pega o celular ou está no computador</li><li>Usuário abre o aplicativo do Firefox e a página web desejada</li><li>Usuário abre o menu de opções do navegador</li><li>Usuário seleciona a opção "Buscar na página"</li><li>Usuário digita a palavra ou frase que deseja encontrar</li><li>O navegador destaca todas as ocorrências do texto buscado na página</li><li>Usuário navega pelas ocorrências encontradas até achar a informação desejada</li></ul> |
+| Restrição | O aplicativo deve estar atualizado para evitar erros<br>A página deve estar totalmente carregada para uma busca precisa |
+| Exceção | <ul><li>Queda de internet</li><li>O aparelho celular ou computador não funcionar</li><li>O aplicativo não encontrar o texto desejado devido a problemas de indexação</li></ul> | 
+
+Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
 ### Tabela 10 - CEN08: Realizar pesquisa por voz
 
