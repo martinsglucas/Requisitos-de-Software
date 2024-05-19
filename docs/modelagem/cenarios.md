@@ -13,8 +13,8 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 | CEN03 | Traduzir páginas | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | CEN04 | Sincronizar e salvar dados do usuário | [Leonardo Aguiar](https://github.com/Leonardo0o0)  |
 | CEN05 | Trocar de conta sincronizada | [Leonardo Aguiar](https://github.com/Leonardo0o0)  |
-| CEN06 | Bloquear anúncios dos sites| - | 
-| CEN07 | Buscar por textos na página | - |
+| CEN06 | Bloquear anúncios dos sites| [Guilherme Westphall](https://github.com/west7) | 
+| CEN07 | Buscar por textos na página | [Guilherme Westphall](https://github.com/west7) |
 | CEN08 | Realizar pesquisa por voz | [Kallyne Macedo](https://github.com/kalipassos) |
 | CEN09 | Ler da textos da página para deficientes visuais | - |
 | CEN10 | Ativar modo para daltônicos | |
