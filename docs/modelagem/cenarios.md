@@ -15,7 +15,7 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 | CEN05 | Trocar de conta sincronizada | [Leonardo Aguiar](https://github.com/Leonardo0o0)  |
 | CEN06 | Bloquear anúncios dos sites| - | 
 | CEN07 | Buscar por textos na página | - |
-| CEN08 | Realizar pesquisa por voz | - |
+| CEN08 | Realizar pesquisa por voz | [Kallyne Macedo](https://github.com/kalipassos) |
 | CEN09 | Ler da textos da página para deficientes visuais | - |
 | CEN10 | Ativar modo para daltônicos | |
 | CEN12 | Ativar controle parental	| [Kauan Eiras](https://github.com/kauaneiras) |
@@ -119,6 +119,21 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
+### Tabela 10 - CEN08: Realizar pesquisa por voz
+
+| Elemento | Descrição |
+| --- | --- |
+| Título | Realizar pesquisa por voz |
+| Objetivo | Conseguir realizar uma pesquisa no app através de ferramenta speech-to-text embutida no navegador |
+| Contexto | Local: em casa,<br> Tempo: de manhã, realizado em 1 minuto,<br> Pré-condições: acesso à Internet, ter o aplicativo do Firefox instalado, ter um microfone funcional no aparelho |
+| Recursos | Aparelho celular,<br> Acesso à internet |
+| Atores | Usuário do aplicativo Firefox |
+| Episódios | Usuário está cozinhando e precisa pesquisar uma receita,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário está com a mão suja, então prefere usar a voz<br> Usuário abre a barra de pesquisa, <br> Usuário seleciona a opção de pesquisa por voz, <br> Usuário fala, no microfone, o que deseja pesquisar, <br> O app Firefox retorna uma pagina com resultados da busca, <br> Usuário consegue visualizar a informação que precisava,<br> Usuário volta a cozinhar<br> |
+| Restrição | O aplicativo deve estar atualizado para evitar erros,<br>O microfone deve estar ativado<br> |
+| Exceção | Queda de internet,<br> O aparelho celular não funcionar,<br> O aplicativo não entender a voz do usuário |
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+
 ### Tabela 14 -CEN12: Ativar controle parental
 
 | Elemento    | Descrição                                                                                          |
@@ -175,4 +190,5 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 |  1.0   | 15/05/2024 | Introdução e Metodologia |[Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.1   | 16/05/2024 | Correções e criação da tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.2   | 18/05/2024 | Correções e criação das tabelas 5, 6 e 7 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras) |  |
+|  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.4   | 19/05/2024 | Criação tabela - CEN08 | [Kallyne Macedo](https://github.com/kalipassos)  | [Kauan Eiras](https://github.com/kauaneiras)|
