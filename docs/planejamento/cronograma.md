@@ -133,6 +133,25 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 <font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
+
+## Cronograma executado entrega 3.
+
+<center><p><b>Tabela 05</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
+
+| *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
+|--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
+| Correções pós entrega 2              | 18/04/2024 | 22/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
+| Definição de cenários                | 22/04/2024 | 20/05/2024 | Leomardo, Lucas, Kauan                             | Kallyne, Kauan, Guilherme                              | 20/05/2024 - 20/05/2024 |
+| Definição de casos de uso (use case) | 22/04/2024 | 20/05/2024 | Kallyne, Davi, Guilherme                           | Kallyne, Davi, Lucas,Guilherme, Kauan, Leonardo        | 20/05/2024 - 20/05/2024 |
+| Especificação de léxico              | 27/04/2024 | 20/05/2024 |  Kauan, Gulherme, Davi                             | Davi, Kauan, Lucas                                     | 20/05/2024 - 20/05/2024 |
+| Especificação suplementar            | 27/04/2024 | 20/05/2024 | Leonardo, Kallyne, Lucas                           | Kauan, Lucas, Davi                                     | 20/05/2024 - 20/05/2024 |
+| Realizar a ata das reuniões          | 02/05/2024 | 20/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 20/05/2024 - 20/05/2024 |
+| Gravar a apresentação                | 06/05/2024 | 20/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
+
+<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+
+
+
 ## Cronograma planejado entrega 4.
 
 <center><p><b>Tabela 06</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
