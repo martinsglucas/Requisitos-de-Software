@@ -141,6 +141,13 @@ Na tabela 5, abaixo, será disposta a especificação do caso de uso "Mudar o Id
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
 </div>
 
+### Acessar site
+Na tabela 6, abaixo, será disposta a especificação do caso de uso "Acessar site".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Especificação - Acessar site  </p></font>
+</div>
+
 |  | Acessar site |
 | -: | :- |
 | **Descrição** | O usuário encontra e acessa um site específico na internet |
