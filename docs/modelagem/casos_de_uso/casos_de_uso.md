@@ -155,4 +155,5 @@ Na tabela 5, abaixo, será disposta a especificação do caso de uso "Mudar o Id
 | 1.1    | 18/05/2024 | Adição diagrama e caso de uso 1 | [Kallyne Macedo](https://github.com/kalipassos) |  [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 20/05/2024 | Caso de uso "Acessar historico" Tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  [Kallyne Macedo](https://github.com/kalipassos)    |
 | 1.3 | 20/05/2024 | Caso de uso "Bloquear anúncios" | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas)|
-| 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | | 
+| 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7)| 
+| 1.5 | 20/05/2024 | Adiciona textos introdutórios | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)|
