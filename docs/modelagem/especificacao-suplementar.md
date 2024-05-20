@@ -13,12 +13,18 @@ A metodologia base utilizada para a produção da especificação suplementar é
 
 ### Funcionalidade
 
+Os requisitos funcionais estão especificados nos [cenários](cenarios.md) e [casos de uso](casos_de_uso/casos_de_uso.md).
+
 ### Usabilidade
+
 Usabilidade, segundo Nielsen, é a qualidade que avalia a facilidade de uso de uma interface. Ele propõe 10 heurísticas que, quando seguidas, promovem uma melhor usabilidade, permitindo que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória.
 
-A tabela a seguir apresenta requisitos identificados em relação à usabilidade:
+A tabela 2 apresenta requisitos identificados em relação à usabilidade:
 
-Tabela X - Requisitos de Usabilidade.
+<center>
+
+Tabela 2 - Requisitos de Usabilidade.
+
 | ID |    Descrição   |
 | :----: | :--------: |
 | US1 | Deve ser possível visualizar em formato desktop |
@@ -29,9 +35,32 @@ Tabela X - Requisitos de Usabilidade.
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
+</center>
+
 ### Confiabilidade
 
 ### Desempenho
+
+Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga.
+
+Na tabela 3, são apresentados os requisitos em relação ao desempenho.
+
+<center>
+
+Tabela 3: Requisitos de Desempenho
+
+| Identificador | Descrição |
+| :-----------: | :-------: |
+| DES01 | O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa |
+| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em sistemas com configurações de hardware recomendadas |
+| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos, em conexões de internet de alta velocidade |
+| DES04 | O sistema deve ser capaz de armazenar em cache páginas web visitadas para acelerar o carregamento de páginas subsequentes |
+| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica e menos de 50% durante operações intensivas |
+| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB em uso típico e não ultrapassar 2 GB em uso intenso | 
+
+Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+
+</center>
 
 ### Suportabilidade
 
@@ -39,9 +68,12 @@ A Suportabilidade de Software é a capacidade de suportar um sistema de software
 
 A empresa que gerencia o software possui uma [página de suporte online](https://support.mozilla.org/pt-BR/). Além disso, realiza atualizações regulares, com uma frequência de quatro semanas, além de uma atualização anual mais abrangente. As atualizações abordam novas funcionalidades e corrigem erros identificados em seus respectivos períodos. No caso do aplicativo Firefox, ele oferece suporte para sistemas operacionais iOS 13.0 e superior, e Android 5.0 e acima. 
 
-A tabela a seguir apresenta requisitos identificados em relação à suportabilidade:
+A tabela 4 apresenta requisitos identificados em relação à suportabilidade:
 
-Tabela X - Requisitos de Suportabilidade.
+<center>
+
+Tabela 4 - Requisitos de Suportabilidade.
+
 | ID |    Descrição   |
 | :----: | :--------: |
 |  SUP01   | O aplicativo deve prover suporte em casos de erros de execução e bugs. |
@@ -52,9 +84,31 @@ Tabela X - Requisitos de Suportabilidade.
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
+</center>
+
 ### +: Restrições de Design
 
 ### +: Requisitos de Implementação
+
+Requisitos de implementação detalham as restrições e condições para a construção, codificação e integração de um sistema ou aplicativo. Eles são orientados para o desenvolvimento técnico e influenciam a forma como o software é desenvolvido, estruturado e mantido
+
+Na tabela 6, são apresentados os requisitos em relação à implementação.
+
+<center>
+
+Tabela 6: Requisitos de Implementação
+
+| Identificador | Descrição |
+| :-----------: | :-------: |
+| IMP01 | O código-fonte deve seguir os padrões de codificação definidos pela Mozilla, como aqueles especificados no Mozilla Coding Style Guide |
+| IMP02 | O sistema deve ser desenvolvido de forma modular, permitindo a reutilização de componentes em diferentes partes do navegador |
+| IMP03 | A documentação técnica do sistema, incluindo diagramas de arquitetura e manuais de API, deve ser mantida atualizada |
+| IMP04 | Cobertura de testes deve ser mantida acima de 80%, com testes automatizados para todas as funcionalidades críticas. |
+| IMP05 | O código deve ser escrito de maneira a ser portátil, facilitando a execução do navegador em diferentes sistemas operacionais |
+
+Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+
+</center>
 
 ### +: Requisitos de Interface
 
@@ -83,5 +137,6 @@ UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponív
 
 | Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
 | :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 19/05/2024 | Introdução e Metodologia | [Kallyne Macedo](https://github.com/kalipassos) | [Lucas Gabriel](https://github.com/martinsglucas) |
+|  1.0   | 19/05/2024 | Introdução e Metodologia | [Kallyne Macedo](https://github.com/kalipassos) | [Lucas Martins](https://github.com/martinsglucas) |
 |  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
+|  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)
