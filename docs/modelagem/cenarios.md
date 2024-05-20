@@ -6,6 +6,10 @@ Os cenários são uma estratégia essencial para compreender a interação entre
 ## Metodologia
 A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e IOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
+<center>
+
+#### Tabela 1: Cenários
+
 | Identificador | Descrição | Membro de Equipe |
 |---|---|---|
 | CEN01 | Pesquisar e abrir sites | [Leonardo Aguiar](https://github.com/Leonardo0o0) | 
@@ -16,17 +20,23 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 | CEN06 | Bloquear anúncios dos sites| [Guilherme Westphall](https://github.com/west7) | 
 | CEN07 | Buscar por textos na página | [Guilherme Westphall](https://github.com/west7) |
 | CEN08 | Realizar pesquisa por voz | [Kallyne Macedo](https://github.com/kalipassos) |
-| CEN09 | Ler da textos da página para deficientes visuais | - |
-| CEN10 | Ativar modo para daltônicos | |
+| CEN09 | Ler textos da página para deficientes visuais | - |
+| CEN10 | Ativar modo para daltônicos | [Lucas Martins](https://github.com/martinsglucas) |
 | CEN12 | Ativar controle parental	| [Kauan Eiras](https://github.com/kauaneiras) |
 | CEN13 | Alterar fonte do navegador em tipo e tamanho | [Kauan Eiras](https://github.com/kauaneiras) |
 | CEN14 | Proteger dados do usuário |[Kauan Eiras](https://github.com/kauaneiras) | 
-| CEN15 | Limpar histórico de navegação, senhas salvas e cache | | 
-| CEN16 | Escolher entre tema claro ou escuro | |
+| CEN15 | Limpar histórico de navegação, senhas salvas e cache | [Lucas Martins](https://github.com/martinsglucas) | 
+| CEN16 | Escolher entre tema claro ou escuro | [Lucas Martins](https://github.com/martinsglucas) |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
-### Cada cenário é descrito conforme a tabela 2 [1]:
+</center>
+
+Cada cenário é descrito conforme a tabela 2 [1]:
+
+<center>
+
+#### Tabela 2: Elementos de um cenário
 
 | Elemento | Descrição |
 | --- | --- |
@@ -39,13 +49,20 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://
 | restrição | características que o cenário deve seguir |
 | exceção | situações que impedem a realização do cenário |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
-## Cenarios
+</center>
+
+## Cenários
+
+
+### CEN01: Pesquisar e abrir sites
+
+Na tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertura de sites no aplicativo Firefox.
 
 <center>
 
-### Tabela 3 - CEN01: Pesquisar e abrir sites
+Tabela 3: CEN01
 
 | Elemento | Descrição |
 | --- | --- |
@@ -60,7 +77,15 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
-### Tabela 4 - CEN02: Escolher idioma
+</center>
+
+### CEN02: Escolher idioma
+
+Na tabela 4 está determinado o cenário CEN02, que descreve a escolha de idioma no aplicativo Firefox.
+
+<center>
+
+Tabela 4: CEN02
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -75,7 +100,15 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
-### Tabela 5 - CEN03: Traduzir páginas
+</center>
+
+### CEN03: Traduzir páginas
+
+Na tabela 5 está determinado o cenário CEN03, que descreve a tradução de páginas no aplicativo Firefox.
+
+<center>
+
+Tabela 5: CEN03
 
 | Elemento | Descrição |
 | --- | --- |
@@ -90,7 +123,15 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
-### Tabela 6 - CEN04: Sincronizar e salvar dados do usuário
+</center>
+
+### CEN04: Sincronizar e salvar dados do usuário
+
+Na tabela 6 está determinado o cenário CEN04, que descreve a sincronização e salvamento de dados do usuário no aplicativo Firefox.
+
+<center>
+
+Tabela 6: CEN04
 
 | Elemento | Descrição |
 | --- | --- |
@@ -105,7 +146,15 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
-### Tabela 7 - CEN05: Trocar de conta sincronizada
+</center>
+
+### CEN05: Trocar de conta sincronizada
+
+Na tabela 7 está determinado o cenário CEN05, que descreve a troca de conta sincronizada no aplicativo Firefox.
+
+<center>
+
+Tabela 7: CEN05
 
 | Elemento | Descrição |
 | --- | --- |
@@ -120,7 +169,15 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
-### Tabela 8 - CEN06: Bloquear anúncios de sites
+</center>
+
+### CEN06: Bloquear anúncios de sites
+
+Na tabela 8 está determinado o cenário CEN06, que descreve o bloqueio de anúncios de sites no aplicativo Firefox.
+
+<center>
+
+Tabela 8: CEN06
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -135,7 +192,15 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
-### Tabela 9 - CEN07: Busca por texto em páginas
+</center>
+
+### CEN07: Busca por texto em páginas
+
+Na tabela 9 está determinado o cenário CEN07, que descreve a busca por texto em páginas no aplicativo Firefox.
+
+<center>
+
+Tabela 9: CEN07
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -150,7 +215,15 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
 Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
-### Tabela 10 - CEN08: Realizar pesquisa por voz
+</center>
+
+### CEN08: Realizar pesquisa por voz
+
+Na tabela 10 está determinado o cenário CEN08, que descreve a realização de uma pesquisa por voz no aplicativo Firefox.
+
+<center>
+
+Tabela 10: CEN08
 
 | Elemento | Descrição |
 | --- | --- |
@@ -165,7 +238,37 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
-### Tabela 14 -CEN12: Ativar controle parental
+</center>
+
+### CEN10: Ativar modo para daltônicos
+
+Na tabela 11 está determinado o cenário CEN10, que descreve a ativação do modo para daltônicos no aplicativo Firefox.
+
+<center>
+
+Tabela 11: CEN10
+
+| Elemento    | Descrição                                                                                          |
+| --- | --- |
+| Título      | Ativar modo para daltônicos                                               |
+| Objetivo    | Ativar uma funcionalidade de acessabilidade para pessoas com daltonismo |
+| Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| Recursos    | Aparelho celular<br>Acesso à internet                                                             |
+| Atores      | Usuário do aplicativo Firefox                                                                      |
+| Episódios   | <ul><li>Usuário deseja ativar modo para daltônicos do aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Acessibilidade"</li><li>Usuário ativa a opção do modo</li><li>O aplicativo Firefox aplica o modo no aplicativo</li></ul> |
+| Restrição   | O aplicativo deve estar atualizado para evitar erros |
+| Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
+
+</center>
+
+### CEN12: Ativar controle parental
+
+Na tabela 14 está determinado o cenário CEN12, que descreve a ativação do controle parental no aplicativo Firefox.
+
+<center>
+
+Tabela 14: CEN12
+
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -180,7 +283,15 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
-### Tabela 15 -CEN13: Alterar fonte do navegador em tipo e tamanho
+</center>
+
+### CEN13: Alterar fonte do navegador em tipo e tamanho
+
+Na tabela 15 está determinado o cenário CEN13, que descreve a alteração da fonte do navegador em tipo e tamanho no aplicativo Firefox.
+
+<center>
+
+Tabela 15: CEN13
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -195,7 +306,15 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
-### Tabela 16 -CEN14: Proteger dados do usuário
+</center>
+
+### CEN14: Proteger dados do usuário
+
+Na tabela 16 está determinado o cenário CEN14, que descreve a proteção dos dados do usuário no aplicativo Firefox.
+
+<center>
+
+Table 16: CEN14
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -210,6 +329,55 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
+</center>
+
+### CEN15: Limpar histórico de navegação, senhas salvas e cache
+
+Na tabela 17 está determinado o cenário CEN15, que descreve a limpeza do histórico de navegação, senhas salvas e cache no aplicativo Firefox.
+
+<center>
+
+Tabela 17: CEN15
+
+| Elemento    | Descrição                                                                                          |
+| --- | --- |
+| Título      | Limpar histórico de navegação, senhas salvas e cache                                               |
+| Objetivo    | Apagar as informações de sites acessados, de senhas e liberar memória |
+| Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| Recursos    | Aparelho celular<br>Acesso à internet                                                              |
+| Atores      | Usuário do aplicativo Firefox                                                                      |
+| Episódios   | <ul><li>Usuário deseja limpar dados de navegação do aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu</li><li>Usuário seleciona a opção "Histórico"</li><li>Usuário tem acesso às páginas acessadas anteriormente</li><li>Usuário seleciona ícone da lixeira</li><li>Usuário decide entre apagar da última hora, hoje e ontem ou tudo</li><li>O aplicativo Firefox aplica a limpeza do histórico</li></ul> |
+| Restrição   | O aplicativo deve estar atualizado para evitar erros |
+| Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li></ul> |
+
+Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
+
+</center>
+
+### CEN16: Escolher entre tema claro ou escuro
+
+
+Na tabela 18 está determinado o cenário CEN16, que descreve a escolha entre tema claro ou escuro no aplicativo Firefox.
+
+<center>
+
+Tabela 18: CEN16
+
+| Elemento    | Descrição                                                                                          |
+| --- | --- |
+| Título      | Escolher entre tema claro ou escuro                                               |
+| Objetivo    | Escolher entre as duas opções de visualização da interface gráfica do aplicativo |
+| Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: ter o aplicativo do Firefox instalado |
+| Recursos    | Aparelho celular                                                             |
+| Atores      | Usuário do aplicativo Firefox                                                                      |
+| Episódios   | <ul><li>Usuário deseja entre tema claro e escuro do aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Personalizar"</li><li>Usuário tem acesso à definição de tema do aplicativo</li><li>Usuário escolhe entre claro, escuro ou acompanhar tema do dispositivo</li><li>O aplicativo Firefox aplica o tema no aplicativo</li></ul> |
+| Restrição   | O aplicativo deve estar atualizado para evitar erros |
+| Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
+
+Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+
+</center>
+
 ## Bibliografia
 
 [1] Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
@@ -223,3 +391,5 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 |  1.2   | 18/05/2024 | Correções e criação das tabelas 5, 6 e 7 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.4   | 19/05/2024 | Criação tabela - CEN08 | [Kallyne Macedo](https://github.com/kalipassos)  | [Kauan Eiras](https://github.com/kauaneiras)|
+|  1.5   | 19/05/2024 | Criação dos cenários CEN06 e CEN07 | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)
+|  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN15 e CEN16 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)
