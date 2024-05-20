@@ -19,11 +19,11 @@ Os requisitos funcionais estão especificados nos [cenários](cenarios.md) e [ca
 
 Usabilidade, segundo Nielsen, é a qualidade que avalia a facilidade de uso de uma interface. Ele propõe 10 heurísticas que, quando seguidas, promovem uma melhor usabilidade, permitindo que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória.
 
-A tabela 2 apresenta requisitos identificados em relação à usabilidade:
+Na tabela 1, são apresentados os requisitos identificados em relação à usabilidade:
 
 <center>
 
-Tabela 2 - Requisitos de Usabilidade.
+Tabela 1 - Requisitos de Usabilidade.
 
 | ID |    Descrição   |
 | :----: | :--------: |
@@ -39,15 +39,35 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 ### Confiabilidade
 
+O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade.
+
+Na tabela 2, são apresentados os requisitos identificados em relação à confiabilidade.
+
+<center>
+Tabela 2 - Requisitos de Confiabilidade
+
+| ID     |    Descrição    | Subcategoria |
+| :----: | :--------:     |  :--------: |
+|  RC01  | O aplicativo deve estar disponível para uso 99.9% do tempo | Disponibilidade |
+|  RC02  | O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana | Disponibilidade |
+|  RC03  | O backup dos dados deve ser realizado automaticamente | Recuperabilidade | 
+|  RC04  | O aplicativo deve carregar as páginas Web com 99.9% de precisão, exibindo os elementos adequadamente | Precisão | 
+|  RC05  | O aplicativo deve ser atualizado sem interromper a navegação do usuário | Disponibilidade
+|  RC06  | Caso falhe ou trave, o aplicativo deve ser capaz de restaurar a sessão do usuário em menos de 1 minuto | Recuperabilidade |
+|  RC07  | O navegador deve ser compatível com pelo menos 90% das páginas web | Precisão 
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+</center>
+
 ### Desempenho
 
 Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga.
 
-Na tabela 3, são apresentados os requisitos em relação ao desempenho.
+Na tabela 3, são apresentados os requisitos identificados em relação ao desempenho.
 
 <center>
 
-Tabela 3: Requisitos de Desempenho
+Tabela 3 - Requisitos de Desempenho
 
 | Identificador | Descrição |
 | :-----------: | :-------: |
@@ -68,7 +88,7 @@ A Suportabilidade de Software é a capacidade de suportar um sistema de software
 
 A empresa que gerencia o software possui uma [página de suporte online](https://support.mozilla.org/pt-BR/). Além disso, realiza atualizações regulares, com uma frequência de quatro semanas, além de uma atualização anual mais abrangente. As atualizações abordam novas funcionalidades e corrigem erros identificados em seus respectivos períodos. No caso do aplicativo Firefox, ele oferece suporte para sistemas operacionais iOS 13.0 e superior, e Android 5.0 e acima. 
 
-A tabela 4 apresenta requisitos identificados em relação à suportabilidade:
+Na tabela 4, são apresentados os requisitos identificados em relação à suportabilidade:
 
 <center>
 
@@ -88,6 +108,22 @@ Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 ### +: Restrições de Design
 
+As restrições de design tratam das limitações e diretrizes que o projeto deve seguir. 
+
+Na tabela 5, são apresentados os requisitos identificados em relação às restrições de design. 
+
+<center>
+Tabela 5 - Requisitos de Restrições de Design 
+
+| ID     |    Descrição    | 
+| :----: | :--------:     | 
+|  RD01  | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
+|  RD02  | O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel |
+|  RD03  | O aplicativo deve seguir diretrizes de acessibilidade da WCAG |
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+</center>
+
 ### +: Requisitos de Implementação
 
 Requisitos de implementação detalham as restrições e condições para a construção, codificação e integração de um sistema ou aplicativo. Eles são orientados para o desenvolvimento técnico e influenciam a forma como o software é desenvolvido, estruturado e mantido
@@ -96,7 +132,7 @@ Na tabela 6, são apresentados os requisitos em relação à implementação.
 
 <center>
 
-Tabela 6: Requisitos de Implementação
+Tabela 6 - Requisitos de Implementação
 
 | Identificador | Descrição |
 | :-----------: | :-------: |
@@ -111,6 +147,25 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 </center>
 
 ### +: Requisitos de Interface
+
+As restrições de interface estão ligadas à comunicação do sistema com sistemas externos e buscam definir os protocolos para a ocorrência dessa comunicação.
+
+Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relacionados a interface.
+
+<center>
+Tabela 7 - Requisitos de Interface
+
+| ID     |    Descrição    | 
+| :----: | :--------:     | 
+|  RI01  | O aplicativo deve possuir uma política de gerenciamento de cookies |
+|  RI02  | O aplicativo deve possuir suporte multilíngue |
+|  RI03  | O aplicativo deve ser capaz de suportar codificação UTF-8 |
+|  RI04  | O aplicativo deve suportar a navegação offline para páginas já carregadas previamente através do cache | 
+|  RI05  | O aplicativo deve realizar transições entre Wi-Fi e rede móvel sem interromper a navegação | 
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+
+</center>
 
 ### +: Requisitos Físicos
 
@@ -140,3 +195,4 @@ UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponív
 |  1.0   | 19/05/2024 | Introdução e Metodologia | [Kallyne Macedo](https://github.com/kalipassos) | [Lucas Martins](https://github.com/martinsglucas) |
 |  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
 |  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)
+|  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras)
