@@ -416,5 +416,5 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 |  1.4   | 19/05/2024 | Criação tabela - CEN08                                    | [Kallyne Macedo](https://github.com/kalipassos)   | [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.5   | 19/05/2024 | Criação dos cenários CEN06 e CEN07                        | [Guilherme Westphall](https://github.com/west7)   | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN14 e CEN15                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
-|  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      | --                                              |
-|  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      | --                                              |
+|  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
+|  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
