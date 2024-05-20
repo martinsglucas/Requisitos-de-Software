@@ -1,14 +1,14 @@
 # Cenários
 
 ## Introdução
-Os cenários são uma estratégia essencial para compreender a interação entre o ambiente e o sistema. Eles são eficazes para elicitar e especificar o comportamento do software. Nossa abordagem considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o trabalho de Leite sobre uma linha de base de requisitos orientada ao cliente. Esta abordagem visa modelar os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais.[1].
+Os cenários são uma estratégia essencial para compreender a interação entre o ambiente e o sistema. Eles são eficazes para elicitar e especificar o comportamento do software. Nossa abordagem considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o trabalho de Leite sobre uma linha de base de requisitos orientada ao cliente. Esta abordagem visa modelar os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais.
 
 ## Metodologia
 A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e IOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
 <center>
 
-#### Tabela 1: Cenários
+Tabela 1: Cenários
 
 | Identificador | Descrição | Membro de Equipe |
 |---|---|---|
@@ -32,11 +32,11 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://
 
 </center>
 
-Cada cenário é descrito conforme a tabela 2 [1]:
+Cada cenário é descrito conforme a tabela 2.
 
 <center>
 
-#### Tabela 2: Elementos de um cenário
+Tabela 2: Elementos de um cenário
 
 | Elemento | Descrição |
 | --- | --- |
