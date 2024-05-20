@@ -42,6 +42,10 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 ## Especificação de casos de uso
 
 ### Realizar pesquisa na Web 
+
+Na tabela 2, abaixo, será disposta a especificação do caso de uso "Realizar pesquisa na web".
+
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Especificação - Realizar pesquisa na Web  </p></font>
 </div>
@@ -62,6 +66,10 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macêdo</a>, 2024</p></font>
 </div>
+
+### Acessar histórico
+
+Na tabela 3, abaixo, será disposta a especificação do caso de uso "Acessar histórico".
 
 
 <div align="center">
