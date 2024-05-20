@@ -41,7 +41,8 @@ nav:
     - Priorização de Requisitos: 
       - Técnicas: elicitacao/priorizacao/tecnicas_de_priorizacao.md
       - Requisitos Priorizados: elicitacao/priorizacao/requisitos_priorizados.md
-
+  - Modelagem:
+    - Casos de uso: modelagem/casos_de_uso/casos_de_uso.md
   
 theme:
   name: material
