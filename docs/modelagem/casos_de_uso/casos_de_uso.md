@@ -64,6 +64,28 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 </div>
 
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação - Acessar historico  </p></font>
+</div>
+
+|  | Acessar historico |
+| -: | :- |
+| **Descrição** | O usuário acessa o historico, o que envolve acessar o menu lateral e selecionar a opcao de historico. |
+| **Ator** | Usuário |
+| **Frequência de Uso** | Media |
+| **Pré-condições** | Conexão à Internet, possuir o aplicativo instalado em seu celular |
+| **Fluxo principal** | - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona a opcao historico. Aciona caso de uso "Acessar historico de guias". <br> - Usuário é redirecionado para a página com o historico de guias. <br> - Acesso ao historico de guias realizado com sucesso. |
+| **Fluxos alternativos** | <b> FA.1: Acesso ao historico de downloads </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona o botao de downloads. Aciona caso de uso "acessar historico de downloads" <br> - Usuário é redirecionado para a página com o historico de downloads. <br> - Acesso ao historico de downloads realizado com sucesso. <br> <b> FA.2: Limpar historico de guias </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona a opcao historico. Aciona caso de uso "Acessar historico de guias". <br> - Usuário é redirecionado para a página com o historico de guias. <br> - Usuário seleciona o botao de apagar historico. <br> - Usuário seleciona quanto apagar do historico. Acessa caso de uso "limpar historico". <br> - Usuário é redirecionado para a página com o historico de guias atualizado. <br> - Limpar historico de guias realizado com sucesso. <br> <b> FA.3: Limpar historico de downloads </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona o botao de downloads. Aciona caso de uso "acessar historico de downloads" <br> - Usuário é redirecionado para a página com o historico de downloads. <br> - Usuário seleciona o botao de apagar historico. <br> - Usuário seleciona quanto apagar do historico. Acessa caso de uso "limpar historico". <br> - Usuário é redirecionado para a página com o historico de downloads atualizado. <br> - Limpar historico de downloads realizado com sucesso. |
+| **Fluxos de exceção** | - |
+| **Pós-condições** |  O usuário visualiza o historico.  |
+| **Data da Criação** | 20/05/2024 |
+| **Rastreabilidade** | OBS05, BRS24, OBS06, OBS22 |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024</p></font>
+</div>
+
+
 ## Referências bibliográficas
 
 1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
@@ -76,3 +98,4 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)     |
 | 1.1    | 18/05/2024 | Adição diagrama e caso de uso 1 | [Kallyne Macedo](https://github.com/kalipassos) |  [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.2    | 20/05/2024 | Caso de uso "Acessar historico" Tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  [Kallyne Macedo](https://github.com/kalipassos)    |
