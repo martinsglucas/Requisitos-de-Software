@@ -165,6 +165,31 @@ Na tabela 6, abaixo, será disposta a especificação do caso de uso "Acessar si
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
 </div>
 
+### Acessar barra de pesquisa
+
+Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar barra de pesquisa".
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Especificação - Acessar barra de pesquisa  </p></font>
+
+|  | Acessar barra de pesquisa |
+| -: | :- |
+| *Descrição* | O usuário acessa a barra de pesquisa, o que envolve digitar algo para pesquisar e confirmar. |
+| *Ator* | Usuário |
+| *Frequência de Uso* | Alta |
+| *Pré-condições* | Conexão à Internet, acesso ao navegador |
+| *Fluxo principal* | - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa. <br> - Usuário insere o que deseja pesquisar na Web e confirma. |
+| *Fluxos alternativos* | <b> FA.1: Sugestões de pesquisa </b> <br> - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa. <br> - O usuário começa a digitar na barra de pesquisa. <br> - O usuário recebe sugestões personalizadas baseadas em seu histórico. Aciona caso de uso "Receber sugestões personalizadas de pesquisa". <br> - Usuário seleciona uma sugestão e confirma. <br> <b> FA.2: Realizar pesquisa por voz </b> <br> - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa. <br> - O usuário clica no ícone de microfone. <br> - O usuário pronuncia aquilo que ele deseja pesquisar. Aciona caso de uso "Realizar pesquisa por voz". |
+| *Fluxos de exceção* | FE.1: <b> Barra de pesquisa com problema </b> <br> - Usuário abre o app. <br> - Usuário seleciona a barra de pesquisa.<br> - Usuário insere o que deseja pesquisar na Web, mas não consegue confirmar. <br> - O usuário pode tentar repetir ou reiniciar o aplicativo.  |
+| *Pós-condições* |  O usuário confirma o que foi digitado para realizar a pesquisa.  |
+| *Data da Criação* | 20/05/2024 |
+| *Rastreabilidade* | OBS01, BRS23, OBS29 |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+
+</center>
+
 ## Referências bibliográficas
 
 1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
@@ -182,3 +207,4 @@ Na tabela 6, abaixo, será disposta a especificação do caso de uso "Acessar si
 | 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7)| 
 | 1.5 | 20/05/2024 | Adiciona textos introdutórios | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 1.6 | 20/05/2024 | Adiciona casos de uso "Acessar site"| [Davi Pierre](https://github.com/DaviPierre)| [Kauan Eiras](https://github.com/kauaneiras) |
+| 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)
