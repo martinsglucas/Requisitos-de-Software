@@ -22,11 +22,11 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 | CEN08 | Realizar pesquisa por voz | [Kallyne Macedo](https://github.com/kalipassos) |
 | CEN09 | Ler textos da página para deficientes visuais | - |
 | CEN10 | Ativar modo para daltônicos | [Lucas Martins](https://github.com/martinsglucas) |
-| CEN12 | Ativar controle parental	| [Kauan Eiras](https://github.com/kauaneiras) |
-| CEN13 | Alterar fonte do navegador em tipo e tamanho | [Kauan Eiras](https://github.com/kauaneiras) |
-| CEN14 | Proteger dados do usuário |[Kauan Eiras](https://github.com/kauaneiras) | 
-| CEN15 | Limpar histórico de navegação, senhas salvas e cache | [Lucas Martins](https://github.com/martinsglucas) | 
-| CEN16 | Escolher entre tema claro ou escuro | [Lucas Martins](https://github.com/martinsglucas) |
+| CEN11 | Ativar controle parental	| [Kauan Eiras](https://github.com/kauaneiras) |
+| CEN12 | Alterar fonte do navegador em tipo e tamanho | [Kauan Eiras](https://github.com/kauaneiras) |
+| CEN13 | Proteger dados do usuário |[Kauan Eiras](https://github.com/kauaneiras) | 
+| CEN14 | Limpar histórico de navegação, senhas salvas e cache | [Lucas Martins](https://github.com/martinsglucas) | 
+| CEN15 | Escolher entre tema claro ou escuro | [Lucas Martins](https://github.com/martinsglucas) |
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
@@ -246,7 +246,7 @@ Na tabela 11 está determinado o cenário CEN09, que descreve leitura de uma pá
 
 <center>
 
-Tabela 11: CEN10
+Tabela 11: CEN09
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -284,13 +284,13 @@ Tabela 12: CEN10
 
 </center>
 
-### CEN12: Ativar controle parental
+### CEN11: Ativar controle parental
 
-Na tabela 14 está determinado o cenário CEN12, que descreve a ativação do controle parental no aplicativo Firefox.
+Na tabela 13 está determinado o cenário CEN11, que descreve a ativação do controle parental no aplicativo Firefox.
 
 <center>
 
-Tabela 14: CEN12
+Tabela 13: CEN11
 
 
 | Elemento    | Descrição                                                                                          |
@@ -308,13 +308,13 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
-### CEN13: Alterar fonte do navegador em tipo e tamanho
+### CEN12: Alterar fonte do navegador em tipo e tamanho
 
-Na tabela 15 está determinado o cenário CEN13, que descreve a alteração da fonte do navegador em tipo e tamanho no aplicativo Firefox.
+Na tabela 14 está determinado o cenário CEN12, que descreve a alteração da fonte do navegador em tipo e tamanho no aplicativo Firefox.
 
 <center>
 
-Tabela 15: CEN13
+Tabela 14: CEN12
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -331,13 +331,13 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
-### CEN14: Proteger dados do usuário
+### CEN13: Proteger dados do usuário
 
-Na tabela 16 está determinado o cenário CEN14, que descreve a proteção dos dados do usuário no aplicativo Firefox.
+Na tabela 15 está determinado o cenário CEN13, que descreve a proteção dos dados do usuário no aplicativo Firefox.
 
 <center>
 
-Table 16: CEN14
+Table 15: CEN13
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -354,13 +354,13 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
-### CEN15: Limpar histórico de navegação, senhas salvas e cache
+### CEN14: Limpar histórico de navegação, senhas salvas e cache
 
-Na tabela 17 está determinado o cenário CEN15, que descreve a limpeza do histórico de navegação, senhas salvas e cache no aplicativo Firefox.
+Na tabela 16 está determinado o cenário CEN14, que descreve a limpeza do histórico de navegação, senhas salvas e cache no aplicativo Firefox.
 
 <center>
 
-Tabela 17: CEN15
+Tabela 16: CEN14
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -377,14 +377,14 @@ Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
 
 </center>
 
-### CEN16: Escolher entre tema claro ou escuro
+### CEN15: Escolher entre tema claro ou escuro
 
 
-Na tabela 18 está determinado o cenário CEN16, que descreve a escolha entre tema claro ou escuro no aplicativo Firefox.
+Na tabela 17 está determinado o cenário CEN15, que descreve a escolha entre tema claro ou escuro no aplicativo Firefox.
 
 <center>
 
-Tabela 18: CEN16
+Tabela 17: CEN15
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -415,5 +415,6 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 |  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras)      | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.4   | 19/05/2024 | Criação tabela - CEN08                                    | [Kallyne Macedo](https://github.com/kalipassos)   | [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.5   | 19/05/2024 | Criação dos cenários CEN06 e CEN07                        | [Guilherme Westphall](https://github.com/west7)   | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN15 e CEN16                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
+|  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN14 e CEN15                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      | --                                              |
+|  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      | --                                              |
