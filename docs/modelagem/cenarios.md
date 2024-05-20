@@ -240,13 +240,36 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
-### CEN10: Ativar modo para daltônicos
+### CEN09: Ler textos da página para deficientes visuais
 
-Na tabela 11 está determinado o cenário CEN10, que descreve a ativação do modo para daltônicos no aplicativo Firefox.
+Na tabela 11 está determinado o cenário CEN09, que descreve leitura de uma página no ponto de vista de um deficiente visual.
 
 <center>
 
 Tabela 11: CEN10
+
+| Elemento    | Descrição                                                                                          |
+| --- | --- |
+| Título      | Ler textos da página para deficientes visuais      |
+| Objetivo    | Ativar uma funcionalidade de acessabilidade para pessoas com deficiência visual |
+| Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
+| Recursos    | Aparelho celular<br>Acesso à internet                                                             |
+| Atores      | Usuário do aplicativo Firefox portador de deficiência visual     |
+| Episódios   | <ul><li>Usuário deseja ler uma pagina no aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário abre o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Acessibilidade"</li><li>Usuário desativa a opção de "Dimensionamento automático de fontes"</li><li>Usuário aumenta o tamanho da fonte até o tamanho desejado deslizando a barra "Tamanho das fontes"</li><li>Usuário liga a opção "Zoom em todos os sites"</li></ul> |
+| Restrição   | O aplicativo deve estar atualizado para evitar erros |
+| Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
+
+Fonte: [Davi Pierre](https://github.com/DaviPierre)
+
+</center>
+
+### CEN10: Ativar modo para daltônicos
+
+Na tabela 12 está determinado o cenário CEN10, que descreve a ativação do modo para daltônicos no aplicativo Firefox.
+
+<center>
+
+Tabela 12: CEN10
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -384,12 +407,13 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 ## Histórico de Versões 
 
-| Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
-| :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 15/05/2024 | Introdução e Metodologia |[Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.1   | 16/05/2024 | Correções e criação da tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.2   | 18/05/2024 | Correções e criação das tabelas 5, 6 e 7 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.4   | 19/05/2024 | Criação tabela - CEN08 | [Kallyne Macedo](https://github.com/kalipassos)  | [Kauan Eiras](https://github.com/kauaneiras)|
-|  1.5   | 19/05/2024 | Criação dos cenários CEN06 e CEN07 | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)
-|  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN15 e CEN16 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)
+| Versão |    Data    | Descrição                                                 |                      Autor                        |                     Revisor                     |
+| :----: | :--------: | --------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 15/05/2024 | Introdução e Metodologia                                  | [Kauan Eiras](https://github.com/kauaneiras)      | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 16/05/2024 | Correções e criação da tabela 3                           | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.2   | 18/05/2024 | Correções e criação das tabelas 5, 6 e 7                  | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.3   | 19/05/2024 | Correção dos cenários e criação das tabelas 4, 14, 15, 16 | [Kauan Eiras](https://github.com/kauaneiras)      | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.4   | 19/05/2024 | Criação tabela - CEN08                                    | [Kallyne Macedo](https://github.com/kalipassos)   | [Kauan Eiras](https://github.com/kauaneiras)    |
+|  1.5   | 19/05/2024 | Criação dos cenários CEN06 e CEN07                        | [Guilherme Westphall](https://github.com/west7)   | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN15 e CEN16                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
+|  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      | --                                              |
