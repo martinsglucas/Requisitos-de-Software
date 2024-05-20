@@ -109,6 +109,30 @@ Na tabela 4, abaixo, será disposta a especificação do caso de uso "Bloquear a
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
 </div>
 
+### Mudar o Idioma
+Na tabela 5, abaixo, será disposta a especificação do caso de uso "Mudar o Idioma".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação - Mudar o Idioma  </p></font>
+</div>
+
+|  | Mudar o Idioma |
+| -: | :- |
+| **Descrição** | O usuário altera o idioma da interface do navegador, o que pode incluir a tradução de páginas web automaticamente. |
+| **Ator** | Usuário |
+| **Frequência de Uso** | Baixa |
+| **Pré-condições** | Conexão à Internet, acesso ao navegador Firefox instalado no dispositivo do usuário, disponibilidade de idiomas suportados pelo navegador. |
+| **Fluxo principal** | - Usuário abre o app. <br> - Usuário acessa o menu de configurações. <br> - Usuário seleciona a opção de configuração de idioma. <br> - Usuário escolhe o idioma desejado da lista de idiomas suportados. <br> - Usuário confirma a mudança de idioma. <br> - Mudança de idioma realizada com sucesso. |
+| **Fluxos alternativos** | <b> FA.1: Traduzir páginas automaticamente </b> <br> - Usuário habilita a tradução automática de páginas. <br> - Usuário seleciona a opção para traduzir páginas automaticamente ao acessar páginas em idiomas diferentes do configurado. <br> - O caso de uso "Traduzir páginas" é acionado. <br> - Páginas em idiomas diferentes são automaticamente traduzidas para o idioma configurado. |
+| **Fluxos de exceção** | <b>FE.1: Erro na mudança de idioma</b> <br> - Usuário tenta confirmar a mudança de idioma. <br> - O sistema exibe uma mensagem de erro informando que a mudança de idioma falhou. <br> - Usuário fecha o aplicativo, abre o aplicativo novamente e tenta selecionar novamente o idioma desejado ou entra em contato com a empresa para informar o problema.|
+| **Pós-condições** | O navegador exibe a interface no novo idioma escolhido pelo usuário. |
+| **Data da Criação** | 20/05/2024 |
+| **Rastreabilidade** | OBS14 |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+</div>
+
 ## Referências bibliográficas
 
 1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
@@ -122,4 +146,5 @@ Na tabela 4, abaixo, será disposta a especificação do caso de uso "Bloquear a
 | 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)     |
 | 1.1    | 18/05/2024 | Adição diagrama e caso de uso 1 | [Kallyne Macedo](https://github.com/kalipassos) |  [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 20/05/2024 | Caso de uso "Acessar historico" Tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  [Kallyne Macedo](https://github.com/kalipassos)    |
-| 1.3 | 20/05/2024 | Caso de uso "Bloquear anúncios" | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas)
+| 1.3 | 20/05/2024 | Caso de uso "Bloquear anúncios" | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas)|
+| 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | | 
