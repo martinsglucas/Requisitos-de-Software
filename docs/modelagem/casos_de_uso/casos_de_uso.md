@@ -70,9 +70,9 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 
 |  | Acessar historico |
 | -: | :- |
-| **Descrição** | O usuário acessa o historico, o que envolve acessar o menu lateral e selecionar a opcao de historico. |
+| **Descrição** | O usuário acessa o historico, o que envolve acessar o menu lateral e selecionar a opção de histórico. |
 | **Ator** | Usuário |
-| **Frequência de Uso** | Media |
+| **Frequência de Uso** | Média |
 | **Pré-condições** | Conexão à Internet, possuir o aplicativo instalado em seu celular |
 | **Fluxo principal** | - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona a opcao historico. Aciona caso de uso "Acessar historico de guias". <br> - Usuário é redirecionado para a página com o historico de guias. <br> - Acesso ao historico de guias realizado com sucesso. |
 | **Fluxos alternativos** | <b> FA.1: Acesso ao historico de downloads </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona o botao de downloads. Aciona caso de uso "acessar historico de downloads" <br> - Usuário é redirecionado para a página com o historico de downloads. <br> - Acesso ao historico de downloads realizado com sucesso. <br> <b> FA.2: Limpar historico de guias </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona a opcao historico. Aciona caso de uso "Acessar historico de guias". <br> - Usuário é redirecionado para a página com o historico de guias. <br> - Usuário seleciona o botao de apagar historico. <br> - Usuário seleciona quanto apagar do historico. Acessa caso de uso "limpar historico". <br> - Usuário é redirecionado para a página com o historico de guias atualizado. <br> - Limpar historico de guias realizado com sucesso. <br> <b> FA.3: Limpar historico de downloads </b> <br> - Usuário abre o app. <br> - Usuário seleciona o menu lateral. <br> - Usuário seleciona o botao de downloads. Aciona caso de uso "acessar historico de downloads" <br> - Usuário é redirecionado para a página com o historico de downloads. <br> - Usuário seleciona o botao de apagar historico. <br> - Usuário seleciona quanto apagar do historico. Acessa caso de uso "limpar historico". <br> - Usuário é redirecionado para a página com o historico de downloads atualizado. <br> - Limpar historico de downloads realizado com sucesso. |
@@ -85,6 +85,29 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024</p></font>
 </div>
 
+### Bloquear anúncios
+Na tabela 4, abaixo, será disposta a especificação do caso de uso "Bloquear anúncios".
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação - Bloquear anúncios  </p></font>
+</div>
+
+|  | Bloquear anúncios |
+| -: | :- |
+| **Descrição** | O usuário bloqueia anúncios enquanto navega, o que envolve acessar as configurações de bloqueio de anúncios no navegador. |
+| **Ator** | Usuário |
+| **Frequência de Uso** | Média |
+| **Pré-condições** | Conexão à Internet, acesso ao navegador com recurso de bloqueio de anúncios disponível. |
+| **Fluxo principal** | - Usuário abre o app. <br> - Usuário acessa o menu de configurações. <br> - Usuário seleciona a opção de bloqueio de anúncios. <br> - Usuário ativa a funcionalidade de bloqueio de anúncios. <br> - Bloqueio de anúncios realizado com sucesso. |
+| **Fluxos alternativos** | <b> FA.1: Personalizar bloqueio de anúncios </b> <br> - Usuário abre o app. <br> - Usuário acessa o menu de configurações. <br> - Usuário seleciona a opção de bloqueio de anúncios. <br> - Usuário seleciona configurações avançadas de bloqueio de anúncios. <br> - Usuário personaliza os tipos de anúncios que deseja bloquear. <br> - Personalização de bloqueio de anúncios realizada com sucesso. |
+| **Fluxos de exceção** | <b>FE.1: Erro ao ativar o bloqueio de anúncios </b> <br> - Usuário abre o app. <br> - Usuário acessa o menu de configurações. <br> - Usuário seleciona a opção de bloqueio de anúncios. <br> - Usuário tenta ativar a funcionalidade de bloqueio de anúncios, mas ocorre um erro. <br> - Usuário recebe uma mensagem de erro e pode tentar novamente mais tarde. <br><b>FE.2: O site identifica o bloqueador e não permite o uso</b> <br> - Usuário abre o app. <br> - Usuário acessa o menu de configurações. <br> - Usuário seleciona a opção de bloqueio de anúncios. <br> - Usuário ativa a funcionalidade de bloqueio de anúncios. <br> - Usuário acessa o site "x". <br> - O site "x" identifica o uso do bloqueador de anúncios. <br> - O site "x" barra o uso do bloqueador, não permitindo que o usuário prossiga. <br> - Usuário precissa desligar o bloqueador.|
+| **Pós-condições** | O usuário navega na web sem anúncios indesejados. |
+| **Data da Criação** | 20/05/2024 |
+| **Rastreabilidade** | OBS27, BRS08, QST02 |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+</div>
 
 ## Referências bibliográficas
 
@@ -99,3 +122,4 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 | 1.0    | 16/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)     |
 | 1.1    | 18/05/2024 | Adição diagrama e caso de uso 1 | [Kallyne Macedo](https://github.com/kalipassos) |  [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 20/05/2024 | Caso de uso "Acessar historico" Tabela 3 | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  [Kallyne Macedo](https://github.com/kalipassos)    |
+| 1.3 | 20/05/2024 | Caso de uso "Bloquear anúncios" | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas)
