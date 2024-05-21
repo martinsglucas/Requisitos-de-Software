@@ -6,7 +6,7 @@ Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de
 
 ## Metodologia
 
-Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](/docs/elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
+Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](../../elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Template para os léxicos</p></font>
@@ -139,6 +139,6 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 | 1.0    | 09/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)      |
 | 1.1 | 14/05/2024 | Adição Tabelas 4 e 5 | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.2 | 17/05/2024 | Adição de Itens nas Tabelas 3 e 4| [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.3 | 17/05/2024 | Adição de Itens nas Tabelas 3, 4 e 5| [Kauan Eiras](https://github.com/kauaneiras) | -- |
+| 1.3 | 17/05/2024 | Adição de Itens nas Tabelas 3, 4 e 5| [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Martins](https://github.com/martinsglucas) |
 
 

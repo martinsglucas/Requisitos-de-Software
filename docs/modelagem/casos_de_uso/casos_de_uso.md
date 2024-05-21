@@ -14,10 +14,10 @@ Na definição dos casos de uso, utilizaremos as personas definidas para entende
 
 | Símbolo                                    | Nome        | Função                                                    |
 | ------------------------------------------ | ----------- | --------------------------------------------------------- |
-| <img src="assets/boneco.png" width=50/>    | Ator        | Representam os indivíduos que interagem com o sistema     |
-| <img src="assets/elipse.png" width=50/>    | Caso de uso | Representa as possíveis ações realizadas no sistema       |
-| <img src="assets/flecha.png" width=50/>    | Relações    | Indicam o fluxo de ações e as relações entre casos de uso |
-| <img src="assets/retangulo.png" width=50/> | Sistema     | Representa a aplicação                                    |
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/boneco.png?raw=true" />    | Ator        | Representam os indivíduos que interagem com o sistema     |
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/elipse.png?raw=true" width=130 />    | Caso de uso | Representa as possíveis ações realizadas no sistema       |
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/flecha.png?raw=true" />    | Relações    | Indicam o fluxo de ações e as relações entre casos de uso |
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/retangulo.png?raw=true"/> | Sistema     | Representa a aplicação                                    |
 
 
 
@@ -33,7 +33,7 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
     <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de casos de uso</p></font>
 </div>
 
-<center> <img src="assets/REQ 2024.1 - G6 - Frame 2.jpg"/> </center>
+<center> <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/REQ%202024.1%20-%20G6%20-%20Frame%202.jpg?raw=true"/> </center>
 
 <div align="center"
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
