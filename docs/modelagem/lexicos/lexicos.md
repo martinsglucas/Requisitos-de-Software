@@ -6,7 +6,7 @@ Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de
 
 ## Metodologia
 
-Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](/docs/elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
+Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](../../elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Template para os léxicos</p></font>

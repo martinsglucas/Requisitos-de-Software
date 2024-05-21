@@ -259,7 +259,7 @@ Tabela 11: CEN09
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
 
-Fonte: [Davi Pierre](https://github.com/DaviPierre)
+Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -281,6 +281,8 @@ Tabela 12: CEN10
 | Episódios   | <ul><li>Usuário deseja ativar modo para daltônicos do aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Acessibilidade"</li><li>Usuário ativa a opção do modo</li><li>O aplicativo Firefox aplica o modo no aplicativo</li></ul> |
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
+
+Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 

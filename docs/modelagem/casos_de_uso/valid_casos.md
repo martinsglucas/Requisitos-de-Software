@@ -20,8 +20,10 @@ A especificação do caso de uso de Realizar pesquisa na Web possui um fluxo pri
 <center>
 
 Figura 1 - Caso de Uso - Realizar pesquisa na Web
+
 ![alt text](./assets/image.png)
-Fonte: [Kallyne Macedo](https://github.com/kalipassos)
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
@@ -34,8 +36,10 @@ A especificação do caso de uso de Acessar site possui um fluxo principal, dois
 <center>
 
 Figura 2 - Caso de Uso - Acessar site
+
 ![alt text](./assets/image-5.png)
-Fonte: [Kallyne Macedo](https://github.com/kalipassos)
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
@@ -53,8 +57,10 @@ A especificação do caso de uso de Acessar histórico possui um fluxo principal
 <center>
 
 Figura 3 - Caso de Uso - Acessar histórico
+
 ![alt text](./assets/image-1.png)
-Fonte: [Kallyne Macedo](https://github.com/kalipassos)
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
