@@ -43,8 +43,8 @@ nav:
       - Requisitos Priorizados: elicitacao/priorizacao/requisitos_priorizados.md
   - Modelagem:
     - Cenários: modelagem/cenarios.md
-
-  
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+ 
 theme:
   name: material
   features:
