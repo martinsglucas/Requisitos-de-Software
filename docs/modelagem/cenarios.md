@@ -20,7 +20,7 @@ Tabela 1: Cenários
 | CEN06 | Bloquear anúncios dos sites| [Guilherme Westphall](https://github.com/west7) | 
 | CEN07 | Buscar por textos na página | [Guilherme Westphall](https://github.com/west7) |
 | CEN08 | Realizar pesquisa por voz | [Kallyne Macedo](https://github.com/kalipassos) |
-| CEN09 | Ler textos da página para deficientes visuais | - |
+| CEN09 | Ler textos da página para deficientes visuais | [Davi Pierre](https://github.com/DaviPierre) |
 | CEN10 | Ativar modo para daltônicos | [Lucas Martins](https://github.com/martinsglucas) |
 | CEN11 | Ativar controle parental	| [Kauan Eiras](https://github.com/kauaneiras) |
 | CEN12 | Alterar fonte do navegador em tipo e tamanho | [Kauan Eiras](https://github.com/kauaneiras) |
