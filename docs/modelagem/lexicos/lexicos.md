@@ -139,6 +139,6 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 | 1.0    | 09/05/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)      |
 | 1.1 | 14/05/2024 | Adição Tabelas 4 e 5 | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.2 | 17/05/2024 | Adição de Itens nas Tabelas 3 e 4| [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.3 | 17/05/2024 | Adição de Itens nas Tabelas 3, 4 e 5| [Kauan Eiras](https://github.com/kauaneiras) | -- |
+| 1.3 | 17/05/2024 | Adição de Itens nas Tabelas 3, 4 e 5| [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Martins](https://github.com/martinsglucas) |
 
 
