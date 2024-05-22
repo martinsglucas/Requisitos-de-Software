@@ -140,9 +140,9 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
 | Correções pós entrega 3                  | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 26/05/2024 - 26/05/2024 |
-| Definição de histórias de usuário       | 21/05/2024 | 24/05/2024 | Leonardo, Davi                                   | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
-| Definição do backlog do produto          | 21/05/2024 | 24/05/2024 | Kallyne, Guilherme                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
-| NFR Framework                            | 21/05/2024 | 25/05/2024 |  Lucas, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
+| Definição de histórias de usuário       | 21/05/2024 | 24/05/2024 | Guilherme, Lucas                                | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
+| Definição do backlog do produto          | 21/05/2024 | 24/05/2024 | Kallyne, Leonardo                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
+| NFR Framework                            | 21/05/2024 | 25/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
 | Realizar a ata das reuniões              | 21/05/2024 | 25/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
 | Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 
