@@ -72,21 +72,20 @@ A avaliação detalhada e sistemática dos softgoals, bem como a visualização 
 
 ### Metodologia
 
-Neste documento, a metodologia adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais (NFRs), que foram delineados com base no nosso documento de especificação suplementar. Utilizando o modelo FURPS+, definimos seis requisitos não funcionais, cada um sendo desenvolvido por um membro da equipe. 
+Neste documento, a metodologia adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais (NFRs), que foram delineados com base no nosso documento de [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/). Utilizando o modelo FURPS+, definimos seis requisitos não funcionais, cada um sendo desenvolvido por um membro da equipe. 
 
-#### Exemplos de Requisitos Não Funcionais
-
-Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Interface e Segurança. A tabela 2 apresenta um resumo dos requisitos não funcionais definidos, a rastreabilidade e o membro da equipe responsável pelo desenvolvimento do item:
+Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Interface e Segurança. A tabela 2 apresenta um resumo dos requisitos não funcionais definidos, a rastreabilidade, membro da equipe responsável pelo desenvolvimento do item e se aquele requisito já está implementado:
 
 Tabela 2: Requisitos não funcionáis do Firefox
-| ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    | Prioridade |
+| ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    | Implementado |
 |-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|------------|
-| NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples e eficiente.        | BRS12, QST07, BRS21        | Membro 1  | Alta       | 
-| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade.    | BRS01                      | Membro 2  | Alta       |
-| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 2 segundos. | BRS01, BRS02               | Membro 3  | Alta       |
-| NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Média      |
-| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  | Alta       |
-| NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  | Alta     |
+| NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples acessivel e eficiente.  | BRS12, QST07, BRS21        | [Kauan Eiras](https://github.com/kauaneiras)  | Sim       | 
+| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | Membro 2  | Sim       |
+| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | Membro 3  | Sim       |
+| NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Sim      |
+| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  | Sim       |
+| NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  | Sim     |
+
 
 Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
@@ -118,14 +117,12 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 
 [3] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
+
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 23/05/2024 | Criação da página e Introdução | [Davi Pierre](https://github.com/DaviPierre)   | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.1    | 23/05/2024 | Adição das Figuras 1, 2 e 3 | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.1    | 23/05/2024 | Adição das Figuras 1, 2 e 3 e ajustes na Introdução | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.2   | 23/05/2024 | Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
-
-
-
-*(Nota: As imagens sugeridas devem ser criadas para ilustrar cada parte conforme descrito, utilizando ferramentas como o Canva ou similares para visualização clara e eficaz.)*
