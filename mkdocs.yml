@@ -48,6 +48,9 @@ nav:
     - Casos de Uso: modelagem/casos_de_uso/casos_de_uso.md
     - Validação dos Casos de Uso: modelagem/casos_de_uso/valid_casos.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
+  - Ágil:
+    - Histórias de usuário: modelagem_agil/historias_de_usuario/historias_de_usuario.md
+
 theme:
   name: material
   features:
