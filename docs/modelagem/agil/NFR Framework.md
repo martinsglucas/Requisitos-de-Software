@@ -1,6 +1,6 @@
-### NFR Framework
+# NFR Framework
 
-#### Introdução
+## Introdução
 
 O NFR (Non-Functional Requirements) Framework, ou Framework de Requisitos Não Funcionais, é uma metodologia essencial na engenharia de software. Ele se concentra na definição e gerenciamento de requisitos que não estão diretamente ligados às funcionalidades do sistema, mas sim às suas características qualitativas, como desempenho, segurança, usabilidade e outros aspectos que afetam a experiência do usuário. Esses requisitos são cruciais para o sucesso do projeto, pois definem como o sistema deve operar em diversos cenários.
 
@@ -15,11 +15,13 @@ Os softgoals são divididos em três categorias [2], conforme ilustrado na Figur
 3. **Softgoals de Afirmação**: Consideram características do domínio, como prioridades e carga de trabalho.
 
 **Figura 1: Tipos de Softgoals**  
-<img src="./NFR Framework/TiposSoftgoals.png">
+<center><img src="./NFR Framework/TiposSoftgoals.png"></center>
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), Desenvolvido no [Canva](https://www.canva.com/), 2024.
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://www.canva.com">Canva.com</a>, 2024</p></font>
+</div>
 
-#### Tipos de Refinamentos
+### Tipos de Refinamentos
 
 Os refinamentos são essenciais para detalhar os softgoals, permitindo uma decomposição precisa e estruturada. Eles são divididos em quatro tipos principais [2]:
 
@@ -32,14 +34,14 @@ C) **Decomposição de Softgoal de Afirmação (Claims)**: Refina softgoals de a
 D) **Priorização**: Cria softgoals similares, mas com prioridades definidas, ajudando na determinação da importância relativa de cada objetivo.
 
 **Figura 2: Tipos de Refinamentos**  
-<img src="./NFR Framework/DecomposiçãoSoftgoal.PNG">
+<center><img src="./NFR Framework/DecomposiçãoSoftgoal.PNG"></center>
+<center>Fonte: CHUNG, 2000.</center>
 
-Fonte: CHUNG, 2000.
-
-#### Tipos de Contribuições
+### Tipos de Contribuições
 
 As contribuições descrevem como um softgoal descendente pode impactar o softgoal ascendente. Existem várias formas de contribuição, cada uma com seu próprio impacto específico:
 
+<center>
 Tabela 1: Tipos de Contribuições
 
 | Contribuição | Descrição                                                                                                | Notação |
@@ -55,39 +57,45 @@ Tabela 1: Tipos de Contribuições
 | OR           | Pai é satisfeito se um dos filhos for satisfeito                                                          | OR      |
 | EQUAL        | Ambos compartilham o mesmo rótulo                                                                         | =       |
 
+</center>
+
 **Figura 3: Contribuições entre Softgoals**  
-<img src="./NFR Framework/ContibuicaoSoftgoals.PNG">
 
-Fonte: SERRANO, 2019.
+<center><img src="./NFR Framework/ContibuicaoSoftgoals.PNG"></center>
+<center>Fonte: SERRANO, 2019.</center>
 
-#### Procedimento de Avaliação
+### Procedimento de Avaliação
 
 O processo de avaliação dos softgoals verifica o grau de satisfação de cada requisito não funcional. Para isso, são atribuídos rótulos aos softgoals, que podem incluir "satisfeito", "parcialmente satisfeito", "não atendido", "parcialmente não atendido", "conflitante" e "indeterminado". Este procedimento é crucial para garantir que todas as interdependências no SIG sejam adequadamente avaliadas e gerenciadas [1].
 
 **Figura 4: Rótulos da Propagação de Impactos**  
-<img src="./NFR Framework/RotulosSoftgoals.PNG">
-Fonte: SILVA, 2019.
+<center><img src="./NFR Framework/RotulosSoftgoals.PNG"></center>
+<center>Fonte: SILVA, 2019.</center>
 
 A avaliação detalhada e sistemática dos softgoals, bem como a visualização de suas interdependências e contribuições, são fundamentais para a modelagem eficaz de requisitos não funcionais, garantindo que os objetivos qualitativos do sistema sejam plenamente atendidos.
 
-### Metodologia
+## Metodologia
 
 Neste documento, a metodologia adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais (NFRs), que foram delineados com base no nosso documento de [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/). Utilizando o modelo FURPS+, definimos seis requisitos não funcionais, cada um sendo desenvolvido por um membro da equipe. 
 
-Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Interface e Segurança. A tabela 2 apresenta um resumo dos requisitos não funcionais definidos, a rastreabilidade, membro da equipe responsável pelo desenvolvimento do item e se aquele requisito já está implementado:
+Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Interface e Segurança. A tabela 2 apresenta um resumo dos requisitos não funcionais definidos, a rastreabilidade, membro da equipe responsável pelo desenvolvimento do item:
 
+<center>
 Tabela 2: Requisitos não funcionáis do Firefox
-| ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    | Implementado |
-|-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|------------|
-| NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples acessivel e eficiente.  | BRS12, QST07, BRS21        | [Kauan Eiras](https://github.com/kauaneiras)  | Sim       | 
-| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | Membro 2  | Sim       |
-| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | Membro 3  | Sim       |
+
+| ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    |
+|-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|
+| NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples acessivel e eficiente.  | BRS12, QST07, BRS21        | [Kauan Eiras](https://github.com/kauaneiras)  | 
+| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | Membro 2  |
+| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | Membro 3  |
 | NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Sim      |
-| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  | Sim       |
-| NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  | Sim     |
+| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  |
+| NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  |
+</center>
 
-
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024.
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+</div>
 
 ### Procedimento de Desenvolvimento
 
@@ -107,6 +115,56 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 4. **Cartão de Especificação**:
    - Cada NFR foi documentado em um cartão de especificação, que incluía informações detalhadas sobre o requisito, como descrição, classificação, justificativa, origem, dependências, prioridade e possíveis conflitos.
    - Este cartão serviu como uma referência centralizada para todas as informações críticas sobre o NFR.
+
+## NFR Framework
+
+## NFR01 - Usabilidade
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
+
+## NFR02 - Confiabilidade
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
+
+## NFR03 - Desempenho
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
+
+## NFR04 - Suportabilidade
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
+
+## NFR05 - Interface
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
+
+## NFR06 - Segurança
+
+### Softgoal Interdependency Graph
+
+### Propagação de Impactos
+
+### Cartão de Especificação
 
 
 ## Referências bibliográficas
