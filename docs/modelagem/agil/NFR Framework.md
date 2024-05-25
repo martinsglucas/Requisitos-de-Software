@@ -119,8 +119,14 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 ## NFR Framework
 
 ## NFR01 - Usabilidade
+De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo "usabilidade" refere-se à facilidade com que os usuários podem aprender a utilizar um sistema, sua eficiência no uso, a facilidade de lembrar como usá-lo, a frequência de erros cometidos pelos usuários e a satisfação dos usuários com o sistema. Ele define os componentes principais da usabilidade como: eficácia, eficiência, aprendizado, memorização e satisfação[4]. Com a grande quantidade de pessoas analfabetas ou portadoras de alguma deficiência que utilizam a internet, outro item importante a ser incluso no NFR Framework de Usabilidade é a acessibilidade.
 
 ### Softgoal Interdependency Graph
+**Figura 5: Softgoal Interdependency Grap do softgoal "Usabilidade"**
+<center><img src="./NFR Framework/SIG-Usabilidade.png"></center>
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+</div>
 
 ### Propagação de Impactos
 
@@ -175,6 +181,7 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 
 [3] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
+[4] NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
 
 
 ## Histórico de versões
@@ -183,4 +190,5 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 23/05/2024 | Criação da página e Introdução | [Davi Pierre](https://github.com/DaviPierre)   | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.1    | 23/05/2024 | Adição das Figuras 1, 2 e 3 e ajustes na Introdução | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.2   | 23/05/2024 | Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.2   | 23/05/2024 | Criação da Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | - |
