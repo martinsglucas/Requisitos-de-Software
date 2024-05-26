@@ -5,7 +5,7 @@ As Histórias de Usuário são uma técnica essencial no desenvolvimento ágil, 
 
 ## Método
 
-Para desenvolver as Histórias de Usuário, seguiremos as etapas abaixo, utilizando os requisitos previamente [elicitados](/docs/elicitacao/tecnicas/requisitos_elicitados.md) e [priorizados](/docs/elicitacao/priorizacao/requisitos_priorizados.md) na Entrega 2. As técnicas de elicitação usadas foram brainstorming, entrevista, questionário e observação, e as técnicas de priorização foram In or Out, MoSCoW e Three Level Scale.
+Para desenvolver as Histórias de Usuário, seguiremos as etapas abaixo, utilizando os requisitos previamente [elicitados](../../elicitacao/tecnicas/requisitos_elicitados.md) e [priorizados](../../elicitacao/priorizacao/requisitos_priorizados.md) na Entrega 2. As técnicas de elicitação usadas foram brainstorming, entrevista, questionário e observação, e as técnicas de priorização foram In or Out, MoSCoW e Three Level Scale.
 
 1. Revisão dos Requisitos Elicitados:
       - Revisaremos os requisitos obtidos para garantir que todos os pontos importantes sejam considerados.
