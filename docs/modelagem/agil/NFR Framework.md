@@ -167,8 +167,21 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 ## NFR02 - Confiabilidade
 
 ### Softgoal Interdependency Graph
+**Figura 7: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
+<center><img src="./NFR Framework/SIG-Confiabilidade.png"></center>
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+</div>
 
 ### Propagação de Impactos
+
+A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura 8.
+
+**Figura 8: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
+<center><img src="./NFR Framework/Confiabilidade-Propagação-de-Impactos.png"></center>
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+</div>
 
 ### Cartão de Especificação
 
@@ -224,3 +237,4 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 | 1.1    | 23/05/2024 | Adição das Figuras 1, 2 e 3 e ajustes na Introdução | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.2   | 23/05/2024 | Criação da Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | - |
+| 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | - |
