@@ -42,7 +42,8 @@ D) **Priorização**: Cria softgoals similares, mas com prioridades definidas, a
 As contribuições descrevem como um softgoal descendente pode impactar o softgoal ascendente. Existem várias formas de contribuição, cada uma com seu próprio impacto específico:
 
 <center>
-Tabela 1: Tipos de Contribuições
+
+**Tabela 1: Tipos de Contribuições** 
 
 | Contribuição | Descrição                                                                                                | Notação |
 |--------------|----------------------------------------------------------------------------------------------------------|---------|
@@ -81,7 +82,8 @@ Neste documento, a metodologia adotada para a concepção do artefato foi fundam
 Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Interface e Segurança. A tabela 2 apresenta um resumo dos requisitos não funcionais definidos, a rastreabilidade, membro da equipe responsável pelo desenvolvimento do item:
 
 <center>
-Tabela 2: Requisitos não funcionáis do Firefox
+
+**Tabela 2: Requisitos não funcionáis do Firefox**
 
 | ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    |
 |-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|
@@ -129,8 +131,38 @@ De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo
 </div>
 
 ### Propagação de Impactos
+A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 6.
+
+**Figura 6: Softgoal Interdependency Grap do softgoal "Usabilidade"**
+<center><img src="./NFR Framework/Usabilidade-Propagação-de-Impactos.png"></center>
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+</div>
 
 ### Cartão de Especificação
+Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
+
+<center>
+
+**Tabela 3: Requisitos não funcionáis do Firefox**
+
+| Tópico                | Informação |
+|-----------------------|-----------------------------|
+| **ID do NFR**         | NFR01 |
+| **Classificação**     | Usabilidade |
+| **Descrição**         | O requisito "Usabilidade" refere-se à capacidade do Firefox de fornecer uma experiência de navegação intuitiva e eficiente, que seja fácil de aprender, lembrar e que minimize erros, garantindo a satisfação do usuário e acessibilidade. |
+| **Justificativa**     | Uma usabilidade boa é fundamental para garantir que os usuários possam navegar na web de forma eficiente e satisfatória, com ferramentas que atendam suas necessidades, aumentando a acessibilidade e reduzindo a frequência de erros. Isso resulta em uma experiência mais agradável e produtiva para todos os usuários, incluindo aqueles com deficiências. |
+| **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Dependências**      | Não foram identificadas restrições ou dependências específicas, mas a atualização contínua da documentação e do sistema é necessária para manter a usabilidade elevada.|
+| **Prioridade**        | Alta. A usabilidade é crítica para a aceitação do navegador pelos usuários e influencia diretamente a eficácia e a satisfação no uso do sistema. |
+| **Conflitos**         | Não foram identificados conflitos. |
+| **História**          | 25/05/2024 |
+
+<div align="center"
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+</div>
+
+
 
 ## NFR02 - Confiabilidade
 
