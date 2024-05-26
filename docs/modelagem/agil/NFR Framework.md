@@ -185,6 +185,23 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 
 ### Cartão de Especificação
 
+**Tabela 4: Requisitos não funcionáis do Firefox**
+
+| Tópico                | Informação |
+|-----------------------|-----------------------------|
+| **ID do NFR**         | NFR01 |
+| **Classificação**     | Confiabilidade |
+| **Descrição**         | O requisito "Confiabiidade" refere-se a capacidade do navegador Firefox de se manter consistente durante todo o processo de acesso a internet, ou seja, ser capaz de lidar com falhas pequenas, ser acessível, ser versátil e disponível a qualquer momento. |
+| **Justificativa**     | Um alto nível de confiabilidade é necessário para que um navegador possa ser usado, um navegador não confiável leva a pesquisas mais demoradas, tempos de resposta mais longos e usuários insatisfeitos por uma mesma ação causar reações diferentes do aplicativo. |
+| **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Dependências**      | Uma boa confiabiliade depende de uma segurança geral do aplicativo e da suportabilidade versátil do mesmo. |
+| **Prioridade**        | Alta. A confiabilidade é crítica para que os usuários possam ter uma experiência consistente e fluida durante o uso do aplicativo Firefox |
+| **Conflitos**         | Não foram identificados conflitos. |
+| **História**          | 26/05/2024 |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+</div>
+
 ## NFR03 - Desempenho
 
 ### Softgoal Interdependency Graph
@@ -192,6 +209,8 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 ### Propagação de Impactos
 
 ### Cartão de Especificação
+
+
 
 ## NFR04 - Suportabilidade
 
@@ -201,6 +220,8 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 
 ### Cartão de Especificação
 
+
+
 ## NFR05 - Interface
 
 ### Softgoal Interdependency Graph
@@ -208,6 +229,8 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 ### Propagação de Impactos
 
 ### Cartão de Especificação
+
+
 
 ## NFR06 - Segurança
 
@@ -238,3 +261,4 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 | 1.2   | 23/05/2024 | Criação da Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | - |
 | 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | - |
+| 1.5   | 26/05/2024 | Desenvolvimento completo do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | - |
