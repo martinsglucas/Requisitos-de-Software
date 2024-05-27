@@ -402,5 +402,5 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 | 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.5   | 26/05/2024 | Desenvolvimento completo do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.6   | 27/05/2024 | Desenvolvimento do NFR05 - Interface | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.6  | 27/05/2024 | Desenvolvimento do NFR05 - Interface | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) 
