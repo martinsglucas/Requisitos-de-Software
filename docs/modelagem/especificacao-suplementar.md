@@ -72,11 +72,11 @@ Tabela 3 - Requisitos de Desempenho
 | Identificador | Descrição |
 | :-----------: | :-------: |
 | DES01 | O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa |
-| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em sistemas com configurações de hardware recomendadas |
-| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos, em conexões de internet de alta velocidade |
+| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em dispositivos móveis com pelo menos 4 GB de RAM e processador quad-core de 1.8 GHz |
+| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos em conexões de internet de alta velocidade (pelo menos 50 Mbps) |
 | DES04 | O sistema deve ser capaz de armazenar em cache páginas web visitadas para acelerar o carregamento de páginas subsequentes |
-| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica e menos de 50% durante operações intensivas |
-| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB em uso típico e não ultrapassar 2 GB em uso intenso | 
+| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica (definida como navegação em sites populares como redes sociais, notícias, e-commerce) e menos de 50% durante operações intensivas (definidas como execução de vídeos em alta definição, jogos online) |
+| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB durante a navegação típica (até 10 guias abertas) e não ultrapassar 2 GB em uso intenso (mais de 30 guias abertas) | 
 
 Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
@@ -196,3 +196,4 @@ UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponív
 |  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
 |  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)
 |  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras)
+| 1.4 | 27/05/2024 | Melhor especificação para o Desempenho | [Lucas Martins](https://github.com/martinsglucas) |  [Leonardo Aguiar](https://github.com/Leonardo0o0)
