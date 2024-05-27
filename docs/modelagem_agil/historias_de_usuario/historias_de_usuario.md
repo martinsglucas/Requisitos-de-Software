@@ -147,7 +147,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo limpar meu histórico de pesquisa, para que minha busca a um tópico seja invisível. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico.<br> -[ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico.<br> - [ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
 | **Prioridade** | Média |
 | **Dificuldade** | Baixa |
 
@@ -160,7 +160,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo deletar minhas senhas e emails, para que eu me sinta mais seguro. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse os meus dados pessoais.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar dos meus dados pessoais.<br> -[ ] O navegador deve deletar do sistema os itens selecionados. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse os meus dados pessoais.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar dos meus dados pessoais.<br> - [ ] O navegador deve deletar do sistema os itens selecionados. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Baixa |
 
@@ -173,7 +173,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar um site utilizando a versão desktop, para que eu possa navegar nele de forma mais intuitiva com algo que já estou acostumado. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu abra as opções de menu.<br> - [ ] O navegador deve ter uma opção nesse menu de versão desktop que seja facilmente localizada.<br> -[ ] O navegador deve adaptar o site para versão desktop no meu aparelho celular. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu abra as opções de menu.<br> - [ ] O navegador deve ter uma opção nesse menu de versão desktop que seja facilmente localizada.<br> - [ ] O navegador deve adaptar o site para versão desktop no meu aparelho celular. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
@@ -186,7 +186,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tema do navegador para claro ou escuro, para que eu possa utilizar ele no modo escuro de noite e claro de dia. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> -[ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem essa opção, ao tema escolhido. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> - [ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem essa opção, ao tema escolhido. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
@@ -199,7 +199,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo favoritas sites na minha barra de favoritos, para que eu tenha mais velocidade e eficiência quando utilizar o navegador. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para favoritar um site ao lado de todos os URL.<br> -[ ] O botão deve abrir uma janela para eu selecionar o nome a se referir ao URL. <br> - [ ] O navegador deve salvar essas mudanças. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para favoritar um site ao lado de todos os URL.<br> - [ ] O botão deve abrir uma janela para eu selecionar o nome a se referir ao URL. <br> - [ ] O navegador deve salvar essas mudanças. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
