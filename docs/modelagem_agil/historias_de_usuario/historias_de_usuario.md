@@ -77,6 +77,30 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
 </div>
 
+### US03 - Sincronizar dados entre dispositivos
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do Firefox, desejo sincronizar meus favoritos, histórico e senhas entre diferentes dispositivos, para que eu possa acessar meus dados pessoais de qualquer lugar. |
+|**Critérios de aceitação**| - [ ] A sincronização deve ser segura e proteger os dados do usuário.<br> - [ ] Os dados devem ser atualizados em tempo real entre dispositivos.<br> - [ ] O usuário deve ter a opção de selecionar quais dados deseja sincronizar. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+</div>
+
+### US04 - Utilizar recursos de acessibilidade
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário com necessidades especiais, desejo utilizar recursos de acessibilidade no Firefox, para que eu possa navegar na web com facilidade. |
+|**Critérios de aceitação**| - [ ] O navegador deve oferecer opção de pesquisa por voz<br>- [ ] O navegador deve oferecer suporte a leitores de tela e teclados alternativos.<br> - [ ] Deve haver opções para aumentar o contraste e o tamanho do texto.<br> - [ ] Os recursos de acessibilidade devem ser facilmente ativáveis e configuráveis. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+</div>
+
 ## Referências
 
 1. SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 22 de maio de 2024.
@@ -90,3 +114,4 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | 1.1 | 22/05/2024 | Adição do método | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.2 | 22/05/2024 | Adição do modelo | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3 | 22/05/2024 | Adição US01 e US02 |  [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.4 | 26/05/2024 | Adição US03 e US04 |  [Kauan Eiras](https://github.com/kauaneiras) |  |
