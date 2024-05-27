@@ -105,15 +105,15 @@ Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidad
 
 <center>
 
-**Tabela 2: Requisitos não funcionáis do Firefox**
+**Tabela 2: Requisitos não funcionais do Firefox**
 
 | ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    |
 |-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|
 | NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples acessivel e eficiente.  | BRS12, QST07, BRS21        | [Kauan Eiras](https://github.com/kauaneiras)  | 
 | NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | Membro 2  |
-| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | Membro 3  |
+| NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | [Lucas Martins](https://github.com/martinsglucas)  |
 | NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Sim      |
-| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  |
+| NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | [Guilherme Westphall](https://github.com/west7)  |
 | NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  |
 
 
@@ -143,10 +143,12 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 ## NFR Framework
 
 ## NFR01 - Usabilidade
+
 De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo "usabilidade" refere-se à facilidade com que os usuários podem aprender a utilizar um sistema, sua eficiência no uso, a facilidade de lembrar como usá-lo, a frequência de erros cometidos pelos usuários e a satisfação dos usuários com o sistema. Ele define os componentes principais da usabilidade como: eficácia, eficiência, aprendizado, memorização e satisfação[4]. Com a grande quantidade de pessoas analfabetas ou portadoras de alguma deficiência que utilizam a internet, outro item importante a ser incluso no NFR Framework de Usabilidade é a acessibilidade.
 
 ### Softgoal Interdependency Graph
 
+O SIG do softgoal "Usabilidade" é apresentado na Figura 5.
 
 <center>
 
@@ -159,12 +161,13 @@ De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo
 </center>
 
 ### Propagação de Impactos
+
 A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 6.
 
 
 <center>
 
-**Figura 6: Softgoal Interdependency Grap do softgoal "Usabilidade"**
+**Figura 6: Propagação de Impactos do softgoal "Usabilidade"**
 
 ![Propagação de Impactos](./NFR%20Framework/Usabilidade-Propagação-de-Impactos.png)
 
@@ -178,7 +181,7 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 
 <center>
 
-**Tabela 3: Requisitos não funcionáis do Firefox**
+**Tabela 3: Carta de Especificação do softgoal "Usabilidade"**
 
 | Tópico                | Informação |
 |-----------------------|-----------------------------|
@@ -199,13 +202,15 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 
 ## NFR02 - Confiabilidade
 
+O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade.
+
 ### Softgoal Interdependency Graph
+
+O SIG do softgoal "Confiabilidade" é apresentado na Figura 7.
 
 <center>
 
 **Figura 7: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
-
-<!-- <img src="./NFR Framework/SIG-Confiabilidade.png"> -->
 
 ![SIG Confiabilidade](./NFR%20Framework/SIG-Confiabilidade.png)
 
@@ -220,9 +225,7 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 
 <center>
 
-**Figura 8: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
-
-<!-- <img src="./NFR Framework/Confiabilidade-Propagação-de-Impactos.png"> -->
+**Figura 8: Propagação de Impactos do softgoal "Confiabilidade"**
 
 ![Propagação de Impactos](./NFR%20Framework/Confiabilidade-Propagação-de-Impactos.png)
 
@@ -236,7 +239,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 
 <center>
 
-**Tabela 4: Requisitos não funcionáis do Firefox**
+**Tabela 4: Carta de Especificação do softgoal "Confiabilidade"**
 
 | Tópico                | Informação |
 |-----------------------|-----------------------------|
@@ -256,13 +259,60 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 
 ## NFR03 - Desempenho
 
+Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga.
+
 ### Softgoal Interdependency Graph
+
+O SIG do softgoal "Desempenho" é apresentado na Figura 9.
+
+<center>
+
+**Figura 9: Softgoal Interdependency Graph do softgoal "Desempenho"**
+
+![SIG Desempenho](./NFR%20Framework/SIG-Desempenho.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+
+</center>
 
 ### Propagação de Impactos
 
+A propagação de impactos do softgoal "Desempenho" pode ser visto na figura 10.
+
+<center>
+
+**Figura 10: Propagação de Impactos do softgoal "Desempenho"**
+
+![Propagação de Impactos](./NFR%20Framework/Propagacao-Impactos-Desempenho.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+
+</center>
+
+
 ### Cartão de Especificação
 
+Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 
+<center>
+
+**Tabela 5: Carta de Especificação do softgoal "Desempenho"**
+
+| Tópico                | Informação |
+|-----------------------|-----------------------------|
+| **ID do NFR**         | NFR03 |
+| **Classificação**     | Desempenho |
+| **Descrição**         | O requisito "Desempenho" refere-se à capacidade do Firefox de carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. Isso inclui a velocidade de carregamento de páginas, a eficiência na execução de scripts e a capacidade de resposta do navegador. |
+| **Justificativa**     | O desempenho é um fator crítico para a satisfação do usuário, influenciando diretamente a experiência de navegação e a eficácia do navegador. Um desempenho lento ou ineficiente pode levar à frustração do usuário, à perda de produtividade e à insatisfação geral com o navegador. |
+| **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Dependências**      | O desempenho depende de uma implementação eficiente das funcionalidades suportadas, como o carregamento de páginas, a execução de scripts e a resposta do navegador. Atualizações contínuas são necessárias para manter o desempenho do navegador. |
+| **Prioridade**        | Alta. O desempenho é um fator crítico para a satisfação do usuário e a eficácia do navegador, influenciando diretamente a experiência de navegação e a produtividade do usuário. |
+| **Conflitos**         | Não foram identificados conflitos. |
+| **História**          | 27/05/2024 |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+
+</center>
 
 ## NFR04 - Suportabilidade
 
@@ -349,7 +399,8 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 | 1.0    | 23/05/2024 | Criação da página e Introdução | [Davi Pierre](https://github.com/DaviPierre)   | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.1    | 23/05/2024 | Adição das Figuras 1, 2 e 3 e ajustes na Introdução | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.2   | 23/05/2024 | Criação da Metodologia | [Kauan Eiras](https://github.com/kauaneiras) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | - |
-| 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | - |
-| 1.5   | 26/05/2024 | Desenvolvimento completo do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | - |
+| 1.3   | 23/05/2024 | Desenvolvimento do NFR01 - Usabilidade | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.5   | 26/05/2024 | Desenvolvimento completo do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.6  | 27/05/2024 | Desenvolvimento do NFR05 - Interface | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) 
