@@ -61,6 +61,7 @@ Favoritar sites
 * Alterar fonte do navegador em tipo e tamanho 
 * Controlar por atalho gestos
 * Alterar entre tema claro e escuro
+* Favoritas sites
 
 #### E04. Performance
 
