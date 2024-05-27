@@ -23,6 +23,7 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Modelo para as histórias de usuário</p></font>
 </div>
 
+<center>
 
 | ID | Descrição |
 | --- | --------- |
@@ -31,9 +32,10 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 | **Prioridade** | Alta / média / baixa |
 | **Dificuldade** | Alta / média / baixa |
 
+</center>
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
 </div>
 
 ## Histórias de usuário
@@ -56,7 +58,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
 </div>
 
 ### US02 - Pesquisar no navegador
@@ -74,7 +76,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
 </div>
 
 ### US03 - Pesquisa por voz
@@ -87,7 +89,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
 ### US04 - Leitura de Páginas para Usuários com Necessidades Especiais
@@ -100,7 +102,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Alta |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
 ### US05 - Controle parental de sites
@@ -113,7 +115,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
 ### US06 - Alterar fonte do navegador em tipo e tamanho
@@ -126,7 +128,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Baixa |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
 ### US07 - Controlar atalhos por gestos
@@ -139,7 +141,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Alta |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
 ### US08 - Limpar histórico 
@@ -152,7 +154,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Baixa |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
 ### US09 - Limpar dados de usuário
@@ -165,10 +167,10 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Baixa |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
 </div>
 
-### US10 - Acessar um site verão desktop
+### US10 - Acessar um site versão desktop
 
 | ID | Descrição |
 | --- | --------- |
@@ -178,7 +180,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
 </div>
 
 ### US11 - Alterar entre o tema claro e escuro
@@ -191,15 +193,15 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
 </div>
 
 
-### US12 - Favoritas sites
+### US12 - Favoritar sites
 
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo favoritas sites na minha barra de favoritos, para que eu tenha mais velocidade e eficiência quando utilizar o navegador. |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo favoritar sites na minha barra de favoritos, para que eu tenha mais velocidade e eficiência quando utilizar o navegador. |
 |**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para favoritar um site ao lado de todos os URL.<br> - [ ] O botão deve abrir uma janela para eu selecionar o nome a se referir ao URL. <br> - [ ] O navegador deve salvar essas mudanças. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
@@ -207,6 +209,49 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
 </div>
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Modelo para as histórias de usuário</p></font>
+</div>
+
+### US13 - Gerir memória
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo utilize a memória de forma eficiente, para que eu não experiencie travamentos na minha navegação. |
+|**Critérios de aceitação**| - [ ] O navegador deve monitorar seu uso de memória e garantir que não ultrapasse 20% da RAM disponível no dispositivo. <br> - [ ] O navegador deve reduzir o uso de memória de abas inativas. <br> - [ ] O navegador deve se manter responsivo mesmo no nível máximo de uso de memória. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta  |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
+</div>
+
+### US14 - Bloquear anúncios
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo me permita bloquear a aparição de anúncios e pop-ups, para que minha navegação seja livre de distrações. |
+| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de identificar e bloquear anúncios nas páginas <br> - [ ] O usuário deve poder ativar ou desativar a função de bloquear anúncios <br> - [ ] O navegador deve garantir que o bloqueio dos anúncios não afete o funcionamento dos sites. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
+</div>
+
+### US15 - Ter segurança
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo seja seguro, para que eu possa utilizá-lo sem me preocupar com rastreamento, roubo de dados e ataques on-line. |
+| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de detectar e sinalizar sites maliciosos <br> - [ ] Os dados do usuário devem ser criptografados pelo navegador <br> [] O usuário deve ser capaz de gerir as permissões de cookies <br> - [] O navegador deve utilizar técnicas de proteção contra vulnerabilidades.  |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
+</div> 
 
 ### US16 - Mudar idioma
 
@@ -218,7 +263,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
 ### US17 - Traduzir pagina
@@ -231,7 +276,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
 ### US18 - Sincronizar dados
@@ -244,7 +289,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Alta |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
 
@@ -263,4 +308,5 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | 1.3 | 22/05/2024 | Adição US01 e US02 |  [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.4 | 26/05/2024 | Adição US03, US04, US05, US06, US07 |  [Kauan Eiras](https://github.com/kauaneiras) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.5 | 26/05/2024 | Adição US08, US09, US10, US11, US12 |  [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
-| 1.5 | 26/05/2024 | Adição US16, US17, US18 e Modificação US08 |  [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.6 | 27/05/2024 | Adição US13, US14 e US15 |  [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](https://github.com/Leonardo0o0)  | 
+| 1.7 | 27/05/2024 | Adição US16, US17, US18 e Modificação US08 |  [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
