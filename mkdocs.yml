@@ -48,6 +48,8 @@ nav:
     - Casos de Uso: modelagem/casos_de_uso/casos_de_uso.md
     - Validação dos Casos de Uso: modelagem/casos_de_uso/valid_casos.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
+    - Agil: 
+      - NFR: modelagem/agil/NFR Framework.md
 theme:
   name: material
   features:

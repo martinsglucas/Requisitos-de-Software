@@ -148,20 +148,23 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 ### +: Requisitos de Interface
 
-As restrições de interface estão ligadas à comunicação do sistema com sistemas externos e buscam definir os protocolos para a ocorrência dessa comunicação.
+Os requisitos de interface no contexto do modelo FURPS+ estão relacionados à qualidade de usabilidade e interface do usuário de um sistema de software. 
 
 Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relacionados a interface.
 
 <center>
 Tabela 7 - Requisitos de Interface
 
-| ID     |    Descrição    | 
-| :----: | :--------:     | 
-|  RI01  | O aplicativo deve possuir uma política de gerenciamento de cookies |
-|  RI02  | O aplicativo deve possuir suporte multilíngue |
-|  RI03  | O aplicativo deve ser capaz de suportar codificação UTF-8 |
-|  RI04  | O aplicativo deve suportar a navegação offline para páginas já carregadas previamente através do cache | 
-|  RI05  | O aplicativo deve realizar transições entre Wi-Fi e rede móvel sem interromper a navegação | 
+| Identificador | Descrição                                                                                  |
+|---------------|--------------------------------------------------------------------------------------------|
+| INT01         | Os elementos da interface devem estar organizados de forma lógica e esteticamente agradável. |
+| INT02         | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques. |
+| INT03         | Mensagens de erro devem ser exibidas em vermelho e destacadas na tela. |
+| INT04         | Um novo usuário deve conseguir concluir uma tarefa simples sem consultar a documentação. |
+| INT05         | A interface deve ser testada com um leitor de tela para garantir que todas as informações sejam acessíveis. |
+| INT06         | O usuário deve conseguir alterar a cor de fundo da interface nas configurações. |
+| INT07         | A interface deve ser testada em pelo menos três navegadores diferentes. |
+| INT08         | A interface deve carregar em menos de dois segundos em uma conexão de internet padrão. |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 

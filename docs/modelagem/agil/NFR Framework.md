@@ -304,17 +304,17 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 
 <center>
 
-**Tabela 7: Requisitos não funcionais do Firefox**
+**Tabela 7: Cartão de especificação do softgoal de Interface**
 
 | Tópico                | Informação |
 |-----------------------|-----------------------------|
 | **ID do NFR**         | NFR05 |
 | **Classificação**     | Interface |
-| **Descrição**         | O requisito "Interface" refere-se à capacidade do Firefox de oferecer interfaces de sistema eficientes e bem definidas que facilitem a comunicação entre diferentes componentes do navegador e com sistemas externos. Essas interfaces devem ser consistentes, seguras e permitir uma integração suave com diversas funcionalidades, incluindo suporte multilíngue, codificação UTF-8, navegação offline e transições de rede sem interrupção. |
-| **Justificativa**     | Interfaces de sistema bem projetadas são essenciais para garantir que os diferentes módulos do Firefox possam interagir de maneira eficiente e segura. Isso inclui a comunicação interna entre componentes do navegador e a interação com sistemas externos, como servidores web e serviços de terceiros. Uma interface de sistema robusta aumenta a modularidade, facilita a manutenção e a atualização do navegador, e garante a consistência e a integridade dos dados. |
+| **Descrição**         | O requisito "Interface" refere-se à capacidade do Firefox de oferecer interfaces de sistema que garantam um layout intuitivo e esteticamente agradável, compatibilidade com diferentes dispositivos e navegadores, feedback claro ao usuário, facilidade de aprendizado e opções de personalização. |
+| **Justificativa**     | Interfaces bem projetadas são fundamentais para garantir uma experiência de usuário positiva. Um layout intuitivo e agradável facilita a compreensão da interface, enquanto a compatibilidade garante que o Firefox seja acessível em diferentes ambientes. O feedback claro ao usuário é essencial para manter os usuários informados sobre o que está acontecendo no sistema. A facilidade de aprendizado torna o navegador acessível para novos usuários, enquanto as opções de personalização permitem que os usuários adaptem a interface às suas preferências individuais, aumentando a satisfação do usuário e a aceitação do navegador. |
 | **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
-| **Dependências**      | A interface depende de uma implementação robusta das funcionalidades suportadas (e.g., suporte multilíngue, codificação UTF-8, navegação offline, transições de rede), além de atualizações contínuas para se manter eficiente e responsiva às necessidades dos usuários. |
-| **Prioridade**        | Alta. A qualidade da interface impacta diretamente a aceitação e a satisfação do usuário com o navegador, influenciando a facilidade de uso e a eficiência das interações. |
+| **Dependências**      | A implementação bem-sucedida desses requisitos depende da integração eficiente dos elementos de layout, testes de compatibilidade em diferentes dispositivos e navegadores, implementação de mensagens de feedback claro, criação de recursos de aprendizado e desenvolvimento de opções de personalização. |
+| **Prioridade**        | Alta. A qualidade da interface impacta diretamente na experiência do usuário e na aceitação do navegador, tornando esses requisitos cruciais para o sucesso do Firefox. |
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 27/05/2024 |
 
