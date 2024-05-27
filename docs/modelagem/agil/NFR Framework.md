@@ -14,8 +14,13 @@ Os softgoals são divididos em três categorias [2], conforme ilustrado na Figur
 2. **Softgoals de Operacionalização**: Soluções práticas para satisfazer os softgoals NFR.
 3. **Softgoals de Afirmação**: Consideram características do domínio, como prioridades e carga de trabalho.
 
+<center>
+
 **Figura 1: Tipos de Softgoals**  
-<center><img src="./NFR Framework/TiposSoftgoals.png"></center>
+
+![Tipos de Softgoals](./NFR%20Framework/TiposSoftgoals.png)
+
+</center>
 
 <div align="center"
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://www.canva.com">Canva.com</a>, 2024</p></font>
@@ -33,9 +38,15 @@ C) **Decomposição de Softgoal de Afirmação (Claims)**: Refina softgoals de a
 
 D) **Priorização**: Cria softgoals similares, mas com prioridades definidas, ajudando na determinação da importância relativa de cada objetivo.
 
+<center>
+
 **Figura 2: Tipos de Refinamentos**  
-<center><img src="./NFR Framework/DecomposiçãoSoftgoal.PNG"></center>
-<center>Fonte: CHUNG, 2000.</center>
+
+![Decomposição](./NFR%20Framework/DecomposiçãoSoftgoal.PNG)
+
+Fonte: CHUNG, 2000.
+
+</center>
 
 ### Tipos de Contribuições
 
@@ -60,18 +71,29 @@ As contribuições descrevem como um softgoal descendente pode impactar o softgo
 
 </center>
 
+<center>
+
 **Figura 3: Contribuições entre Softgoals**  
 
-<center><img src="./NFR Framework/ContibuicaoSoftgoals.PNG"></center>
-<center>Fonte: SERRANO, 2019.</center>
+![Contribuições](./NFR%20Framework/ContibuicaoSoftgoals.PNG)
+
+Fonte: SERRANO, 2019.
+
+</center>
 
 ### Procedimento de Avaliação
 
 O processo de avaliação dos softgoals verifica o grau de satisfação de cada requisito não funcional. Para isso, são atribuídos rótulos aos softgoals, que podem incluir "satisfeito", "parcialmente satisfeito", "não atendido", "parcialmente não atendido", "conflitante" e "indeterminado". Este procedimento é crucial para garantir que todas as interdependências no SIG sejam adequadamente avaliadas e gerenciadas [1].
 
+<center>
+
 **Figura 4: Rótulos da Propagação de Impactos**  
-<center><img src="./NFR Framework/RotulosSoftgoals.PNG"></center>
-<center>Fonte: SILVA, 2019.</center>
+
+![Rótulos](./NFR%20Framework/RotulosSoftgoals.PNG)
+
+Fonte: SILVA, 2019.
+
+</center>
 
 A avaliação detalhada e sistemática dos softgoals, bem como a visualização de suas interdependências e contribuições, são fundamentais para a modelagem eficaz de requisitos não funcionais, garantindo que os objetivos qualitativos do sistema sejam plenamente atendidos.
 
@@ -93,30 +115,30 @@ Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidad
 | NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Sim      |
 | NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | Membro 5  |
 | NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  |
-</center>
 
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+
+</center>
 
 ### Procedimento de Desenvolvimento
 
 Cada membro da equipe foi responsável por um requisito específico, conforme detalhado na tabela acima. O processo envolveu as seguintes etapas:
 
 1. **Análise e Elicitação de Requisitos**:
-   - A partir do documento de especificação suplementar, cada membro analisou e refinou os requisitos não funcionais atribuídos a ele.
+    - A partir do documento de especificação suplementar, cada membro analisou e refinou os requisitos não funcionais atribuídos a ele.
 
 2. **Modelagem dos Requisitos com SIG**:
-   - Para cada requisito, foi criado um SIG (Softgoal Interdependency Graph), que mapeou as interdependências entre os softgoals e documentou as alternativas e justificativas.
-   - O SIG foi essencial para visualizar como cada softgoal impacta os outros e como os requisitos poderiam ser satisfeitos.
+    - Para cada requisito, foi criado um SIG (Softgoal Interdependency Graph), que mapeou as interdependências entre os softgoals e documentou as alternativas e justificativas.
+    - O SIG foi essencial para visualizar como cada softgoal impacta os outros e como os requisitos poderiam ser satisfeitos.
 
 3. **Propagação de Impactos**:
-   - Foi realizado um diagrama de propagação de impactos para entender como a implementação de cada NFR afetaria outros aspectos do sistema.
-   - Este diagrama ajudou a identificar possíveis efeitos colaterais e a planejar mitigações apropriadas.
+    - Foi realizado um diagrama de propagação de impactos para entender como a implementação de cada NFR afetaria outros aspectos do sistema.
+    - Este diagrama ajudou a identificar possíveis efeitos colaterais e a planejar mitigações apropriadas.
 
 4. **Cartão de Especificação**:
-   - Cada NFR foi documentado em um cartão de especificação, que incluía informações detalhadas sobre o requisito, como descrição, classificação, justificativa, origem, dependências, prioridade e possíveis conflitos.
-   - Este cartão serviu como uma referência centralizada para todas as informações críticas sobre o NFR.
+    - Cada NFR foi documentado em um cartão de especificação, que incluía informações detalhadas sobre o requisito, como descrição, classificação, justificativa, origem, dependências, prioridade e possíveis conflitos.
+    - Este cartão serviu como uma referência centralizada para todas as informações críticas sobre o NFR.
 
 ## NFR Framework
 
@@ -124,22 +146,34 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo "usabilidade" refere-se à facilidade com que os usuários podem aprender a utilizar um sistema, sua eficiência no uso, a facilidade de lembrar como usá-lo, a frequência de erros cometidos pelos usuários e a satisfação dos usuários com o sistema. Ele define os componentes principais da usabilidade como: eficácia, eficiência, aprendizado, memorização e satisfação[4]. Com a grande quantidade de pessoas analfabetas ou portadoras de alguma deficiência que utilizam a internet, outro item importante a ser incluso no NFR Framework de Usabilidade é a acessibilidade.
 
 ### Softgoal Interdependency Graph
+
+
+<center>
+
 **Figura 5: Softgoal Interdependency Grap do softgoal "Usabilidade"**
-<center><img src="./NFR Framework/SIG-Usabilidade.png"></center>
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+
+![SIG Usabilidade](./NFR%20Framework/SIG-Usabilidade.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+
+</center>
 
 ### Propagação de Impactos
 A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 6.
 
+
+<center>
+
 **Figura 6: Softgoal Interdependency Grap do softgoal "Usabilidade"**
-<center><img src="./NFR Framework/Usabilidade-Propagação-de-Impactos.png"></center>
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+
+![Propagação de Impactos](./NFR%20Framework/Usabilidade-Propagação-de-Impactos.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+
+</center>
 
 ### Cartão de Especificação
+
 Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 
 <center>
@@ -158,32 +192,49 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 25/05/2024 |
 
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
 
+</center>
 
 
 ## NFR02 - Confiabilidade
 
 ### Softgoal Interdependency Graph
+
+<center>
+
 **Figura 7: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
-<center><img src="./NFR Framework/SIG-Confiabilidade.png"></center>
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
-</div>
+
+<!-- <img src="./NFR Framework/SIG-Confiabilidade.png"> -->
+
+![SIG Confiabilidade](./NFR%20Framework/SIG-Confiabilidade.png)
+
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+
+</center>
 
 ### Propagação de Impactos
 
 A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura 8.
 
+<center>
+
 **Figura 8: Softgoal Interdependency Grap do softgoal "Confiabilidade"**
-<center><img src="./NFR Framework/Confiabilidade-Propagação-de-Impactos.png"></center>
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
-</div>
+
+<!-- <img src="./NFR Framework/Confiabilidade-Propagação-de-Impactos.png"> -->
+
+![Propagação de Impactos](./NFR%20Framework/Confiabilidade-Propagação-de-Impactos.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+
+</center>
 
 ### Cartão de Especificação
+
+Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
+
+<center>
 
 **Tabela 4: Requisitos não funcionáis do Firefox**
 
@@ -200,7 +251,8 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 | **História**          | 26/05/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
-</div>
+
+</center>
 
 ## NFR03 - Desempenho
 
