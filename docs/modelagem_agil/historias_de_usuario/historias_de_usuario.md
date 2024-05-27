@@ -33,7 +33,7 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">Simplilearn</a>, 2021</p></font>
 </div>
 
 ## Histórias de usuário
@@ -56,7 +56,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
 </div>
 
 ### US02 - Pesquisar no navegador
@@ -74,7 +74,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
 </div>
 
 ### US03 - Pesquisa por voz
