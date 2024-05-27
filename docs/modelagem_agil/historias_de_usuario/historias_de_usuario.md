@@ -142,17 +142,17 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
 </div>
 
-### US08 - Limpar histórico de pesquisa
+### US08 - Limpar histórico 
 
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo limpar meu histórico de pesquisa, para que minha busca a um tópico seja invisível. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico.<br> - [ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo limpar meu histórico, para que minha interação com um tópico seja invisível. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br>- [ ] O navegador deve permitir que eu acesse o meu histórico de downloads.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de downloads.<br> - [ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
 | **Prioridade** | Média |
 | **Dificuldade** | Baixa |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
 </div>
 
 ### US09 - Limpar dados de usuário
@@ -194,6 +194,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
 </div>
 
+
 ### US12 - Favoritas sites
 
 | ID | Descrição |
@@ -206,6 +207,46 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
 </div>
+
+### US16 - Mudar idioma
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo mudar idioma do navegador, para que o navegador esteja no meu idoioma de preferência. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de mudar o idioma em suas configurações.<br> - [ ] Deve ser mostrada uma lista com todos os idiomas disponiveis ao acessar a opção de mudar o idioma nas configurações. <br> - [ ] O navegador deve confirmar se o usuario quer trocar o idioma antes de fazer as mudanças.<br> - [ ] O navegador deve salvar essas mudanças. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+</div>
+
+### US17 - Traduzir pagina
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo traduzir uma pagina que acessei, para que eu consiga deixa-la no meu idoioma de preferência. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de Traduzir pagina no menu de opções.<br> - [ ] Deve ser mostrada uma lista com todos os idiomas disponiveis ao acessar a opção de Traduzir pagina. <br> - [ ] O navegador deve atualizar a pagina com essas mudanças. |
+| **Prioridade** | Média |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+</div>
+
+### US18 - Sincronizar dados
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo sincronizar os dados de outro navegador com o meu, para que eu consiga importar minhas preferências e dados salvos. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de sincronizar dados em suas configurações.<br> - [ ] Deve ser possível sincronizar dados com um navegador Firefox aberto em outro dispositivo. <br> - [ ] Deve ser possível sincronizar dados com navegadores diferentes do Firefox. <br> - [ ] O navegador deve salvar essas mudanças. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a></p></font>
+</div>
+
 
 ## Referências
 
@@ -220,5 +261,6 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | 1.1 | 22/05/2024 | Adição do método | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.2 | 22/05/2024 | Adição do modelo | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3 | 22/05/2024 | Adição US01 e US02 |  [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.4 | 26/05/2024 | Adição US03, US04, US05, US06, US07 |  [Kauan Eiras](https://github.com/kauaneiras) |  |
-| 1.5 | 26/05/2024 | Adição US08, US09, US10, US11, US12 |  [Davi Pierre](https://github.com/DaviPierre) |  |
+| 1.4 | 26/05/2024 | Adição US03, US04, US05, US06, US07 |  [Kauan Eiras](https://github.com/kauaneiras) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.5 | 26/05/2024 | Adição US08, US09, US10, US11, US12 |  [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.5 | 26/05/2024 | Adição US16, US17, US18 e Modificação US08 |  [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
