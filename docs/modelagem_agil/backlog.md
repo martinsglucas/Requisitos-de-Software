@@ -45,22 +45,25 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 
 #### E01. Acesso à sites
 * Acessar site
+* Acessar um site versão desktop
 
 #### E02. Pesquisa
 * Pesquisar no navegador
-
 * Pesquisar por voz 
+
+
 
 #### E03. Personalização
 
-* iniciar leitura de pagina 
-* controlar acesso a sites
-* alterar fonte do navegador em tipo e tamanho 
-* controlar por atalho gestos
+* Iniciar leitura de pagina 
+* Controlar acesso a sites
+* Alterar fonte do navegador em tipo e tamanho 
+* Controlar por atalho gestos
+* Alterar entre tema claro e escuro
 
 #### E04. Performance
 
-* gerir memoria
+* Gerir memoria
 
 #### E05. Tradução
 * Mudar idioma
@@ -77,21 +80,29 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 * Deve ser possível alterar senha    
 * O navegador deve ser seguro     
 * Bloquear anuncios
+* Limpar histórico
+* Limpar dados de usuário
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Backlog do Produto</p></font>
 </div>
+
 <center>
 
 | Tema | Épicos | Histórias de Usuário       | Prioridade         | Status                                          | 
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | T01    | E01 | US01 - Acessar site | Alta | Implementado |
 | T01    | E01 | US02 - Pesquisar no navegador | Alta | Implementado |
+| T03    | E07 | US08 - Limpar histórico de pesquisa | Média | Implementado |
+| T03    | E07 | US09 - Limpar dados de usuário | Alta | Implementado |
+| T01    | E01 | US10 - Acessar um site verão desktop | Alta | Implementado |
+| T02    | E03 | US11 - Alterar entre o tema claro e escuro | Alta | Implementado |
+| T01    | E03 | US12 - Favoritas sites | Alta | Implementado |
 
 </center>
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>,2024</p></font>
 </div>
 
 
@@ -103,4 +114,5 @@ LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Dispon
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |
+| 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |7
+| 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | |
