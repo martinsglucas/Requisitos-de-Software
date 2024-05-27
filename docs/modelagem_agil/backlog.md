@@ -46,6 +46,7 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 #### E01. Acesso à sites
 * Acessar site
 * Acessar um site versão desktop
+Favoritar sites 
 
 #### E02. Pesquisa
 * Pesquisar no navegador
@@ -73,6 +74,8 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 * Sincronizar dados entre plataformas
 * Acessar histórico
 * Limpar histórico 
+* Limpar dados de usuário
+
 
 
 #### E07. Segurança
@@ -80,8 +83,6 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 * Deve ser possível alterar senha    
 * O navegador deve ser seguro     
 * Bloquear anuncios
-* Limpar histórico
-* Limpar dados de usuário
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Backlog do Produto</p></font>
@@ -92,12 +93,29 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam
 | Tema | Épicos | Histórias de Usuário       | Prioridade         | Status                                          | 
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | T01    | E01 | US01 - Acessar site | Alta | Implementado |
-| T01    | E01 | US02 - Pesquisar no navegador | Alta | Implementado |
-| T03    | E07 | US08 - Limpar histórico de pesquisa | Média | Implementado |
-| T03    | E07 | US09 - Limpar dados de usuário | Alta | Implementado |
-| T01    | E01 | US10 - Acessar um site verão desktop | Alta | Implementado |
+| T01    | E01 | US02 - Acessar site formato desktop | Alta | Implementado |
+| T01   | E01 | US12 - Favoritar sites | Alta | Implementado |
+| T01    | E02 | US03 - Pesquisar no navegador | Alta | Implementado |
+| T01    | E02 | US02 - Pesquisar por voz | Alta | Não implementado |
+| T02    | E03 | US12 - Iniciar leitura de páginas | Alta | Implementado |
+| T02    | E03 | US12 - Controlar acesso à sites | Alta | Implementado |
+| T02    | E03 | US12 - Alterar fonte do navegador | Alta | Implementado |
+| T02    | E03 | US12 - Controlar por atalho de gestos | Alta | Implementado |
 | T02    | E03 | US11 - Alterar entre o tema claro e escuro | Alta | Implementado |
-| T01    | E03 | US12 - Favoritas sites | Alta | Implementado |
+| T03    | E04 | US12 - Gerir memória | Alta | Implementado |
+| T03    | E05 | US12 - Mudar idioma | Alta | Implementado |
+| T03    | E05 | US12 - Traduzir página | Alta | Implementado |
+| T03    | E06 | US12 - Sincronizar dados | Alta | Implementado |
+| T03    | E06 | US12 - Acessar histórico | Alta | Implementado |
+| T03    | E06 | US12 - Limpar histórico | Alta | Implementado |
+| T03    | E06 | US08 - Limpar histórico de pesquisa | Média | Implementado |
+| T03    | E06 | US09 - Limpar dados de usuário | Alta | Implementado |
+| T03    | E07 | US09 - Trocar de conta | Alta | Implementado |
+| T03    | E07 | US09 - Alterar senha | Alta | Implementado |
+| T03    | E07 | US09 - Ter segurança | Alta | Implementado |
+| T03    | E06 | US09 - Bloquear anúncios | Alta | Implementado |
+
+
 
 </center>
 
@@ -115,4 +133,4 @@ LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Dispon
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |7
-| 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | |
+| 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) |
