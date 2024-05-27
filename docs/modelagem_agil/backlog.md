@@ -108,7 +108,7 @@ Favoritar sites
 | T03    | E05 | US12 - Traduzir página | Alta | Implementado |
 | T03    | E06 | US12 - Sincronizar dados | Alta | Implementado |
 | T03    | E06 | US12 - Acessar histórico | Alta | Implementado |
-| T03    | E06 | US12 - Limpar histórico | Alta | Implementado |
+| T03    | E06 | US12 - Limpar histórico de navegação| Alta | Implementado |
 | T03    | E06 | US08 - Limpar histórico de pesquisa | Média | Implementado |
 | T03    | E06 | US09 - Limpar dados de usuário | Alta | Implementado |
 | T03    | E07 | US09 - Trocar de conta | Alta | Implementado |
