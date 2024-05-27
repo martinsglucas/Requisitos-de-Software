@@ -77,11 +77,25 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="">?</a></p></font>
 </div>
 
-### US03 - Sincronizar dados entre dispositivos
+### US03 - Pesquisa por voz
+
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário do Firefox, desejo sincronizar meus favoritos, histórico e senhas entre diferentes dispositivos, para que eu possa acessar meus dados pessoais de qualquer lugar. |
-|**Critérios de aceitação**| - [ ] O navegador deve oferecer opção de entrar em uma conta onde os dados do usuário estão salvos <br> - [ ] A sincronização deve ser segura e proteger os dados do usuário.<br> - [ ] Os dados devem ser atualizados em tempo real entre dispositivos.<br> - [ ] O usuário deve ter a opção de selecionar quais dados deseja sincronizar. |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo realizar buscas utilizando comandos de voz, para que eu possa pesquisar sem usar o teclado. |
+|**Critérios de aceitação**| - [ ] Deve haver um botão ou comando para ativar a pesquisa por voz facilmente acessível. <br> - [ ] O navegador deve reconhecer e interpretar comandos de voz dados pelo usuário.<br>  |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+</div>
+
+### US04 - Leitura de Páginas para Usuários com Necessidades Especiais
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário com necessidades especiais, desejo que o navegador leia o conteúdo da página em voz alta, para que eu possa acessar informações sem precisar ler o texto. |
+|**Critérios de aceitação**| - [ ] O navegador deve suportar a leitura em voz alta de todo o conteúdo textual da página.<br> - [ ] Deve haver opções para controlar a velocidade e a voz da leitura.<br> - [ ] O usuário deve poder iniciar e parar a leitura facilmente.<br> - [ ] O texto deve ser destacado conforme é lido para facilitar o acompanhamento visual. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
@@ -89,11 +103,38 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
 </div>
 
-### US04 - Utilizar recursos de acessibilidade
+### US05 - Controle parental de sites
+
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário com necessidades especiais, desejo utilizar recursos de acessibilidade no Firefox, para que eu possa navegar na web com facilidade. |
-|**Critérios de aceitação**| - [ ] O navegador deve oferecer opção de pesquisa por voz<br>- [ ] O navegador deve oferecer suporte a leitores de tela e teclados alternativos.<br> - [ ] Deve haver opções para aumentar o contraste e o tamanho do texto.<br> - [ ] Os recursos de acessibilidade devem ser facilmente ativáveis e configuráveis. |
+|  **História de usuário**   | Como um pai/mãe ou responsável, desejo implementar controles parentais no navegador, para que eu possa limitar o acesso a conteúdos inapropriados para meus filhos. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir a configuração de listas de sites bloqueados e permitidos.<br>  - [ ] O navegador deve permitir a configuração de listas palavras que não podem estar inclusas nas pesquisas.<br> - [ ] Deve haver opções para definir horários de uso e tempo limite de navegação.<br> - [ ] O acesso ao controle parental deve ser protegido por senha. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+</div>
+
+### US06 - Alterar fonte do navegador em tipo e tamanho
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tipo e o tamanho da fonte, para que eu possa ajustar a leitura conforme minhas preferências e necessidades visuais. |
+|**Critérios de aceitação**| - [ ] O navegador deve oferecer uma variedade de tipos de fonte para escolha.<br> - [ ] O usuário deve poder aumentar ou diminuir o tamanho da fonte conforme desejado.<br> - [ ] As mudanças nas configurações de fonte devem ser aplicadas imediatamente a todas as páginas.<br> - [ ] As configurações de fonte personalizadas devem ser salvas para sessões futuras. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Baixa |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a></p></font>
+</div>
+
+### US07 - Controlar atalhos por gestos
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo controlar os atalhos do navegador por meio de gestos, para que eu possa navegar de forma mais rápida e intuitiva. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir ativar ou desativar o reconhecimento de gestos padrão para comandos comuns (ex.: voltar, avançar, atualizar).<br> - [ ] Os gestos devem ser reconhecidos com precisão e ter uma resposta rápida.<br> |
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
@@ -114,4 +155,4 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | 1.1 | 22/05/2024 | Adição do método | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.2 | 22/05/2024 | Adição do modelo | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3 | 22/05/2024 | Adição US01 e US02 |  [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.4 | 26/05/2024 | Adição US03 e US04 |  [Kauan Eiras](https://github.com/kauaneiras) |  |
+| 1.4 | 26/05/2024 | Adição US03, US04, US05, US06, US07 |  [Kauan Eiras](https://github.com/kauaneiras) |  |
