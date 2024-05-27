@@ -81,7 +81,7 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do Firefox, desejo sincronizar meus favoritos, histórico e senhas entre diferentes dispositivos, para que eu possa acessar meus dados pessoais de qualquer lugar. |
-|**Critérios de aceitação**| - [ ] A sincronização deve ser segura e proteger os dados do usuário.<br> - [ ] Os dados devem ser atualizados em tempo real entre dispositivos.<br> - [ ] O usuário deve ter a opção de selecionar quais dados deseja sincronizar. |
+|**Critérios de aceitação**| - [ ] O navegador deve oferecer opção de entrar em uma conta onde os dados do usuário estão salvos <br> - [ ] A sincronização deve ser segura e proteger os dados do usuário.<br> - [ ] Os dados devem ser atualizados em tempo real entre dispositivos.<br> - [ ] O usuário deve ter a opção de selecionar quais dados deseja sincronizar. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
