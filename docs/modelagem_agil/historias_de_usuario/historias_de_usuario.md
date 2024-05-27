@@ -23,6 +23,7 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Modelo para as histórias de usuário</p></font>
 </div>
 
+<center>
 
 | ID | Descrição |
 | --- | --------- |
@@ -31,9 +32,10 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 | **Prioridade** | Alta / média / baixa |
 | **Dificuldade** | Alta / média / baixa |
 
+</center>
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">Simplilearn</a>, 2021</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
 </div>
 
 ## Histórias de usuário
