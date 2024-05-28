@@ -100,27 +100,27 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 | Tema | Épicos | Histórias de Usuário       | Prioridade         | Status                                          | 
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | T01    | E01 | US01 - Acessar site | Alta | Implementado |
-| T01    | E01 | US02 - Acessar site formato desktop | Alta | Implementado |
+| T01    | E01 | US10 - Acessar site formato desktop | Alta | Implementado |
 | T01   | E01 | US12 - Favoritar sites | Alta | Implementado |
-| T01    | E02 | US03 - Pesquisar no navegador | Alta | Implementado |
-| T01    | E02 | US02 - Pesquisar por voz | Alta | Não implementado |
-| T02    | E03 | US12 - Iniciar leitura de páginas | Alta | Implementado |
-| T02    | E03 | US12 - Controlar acesso à sites | Alta | Não implementado |
-| T02    | E03 | US12 - Alterar fonte do navegador | Alta | Implementado |
-| T02    | E03 | US12 - Controlar por atalho de gestos | Alta | Implementado |
+| T01    | E02 | US02 - Pesquisar no navegador | Alta | Implementado |
+| T01    | E02 | US03 - Pesquisar por voz | Alta | Não implementado |
+| T02    | E03 | US04 - Iniciar leitura de páginas | Alta | Implementado |
+| T02    | E03 | US05 - Controlar acesso à sites | Alta | Não implementado |
+| T02    | E03 | US06 - Alterar fonte do navegador | Alta | Implementado |
+| T02    | E03 | US07 - Controlar por atalho de gestos | Alta | Implementado |
 | T02    | E03 | US11 - Alterar entre o tema claro e escuro | Alta | Implementado |
-| T03    | E04 | US12 - Gerir memória | Alta | Implementado |
-| T03    | E05 | US12 - Mudar idioma | Alta | Implementado |
-| T03    | E05 | US12 - Traduzir página | Alta | Implementado |
-| T03    | E06 | US12 - Sincronizar dados | Alta | Implementado |
-| T03    | E06 | US12 - Acessar histórico de navegação | Alta | Implementado |
-| T03    | E06 | US12 - Acessar histórico de downloads | Alta | Implementado |
-| T03    | E06 | US12 - Limpar histórico | Alta | Implementado |
+| T03    | E04 | US13 - Gerir memória | Alta | Implementado |
+| T03    | E05 | US16 - Mudar idioma | Alta | Implementado |
+| T03    | E05 | US17 - Traduzir página | Alta | Implementado |
+| T03    | E06 | US18 - Sincronizar dados | Alta | Implementado |
+| T03    | E06 | US21 - Acessar histórico de navegação | Alta | Implementado |
+| T03    | E06 | US22 - Acessar histórico de downloads | Alta | Implementado |
+| T03    | E06 | US08 - Limpar histórico | Alta | Implementado |
 | T03    | E06 | US09 - Limpar dados de usuário | Alta | Implementado |
-| T03    | E07 | US09 - Trocar de conta | Alta | Implementado |
-| T03    | E07 | US09 - Alterar senha | Alta | Implementado |
-| T03    | E07 | US09 - Ter segurança contra ataques | Alta | Implementado |
-| T03    | E06 | US09 - Bloquear anúncios | Alta | Implementado |
+| T03    | E07 | US19 - Trocar de conta | Alta | Implementado |
+| T03    | E07 | US20 - Alterar senha | Alta | Implementado |
+| T03    | E07 | US15 - Ter segurança contra ataques | Alta | Implementado |
+| T03    | E06 | US14 - Bloquear anúncios | Alta | Implementado |
 
 
 
