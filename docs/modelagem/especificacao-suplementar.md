@@ -72,11 +72,11 @@ Tabela 3 - Requisitos de Desempenho
 | Identificador | Descrição |
 | :-----------: | :-------: |
 | DES01 | O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa |
-| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em sistemas com configurações de hardware recomendadas |
-| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos, em conexões de internet de alta velocidade |
+| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em dispositivos móveis com pelo menos 4 GB de RAM e processador quad-core de 1.8 GHz |
+| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos em conexões de internet de alta velocidade (pelo menos 50 Mbps) |
 | DES04 | O sistema deve ser capaz de armazenar em cache páginas web visitadas para acelerar o carregamento de páginas subsequentes |
-| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica e menos de 50% durante operações intensivas |
-| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB em uso típico e não ultrapassar 2 GB em uso intenso | 
+| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica (definida como navegação em sites populares como redes sociais, notícias, e-commerce) e menos de 50% durante operações intensivas (definidas como execução de vídeos em alta definição, jogos online) |
+| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB durante a navegação típica (até 10 guias abertas) e não ultrapassar 2 GB em uso intenso (mais de 30 guias abertas) | 
 
 Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
@@ -148,20 +148,23 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 ### +: Requisitos de Interface
 
-As restrições de interface estão ligadas à comunicação do sistema com sistemas externos e buscam definir os protocolos para a ocorrência dessa comunicação.
+Os requisitos de interface no contexto do modelo FURPS+ estão relacionados à qualidade de usabilidade e interface do usuário de um sistema de software. 
 
 Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relacionados a interface.
 
 <center>
 Tabela 7 - Requisitos de Interface
 
-| ID     |    Descrição    | 
-| :----: | :--------:     | 
-|  RI01  | O aplicativo deve possuir uma política de gerenciamento de cookies |
-|  RI02  | O aplicativo deve possuir suporte multilíngue |
-|  RI03  | O aplicativo deve ser capaz de suportar codificação UTF-8 |
-|  RI04  | O aplicativo deve suportar a navegação offline para páginas já carregadas previamente através do cache | 
-|  RI05  | O aplicativo deve realizar transições entre Wi-Fi e rede móvel sem interromper a navegação | 
+| Identificador | Descrição                                                                                  |
+|---------------|--------------------------------------------------------------------------------------------|
+| INT01         | Os elementos da interface devem estar organizados de forma lógica e esteticamente agradável. |
+| INT02         | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques. |
+| INT03         | Mensagens de erro devem ser exibidas em vermelho e destacadas na tela. |
+| INT04         | Um novo usuário deve conseguir concluir uma tarefa simples sem consultar a documentação. |
+| INT05         | A interface deve ser testada com um leitor de tela para garantir que todas as informações sejam acessíveis. |
+| INT06         | O usuário deve conseguir alterar a cor de fundo da interface nas configurações. |
+| INT07         | A interface deve ser testada em pelo menos três navegadores diferentes. |
+| INT08         | A interface deve carregar em menos de dois segundos em uma conexão de internet padrão. |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
@@ -196,3 +199,4 @@ UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponív
 |  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
 |  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)
 |  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras)
+| 1.4 | 27/05/2024 | Melhor especificação para o Desempenho | [Lucas Martins](https://github.com/martinsglucas) |  [Leonardo Aguiar](https://github.com/Leonardo0o0)

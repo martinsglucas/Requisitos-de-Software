@@ -403,7 +403,7 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
-## Bibliografia
+## Referências bibliográficas
 
 [1] Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
 
