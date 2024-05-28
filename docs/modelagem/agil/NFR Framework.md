@@ -421,18 +421,67 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 
 </center>
 
-## NFR06 - Segurança
+## NFR06 - Implementação
+
+Os requisitos de implementação especificam as restrições e condições necessárias para a construção de uma aplicação. Eles indicam a maneira de desenvolvimento técnico, de estruturação e de manutenabilidade adotada.  
 
 ### Softgoal Interdependency Graph
 
+O SIG do softgoal "Implementação" é apresentado na Figura 9.
+
+<center>
+
+**Figura 15: Softgoal Interdependency Graph do softgoal "Implementação"**
+
+![SIG Desempenho](./NFR%20Framework/sig1kal.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Passos</a>, 2024</p></font>
+
+</center>
+
 ### Propagação de Impactos
 
+A propagação de impactos do softgoal "Implementação" pode ser visto na figura 16.
+
+<center>
+
+**Figura 16: Propagação de Impactos do softgoal "Implementação"**
+
+![Propagação de Impactos](./NFR%20Framework/sig2kal.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Passos</a>, 2024</p></font>
+
+</center>
+
+
 ### Cartão de Especificação
+
+Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
+
+<center>
+
+**Tabela 8: Carta de Especificação do softgoal "Implementação"**
+
+| Tópico                | Informação |
+|-----------------------|-----------------------------|
+| **ID do NFR**         | NFR06 |
+| **Classificação**     | Implementação |
+| **Descrição**         | O requisito "Implementação" refere-se às restrições de construção, codificação, integração e manutenibilidade do Firefox, o  que o torna vital no desenvolvimento de uma aplicação eficiente e sustentável. |
+| **Justificativa**     | Os requisitos de implementação guiam o desenvolvimento técnico do sistema, sendo essencial para a vida de uma apliicação sustentável e expansível. Sem uma implementação adequada, não há possibilidade de formar uma base de usuários. |
+| **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Dependências**      | A implementação do sistema depende de uma definição assertiva de arquitetura e das restrições das tecnologias e ferramentas escolhidas para o desenvolvimento. |
+| **Prioridade**        | Alta. A implementação é estritamente necessária para que se ocorra o uso devido e esperado. |
+| **Conflitos**         | Não foram identificados conflitos. |
+| **História**          | 27/05/2024 |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+
+</center>
 
 
 ## Referências bibliográficas
 
-[1] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 05/11/2023.
+[1] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
 
 [2] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 
@@ -440,6 +489,7 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 
 [4] NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
 
+[5] Firefox Source Tree Documentation, 2024.  Disponível em: https://firefox-source-docs.mozilla.org/index.html. Acesso em 26 de maio de 2024.
 
 ## Histórico de versões
 
@@ -454,3 +504,4 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 | 1.6  | 27/05/2024 | Desenvolvimento do NFR05 - Interface | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.8  | 27/05/2024 | Desenvolvimento do NFR04 - Suportabilidade | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras) |
+| 1.9  | 27/05/2024 | Desenvolvimento do NFR06 - Implementação | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan Eiras](https://github.com/kauaneiras) |
