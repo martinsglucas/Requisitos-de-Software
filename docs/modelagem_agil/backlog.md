@@ -127,7 +127,7 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 </center>
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>,2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/Leonardo0o">Leonardo Aguiar</a>,2024</p></font>
 </div>
 
 
@@ -141,6 +141,4 @@ LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Dispon
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |
 | 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.0    | 27/05/2024 | Correções gerais | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
-
-
+| 1.2    | 27/05/2024 | Correções gerais | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
