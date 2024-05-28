@@ -89,7 +89,6 @@ A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams 
 
 #### Tabela 3: Participantes
 
-<center>
 
 | Nome                | Função   |
 | ------------------- | -------- |
@@ -102,6 +101,8 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 
 </center>
 
+<center>
+
 #### Diagrama 1: Site mural
 
 <iframe src='https://app.mural.co/embed/e3aa0280-083f-4c3e-b05f-6a37b452ff2c'
@@ -112,10 +113,12 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 
 Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 
+</center>
+
+<center>
 
 #### Tabela 4: Priorização pela técnica "Three Level Scale".
 
-<center>
 
 | Tipo | Descrição                                                                    | Rastreabilidade            | Prioridade|
 | ---- | ---------------------------------------------------------------------------- | -------------------------- | --------- |
@@ -123,7 +126,7 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 | RF   | O aplicativo deve ter opção de navegação anônima                             | OBS02                      | Média     |
 | RF   | Deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | Baixa     |
 | RF   | Deve possuir opção de favoritar sites                                        | OBS04                      | Alta      |
-| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Médi      |
+| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Média     |
 | RF   | Deve possuir histórico de downloads                                          | OBS06                      | Baixa     |
 | RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Alta      |
 | RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, QST01, BRS14 | Alta      |
@@ -166,9 +169,10 @@ Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
 
 </center>
 
+<center>
+
 #### Vídeo 2: Gravação da reunião de aplicação da técnica "Three Level Scale".
 
-<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -258,9 +262,10 @@ Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 
 </center>
 
+<center>
+
 #### Vídeo 3: Gravação da reunião de aplicação da técnica "MoSCoW".
 
-<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVQSXssAvRE?si=tijv7M6PMBKwttF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -268,8 +273,128 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
-</center>
+## Resultado da Priorização
 
+A tabela 8 mostra os requisitos que tiveram maior prioridade nas técnicas [In or Out](#tabela-2-priorizacao-pela-tecnica-in-or-out) (In), [Three Level Scale](#tabela-4-priorizacao-pela-tecnica-three-level-scale) (Alta ou Média) e [Moscow](#tabela-7-priorizacao-pela-tecnica-moscow) (M ou S).
+
+<center>
+
+#### Tabela 8: Requisitos Priorizados
+
+| Tipo | Descrição                                                                    | Rastreabilidade            | Implementado  | Priorização    |
+| ---- | ---------------------------------------------------------------------------- | -------------------------- | ------------- | -------------- |
+| RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | Sim           | In, Alta, M    |
+| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Sim           | In, Média, M   |
+| RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Sim           | In, Alta, S    |
+| RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, QST01, BRS14 | Sim           | In, Alta, M    |
+| RF   | Deve ser possível mudar o idioma                                             | OBS14                      | Sim           | In, Média, M   |
+| RF   | Deve ser possível mudar entre tema claro e escuro                            | OBS15, OBS16, QST04        | Sim           | In, Alta, C    |
+| RF   | Deve possuir atalhos de gestos                                               | OBS18                      | Sim           | In, Média, M   |
+| RF   | Deve ser possível trocar de conta                                            | OBS20                      | Sim           | In, Alta, M    |
+| RF   | Deve ser possível alterar senha                                              | OBS21                      | Sim           | In, Alta, M    |
+| RF   | Deve ser possível limpar histórico de navegação                              | OBS22                      | Sim           | In, Média, M   |
+| RF   | Deve ser possível limpar dados do usuário                                    | OBS23                      | Sim           | In, Média, M   |
+| RF   | Deve ser possível habilitar e bloquear notificações                          | OBS24                      | Sim           | In, Alta, S    |
+| RF   | Deve ser possível alterar fonte do navegador em tipo e tamanho               | OBS26, OBS19               | Não           | In, Alta, M    |
+| RF   | O navegador deve incluir opção de bloquear anúncios                          | OBS27, BRS08, QST02        | Não           | In, Alta, S    |
+| RF   | O navegador deve incluir opção de busca na página                            | OBS28                      | Sim           | In, Alta, S    |
+| RF   | A barra de pesquisa deve incluir opção de pesquisa por voz                   | OBS29                      | Sim           | In, Alta, M    |
+| RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | Não           | In, Alta, M    |
+| RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | Não           | In, Alta, M    |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | Não           | In, Alta, M    |
+| RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | Não           | In, Alta, S    |
+| RNF  | Retirar excesso de funções que usuários não vão utilizar                     | ENT09, QST06               | Não           | In, Média, S   |
+| RNF  | O sistema deve gerir bem a memória                                           | BRS02                      | Sim           | In, Alta, M    |
+| RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               | Sim           | In, Média, M   |
+| RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 | Sim           | In, Alta, M    |
+| RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim           | In, Alta, M    |
+
+
+<!-- 
+
+Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos duas das técnicas aplicadas.
+
+| Tipo | Descrição                                                                    | Rastreabilidade            | Implementado     | Priorização    |
+| ---- | ---------------------------------------------------------------------------- | -------------------------- | ---------------- | -------------- |
+| RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | Sim              | In, Alta, M    |
+| RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Sim              | In, Média, M   |
+| RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Sim              | In, Alta, S    |
+| RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, BRS14        | Sim              | In, Alta, M    |
+| RF   | Deve ser possível visualizar em formato desktop                              | OBS09                      | Sim              | Out, Alta, M   |
+| RF   | Deve ser possível mudar o idioma                                             | OBS14                      | Sim              | In, Média, M   |
+| RF   | Deve ser possível mudar entre tema claro e escuro                            | OBS15, OBS16               | Sim              | In, Alta, C    |
+| RF   | Deve possuir atalhos de gestos                                               | OBS18                      | Sim              | In, Média, M   |
+| RF   | Deve ser possível trocar de conta                                            | OBS20                      | Sim              | In, Alta, M    |
+| RF   | Deve ser possível alterar senha                                              | OBS21                      | Sim              | In, Alta, M    |
+| RF   | Deve ser possível limpar histórico de navegação                              | OBS22                      | Sim              | In, Média, M   |
+| RF   | Deve ser possível limpar dados do usuário                                    | OBS23                      | Sim              | In, Média, M   |
+| RF   | Deve ser possível habilitar e bloquear notificações                          | OBS24                      | Sim              | In, Alta, S    |
+| RF   | Deve ser possível alterar fonte do navegador em tipo e tamanho               | OBS26, OBS19               | Não              | In, Alta, M    |
+| RF   | O navegador deve incluir opção de bloquear anúncios                          | OBS27, BRS08, QST02        | Não              | In, Alta, S    |
+| RF   | O navegador deve incluir opção de busca na página                            | OBS28                      | Sim              | In, Alta, S    |
+| RF   | A barra de pesquisa deve incluir opção de pesquisa por voz                   | OBS29                      | Sim              | In, Alta, M    |
+| RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | Não              | In, Alta, M    |
+| RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | Não              | In, Alta, M    |
+| RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | Não              | In, Alta, M    |
+| RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | Não              | In, Alta, S    |
+| RNF  | Modo para daltônicos                                                         | ENT07, BRS17, QST04        | Não              | In, Baixa, M   |
+| RNF  | O navegador deve ser rápido                                                  | BRS01                      | Sim              | Out, Alta, M   |
+| RNF  | O sistema deve gerir bem a memória                                           | BRS02                      | Sim              | In, Alta, M    |
+| RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               | Sim              | In, Média, M   |
+| RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS06, BRS16 | Sim              | In, Alta, M    |
+| RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim              | In, Alta, M    | -->
+
+
+<!-- TABELA CHEIA -->
+<!-- | Tipo | Descrição                                                                    | Rastreabilidade            | Implementado  | Priorização    | -->
+<!-- | ---- | ---------------------------------------------------------------------------- | -------------------------- | ------------- | -------------- | -->
+<!-- | RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | Sim           | In, Alta, M    | -->
+<!-- | RF   | O aplicativo deve ter opção de navegação anônima                             | OBS02                      | Sim           | Out, Média, S  | -->
+<!-- | RF   | Deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | Não           | In, Baixa, C   | -->
+<!-- | RF   | Deve possuir opção de favoritar sites                                        | OBS04                      | Sim           | Out, Alta, S   | -->
+<!-- | RF   | Deve possuir histórico de navegação                                          | OBS05, BRS24               | Sim           | In, Média, M   | -->
+<!-- | RF   | Deve possuir histórico de downloads                                          | OBS06                      | Sim           | Out, Baixa, M  | -->
+<!-- | RF   | Deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Sim           | In, Alta, S    | -->
+<!-- | RF   | Deve possuir opção de sincronizar dados e salvar                             | OBS08, BRS03, QST01, BRS14 | Sim           | In, Alta, M    | -->
+<!-- | RF   | Deve ser possível visualizar em formato desktop                              | OBS09                      | Sim           | Out, Alta, M   | -->
+<!-- | RF   | Deve ser possível criar atalhos na tela inicial do dispositivo               | OBS10, ENT10               | Sim           | Out, Alta, S   | -->
+<!-- | RF   | O navegador deve oferecer sugestões personalizadas de pesquisa               | OBS12, BRS15               | Sim           | In, Média, C   | -->
+<!-- | RF   | Deve ser possível personalizar a tela inicial do navegador                   | OBS13, BRS22               | Sim           | Out, Alta, W   | -->
+<!-- | RF   | Deve ser possível mudar o idioma                                             | OBS14                      | Sim           | In, Média, M   | -->
+<!-- | RF   | Deve ser possível mudar entre tema claro e escuro                            | OBS15, OBS16, QST04        | Sim           | In, Alta, C    | -->
+<!-- | RF   | Deve possuir atalhos de gestos                                               | OBS18                      | Sim           | In, Média, M   | -->
+<!-- | RF   | Deve ser possível trocar de conta                                            | OBS20                      | Sim           | In, Alta, M    | -->
+<!-- | RF   | Deve ser possível alterar senha                                              | OBS21                      | Sim           | In, Alta, M    | -->
+<!-- | RF   | Deve ser possível limpar histórico de navegação                              | OBS22                      | Sim           | In, Média, M   | -->
+<!-- | RF   | Deve ser possível limpar dados do usuário                                    | OBS23                      | Sim           | In, Média, M   | -->
+<!-- | RF   | Deve ser possível habilitar e bloquear notificações                          | OBS24                      | Sim           | In, Alta, S    | -->
+<!-- | RF   | Deve ser possível alterar fonte do navegador em tipo e tamanho               | OBS26, OBS19               | Não           | In, Alta, M    | -->
+<!-- | RF   | O navegador deve incluir opção de bloquear anúncios                          | OBS27, BRS08, QST02        | Não           | In, Alta, S    | -->
+<!-- | RF   | O navegador deve incluir opção de busca na página                            | OBS28                      | Sim           | In, Alta, S    | -->
+<!-- | RF   | A barra de pesquisa deve incluir opção de pesquisa por voz                   | OBS29                      | Sim           | In, Alta, M    | -->
+<!-- | RF   | O navegador deve possuir opção de leitura da página para deficientes visuais | OBS30, BRS11               | Não           | In, Alta, M    | -->
+<!-- | RF   | Deve possuir opção de controle parental                                      | OBS32, BRS18               | Não           | In, Alta, M    | -->
+<!-- | RF   | Deve oferecer opção de impressão                                             | OBS33                      | Sim           | Out, Média, S  | -->
+<!-- | RF   | Deve conter opção de traduzir páginas                                        | OBS34, BRS10               | Não           | In, Alta, M    | -->
+<!-- | RF   | Sincronização de dados com a conta do Google                                 | ENT01, BRS07, QST01        | Não           | In, Alta, S    | -->
+<!-- | RNF  | Ser leve                                                                     | ENT04, QST03               | Não           | In, Baixa, S   | -->
+<!-- | RNF  | Acesso rápido à sites acessados recentemente                                 | ENT05, BRS24               | Sim           | Out, Baixa, S  | -->
+<!-- | RNF  | Temas mais arredondados                                                      | ENT06                      | Não           | Out, Baixa, W  | -->
+<!-- | RNF  | Modo para daltônicos                                                         | ENT07, BRS17, QST04        | Não           | In, Baixa, M   | -->
+<!-- | RF   | Rede privada virtual (VPN)                                                   | ENT03                      | Não           | Out, Média, S  | -->
+<!-- | RF   | Capacidade de usar aplicações em outros navegadores                          | ENT08                      | Não           | Out, Baixa, M  | -->
+<!-- | RNF  | Retirar excesso de funções que usuários não vão utilizar                     | ENT09, QST06               | Não           | In, Média, S   | -->
+<!-- | RNF  | O navegador deve ser rápido                                                  | BRS01                      | Sim           | Out, Alta, M   | -->
+<!-- | RNF  | O sistema deve gerir bem a memória                                           | BRS02                      | Sim           | In, Alta, M    | -->
+<!-- | RF   | O sistema deve ser compatível com várias plataformas                         | BRS05, BRS20               | Sim           | In, Média, M   | -->
+<!-- | RNF  | O navegador deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 | Sim           | In, Alta, M    | -->
+<!-- | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim           | In, Alta, M    | -->
+<!-- | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Não           | Out, Média, C  | -->
+
+
+Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
+
+</center>
 
 ## Referências
 
@@ -287,3 +412,4 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
 | 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale     | [Lucas Martins](https://github.com/martinglucas) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.5    | 20/04/2024 | Adiciona o metodo MOSCOW | [Leonardo Sobrinho](https://github.com/Leonardo0o0) |[Kallyne Macedo](https://github.com/kalipassos) |
 | 1.6    | 22/04/2024 | Adiciona o vídeo do método MOSCOW | [Kallyne Macedo](https://github.com/kalipassos) | [Guilherme Westphall](https://github.com/west7) |
+| 1.7    | 26/05/2024 | Adiciona tabela de resultado da priorização | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras) |
