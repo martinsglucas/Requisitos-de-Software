@@ -110,11 +110,11 @@ Os NFRs foram divididos em cinco aspectos principais: Usabilidade, Confiabilidad
 | ID    | Tipo           | Descrição                                                                                           | Rastreabilidade            | Membro    |
 |-------|----------------|-----------------------------------------------------------------------------------------------------|----------------------------|-----------|
 | NFR01 | Usabilidade    | O navegador deve ser intuitivo e fácil de usar, permitindo uma navegação simples acessivel e eficiente.  | BRS12, QST07, BRS21        | [Kauan Eiras](https://github.com/kauaneiras)  | 
-| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | Membro 2  |
+| NFR02 | Confiabilidade | O navegador deve ser altamente estável, minimizando travamentos e garantindo alta disponibilidade. O aplicativo deve estar disponível para uso 99.9% do tempo.     | BRS01                      | [Davi Pierre](https://github.com/DaviPierre)  |
 | NFR03 | Desempenho     | O navegador deve carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. | BRS01, BRS02               | [Lucas Martins](https://github.com/martinsglucas)  |
-| NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | Membro 4  | Sim      |
+| NFR04 | Suportabilidade| O navegador deve ser compatível com os principais sistemas operacionais (Windows, macOS, Linux) e dispositivos móveis. | BRS05, BRS20               | [Leonardo Aguiar](https://github.com/Leonardo0o0)  | Sim      |
 | NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | [Guilherme Westphall](https://github.com/west7)  |
-| NFR06 | Segurança      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | OBS36, OBS37, BRS16, BRS06 | Membro 6  |
+| NFR06 | Implementação      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | IMP01, IMP02, IMP03, IMP04| [Kallyne Macedo](https://github.com/kalipassos)  |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
