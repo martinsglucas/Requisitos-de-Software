@@ -136,7 +136,7 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 
 <font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
-## Cronograma planejado entrega 3.
+## Cronograma Executado - entrega 3.
 
 <center><p><b>Tabela 07</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
 
@@ -153,7 +153,7 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 <font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 
-## Cronograma planejado entrega 4.
+## Cronograma planejado - entrega 4.
 
 Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
 
@@ -170,7 +170,7 @@ Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
-## Cronograma executado entrega 4.
+## Cronograma executado - entrega 4.
 
 Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 
