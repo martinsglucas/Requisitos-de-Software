@@ -34,56 +34,62 @@ Atráves da análise dos requisitos elicitados e priorizados para o projeto, foi
 #### T01. Navegação 
 O tema de Navegação engloba os épicos e histórias de usuário voltadas para o acesso e para a pesquisa, tanto em sites quanto no próprio navegador. 
 
-#### T02. Acessibilidade 
-O tema de Acessibilidade engloba os épicos e histórias de usuários que intendem adequar a aplicação às preferências e necessidades do usuário. 
+#### T02. Personalização 
+O tema de Personalização engloba os épicos e histórias de usuários que intendem adequar a aplicação às preferências e necessidades do usuário. 
 
 #### T03. Dados 
-O tema de Dados engloba os épicos e histórias de usuário que tratam 
+O tema de Dados engloba os épicos e histórias de usuário que tratam da gestão e armazenamento de dados do usuário na aplicação. 
 
 
 ### Épicos
 
-#### E01. Acesso à sites
-* Acessar site
-* Acessar um site versão desktop
-Favoritar sites 
+#### T01. Navegação 
 
-#### E02. Pesquisa
-* Pesquisar no navegador
-* Pesquisar por voz 
+##### E01. Acesso à sites
 
+O épico de acesso à sites engloba as funcionalidades responsáveis pela navegação em páginas na Internet. 
 
+    "Eu, como usuário, desejo utilizar o navegador para visitar sites na Web".
 
-#### E03. Personalização
+##### E02. Pesquisa
 
-* Iniciar leitura de pagina 
-* Controlar acesso a sites
-* Alterar fonte do navegador em tipo e tamanho 
-* Controlar por atalho gestos
-* Alterar entre tema claro e escuro
-* Favoritas sites
+O épico de pesquisa engloba as funcionalidades que envolvem a realização de pesquisas através do navegador.
 
-#### E04. Performance
+    "Eu, como usuário, desejo realizar pesquisas pelo navegador".
 
-* Gerir memoria
+#### T02. Personalização 
 
-#### E05. Tradução
-* Mudar idioma
-* Traduzir página
+##### E03. Acessibilidade
 
-#### E06. Rastreabilidade
-* Sincronizar dados entre plataformas
-* Acessar histórico
-* Limpar histórico 
-* Limpar dados de usuário
+O épico de acessibilidade engloba as funcionalidades que permitem o usuário moldar o sistema de forma com que seu uso se torne prático e possível dentro de suas limitações. 
 
+    "Eu, como usuário, desejo que o aplicativo seja acessível para deficientes visuais".
 
+#### T03. Dados
 
-#### E07. Segurança
-* Deve ser possível trocar de conta 
-* Deve ser possível alterar senha    
-* O navegador deve ser seguro     
-* Bloquear anuncios
+##### E04. Performance
+
+O épico de performance engloba as funcionalidades que envolvem a otimização e funcionamento do sistema conforme o esperado pelo usuário.
+
+    "Eu, como usuário, desejo que a aplicação tenha uma gestão de memória eficiente". 
+
+##### E05. Tradução
+
+O épico de tradução engloba as funcionalidades que envolvem a troca de idioma da aplicação.
+
+    "Eu, como usuário, desejo que as páginas que acesso possam ser traduzidas para o Português".
+
+##### E06. Rastreabilidade
+
+O épico de rastreabilidade engloba as funcionalidades que envolvem o histórico de dados e as informações de navegação do usuário.
+
+    "Eu, como usuário, desejo ter um histórico que contenha as últimas páginas que acessei".
+
+##### E07. Segurança
+
+O épico de segurança engloba as funcionalidades que protegem o usuário de danos.
+
+    "Eu, como usuário, desejo que o aplicativo me proteja contra ataques maliciosos".
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Backlog do Produto</p></font>
@@ -99,7 +105,7 @@ Favoritar sites
 | T01    | E02 | US03 - Pesquisar no navegador | Alta | Implementado |
 | T01    | E02 | US02 - Pesquisar por voz | Alta | Não implementado |
 | T02    | E03 | US12 - Iniciar leitura de páginas | Alta | Implementado |
-| T02    | E03 | US12 - Controlar acesso à sites | Alta | Implementado |
+| T02    | E03 | US12 - Controlar acesso à sites | Alta | Não implementado |
 | T02    | E03 | US12 - Alterar fonte do navegador | Alta | Implementado |
 | T02    | E03 | US12 - Controlar por atalho de gestos | Alta | Implementado |
 | T02    | E03 | US11 - Alterar entre o tema claro e escuro | Alta | Implementado |
@@ -107,13 +113,13 @@ Favoritar sites
 | T03    | E05 | US12 - Mudar idioma | Alta | Implementado |
 | T03    | E05 | US12 - Traduzir página | Alta | Implementado |
 | T03    | E06 | US12 - Sincronizar dados | Alta | Implementado |
-| T03    | E06 | US12 - Acessar histórico | Alta | Implementado |
-| T03    | E06 | US12 - Limpar histórico de navegação| Alta | Implementado |
-| T03    | E06 | US08 - Limpar histórico de pesquisa | Média | Implementado |
+| T03    | E06 | US12 - Acessar histórico de navegação | Alta | Implementado |
+| T03    | E06 | US12 - Acessar histórico de downloads | Alta | Implementado |
+| T03    | E06 | US12 - Limpar histórico | Alta | Implementado |
 | T03    | E06 | US09 - Limpar dados de usuário | Alta | Implementado |
 | T03    | E07 | US09 - Trocar de conta | Alta | Implementado |
 | T03    | E07 | US09 - Alterar senha | Alta | Implementado |
-| T03    | E07 | US09 - Ter segurança | Alta | Implementado |
+| T03    | E07 | US09 - Ter segurança contra ataques | Alta | Implementado |
 | T03    | E06 | US09 - Bloquear anúncios | Alta | Implementado |
 
 
@@ -133,5 +139,8 @@ LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Dispon
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |7
+| 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |
 | 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0    | 27/05/2024 | Correções gerais | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
+
+
