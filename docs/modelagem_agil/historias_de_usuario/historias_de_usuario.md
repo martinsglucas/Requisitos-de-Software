@@ -362,7 +362,7 @@ A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo traduzir uma pagina que acessei, para que eu consiga deixa-la no meu idoioma de preferência. |
 |**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de Traduzir pagina no menu de opções.<br> - [ ] Deve ser mostrada uma lista com todos os idiomas disponiveis ao acessar a opção de Traduzir pagina. <br> - [ ] O navegador deve atualizar a pagina com essas mudanças. |
-| **Prioridade** | Média |
+| **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
 <div align="center">
@@ -464,6 +464,32 @@ A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
+A validação das Histórias de Usuário é uma etapa crucial para garantir que as funcionalidades propostas atendam às necessidades dos usuários. Para isso, fizemos uma reunião gravada com os participantes apresentados na tabela 1.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 24:</b>  Participantes da validação das Histórias de Usuário</p></font>
+</div>
+
+| Nome | Função |
+| --- | --------- |
+| [Kauan Eiras](https://github.com/kauaneiras) | Membro da equipe |
+| [Lucas Martins](https://github.com/martinsglucas) | Membro da equipe |
+| Leandro | Stakeholder |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b>, 2024.</p></font>
+</div>
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Vídeo: Gravação da validação das Histórias de Usuário(US)</b>  US22</p></font>
+</div>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VovnduUKaQc?si=jnE57St9WnqN3Prt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
 
 ## Referências
 
@@ -482,4 +508,6 @@ A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
 | 1.5 | 26/05/2024 | Adição US08, US09, US10, US11, US12 |  [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.6 | 27/05/2024 | Adição US13, US14 e US15 |  [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](https://github.com/Leonardo0o0)  | 
 | 1.7 | 27/05/2024 | Adição US16, US17, US18 e Modificação US08 |  [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)
+| 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)|
+| 1.9 | 27/05/2024 | Adição da validação das Histórias de Usuários |  [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)|
+| 2.0 | 27/05/2024 | Adição da gravação da validação | [Kauan Eiras](https://github.com/kauaneiras)|[Lucas Martins](https://github.com/martinsglucas) |
