@@ -316,15 +316,64 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 
 ## NFR04 - Suportabilidade
 
+A Suportabilidade de Software é a capacidade de suportar um sistema de software durante toda a sua vida útil. Isso implica satisfazer todas as necessidades ou requisitos necessários, bem como a provisão de equipamentos, infraestrutura de suporte, software adicional, instalações, mão de obra ou qualquer outro recurso necessário para manter o software 
+operacional e capaz de cumprir sua função. Com isso, por ser de grande importancia para o produto de software ele deve ser incluso no NFR Framework.
+
 ### Softgoal Interdependency Graph
+
+O SIG do softgoal "Suportabilidade" é apresentado na Figura 11.
+
+<center>
+
+**Figura 11: Softgoal Interdependency Graph do softgoal "Suportabilidade"**
+
+![SIG Suportabilidade](./NFR%20Framework/SIG-Suportabilidade.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+
+</center>
 
 ### Propagação de Impactos
 
+A propagação de impactos do softgoal "Suportabilidade" pode ser visto na figura 10.
+
+<center>
+
+**Figura 12: Propagação de Impactos do softgoal "Suportabilidade"**
+
+![Propagação de Impactos Suportabilidade](./NFR%20Framework/Propagacao-Impactos-Suportabilidade.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+
+</center>
+
 ### Cartão de Especificação
 
+Na tabela 6, temos o cartão de especificação do softgoal "suportabilidade".
 
+<center>
+
+**Tabela 6: Carta de Especificação do softgoal "suportabilidade"**
+
+| Tópico                | Informação |
+|-----------------------|-----------------------------|
+| **ID do NFR**         | NFR04 |
+| **Classificação**     | suportabilidade |
+| **Descrição**         | O requisito "suportabilidade" refere-se à capacidade do Firefox de corresponder às expectativas do usuário quanto à ajuda que ele vai receber ao usar o software. Isso inclui a frequência com que ele é atualizado, o auxílio em relação a erros, a capacidade de manutenção e correção, os aparelhos e sistemas nos quais ele funciona, a dificuldade de instalação e a capacidade de se adaptar às necessidades do usuário. |
+| **Justificativa**     | A suportabilidade é extremamente importante para a satisfação do usuário, influenciando tanto indiretamente quanto diretamente a experiência do mesmo. Um software que não tem uma boa suportabilidade acaba ficando obsoleto. |
+| **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Dependências**      | A suportabilidade depende de uma organização eficiente do mantenedor do software assim como da tecnologia disponível. |
+| **Prioridade**        | Alta. A suportabilidade de um software é de extrema importancia para um software acabando por influenciar tanto indiretamente quanto diretamente a experiência do usuário. |
+| **Conflitos**         | Não foram identificados conflitos. |
+| **História**          | 27/05/2024 |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+
+</center>
 
 ## NFR05 - Interface
+
+Os requisitos de interface especificam as expectativas e padrões relacionados à apresentação e interação do usuário com um sistema ou aplicativo. Eles são essenciais para garantir que o software ofereça uma experiência de usuário intuitiva, acessível e agradável, facilitando a navegação, a compreensão e a utilização eficiente das funcionalidades disponíveis. Esses requisitos abrangem aspectos como design visual, consistência, acessibilidade, personalização e feedback do usuário, contribuindo para a satisfação e a aceitação do sistema por parte dos usuários.
 
 ### Softgoal Interdependency Graph
 
@@ -403,4 +452,5 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 | 1.4   | 26/05/2024 | Desenvolvimento parcial do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.5   | 26/05/2024 | Desenvolvimento completo do NFR02 - Confiabilidade | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.6  | 27/05/2024 | Desenvolvimento do NFR05 - Interface | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) 
+| 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
+| 1.8  | 27/05/2024 | Desenvolvimento do NFR04 - Suportabilidade | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras) |
