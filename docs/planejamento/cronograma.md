@@ -140,6 +140,19 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 
 <center><p><b>Tabela 07</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
 
+| *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
+|--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
+| Correções pós entrega 2              | 18/04/2024 | 22/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
+| Definição de cenários                | 22/04/2024 | 20/05/2024 | Leomardo, Lucas, Kauan                             | Kallyne, Kauan, Guilherme                              | 20/05/2024 - 20/05/2024 |
+| Definição de casos de uso (use case) | 22/04/2024 | 20/05/2024 | Kallyne, Davi, Guilherme                           | Kallyne, Davi, Lucas,Guilherme, Kauan, Leonardo        | 20/05/2024 - 20/05/2024 |
+| Especificação de léxico              | 27/04/2024 | 20/05/2024 |  Kauan, Gulherme, Davi                             | Davi, Kauan, Lucas                                     | 20/05/2024 - 20/05/2024 |
+| Especificação suplementar            | 27/04/2024 | 20/05/2024 | Leonardo, Kallyne, Lucas                           | Kauan, Lucas, Davi                                     | 20/05/2024 - 20/05/2024 |
+| Realizar a ata das reuniões          | 02/05/2024 | 20/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 20/05/2024 - 20/05/2024 |
+| Gravar a apresentação                | 06/05/2024 | 20/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
+
+<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+
+
 ## Cronograma planejado entrega 4.
 
 Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
@@ -151,7 +164,7 @@ Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Correções pós entrega 3                  | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 26/05/2024 - 26/05/2024 |
 | Definição de histórias de usuário       | 21/05/2024 | 24/05/2024 | Guilherme, Lucas                                | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
 | Definição do backlog do produto          | 21/05/2024 | 24/05/2024 | Kallyne, Leonardo                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
-| NFR Framework                            | 21/05/2024 | 25/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
+| Estrutura do NFR Framework                            | 21/05/2024 | 25/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
 | Realizar a ata das reuniões              | 21/05/2024 | 25/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
 | Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 
@@ -242,4 +255,4 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo  |
 | 1.2    | 22/04/2024 | Cronograma Executado Entrega 02 | Kallyne Macêdo                                | Leonardo Aguiar |
 | 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | Kallyne Macêdo                                | Leonardo Aguiar |
-| 1.4    | 10/05/2024 | Cronograma Executado Entrega 04    | Kauan Eiras                               | Kallyne Macêdo|
+| 1.4    | 27/05/2024 | Cronograma Executado Entrega 04    | Kauan Eiras                               | Kallyne Macêdo|
