@@ -14,7 +14,7 @@ Para desenvolver as Histórias de Usuário, seguiremos as etapas abaixo, utiliza
       - Converteremos os requisitos priorizados em Histórias de Usuário no formato: "Como (quem), eu quero (o que) para (por que)".
       - Exemplo: "Como usuário do Firefox, eu quero salvar minhas páginas favoritas para acessá-las rapidamente no futuro."
   
-Este método garante que as Histórias de Usuário estejam bem fundamentadas nos requisitos elicitados e priorizados, e alinhadas às especificações do [Backlog](inserir link aqui) e, por fim, validadas juntamente ao usuário e/ou persona.
+Este método garante que as Histórias de Usuário estejam bem fundamentadas nos requisitos elicitados e priorizados, e alinhadas às especificações do [Backlog](../backlog.md) e, por fim, validadas juntamente ao usuário e/ou persona.
 
 ## Modelo 
 O modelo para a construção das histórias de usuário pode ser encontrado na tabela 1 a seguir
