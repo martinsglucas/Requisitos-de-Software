@@ -14,7 +14,7 @@ Para desenvolver as Histórias de Usuário, seguiremos as etapas abaixo, utiliza
       - Converteremos os requisitos priorizados em Histórias de Usuário no formato: "Como (quem), eu quero (o que) para (por que)".
       - Exemplo: "Como usuário do Firefox, eu quero salvar minhas páginas favoritas para acessá-las rapidamente no futuro."
   
-Este método garante que as Histórias de Usuário estejam bem fundamentadas nos requisitos elicitados e priorizados, e posteriormente possam ser integradas ao [Backlog](inserir link aqui) e, por fim, validadas juntamente ao usuário e/ou persona.
+Este método garante que as Histórias de Usuário estejam bem fundamentadas nos requisitos elicitados e priorizados, e alinhadas às especificações do [Backlog](inserir link aqui) e, por fim, validadas juntamente ao usuário e/ou persona.
 
 ## Modelo 
 O modelo para a construção das histórias de usuário pode ser encontrado na tabela 1 a seguir
@@ -44,8 +44,10 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US01 - Acessar site
 
+A tabela 2 apresenta a história de usuário US01 - Acessar Site.
+
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 2:</b>  US01 - Acessar Site</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 2:</b>  US01 </p></font>
 </div>
 
 
@@ -63,8 +65,10 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US02 - Pesquisar no navegador
 
+A tabela 3 apresenta a história de usuário US02 - Pesquisar no navegador.
+
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  US02 - Pesquisar no navegador</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  US02 </p></font>
 </div>
 
 
@@ -81,6 +85,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US03 - Pesquisa por voz
 
+A tabela 4 apresenta a história de usuário US03 - Pesquisa por voz.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 4:</b>  US03 </p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo realizar buscas utilizando comandos de voz, para que eu possa pesquisar sem usar o teclado. |
@@ -93,6 +103,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US04 - Leitura de Páginas para Usuários com Necessidades Especiais
+
+A tabela 5 apresenta a história de usuário US04 - Leitura de Páginas para Usuários com Necessidades Especiais.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 5:</b>  US04</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -107,6 +123,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US05 - Controle parental de sites
 
+A tabela 6 apresenta a história de usuário US05 - Controle parental de sites.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 6:</b>  US05</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um pai/mãe ou responsável, desejo implementar controles parentais no navegador, para que eu possa limitar o acesso a conteúdos inapropriados para meus filhos. |
@@ -119,6 +141,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US06 - Alterar fonte do navegador em tipo e tamanho
+
+A tabela 7 apresenta a história de usuário US06 - Alterar fonte do navegador em tipo e tamanho.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 7:</b>  US06</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -133,6 +161,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US07 - Controlar atalhos por gestos
 
+A tabela 8 apresenta a história de usuário US07 - Controlar atalhos por gestos.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 8:</b>  US07</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo controlar os atalhos do navegador por meio de gestos, para que eu possa navegar de forma mais rápida e intuitiva. |
@@ -145,6 +179,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US08 - Limpar histórico 
+
+A tabela 9 apresenta a história de usuário US08 - Limpar histórico.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 9:</b>  US08</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -159,6 +199,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US09 - Limpar dados de usuário
 
+A tabela 10 apresenta a história de usuário US09 - Limpar dados de usuário.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 10:</b>  US09</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo deletar minhas senhas e emails, para que eu me sinta mais seguro. |
@@ -172,6 +218,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US10 - Acessar um site versão desktop
 
+A tabela 11 apresenta a história de usuário US10 - Acessar um site versão desktop.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 11:</b>  US10</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar um site utilizando a versão desktop, para que eu possa navegar nele de forma mais intuitiva com algo que já estou acostumado. |
@@ -184,6 +236,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US11 - Alterar entre o tema claro e escuro
+
+A tabela 12 apresenta a história de usuário US11 - Alterar entre o tema claro e escuro.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 12:</b>  US11</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -199,6 +257,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US12 - Favoritar sites
 
+A tabela 13 apresenta a história de usuário US12 - Favoritar sites.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 13:</b>  US12</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo favoritar sites na minha barra de favoritos, para que eu tenha mais velocidade e eficiência quando utilizar o navegador. |
@@ -210,11 +274,13 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
 </div>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Modelo para as histórias de usuário</p></font>
-</div>
-
 ### US13 - Gerir memória
+
+A tabela 14 apresenta a história de usuário US13 - Gerir memória.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 14:</b>  US13</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -229,6 +295,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US14 - Bloquear anúncios
 
+A tabela 15 apresenta a história de usuário US14 - Bloquear anúncios.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 15:</b>  US14</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo me permita bloquear a aparição de anúncios e pop-ups, para que minha navegação seja livre de distrações. |
@@ -241,6 +313,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US15 - Ter segurança
+
+A tabela 16 apresenta a história de usuário US15 - Ter segurança.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 16:</b>  US15</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -255,6 +333,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US16 - Mudar idioma
 
+A tabela 17 apresenta a história de usuário US16 - Mudar idioma.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 17:</b>  US16</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo mudar idioma do navegador, para que o navegador esteja no meu idoioma de preferência. |
@@ -267,6 +351,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 </div>
 
 ### US17 - Traduzir pagina
+
+A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 18:</b>  US17</p></font>
+</div>
 
 | ID | Descrição |
 | --- | --------- |
@@ -281,6 +371,12 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 ### US18 - Sincronizar dados
 
+A tabela 19 apresenta a história de usuário US18 - Sincronizar dados.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 19:</b>  US18</p></font>
+</div>
+
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo sincronizar os dados de outro navegador com o meu, para que eu consiga importar minhas preferências e dados salvos. |
@@ -290,6 +386,82 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+</div>
+
+### US19 - Trocar de conta
+
+A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 20:</b>  US19</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo trocar de conta, para que eu possa acessar minhas diferentes contas de forma rápida e fácil. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de "Trocar de Conta" acessível nas configurações do usuário.<br> - [ ] Ao selecionar "Trocar de Conta", o usuário deve ser redirecionado para uma tela de login onde pode inserir as credenciais da nova conta.<br> - [ ] A troca de conta deve sincronizar automaticamente os dados da nova conta, incluindo favoritos, histórico e senhas, sem necessidade de reiniciar o navegador.<br> - [ ] Após a troca de conta, o navegador deve manter a sessão ativa da nova conta até que o usuário escolha sair ou trocar novamente.<br> - [ ] O navegador deve fornecer uma confirmação visual ou mensagem de sucesso ao concluir a troca de conta.<br> |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
+
+### US20 - Alterar senha
+
+A tabela 21 apresenta a história de usuário US20 - Alterar senha.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 21:</b>  US20</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar minha senha, para que eu possa manter minha conta segura. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma opção de "Alterar Senha" acessível nas configurações do usuário.<br> - [ ] Ao selecionar "Alterar Senha", o usuário deve ser redirecionado para uma tela onde pode inserir a senha atual e a nova senha.<br> - [ ] O navegador deve exigir que a nova senha atenda a critérios mínimos de segurança, como comprimento mínimo, uso de caracteres especiais e combinação de letras e números.<br> - [ ] Após a alteração da senha, o navegador deve fornecer uma confirmação visual ou mensagem de sucesso.<br> |
+| **Prioridade** | Alta |
+| **Dificuldade** | Baixa |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
+
+### US21 - Acessar histórico de navegação
+
+A tabela 22 apresenta a história de usuário US21 - Acessar histórico de navegação.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 22:</b>  US21</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de páginas visitadas, para que eu possa revisar e gerenciar minhas atividades passadas de navegação. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Páginas" acessível a partir do menu principal.<br> - [ ] O histórico de páginas deve listar todas as páginas visitadas, ordenadas cronologicamente, com opções de busca e filtragem por data e site.<br> - [ ] Deve ser possível abrir diretamente uma página a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de páginas.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de páginas.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
+
+### US22 - Acessar downloads
+
+A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 23:</b>  US22</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de downloads realizados, para que eu possa revisar e gerenciar meus arquivos baixados. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Downloads" acessível a partir do menu principal.<br> - [ ] O histórico de downloads deve listar todos os downloads realizados, incluindo o nome do arquivo, a data e o status (completo, em andamento, falhado).<br> - [ ] Deve ser possível abrir diretamente um arquivo a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de downloads.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de downloads.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
 
@@ -310,3 +482,4 @@ Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabe
 | 1.5 | 26/05/2024 | Adição US08, US09, US10, US11, US12 |  [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.6 | 27/05/2024 | Adição US13, US14 e US15 |  [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](https://github.com/Leonardo0o0)  | 
 | 1.7 | 27/05/2024 | Adição US16, US17, US18 e Modificação US08 |  [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)
