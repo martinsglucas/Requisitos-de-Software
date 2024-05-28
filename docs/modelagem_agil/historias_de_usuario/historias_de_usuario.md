@@ -60,7 +60,7 @@ A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall, 2024</a></p></font>
 </div>
 
 ### US02 - Pesquisar no navegador
@@ -80,7 +80,7 @@ A tabela 3 apresenta a história de usuário US02 - Pesquisar no navegador.
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall, 2024</a></p></font>
 </div>
 
 ### US03 - Pesquisa por voz
@@ -464,17 +464,23 @@ A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
     <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
+## Validação das Histórias de Usuário
+
 A validação das Histórias de Usuário é uma etapa crucial para garantir que as funcionalidades propostas atendam às necessidades dos usuários. Para isso, fizemos uma reunião gravada com os participantes apresentados na tabela 1.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 24:</b>  Participantes da validação das Histórias de Usuário</p></font>
 </div>
 
+<center>
+
 | Nome | Função |
 | --- | --------- |
 | [Kauan Eiras](https://github.com/kauaneiras) | Membro da equipe |
 | [Lucas Martins](https://github.com/martinsglucas) | Membro da equipe |
 | Leandro | Stakeholder |
+
+</center>
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Fonte: </b>, 2024.</p></font>
