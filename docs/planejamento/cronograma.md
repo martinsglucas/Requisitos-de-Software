@@ -72,6 +72,8 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 
 ## Cronograma Planejado: Entrega 2 - Elicitação de Requisitos.
 
+Na Tabela 4, tem-se o cronograma planejado para a segunda etapa de entrega.
+
 <center> <b>Tabela 04</b> - Planejamento da etapa 2 - Elicitação de Requisitos </p>
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
@@ -118,7 +120,9 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 ## Cronograma planejado entrega 3.
 
-<center><p><b>Tabela 05</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
+Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
+
+<center><p><b>Tabela 06</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
 
 | *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
 |--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
@@ -132,10 +136,15 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 <font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
+## Cronograma planejado entrega 3.
+
+<center><p><b>Tabela 07</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
 
 ## Cronograma planejado entrega 4.
 
-<center><p><b>Tabela 06</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
+Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
+
+<center><p><b>Tabela 08</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
 
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
@@ -148,11 +157,27 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
+## Cronograma executado entrega 4.
+
+Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
+
+<center><p><b>Tabela 09</b> - Execução da etapa 4 - Modelagem de Requisitos II </p>
+
+| *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
+|------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 3                  | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 26/05/2024 - 26/05/2024 |
+| Definição de histórias de usuário       | 21/05/2024 | 27/05/2024 | Guilherme, Lucas                                | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
+| Definição do backlog do produto          | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
+| NFR Framework                            | 21/05/2024 | 27/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
+| Realizar a ata das reuniões              | 21/05/2024 | 27/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
+| Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
+
+<font size="3">Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 5.1.
 
-<center><p><b>Tabela 07</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 10</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -167,7 +192,7 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 ## Cronograma planejado entrega 6.
 
-<center><p><b>Tabela 08</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 11</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -181,7 +206,7 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 ## Cronograma planejado entrega 5.2.
 
-<center><p><b>Tabela 09</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 12</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
 
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
@@ -197,7 +222,7 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 ## Cronograma planejado Entrega Final.
 
-<center><p><b>Tabela 10</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 13</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -217,3 +242,4 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 | 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo  |
 | 1.2    | 22/04/2024 | Cronograma Executado Entrega 02 | Kallyne Macêdo                                | Leonardo Aguiar |
 | 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | Kallyne Macêdo                                | Leonardo Aguiar |
+| 1.4    | 10/05/2024 | Cronograma Executado Entrega 04    | Kauan Eiras                               | Kallyne Macêdo|
