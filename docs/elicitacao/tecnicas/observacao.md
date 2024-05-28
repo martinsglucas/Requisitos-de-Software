@@ -26,7 +26,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 </center>
 
-# Requisitos elicitados
+## Requisitos elicitados
 
 > Legenda para tabelas 2 e 3:
 >
@@ -91,21 +91,21 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 </center>
 
-# Link da gravação
+## Link da gravação
 
 <center> Vídeo 1: Técnica de Observação <br>
 
-<iframe src="https://unbbr.sharepoint.com/sites/Requisitos-G6/_layouts/15/embed.aspx?UniqueId=eeace3fd-f68e-48c0-aa6e-cdcd402149e5&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20240414_165450-Gravação de Reunião.mp4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOiNribFwbU?si=DXiJ6krCd1celE9W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
 
 </center>
 
-# Bibliografia
+## Bibliografia
 
 1. Universidade Federal de Santa Catarina. Guia de Retreinamento - Técnicas de Elicitação de Requisitos: Observação Direta. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
-# Histórico de versões
+## Histórico de versões
 
 | Versão | Data       | Descrição                                 | Autor                                           | Revisor                                      |
 | ------ | ---------- | ----------------------------------------- | ----------------------------------------------- | -------------------------------------------- |

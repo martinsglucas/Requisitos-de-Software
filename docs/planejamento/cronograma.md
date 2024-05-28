@@ -152,8 +152,7 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 
 <font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
-
-## Cronograma planejado - entrega 4.
+## Cronograma planejado entrega 4.
 
 Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
 
