@@ -14,12 +14,12 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 |----------|-----------------------------|----------------------------------------------------------------|----------------|-----------------|
 | 1        | Elicitação de Requisitos    | Equipe, Definição do App, Planejamento e RichPicture           | 01/04/2024     | 02/04/2024      | 
 | 2        | Elicitação de Requisitos    | Perfil dos usuários, técnicas de elicitação e de priorização   | 17/04/2024     | 18/04/2024      | 
-| 3        | Modelagem de Requisitos I   | Cenários, Léxico, Use Case, Especificação Suplementar          | 06/05/2024     | 07/05/2024      | 
-| 4        | Modelagem de Requisitos II  | Ágil (Histórias de Usuário, Backlogs, NFR Framework)           | 13/05/2024     | 14/05/2024      | 
-| 5.1      | Verificação e Validação I   | V&V de Grupo + 1                                               | 22/05/2024     | 23/05/2024      | 
-| 6        | Pós Rastreabilidade         | Gerência II                                                    | 03/06/2024     | 04/06/2024      | 
-| 5.2      | Verificação e Validação II  | V & V do Grupo                                                 | 17/06/2024     | 18/06/2024      | 
-| 7        | Entrega Final               | Finalização do projeto                                         | 24/06/2024     | 25/06/2024      | 
+| 3        | Modelagem de Requisitos I   | Cenários, Léxico, Use Case, Especificação Suplementar          | 20/05/2024     | 21/05/2024      | 
+| 4        | Modelagem de Requisitos II  | Ágil (Histórias de Usuário, Backlogs, NFR Framework)           | 27/05/2024     | 28/05/2024      | 
+| 5.1      | Verificação e Validação I   | V&V de Grupo + 1                                               | 10/06/2024     | 11/06/2024      | 
+| 6        | Pós Rastreabilidade         | Gerência II                                                    | 17/06/2024     | 18/06/2024      | 
+| 5.2      | Verificação e Validação II  | V & V do Grupo                                                 | 24/06/2024     | 25/06/2024      | 
+| 7        | Entrega Final               | Finalização do projeto                                         | 01/07/2024     | 02/07/2024      | 
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), 2024.</font> </center>
 
@@ -72,6 +72,8 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 
 ## Cronograma Planejado: Entrega 2 - Elicitação de Requisitos.
 
+Na Tabela 4, tem-se o cronograma planejado para a segunda etapa de entrega.
+
 <center> <b>Tabela 04</b> - Planejamento da etapa 2 - Elicitação de Requisitos </p>
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
@@ -118,25 +120,25 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 ## Cronograma planejado entrega 3.
 
-<center><p><b>Tabela 05</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
+Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
+
+<center><p><b>Tabela 06</b> - Planejamento da etapa 3 - Modelagem de Requisitos I </p>
 
 | *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
 |--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
-| Correções pós entrega 2              | 18/04/2024 | 22/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 02/05/2024 - 05/05/2024 |
-| Definição de cenários                | 22/04/2024 | 27/04/2024 | Leomardo, Lucas, Kauan                             | Kallyne, Davi, Guilherme                               | 02/05/2024 - 05/05/2024 |
-| Definição de casos de uso (use case) | 22/04/2024 | 27/04/2024 | Kallyne, Davi, Guilherme                           | Leomardo, Lucas, Kauan                                 | 02/05/2024 - 05/05/2024 |
-| Especificação de léxico              | 27/04/2024 | 02/05/2024 |  Kauan, Gulherme, Davi                             | Leonardo, Kallyne, Lucas                               | 02/05/2024 - 05/05/2024 |
-| Especificação suplementar            | 27/04/2024 | 02/05/2024 | Leonardo, Kallyne, Lucas                           | Kauan, Gulherme, Davi                                  | 02/05/2024 - 05/05/2024 |
-| Realizar a ata das reuniões          | 02/05/2024 | 05/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 02/05/2024 - 05/05/2024 |
-| Gravar a apresentação                | 06/05/2024 | 06/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 06/05/2024 - 06/05/2024 |
+| Correções pós entrega 2              | 18/04/2024 | 12/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 12/05/2024 - 16/05/2024 |
+| Definição de cenários                | 02/05/2024 | 15/05/2024 | Leomardo, Lucas, Kauan                             | Kallyne, Davi, Guilherme                               | 15/05/2024 - 19/05/2024 |
+| Definição de casos de uso (use case) | 05/05/2024 | 15/05/2024 | Kallyne, Davi, Guilherme                           | Leomardo, Lucas, Kauan                                 | 15/05/2024 - 19/05/2024 |
+| Especificação de léxico              | 10/05/2024 | 15/05/2024 |  Kauan, Gulherme, Davi                             | Leonardo, Kallyne, Lucas                               | 15/05/2024 - 19/05/2024 |
+| Especificação suplementar            | 15/05/2024 | 18/05/2024 | Leonardo, Kallyne, Lucas                           | Kauan, Gulherme, Davi                                  | 18/05/2024 - 19/05/2024 |
+| Realizar a ata das reuniões          | 02/05/2024 | 17/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 17/05/2024 - 20/05/2024 |
+| Gravar a apresentação                | 20/05/2024 | 20/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
 
 <font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
+## Cronograma Executado - entrega 3.
 
-
-## Cronograma executado entrega 3.
-
-<center><p><b>Tabela 05</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
+<center><p><b>Tabela 07</b> - Execução da etapa 3 - Modelagem de Requisitos I </p>
 
 | *Atividade*                          | *Início*   | *Fim*      | *Responsáveis*                                     | *Revisores*                                            | *Periodo de Revisão*    |
 |--------------------------------------|------------|------------|----------------------------------------------------|--------------------------------------------------------|-------------------------|
@@ -150,84 +152,106 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 
 <font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
-
-
 ## Cronograma planejado entrega 4.
 
-<center><p><b>Tabela 06</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
+Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
+
+<center><p><b>Tabela 08</b> - Planejamento da etapa 4 - Modelagem de Requisitos II </p>
 
 | *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
-| Correções pós entrega 3                  | 07/05/2024 | 08/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 10/05/2024 - 12/05/2024 |
-| Definicao das historias de usuario       | 07/05/2024 | 10/05/2024 | Leonardo, Davi                                   | Lucas, Kauan                                     | 10/05/2024 - 12/05/2024 |
-| Definicao do Backlog do produto          | 07/05/2024 | 10/05/2024 | Kallyne, Guilherme                               | Leonardo, Davi                                   | 10/05/2024 - 12/05/2024 |
-| NFR Framework                            | 07/05/2024 | 10/05/2024 |  Lucas, Kauan                                    | Kallyne, Guilherme                               | 10/05/2024 - 12/05/2024 |
-| Realizar a ata das reuniões              | 10/05/2024 | 12/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 10/05/2024 - 12/05/2024 |
-| Gravar a apresentação                    | 13/05/2024 | 13/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 13/05/2024 - 13/05/2024 |
+| Correções pós entrega 3                  | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 26/05/2024 - 26/05/2024 |
+| Definição de histórias de usuário       | 21/05/2024 | 24/05/2024 | Guilherme, Lucas                                | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
+| Definição do backlog do produto          | 21/05/2024 | 24/05/2024 | Kallyne, Leonardo                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
+| Estrutura do NFR Framework                            | 21/05/2024 | 25/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
+| Realizar a ata das reuniões              | 21/05/2024 | 25/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
+| Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 
 <font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
+## Cronograma executado - entrega 4.
+
+Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
+
+<center><p><b>Tabela 09</b> - Execução da etapa 4 - Modelagem de Requisitos II </p>
+
+| *Atividade*                              | *Início*     | *Fim*        | *Responsáveis*                               | *Revisores*                                      | *Periodo de Revisão*    |
+|------------------------------------------|--------------|--------------|----------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 3                  | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 26/05/2024 - 26/05/2024 |
+| Definição de histórias de usuário       | 21/05/2024 | 27/05/2024 | Guilherme, Lucas                                | Lucas, Kauan                                     | 24/05/2024 - 26/05/2024 |
+| Definição do backlog do produto          | 21/05/2024 | 26/05/2024 | Kallyne, Leonardo                               | Leonardo, Davi                                   | 24/05/2024 - 26/05/2024 |
+| NFR Framework                            | 21/05/2024 | 27/05/2024 |  Davi, Kauan                                    | Kallyne, Guilherme                               | 25/05/2024 - 26/05/2024 |
+| Realizar a ata das reuniões              | 21/05/2024 | 27/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
+| Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
+
+<font size="3">Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 5.1.
 
-<center><p><b>Tabela 07</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 10</b> - Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
-| Correções pós entrega 4                                   | 14/05/2024 | 15/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 19/05/2024 - 21/05/2024 |
-| Análise de Requisitos: Verificação dos Artefatos Grupo 07 | 15/05/2024 | 19/05/2024 | Leonardo , Davi, Kallyne                         | Guilherme, Lucas, Kauan                          | 19/05/2024 - 21/05/2024 |
-| Análise de Requisitos: Validação Grupo 07                 | 15/05/2024 | 19/05/2024 | Guilherme, Lucas, Kauan                          | Leonardo, Davi, Kallyne                          | 19/05/2024 - 21/05/2024 |
-| Realizar a ata das reuniões                               | 19/05/2024 | 21/05/2024 | Davi                                             | Kallyne                                          | 19/05/2024 - 21/05/2024 |
-| Gravar a apresentação                                     | 22/05/2024 | 22/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 22/05/2024 - 22/05/2024 |
+| Correções pós entrega 4                                   | 28/05/2024 | 07/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 07/06/2024 - 09/06/2024 |
+| Análise de Requisitos: Verificação dos Artefatos Grupo 07 | 29/05/2024 | 07/06/2024 | Leonardo , Davi, Kallyne                         | Guilherme, Lucas, Kauan                          | 07/06/2024 - 09/06/2024 |
+| Análise de Requisitos: Validação Grupo 07                 | 29/05/2024 | 07/06/2024 | Guilherme, Lucas, Kauan                          | Leonardo, Davi, Kallyne                          | 07/06/2024 - 09/06/2024 |
+| Realizar a ata das reuniões                               | 29/05/2024 | 09/06/2024 | Davi                                             | Kallyne                                          | 09/06/2024 - 10/06/2024 |
+| Gravar a apresentação                                     | 10/06/2024 | 10/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 10/06/2024 - 10/06/2024 |
 
-<font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 6.
 
-<center><p><b>Tabela 08</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 11</b> - Planejamento da etapa 6  - Pós Rastreabilidade </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
-| Correções pós entrega 5.1                | 23/05/2024 | 25/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 29/05/2024 - 02/06/2024 |
-| Pós-Rastreabilidade - Gerência           | 23/05/2024 | 29/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 29/05/2024 - 02/06/2024 |
-| Realizar a ata das reuniões              | 29/05/2024 | 02/06/2024 | Kauan                                            | Guilherme                                        | 29/05/2024 - 02/06/2024 |
-| Gravar a apresentação                    | 03/06/2024 | 03/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 03/06/2024 - 03/06/2024 |
+| Correções pós entrega 5.1                | 10/06/2024 | 13/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 14/06/2024 - 16/06/2024 |
+| Pós-Rastreabilidade - Gerência           | 10/06/2024 | 15/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 15/06/2024 - 16/06/2024 |
+| Realizar a ata das reuniões              | 11/06/2024 | 16/06/2024 | Kauan                                            | Guilherme                                        | 16/06/2024 - 17/06/2024 |
+| Gravar a apresentação                    | 17/06/2024 | 17/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 17/06/2024 - 17/06/2024 |
 
-<font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 5.2.
 
-<center><p><b>Tabela 09</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
+<center><p><b>Tabela 12</b> - Planejamento da etapa 5.2  - Pós Rastreabilidade </p>
 
 
 | *Atividade*                                        | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |----------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
-| Correções pós entrega 6                            | 04/06/2024 | 06/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 06/06/2024 - 16/06/2024 |
-| Análise de Requisitos: Verificação dos Artefatos   | 06/06/2024 | 13/06/2024 | Guilherme, Lucas, Kauan                          | Kallyne, Leonardo, Davi                          | 13/06/2024 - 16/06/2024 | 
-| Análise de Requisitos: Validação                   | 06/06/2024 | 13/06/2024 | Leonardo, Davi, Kallyne                          | Guilherme, Kauan, Lucas                          | 13/06/2024 - 16/06/2024 |
-| Ajustes finais da entrega 5.2                      | 12/06/2024 | 16/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/06/2024              |
+| Correções pós entrega 6                            | 17/06/2024 | 20/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 20/06/2024 - 24/06/2024 |
+| Análise de Requisitos: Verificação dos Artefatos   | 17/06/2024 | 22/06/2024 | Guilherme, Lucas, Kauan                          | Kallyne, Leonardo, Davi                          | 22/06/2024 - 23/06/2024 | 
+| Análise de Requisitos: Validação                   | 17/06/2024 | 22/06/2024 | Leonardo, Davi, Kallyne                          | Guilherme, Kauan, Lucas                          | 22/06/2024 - 23/06/2024 |
+| Ajustes finais da entrega 5.2                      | 22/06/2024 | 23/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 23/06/2024 - 23/06/2024              |
+| Realizar a ata das reuniões              | 17/06/2024 | 23/06/2024 | Guilherme                                        | Kauan                                        | 23/06/2024 - 24/06/2024 |
+| Gravar a apresentação                    | 24/06/2024 | 24/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 24/06/2024 - 24/06/2024 |
 
-<font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 ## Cronograma planejado Entrega Final.
 
-<center><p><b>Tabela 10</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 13</b> - Planejamento da etapa de Entrega Final  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                              | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
-| Finalização de artefatos                 | 18/06/2024 | 23/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 23/06/2024              |
+| Finalização de artefatos                 | 24/06/2024 | 29/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 30/06/2024 - 31/06/2024              |
+| Realizar a ata das reuniões                               | 24/06/2024 | 30/06/2024 | Kallyne                                             | Davi                                          | 30/06/2024 - 31/06/2024 |
+|  Gravar a apresentação                 | 01/07/2024 | 01/07/2024 |Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 01/07/2024 - 01/07/2024              |
 
 
-<font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                       | Autor                                         | Revisor        |
-| ------ | ---------- | --------------------------------| --------------------------------------------- | -------------- |
-| 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins  |
-| 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo |
-| 1.2    | 22/04/2024 | Cronograma Executado Entrega 02              | Kallyne Macêdo                                   | Leonardo Aguiar |
+| Versão | Data       | Descrição                       | Autor                                         | Revisor         |
+| ------ | ---------- | --------------------------------| --------------------------------------------- | --------------  |
+| 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins   |
+| 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo  |
+| 1.2    | 22/04/2024 | Cronograma Executado Entrega 02 | Kallyne Macêdo                                | Leonardo Aguiar |
+| 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | Kallyne Macêdo                                | Leonardo Aguiar |
+| 1.4    | 27/05/2024 | Cronograma Executado Entrega 04    | Kauan Eiras                               | Kallyne Macêdo|
