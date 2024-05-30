@@ -5,6 +5,8 @@ Nessa página, iremos realizar a priorização dos requisitos elicitados pelas t
 
 ## In or Out
 
+A técnica "In or Out", foi aplicada no dia 19 de abril de 2024 das 23:28 às 23:50. Os participantes da priorização foram Guilherme Westphall, Kauan T. Eiras e Matheus Duarte, respectivamente como mediadores e usuário, estão listados na tabela 1, e os requisitos priorizados na tabela 2.
+
 <center>
 
 **Tabela 1**: Participantes
