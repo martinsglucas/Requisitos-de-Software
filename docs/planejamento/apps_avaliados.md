@@ -7,9 +7,7 @@ Na primeira fase do projeto cada integrante se responsabilizou por levantar um a
 
 <center> 
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Aplicativos avaliados</p></font>
-</div>
+Tabela 1: Aplicativos avaliados
 
 | Aplicativo | Membro que avaliou  |
 | :----------: | :-------------------: |
@@ -17,9 +15,7 @@ Na primeira fase do projeto cada integrante se responsabilizou por levantar um a
 | **CTPS Digital**  | Kallyne Macêdo |
 | **Tesouro Direto** | Lucas Martins |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
-</div>
+Autor: [Guilherme Westphall](https://github.com/west7)
 
 </center> 
 
