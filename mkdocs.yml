@@ -65,16 +65,6 @@ theme:
     - navigation.top
     - navigation.footer
   palette:
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.footer
-  palette:
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -90,10 +80,10 @@ theme:
       accent: orange
 
 
-  language: pt-BR
-  logo: images/firefox.png
-  favicon: images/firefox.png
-  extra_css: [stylesheets/extra.css]
+language: pt-BR
+logo: images/firefox.png
+favicon: images/firefox.png
+extra_css: [stylesheets/extra.css]
 
 plugins:
   - mermaid2
