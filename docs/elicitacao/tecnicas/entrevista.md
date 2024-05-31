@@ -36,11 +36,10 @@ Na tabela a seguir será apresentado informações sobre os entrevistados.
 | José Roberto | 22 | Masculino | Estudante e Desenvolvedora Full-Stack | Solteiro |
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Entrevista 1
 A primeira entrevista foi realizada no dia 12/04/2024 às 18:30, com a [Nathalia Assis](https://www.linkedin.com/in/nathalia-p-assis/), mulher, 24 anos, estudante de Engenharia da Computação na Universidade de Brasilia (UnB) e estágiária em desenvolvimento de software full stack em uma startup. Ela já utilizou o Firefox tanto no computador como no celular, porém, atualmente utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e o [Brave](https://brave.com/pt-br/) em seu celular.
-
 
 ### Vídeo - Entrevista 1
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=1FsLuImzNow)
@@ -67,10 +66,10 @@ A primeira entrevista foi realizada no dia 12/04/2024 às 18:30, com a [Nathalia
 | Você gostaria de acrescentar algo mais? | Eu já testei o Firefox no celular, mas não me adaptei por conta dos pontos que mencionei. No entanto, um ponto positivo do Firefox é que ao abrir o aplicativo, já tinha as páginas que visitei recentemente. Esse recurso é muito interessante. | 
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Entrevista 2
-A segunda entrevista foi com a Amanda Ferreira de Torres, mulher, 46 anos, professora de ensino fundamental 1. Ela já utilizou o Firefox, mas, atualmente, utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e em seu celular.
+A segunda entrevista foi realizada no dia 13/04/2024 às 20:00, com a Amanda Ferreira de Torres, mulher, 46 anos, professora de ensino fundamental 1. Ela já utilizou o Firefox, mas, atualmente, utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e em seu celular.
 
 ### Vídeo - Entrevista 2
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=30OWuL3uVPk)
@@ -93,10 +92,10 @@ A segunda entrevista foi com a Amanda Ferreira de Torres, mulher, 46 anos, profe
 | Tem algo que você sente falta nos navegadores? | Para o que eu utilizo, só a retirada de anuncios já ficaria otimo |
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Entrevista 3
-A terceira entrevista foi com a [Carla Clementino](https://www.linkedin.com/in/carlaacr/?locale=en_US), mulher, 23 anos, desenvolvedora Front-End em uma software house. Ela gosta de analisar interfaces de aplicativos e já foi entrevistada anteriormente em outro projeto da disciplina sobre o Open Street Map. Carla utiliza o Firefox diariamente como desenvolvedora, para verificar se sua aplicação está funcionando em vários navegadores. Porém, o navegador principal que ela utiliza é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
+A terceira entrevista foi realizada no dia 14/04/2024 às 14h, com a [Carla Clementino](https://www.linkedin.com/in/carlaacr/?locale=en_US), mulher, 23 anos, desenvolvedora Front-End em uma software house. Ela gosta de analisar interfaces de aplicativos e já foi entrevistada anteriormente em outro projeto da disciplina sobre o Open Street Map. Carla utiliza o Firefox diariamente como desenvolvedora, para verificar se sua aplicação está funcionando em vários navegadores. Porém, o navegador principal que ela utiliza é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
 
 ### Vídeo - Entrevista 3
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=cOFauey7vbU)
@@ -121,10 +120,10 @@ A terceira entrevista foi com a [Carla Clementino](https://www.linkedin.com/in/c
 Após interromper a gravação, Carla levantou outros itens que ela acredita que o Firefox poderia melhorar. Não há opções de personalizar melhor as cores para daltônicos, ou melhorar o contraste para quem possui algum problema de visão. Além de que poderia ter outros temas que tornassem o navegador mais amigável e personalizado para o gosto de quem está usando.
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Entrevista 4
-A quarta entrevista foi com o [José Roberto](https://www.linkedin.com/in/joseroberto0908/?originalSubdomain=br), homem, 22 anos, estudante de Engenharia de Computação e estagiário na área de desenvolvedor full stack na Presidência da República. Questiona fortemente a simplicidade do Firefox, falando sobre recursos que podem acabar sendo exagerados, poluindo a interface e pesando o aplicativo. José conhece o Firefox, já utilizou e instalou o aplicativo para analisar antes da entrevista, mas seu principal navegador é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
+A quarta entrevista foi realizada no dia 14/04/2024 as 19h, com o [José Roberto](https://www.linkedin.com/in/joseroberto0908/?originalSubdomain=br), homem, 22 anos, estudante de Engenharia de Computação e estagiário na área de desenvolvedor full stack na Presidência da República. Questiona fortemente a simplicidade do Firefox, falando sobre recursos que podem acabar sendo exagerados, poluindo a interface e pesando o aplicativo. José conhece o Firefox, já utilizou e instalou o aplicativo para analisar antes da entrevista, mas seu principal navegador é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
 
 ### Vídeo - Entrevista 4
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=lXuBau7JaNA)
@@ -145,7 +144,7 @@ A quarta entrevista foi com o [José Roberto](https://www.linkedin.com/in/josero
 | Você considera a interface do Firefox bonita ou tem alguma coisa que te desagrada? | Olhando por acho que talvez poderia deixar as coisas mais arredondadas. Tem essa opção aqui esquisita de pesquisar com alguma das opções de Google, Bing, DuckGo. Eu nunca vou usar isso, sempre vou pesquisar pelo Google. Eu vejo isso aqui como desnecessário, que só ocupa espaço. |   
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Resultado
 
@@ -168,7 +167,7 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 | ENT10 | Crianção de atalhos no inicio | RF | Implementado |
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center>
+</center><br>
 
 ## Referências 
 VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
