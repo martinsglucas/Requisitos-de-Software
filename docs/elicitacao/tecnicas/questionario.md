@@ -17,74 +17,138 @@ O questionário possui seções personalizadas para pessoas que utilizam o Firef
 
 O questionário começou a ser divulgado no dia , e ficou disponível para respostas até o dia 16/04/2024. 
 
-
 ## Resultados
 Durante o período de aplicação do questionário, que se estendeu do dia 12 de abril de 2024, às 20h, até o dia 17 de abril de 2024, às 12h, foi possível reunir um total de 50 respostas, das quais 49 foram consideradas válidas, enquanto uma foi identificada como inválida, conforme evidenciado na Imagem 1. As respostas válidas abarcam uma faixa etária diversificada, compreendendo indivíduos com idades entre 18 e 70 anos. No que tange à identidade de gênero, constata-se que 63% dos participantes identificam-se como masculinos, 35% como femininos, enquanto 2% optaram por não se identificar. Quanto à familiaridade com o Firefox, observa-se que a maioria dos participantes já teve algum tipo de contato com o navegador, evidenciando que 65% deles o utilizaram anteriormente, 33% ainda o utilizam, porém, apenas 2% o adotam como navegador principal em seus dispositivos móveis, ao passo que 18% o elegem como navegador principal em seus computadores.
 
 A apresentação integral dos resultados do questionário será exibida abaixo, englobando imagens que ilustram tanto as perguntas quanto as respostas obtidas. Em seguida, serão oferecidas breves considerações acerca dos dados coletados. Posteriormente, será realizada uma análise minuciosa desses dados, culminando na identificação e no levantamento dos requisitos elicitados.
 
+### Inicio do questionário: 12/04/2024 às 20h.
+### Fim do questionário: 17/04/2024 às 12h.
+### Quantidade de respostas: 50 respostas.
+
 ## Perguntas sobre perfil do usuário:
+<center>
 
 ### Imagem 1 - Permissão do usuário
 ![Imagem 1](./questionario/Q01.png)
+</center>
 
 **Descrição:** Quem não concordou em participar, não teve seus dados adicionados no resultado.
+<center>
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+
+<center>
 
 ### Imagem 2 - Faixa etária
 ![Imagem 2](./questionario/Q02.png)
 
+</center>
+
 **Descrição:** Na imagem, pode-se ver a quantidade de participantes respondentes a cada faixa etária.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+
+<center>
 
 ### Imagem 3 - Identidade de gênero
 ![Imagem 3](./questionario/Q03.png)
 
+</center>
+
 **Descrição:** Quantidade de pessoas com cada gênero.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 4 - Quantidade de usuários do Firefox
 ![Imagem 4](./questionario/Q04.png)
 
+</center>
+
 **Descrição:** Aqui foram apresentadas a quatidade de pessoas que utilizam, já utilizaram ou nunca utilizaram o Firefox. 
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 5 - Facilidade para utilizar
 ![Imagem 5](./questionario/Q05.png)
 
+</center>
+
 **Descrição:** Aqui mostra pessoas que consideram o Firefox simples de utilizar. A maioria das pessoas consideram simples de usar. O usuário que considerava dificil de usar possui entre 18 a 30 anos, que é a mesma idade de pessoas que consideraram simples demais e poderia ter mais opções.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 6 - Pessoas que usariam recursos dos 3 pontinhos
 ![Imagem 6](./questionario/Q06.png)
 
+</center>
+
 **Descrição:** considerando as diferentes idades, uma pessoa de 30 a 60 anos considerou dificil utilizar os recursos dos 3 pontinhos, duas pessoas de 30 a 60 anos disse que não usaria. A pessoa de 60 a 70 anos considerou util e usaria.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 7 - Navegadores utilizados nos dispositivos móveis
 ![Imagem 7](./questionario/Q07.png)
 
+</center>
+
 **Descrição:** Os navegadores mais utilizados pelos participantes são o Google Chrome, seguido do Safari e Samsung Internet.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 8 - Navegadores utilizados nos computadores
 ![Imagem 8](./questionario/Q08.png)
 
+</center>
+
 **Descrição:** Nos computadores, o cenário muda um pouco. O Google Chrome continua liderando entre os mais utilizados, mas depois temos o Firefox e o Opera.
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+<center>
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+<center>
 
 ### Imagem 9 - Motivos para utilizar cada navegador
 ![Imagem 9](./questionario/Q09.png)
 
+</center>
+
 ## Analise para motivação do uso de cada navegadore
+
+<center>
 
 ### Tabela 1 - Motivação do usuário para utilização dos navegadores
 | Navegador     | Motivo de utilizar                       | Firefox tem implementado |
@@ -102,11 +166,15 @@ Fonte: [Kauan Eiras](https://github.com/kauaneiras)
 | Brave         | Bloqueia anúncios                        | Não Implementado         |
 | Firefox       | Tem menos bugs                           | Implementado             |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
 
 ## Resultado
 
 Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi possível elicitar os requisitos que serão apresentados abaixo na Tabela 2. Cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Além disso, será identificado se os requisitos já foram implementados ou não.
+
+<center>
 
 ### Tabela 2: Requisitos elicitados na Entrevista.
 | Identificador | Requisitos                                               | Tipo | Implementado    | 
@@ -120,9 +188,11 @@ Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi po
 | QST07         | Criação de perfís de usuário                             | RF  | Não Implementado |
 | QST08         | Consumir menos espaço no celular                         | RNF | Não Implementado |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras)
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
-## Bibliografia
+</center>
+
+## Referências
 
 VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
@@ -135,3 +205,4 @@ VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: 
 |  1.1   | 14/04/2024 | Correções pontuais de forma                     | [Kallyne Macedo](https://github.com/kalipassos) |  [Kauan Eiras](https://github.com/kauaneiras)   |
 |  1.2   | 15/04/2024 | Metodologia                                     |  [Kauan Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 |  1.3   | 17/04/2024 | Resultados                                      |  [Kauan Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| 1.4    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
