@@ -420,3 +420,4 @@ Na tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 |  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN14 e CEN15                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
 |  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
+|  1.9   | 02/06/2024 | Correção das fontes | [Lucas Martins](https://github.com/martinsglucas) | [Kallyne Macedo](https://github.com/kalipassos) |
