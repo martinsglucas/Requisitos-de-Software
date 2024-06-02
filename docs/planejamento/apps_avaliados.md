@@ -2,12 +2,12 @@
 
 ## Introdução
 
-Na primeira fase do projeto cada integrante se responsabilizou por levantar um aplicativo que seria uma escolha possível para o projeto. As únicas restrições para a escolha é que deveria ser um aplicativo desktop ou celular, e os termos deveriam permitir o estudo e a engenharia reversa do aplicativo.
+Na primeira fase do projeto cada integrante se responsabilizou por levantar um aplicativo que seria uma escolha possível para o projeto. As únicas restrições para a escolha é que deveria ser um aplicativo desktop ou celular, e os termos deveriam permitir o estudo e a engenharia reversa do aplicativo. Os aplicativos avaliados estão listados na tabela 1.
 
 
 <center> 
 
-<p>Tabela 1: Aplicativos avaliados</p>
+**Tabela 1**: Aplicativos avaliados
 
 | Aplicativo | Membro que avaliou  |
 | :----------: | :-------------------: |
@@ -15,7 +15,7 @@ Na primeira fase do projeto cada integrante se responsabilizou por levantar um a
 | **CTPS Digital**  | Kallyne Macêdo |
 | **Tesouro Direto** | Lucas Martins |
 
-Fonte: [Guilherme Westphall](https://github.com/west7)
+**Autor**: [Guilherme Westphall](https://github.com/west7)
 
 </center> 
 
@@ -62,11 +62,12 @@ Abaixo estão algumas razões pelas quais o membro do grupo [Lucas Martins](http
 Entretanto, o aplicativo não possui um grande número de usuários, o que dificulta a coleta de dados e a realização de testes com um público mais diversificado. Além disso, o aplicativo é voltado para um público específico, que já possui conhecimento sobre investimentos e títulos públicos, o que pode limitar o alcance do projeto. Por esses motivos, o aplicativo do Tesouro Direto foi descartado na escolha do aplicativo a ser trabalhado.
 
 
-## Referências bibliográficas
+## Referências
 
-1. **GIMP**: Disponível em: [https://www.gimp.org/docs/](https://www.gimp.org/docs/)
-2. **CTPS Digital**: Disponível em: [www.gov.br](https://www.gov.br/)
-3. **Tesouro Direto**: Disponível em: [https://www.tesourodireto.com.br/](https://www.tesourodireto.com.br/)
+1. GIMP. Disponível em: https://www.gimp.org/docs/. Acesso em: 5 de abril 2024.
+2. CTPS Digital. Disponível em: https://www.gov.br/. Acesso em: 5 de abril 2024.
+3. Tesouro Direto. Disponível em: https://www.tesourodireto.com.br/. Acesso em: 5 de abril 2024.
+
 
 ## Histórico de versões
 

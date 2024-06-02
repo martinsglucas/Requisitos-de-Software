@@ -1,13 +1,15 @@
 # Requisitos Priorizados
 ## Introdução
 
-Nessa página, iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](../tecnicas/requisitos_elicitados.md).
+Nessa página, iremos realizar a priorização dos requisitos elicitados pelas técnicas escolhidas. Iremos utilizar a tabela construída na página de [requisitos elicitados](../tecnicas/requisitos_elicitados.md). Os participantes da priorização estão listados na tabela 1 e os requisitos na tabela 2.
 
 ## In or Out
 
+A técnica "In or Out", foi aplicada no dia 19 de abril de 2024 das 23:28 às 23:50. Os participantes da priorização foram Guilherme Westphall, Kauan T. Eiras e Matheus Duarte, respectivamente como mediadores e usuário, estão listados na tabela 1, e os requisitos priorizados na tabela 2.
+
 <center>
 
-#### Tabela 1: Participantes
+**Tabela 1**: Participantes
 
 | Nome                | Função   |
 | ------------------- | -------- |
@@ -15,9 +17,9 @@ Nessa página, iremos realizar a priorização dos requisitos elicitados pelas t
 | Kauan T. Eiras      | Mediador |
 | Matheus Duarte      | Usuário  |
 
-Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
 
-#### Tabela 2: Priorização pela técnica "In or out".
+**Tabela 2**: Priorização pela técnica "In or out".
 
 | Tipo | Descrição                                                                    | Rastreabilidade            | In or Out |
 | ---- | ---------------------------------------------------------------------------- | -------------------------- | --------- |
@@ -64,20 +66,17 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | In        |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Out       |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
 <center>
 
-#### Vídeo 1: Gravação da reunião de aplicação da técnica "In or Out".
-
-
-
+**Vídeo 1**: Gravação da reunião de aplicação da técnica "In or Out".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
