@@ -11,11 +11,11 @@ Analisamos Firefox a fim de conseguir elencar as principais funcionalidades do a
 
 <center>
 
-Figura 1: Rich Picture
+**Figura 1**: Rich Picture
 
 ![Rich Picture](../images/RichPicture.png)
 
-Autor: [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
