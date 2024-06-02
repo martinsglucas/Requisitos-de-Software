@@ -17,7 +17,7 @@ Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. T
 | Nome associado ao léxico | Objeto/Verbo/Estado | Significado do símbolo, com descrição quase que de "dicionário" | Descrição do efeito/uso/decorrência do símbolo na aplicação | Indivíduo que realizou a descrição |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
 </div>
 
 Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na tabela 2 estão listadas as regras por tipo de como devem ser definidos os léxicos.
@@ -33,7 +33,7 @@ Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na ta
 | Estado | Significado e quais ações levaram até esse estado                  | Identificar outros estados e ações que devem ocorrer a partir deste                                       |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
 </div>
 
 ## Objetos
@@ -75,7 +75,7 @@ Os léxicos do tipo objeto são uma abordagem na engenharia de requisitos que se
 Esses termos e conceitos são importantes para uma compreensão abrangente das funcionalidades e impacto do Firefox como navegador.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPìerre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPìerre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
 </div>
 
 ## Verbo
@@ -103,7 +103,7 @@ Os léxicos do tipo verbo representam uma abordagem na engenharia de requisitos 
 
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
 </div>
 
 ## Estado
@@ -125,7 +125,7 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a> 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a> 2024</p></font>
 </div>
 
 ## Referências
