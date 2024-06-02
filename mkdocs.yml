@@ -80,10 +80,10 @@ theme:
       accent: orange
 
 
-language: pt-BR
-logo: images/firefox.png
-favicon: images/firefox.png
-extra_css: [stylesheets/extra.css]
+  language: pt-BR
+  logo: images/firefox.png
+  favicon: images/firefox.png
+  extra_css: [stylesheets/extra.css]
 
 plugins:
   - mermaid2
