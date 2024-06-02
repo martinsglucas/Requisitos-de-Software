@@ -41,3 +41,4 @@ A análise dos resultados da análise de documentos nos permitiu definir o perfi
 |:------:|:----:|-----------|:-----:|:------:
 | 1.0 | 13/04/2024 | Criação do documento | [Lucas Martins](https://github.com/martinsglucas) | [Leornardo Aguiar](https://github.com/Leonardo0o)
 | 1.1 | 15/04/2024 | Adição de informações | [Leornardo Aguiar](https://github.com/Leonardo0o) | [Kallyne Macedo](https://github.com/kalipassos), [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras), [Davi Pierre](https://github.com/DaviPierre)
+| 1.2 | 02/06/2024 | Correções de títulos, fontes e autores | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) 
