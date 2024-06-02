@@ -3,9 +3,10 @@
 ## Introdução
 Conforme pesquisa levantada pela [UFSC](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming)", o brainstorming pode ser classificado como uma técnica de elicitação de requisitos em que cada participante tem a oportunidade de expor suas concepções de forma aberta, com o objetivo de desenvolvimento de um novo sistema. Nessa técnica, os participantes podem ter origens acadêmicas e profissionais distintas e compartilham suas ideias, que são direcionadas para a resolução de um problema específico, em um intervalo de tempo determinado. Dessa forma, a abordagem possibilita que os stakeholders ampliem suas perspectivas acerca do problema em questão.
 
-
 ## Justificativa
 No contexto da elicitação de requisitos, o brainstorm tem como principal vantagem sua capacidade de estimular a criatividade, promovendo a geração de ideias diversas através da expressão livre dos pensamentos. Assim, a técnica traz variedade, profundidade e inovação para as informações coletadas e, consequentemente, auxilia na resolução de conflitos oriundos da elicitação.
+
+<center>
 
 ### Tabela 1: Participantes
 
@@ -15,6 +16,9 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 | [Lucas Martins](https://github.com/martinsglucas) | Mediador |
 | Guilherme Dutra                                   | Usuário  |
 | Hugo Queiroz                                      | Usuário  |
+
+**Autor:** [Guilherme Westphall](https://github.com/west7)
+</center>
 
 ## Desenvolvimento
 
@@ -68,7 +72,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 > - **RNFx**: Requisito não funcional nº x
 > - **BRSx**: Requisito nº x elicitado pela técnica de brainstorming
 
-
+<center>
 ### Tabela 2: Requisitos elicitados
 
 | Tipo  | Descrição                                                       | ID    | Implementado |
@@ -99,22 +103,24 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 | RF17  | Deve conter uma lista de páginas recém visitadas                | BRS24 | Sim          |
 | RF18  | Deve ser possível a criação de atalhos                          | BRS25 | Sim          |
 
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Lucas Martins](https://github.com/martinsglucas), 2024
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Lucas Martins](https://github.com/martinsglucas), 2024
-
+</center>
 
 ## Link da gravação
+
+<center>
 [Brainstorming](https://www.youtube.com/watch?v=narh2r5dhUg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/narh2r5dhUg?si=fdIlbsQ10JuP6_GD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Bibliografia
+</center>
+
+## Referências
 
 GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
 
-
 ## Histórico de Versões 
-
 
 | Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
 | :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
@@ -123,3 +129,4 @@ GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Téc
 |  1.2   | 16/04/2024 | Adiciona tabela 1 e 2                            | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.3 | 17/04 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) | 
 | 1.4 | 20/04 | Troca do link para link do Youtube | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
+| 1.5 | 30/05 | Correção da formatação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 

@@ -2,9 +2,12 @@
 
 ## Introdução
 
-Este documento lista as ferramentas que usaremos durante o desenvolvimento deste projeto. As ferramentas estão enumeradas na **Tabela 1**.
+Este documento lista as ferramentas que usaremos durante o desenvolvimento deste projeto. As ferramentas estão enumeradas na **tabela 1**.
 
-### Tabela 1: Ferramentas
+<center>
+
+**Tabela 1**: Ferramentas
+
 | Ferramentas                                                                                                                                       | Descrição                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | <img src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-github-128.png" style="width:100px; height:100px"/>                 | **GitHub**: Utilizado para trabalhar com o projeto da disciplina                         |
@@ -16,9 +19,11 @@ Este documento lista as ferramentas que usaremos durante o desenvolvimento deste
 | <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png.png" style="width:100px;height:100px"/>| **Whatsapp**: Principal ferramenta de comunicação da equipe|
 | <img src="https://store-images.s-microsoft.com/image/apps.35498.13824105887454405.4132b91c-7a9c-494e-b21d-fcef1f82a553.15d86404-d3f9-4999-8545-7b179159ee79?h=307" style="width:100px;height:100px"/>| **Microsoft Whiteboard**: Ferramenta para criação do Rich Picture|
 
-Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+**Autor**: [Guilherme Westphall](https://github.com/west7)
 
-## Referências Bibliográficas
+</center>
+
+## Referências
 
 1. GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 28 de mar. de 2024.
 2. Microsoft Teams. Disponível em: https://learn.microsoft.com/en-us/microsoftteams/. Acesso em: 28 de mar. de 2024.

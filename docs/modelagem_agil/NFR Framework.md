@@ -20,11 +20,8 @@ Os softgoals são divididos em três categorias [2], conforme ilustrado na Figur
 
 ![Tipos de Softgoals](./NFR%20Framework/TiposSoftgoals.png)
 
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), desenvolvido no [Canva](https://www.canva.com), 2024.
 </center>
-
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://www.canva.com">Canva.com</a>, 2024</p></font>
-</div>
 
 ### Tipos de Refinamentos
 
@@ -44,7 +41,7 @@ D) **Priorização**: Cria softgoals similares, mas com prioridades definidas, a
 
 ![Decomposição](./NFR%20Framework/DecomposiçãoSoftgoal.PNG)
 
-Fonte: CHUNG, 2000.
+**Autor:** CHUNG, 2000.
 
 </center>
 
@@ -77,7 +74,7 @@ As contribuições descrevem como um softgoal descendente pode impactar o softgo
 
 ![Contribuições](./NFR%20Framework/ContibuicaoSoftgoals.PNG)
 
-Fonte: SERRANO, 2019.
+**Autor:** SERRANO, 2019.
 
 </center>
 
@@ -91,7 +88,7 @@ O processo de avaliação dos softgoals verifica o grau de satisfação de cada 
 
 ![Rótulos](./NFR%20Framework/RotulosSoftgoals.PNG)
 
-Fonte: SILVA, 2019.
+**Autor:** SILVA, 2019.
 
 </center>
 
@@ -116,8 +113,7 @@ Os NFRs foram divididos em seis aspectos principais: Usabilidade, Confiabilidade
 | NFR05 | Interface      | O navegador deve ter uma interface limpa e personalizável, proporcionando uma boa experiência visual e de uso. | OBS26, OBS19, ENT06        | [Guilherme Westphall](https://github.com/west7)  |
 | NFR06 | Implementação      | O navegador deve proteger os dados do usuário, oferecendo mecanismos robustos contra malware, phishing e outras ameaças. | IMP01, IMP02, IMP03, IMP04| [Kallyne Macedo](https://github.com/kalipassos)  |
 
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
@@ -156,7 +152,7 @@ O SIG do softgoal "Usabilidade" é apresentado na Figura 5.
 
 ![SIG Usabilidade](./NFR%20Framework/SIG-Usabilidade.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
@@ -164,14 +160,13 @@ O SIG do softgoal "Usabilidade" é apresentado na Figura 5.
 
 A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 6.
 
-
 <center>
 
 **Figura 6: Propagação de Impactos do softgoal "Usabilidade"**
 
 ![Propagação de Impactos](./NFR%20Framework/Usabilidade-Propagação-de-Impactos.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
@@ -195,10 +190,9 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 25/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
-
 
 ## NFR02 - Confiabilidade
 
@@ -214,8 +208,7 @@ O SIG do softgoal "Confiabilidade" é apresentado na Figura 7.
 
 ![SIG Confiabilidade](./NFR%20Framework/SIG-Confiabilidade.png)
 
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+**Autor:** [Davi Pierre](https://github.com/DaviPierre), 2024.
 
 </center>
 
@@ -229,7 +222,7 @@ A propagação de impactos do softgoal "Confiabilidade" pode ser visto na figura
 
 ![Propagação de Impactos](./NFR%20Framework/Confiabilidade-Propagação-de-Impactos.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+**Autor:** [Davi Pierre](https://github.com/DaviPierre), 2024.
 
 </center>
 
@@ -253,7 +246,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 26/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+**Autor:** [Davi Pierre](https://github.com/DaviPierre), 2024.
 
 </center>
 
@@ -271,7 +264,7 @@ O SIG do softgoal "Desempenho" é apresentado na Figura 9.
 
 ![SIG Desempenho](./NFR%20Framework/SIG-Desempenho.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+**Autor:** [Lucas Martins](https://github.com/martinsglucas), 2024.
 
 </center>
 
@@ -285,10 +278,9 @@ A propagação de impactos do softgoal "Desempenho" pode ser visto na figura 10.
 
 ![Propagação de Impactos](./NFR%20Framework/Propagacao-Impactos-Desempenho.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+**Autor:** [Lucas Martins](https://github.com/martinsglucas), 2024.
 
 </center>
-
 
 ### Cartão de Especificação
 
@@ -310,7 +302,8 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 27/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+
+**Autor:** [Lucas Martins](https://github.com/martinsglucas), 2024.
 
 </center>
 
@@ -329,7 +322,7 @@ O SIG do softgoal "Suportabilidade" é apresentado na Figura 11.
 
 ![SIG Suportabilidade](./NFR%20Framework/SIG-Suportabilidade.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+**Autor:** [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
@@ -343,7 +336,7 @@ A propagação de impactos do softgoal "Suportabilidade" pode ser visto na figur
 
 ![Propagação de Impactos Suportabilidade](./NFR%20Framework/Propagacao-Impactos-Suportabilidade.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+**Autor:** [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
@@ -367,7 +360,7 @@ Na tabela 6, temos o cartão de especificação do softgoal "suportabilidade".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 27/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+**Autor:** [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
@@ -383,7 +376,7 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 
 ![SIG Interface](./NFR%20Framework/SIG-Interface.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+**Autor:** [Guilherme Westphall](https://github.com/west7), 2024.
 
 </center>
 
@@ -395,7 +388,7 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 
 ![SIG Interface 2](./NFR%20Framework/SIG-Interface2.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+**Autor:** [Guilherme Westphall](https://github.com/west7), 2024.
 
 </center>
 
@@ -417,7 +410,7 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 27/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+**Autor:** [Guilherme Westphall](https://github.com/west7), 2024.
 
 </center>
 
@@ -435,7 +428,7 @@ O SIG do softgoal "Implementação" é apresentado na Figura 9.
 
 ![SIG Desempenho](./NFR%20Framework/sig1kal.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Passos</a>, 2024</p></font>
+**Autor:** [Kallyne Passos](https://github.com/kalipassos), 2024.
 
 </center>
 
@@ -449,10 +442,9 @@ A propagação de impactos do softgoal "Implementação" pode ser visto na figur
 
 ![Propagação de Impactos](./NFR%20Framework/sig2kal.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Passos</a>, 2024</p></font>
+**Autor:** [Kallyne Passos](https://github.com/kalipassos), 2024.
 
 </center>
-
 
 ### Cartão de Especificação
 
@@ -474,12 +466,11 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 | **Conflitos**         | Não foram identificados conflitos. |
 | **História**          | 27/05/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+**Autor:** [Kallyne Passos](https://github.com/kalipassos), 2024.
 
 </center>
 
-
-## Referências bibliográficas
+## Referências
 
 [1] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
 
@@ -505,3 +496,4 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 | 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.8  | 27/05/2024 | Desenvolvimento do NFR04 - Suportabilidade | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.9  | 27/05/2024 | Desenvolvimento do NFR06 - Implementação | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan Eiras](https://github.com/kauaneiras) |
+| 2.0    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
