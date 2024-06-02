@@ -110,10 +110,12 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 ## Link da gravação
 
 <center>
-[Brainstorming](https://www.youtube.com/watch?v=narh2r5dhUg)
+
+**Vídeo 1**: Gravação da reunião de Brainstorming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/narh2r5dhUg?si=fdIlbsQ10JuP6_GD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Lucas Martins](https://github.com/martinsglucas), 2024
 </center>
 
 ## Referências
