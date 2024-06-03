@@ -250,8 +250,9 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 
 | Versão | Data       | Descrição                       | Autor                                         | Revisor         |
 | ------ | ---------- | --------------------------------| --------------------------------------------- | --------------  |
-| 1.0    | 01/04/2024 | Criação da página de cronograma | Davi Pierre, Kallyne Macêdo e Leonardo Aguiar | Lucas Martins   |
-| 1.1    | 01/04/2024 | Correções de data               | Davi Pierre                                   | Kallyne Macêdo  |
-| 1.2    | 22/04/2024 | Cronograma Executado Entrega 02 | Kallyne Macêdo                                | Leonardo Aguiar |
-| 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | Kallyne Macêdo                                | Leonardo Aguiar |
-| 1.4    | 27/05/2024 | Cronograma Executado Entrega 04    | Kauan Eiras                               | Kallyne Macêdo|
+| 1.0    | 01/04/2024 | Criação da página de cronograma | [Davi Pierre](https://github.com/DaviPierre), [Kallyne Macedo](https://github.com/kalipassos) e [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)   |
+| 1.1    | 01/04/2024 | Correções de data               | [Davi Pierre](https://github.com/DaviPierre)                                   | [Kallyne Macedo](https://github.com/kalipassos)  |
+| 1.2    | 22/04/2024 | Cronograma Executado Entrega 02 | [Kallyne Macedo](https://github.com/kalipassos)                                | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | [Kallyne Macedo](https://github.com/kalipassos)                                | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.4    | 20/05/2024 | Cronograma Executado Entrega 03 | [Davi Pierre](https://github.com/DaviPierre)                                   | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.5    | 27/05/2024 | Cronograma Executado Entrega 04 | [Kauan Eiras](https://github.com/kauaneiras)                                   | [Kallyne Macedo](https://github.com/kalipassos)  |
