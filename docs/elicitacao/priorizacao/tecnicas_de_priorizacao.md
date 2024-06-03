@@ -30,9 +30,9 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 - Could-haves: são requisitos que tem menor prioridade, se não forem completados não atrapalha na entrega.
 - Won't-haves: são requisitos inviáveis de serem entregues no momento, mas tem a possibilidade de serem desenvolvidos em entregas seguintes.
 
-## Bibliografia
+## Referências
 
-1. FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+1. FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. Acesso em 10 de abril de 2024
 
 ## Histórico de versões
 
@@ -41,4 +41,5 @@ Esta técnica consiste em dividir os requisitos em categorias, comumente: Alta p
 | 1.0    | 10/04/2024 | Criação da página de técnicas de priorização | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)      |
 | 1.1| 10/04/2024 | Explicação das técnicas 1 e 2 | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) | 
 | 1.2    | 16/04/2024 | Explicação da técnica 3 | [Davi Pierre](https://github.com/DaviPierre) |    [Guilherme Westphall](https://github.com/west7)   |
+| 1.3    | 03/06/2024 | Padronização das referências | [Davi Pierre](https://github.com/DaviPierre) |    [Guilherme Westphall](https://github.com/west7)   |
 
