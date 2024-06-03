@@ -176,7 +176,7 @@ Autor: [Lucas Martins](https://github.com/martinglucas), 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Autor: [Lucas Martins](https://github.com/martinglucas), Autor: [Davi Pierre](https://github.com/DaviPierre), 2024
+Autor: [Lucas Martins](https://github.com/martinglucas), [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
