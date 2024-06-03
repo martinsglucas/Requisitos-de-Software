@@ -21,7 +21,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as etapas de entrega.
 | 5.2      | Verificação e Validação II  | V & V do Grupo                                                 | 24/06/2024     | 25/06/2024      | 
 | 7        | Entrega Final               | Finalização do projeto                                         | 01/07/2024     | 02/07/2024      | 
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), 2024.</font> </center>
 
 
 
@@ -46,7 +46,7 @@ Na Tabela 2, tem-se o cronograma planejado para a fase de planejamento do projet
 | Correção após a Entrega 1                  | 02/04/2024 | 05/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 05/04/2024 - 06/04/2024 |
 | Gravação da apresentação                   | 31/03/2024 | 01/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 01/04/2024              |
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 ## Cronograma Executado: Entrega 1 - Planejamento do Projeto.
 
@@ -67,7 +67,7 @@ Na Tabela 3, tem-se o cronograma executado para a primeira etapa de entrega.
 | Confecção a RichPicture do aplicativo      | 28/03/2024 | 31/03/2024 | Lucas                                             | Guilherme                                              | 31/03/2024              |
 | Gravação da apresentação                   | 31/03/2024 | 01/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 01/04/2024              |
 
-<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+<font size="3">Ator: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 
 ## Cronograma Planejado: Entrega 2 - Elicitação de Requisitos.
@@ -87,7 +87,7 @@ Na Tabela 4, tem-se o cronograma planejado para a segunda etapa de entrega.
 | Aplicação das técnicas de priorização escolhidas   | 08/04/2024 | 12/04/2024 | Davi e Lucas                                     | Kallyne, Leonardo, Guilherme, Kauan              | 12/04/2024 - 16/04/2024 |
 | Ajustes finais da entrega 2                        | 12/04/2024 | 16/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
  
-<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+<font size="3">Ator: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 
 
@@ -115,7 +115,7 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 | Confecção das atas de reunião                        | 12/04/2024 | 16/04/2024 | Davi | Leonardo | 16/04/2024              |
 | Cronograma Executado                        | 21/04/2024 | 22/04/2024 | Kallyne | Leonardo | 22/04/2024              |
  
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 3.
@@ -134,7 +134,7 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 | Realizar a ata das reuniões          | 02/05/2024 | 17/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 17/05/2024 - 20/05/2024 |
 | Gravar a apresentação                | 20/05/2024 | 20/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
 
-<font size="3">Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 ## Cronograma Executado - entrega 3.
 
@@ -150,7 +150,7 @@ Na Tabela 6, tem-se o cronograma planejado para a terceira etapa de entrega.
 | Realizar a ata das reuniões          | 02/05/2024 | 20/05/2024 | Guilherme, Kallyne                                 | Davi, Lucas                                            | 20/05/2024 - 20/05/2024 |
 | Gravar a apresentação                | 06/05/2024 | 20/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi   | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi       | 20/05/2024 - 20/05/2024 |
 
-<font size="3">Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
+<font size="3">Ator: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 ## Cronograma planejado entrega 4.
 
@@ -167,7 +167,7 @@ Na Tabela 8, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Realizar a ata das reuniões              | 21/05/2024 | 25/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
 | Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 ## Cronograma executado - entrega 4.
 
@@ -184,7 +184,7 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Realizar a ata das reuniões              | 21/05/2024 | 27/05/2024 | Leonardo, Lucas                                  | Guilherme, Kauan                                 | 25/05/2024 - 27/05/2024 |
 | Gravar a apresentação                    | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 
-<font size="3">Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024.</font> </center>
+<font size="3">Ator: [Kauan Eiras](https://github.com/kauaneiras), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 5.1.
@@ -199,7 +199,7 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Realizar a ata das reuniões                               | 29/05/2024 | 09/06/2024 | Davi                                             | Kallyne                                          | 09/06/2024 - 10/06/2024 |
 | Gravar a apresentação                                     | 10/06/2024 | 10/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 10/06/2024 - 10/06/2024 |
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 6.
@@ -213,7 +213,7 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Realizar a ata das reuniões              | 11/06/2024 | 16/06/2024 | Kauan                                            | Guilherme                                        | 16/06/2024 - 17/06/2024 |
 | Gravar a apresentação                    | 17/06/2024 | 17/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 17/06/2024 - 17/06/2024 |
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Cronograma planejado entrega 5.2.
@@ -230,7 +230,7 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Realizar a ata das reuniões              | 17/06/2024 | 23/06/2024 | Guilherme                                        | Kauan                                        | 23/06/2024 - 24/06/2024 |
 | Gravar a apresentação                    | 24/06/2024 | 24/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 24/06/2024 - 24/06/2024 |
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 ## Cronograma planejado Entrega Final.
 
@@ -243,7 +243,7 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 |  Gravar a apresentação                 | 01/07/2024 | 01/07/2024 |Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 01/07/2024 - 01/07/2024              |
 
 
-<font size="3">Fonte: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
+<font size="3">Ator: [Kallyne Macêdo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024.</font> </center>
 
 
 ## Histórico de versões
@@ -256,3 +256,4 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | [Kallyne Macedo](https://github.com/kalipassos)                                | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.4    | 20/05/2024 | Cronograma Executado Entrega 03 | [Davi Pierre](https://github.com/DaviPierre)                                   | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.5    | 27/05/2024 | Cronograma Executado Entrega 04 | [Kauan Eiras](https://github.com/kauaneiras)                                   | [Kallyne Macedo](https://github.com/kalipassos)  |
+| 1.6    | 03/06/2024 | Atualização das legendas das tabelas | [Davi Pierre](https://github.com/DaviPierre)                              | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
