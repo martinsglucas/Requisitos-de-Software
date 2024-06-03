@@ -83,7 +83,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https:
 
 ## Three Level Scale
 
-A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams e uso da plataforma Mural. No Mural, foi criado uma lista dos requisitos e uma tabela com as colunas Alta Prioridade, Média Prioridade e Baixa Prioridade. Durante a reunião foi feita a discussão de cada requisito e a sua priorização em uma das colunas da tabela. Na tabela 3, é possível visualizar a lista de participantes da reunião.
+A aplicação dessa técnica se deu através de uma reunião no Microsoft Teams, que pode ser acessada no Vídeo 2 e uso da plataforma Mural. No Mural, foi criado uma lista dos requisitos e uma tabela com as colunas Alta Prioridade, Média Prioridade e Baixa Prioridade, que pode ser vista na Tabela 4. Durante a reunião foi feita a discussão de cada requisito e a sua priorização em uma das colunas da tabela. Na tabela 3, é possível visualizar a lista de participantes da reunião.
 
 <center>
 
@@ -165,7 +165,7 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Alta      |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Média     |
 
-Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
+Autor: [Lucas Martins](https://github.com/martinglucas), 2024
 
 </center>
 
@@ -175,6 +175,8 @@ Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyxHXrZKnCk?si=KGZrkrVkJPoE3RV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Autor: [Lucas Martins](https://github.com/martinglucas), Autor: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -413,3 +415,4 @@ Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
 | 1.5    | 20/04/2024 | Adiciona o metodo MOSCOW | [Leonardo Sobrinho](https://github.com/Leonardo0o0) |[Kallyne Macedo](https://github.com/kalipassos) |
 | 1.6    | 22/04/2024 | Adiciona o vídeo do método MOSCOW | [Kallyne Macedo](https://github.com/kalipassos) | [Guilherme Westphall](https://github.com/west7) |
 | 1.7    | 26/05/2024 | Adiciona tabela de resultado da priorização | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.8    | 03/06/2024 | Atualização da legenda da tabela 4, da legenda do vídeo 2 e do texto da "Three level scale" | [Davi Pierre](https://github.com/DaviPierre) | [Lucas Martins](https://github.com/martinsglucas)|
