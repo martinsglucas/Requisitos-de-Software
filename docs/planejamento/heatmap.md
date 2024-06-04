@@ -18,7 +18,8 @@ O mapa de calor consiste em uma representação gráfica que mostra áreas de ma
 
 ![](https://snipboard.io/Eh7oix.jpg)
 
-**Fonte:** [Kallyne Macedo](https://github.com/kalipassos)
+**Autor:** [Kallyne Macedo](https://github.com/kalipassos)
+
 </center><br>
 
 Assim, entende-se que a célula marcada como 0 indica que não há disponibilidade de nenhum membro no horário, e a célula marcada como 6, que há disponibilidade para trabalho de todos os membros para o horário em questão.
@@ -31,7 +32,7 @@ Assim, entende-se que a célula marcada como 0 indica que não há disponibilida
 
 ![](https://snipboard.io/mOUHt4.jpg)
 
-**Fonte:** [Kallyne Macedo](https://github.com/kalipassos)
+**Autor:** [Kallyne Macedo](https://github.com/kalipassos)
 
 </center>
 
@@ -39,10 +40,15 @@ Assim, entende-se que a célula marcada como 0 indica que não há disponibilida
 
 Portanto, com referência no heatmap de disponibilidade dos membros do grupo exposto abaixo, é possível verificar as janelas de horário que podem ser aproveitadas, sendo estas às **segundas-feiras das 16h às 21h**, e às **quartas-feiras, das 20h à 21h**. 
 
+## Referências
+
+HEATMAP: Entenda o Que é, Quando Usar e Que Ferramentas Usar. Neil Patel, 2024. Disponível em: https://neilpatel.com/br/blog/heatmap-o-que-e/. Acesso em 27 de março de 2024. 
+
+
 ## Histórico de Versão
 
 | Versão |    Data    |                 Descrição                 |                                         Responsáveis                                         |                     Revisor                     |
 | :----: | :--------: | :---------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 29/03/2024 |      Criação e redação da página          |                        [Kallyne Macedo](https://github.com/kalipassos)                       |    [Leonardo Aguiar](https://github.com/Leonardo0o0)     |
-
+|  1.1   | 03/06/2024 |      Correções de forma          |                        [Kallyne Macedo](https://github.com/kalipassos)                       |    [Leonardo Aguiar](https://github.com/Leonardo0o0)     |
 
