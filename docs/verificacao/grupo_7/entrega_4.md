@@ -20,11 +20,11 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 
 **Tabela 1**: Objetos de verificação
 
-|                          | Versão | Data       | Descrição                                               | Autor(es)     | Data de revisão | Revisor(es)   |
-| ------------------------ | ------ | ---------- | ------------------------------------------------------- | ------------- | --------------- | ------------- |
-| **Backlog**              | 1.3    | 28/05/2024 | Arrumando Hiperlinks e ajustes na tabela de backlog.    | Johnny Lopes  | -               | -             |
-| **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Criação do documento.                                   | Vitor Feijó   | 02/06/2024      | Bianca Castro |
-| **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes. | Bianca Castro | 30/05/2024      | Amanda Campos |
+|                          | Versão | Data       | Descrição                                                                  | Autor(es)     | Data de revisão | Revisor(es)   |
+| ------------------------ | ------ | ---------- | -------------------------------------------------------------------------- | ------------- | --------------- | ------------- |
+| **Backlog**              | 1.3    | 28/05/2024 | Arrumando Hiperlinks e ajustes na tabela de backlog.                       | Johnny Lopes  | -               | -             |
+| **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Adição dos SIGs de operacionalização, afirmação e seleção de alternativas. | Vitor Feijó   | 02/06/2024      | Bianca Castro |
+| **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Bianca Castro | 30/05/2024      | Amanda Campos |
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -72,7 +72,7 @@ Nesta seção, serão apresentadas a preparação dos checklists e as respectiva
     | ID  | Descrição                                                                                 | Avaliação  |
     | --- | :---------------------------------------------------------------------------------------- | ---------- |
     | 01  | O artefato contém o histórico de versão padronizado?                                      | Sim        |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                            | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                            | Incompleto |
     | 03  | O artefato possui um texto de introdução?                                                 | Sim        |
     | 04  | As tabelas/imagens possuem fonte/autor?                                                   | Sim        |
     | 05  | O artefato possui referências/bibliografia corretamente citadas?                          | Sim        |
@@ -96,38 +96,107 @@ Os principais problemas encontrados no artefato [Backlog](https://requisitos-de-
 
 === "Preparação do checklist"
 
-    | ID  | Descrição                                                        |
-    | --- | ---------------------------------------------------------------- |
-    | 01  | O artefato contém o histórico de versão padronizado?             |
-    | 02  | Os autores e revisores estão identificados para cada artefato?   |
-    | 03  | O artefato possui um texto de introdução?                        |
-    | 04  | As tabelas/imagens possuem fonte/autor?                          |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas? |
-    | 06  | O artefato contém a metodologia/método utilizado?                |
+    <center>
 
+    **Tabela 4**: Preparação do checklist do NFR Framework.
+
+    | ID  | Descrição                                                                                                    |
+    | --- | ------------------------------------------------------------------------------------------------------------ |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                         |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                               |
+    | 03  | O artefato possui um texto de introdução?                                                                    |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                      |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                             |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                            |
+    | 07  | Os SIGs estão padronizados entre si?                                                                         |
+    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)?                                 |
+    | 09  | A propagação de impactos foi feita?                                                                          |
+    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? |
+
+    **Autor**: [Guilherme Westphall](https://github.com/west7)
+
+    </center>
 
 === "Inspeção"
 
-    | ID  | Descrição | Avaliação |
-    | --- | --------- | --------- |
+    <center>
+
+    **Tabela 5**: Inspeção do NFR Framework
+
+    | ID  | Descrição                                                                                                    | Avaliação  |
+    | --- | ------------------------------------------------------------------------------------------------------------ | ---------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                         | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                               | Sim        |
+    | 03  | O artefato possui um texto de introdução?                                                                    | Sim        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                      | Sim        |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                             | Sim        |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                            | Sim        |
+    | 07  | Os SIGs estão padronizados entre si?                                                                         | Sim        |
+    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)?                                 | Incompleto |
+    | 09  | A propagação de impactos foi feita?                                                                          | Incompleto |
+    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? | Sim        |
+
+    **Autor**: [Guilherme Westphall](https://github.com/west7)
+
+    </center>
+
+#### Problemas encontrados
+A separação deste artefato em dois ficou bem confusa e dificulta a visualização. Ao que parece, no presente momento (04/06/2024 às 15:33), o grupo 7 ainda não finalizou a construção do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/nfr/). Assim, acredito que logo essas inconsistências e os critérios de ^^ID 08 e 09^^ serão corrigidos.
 
 ### Histórias de usuário
 
 === "Preparação do checklist"
 
-    | ID  | Descrição                                                        |
-    | --- | ---------------------------------------------------------------- |
-    | 01  | O artefato contém o histórico de versão padronizado?             |
-    | 02  | Os autores e revisores estão identificados para cada artefato?   |
-    | 03  | O artefato possui um texto de introdução?                        |
-    | 04  | As tabelas/imagens possuem fonte/autor?                          |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas? |
-    | 06  | O artefato contém a metodologia/método utilizado?                |
+    <center>
+
+    **Tabela 6**: Preparação do checklist das histórias de usuário
+
+    | ID  | Descrição                                                                                  |
+    | --- | ------------------------------------------------------------------------------------------ |
+    | 01  | O artefato contém o histórico de versão padronizado?                                       |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                             |
+    | 03  | O artefato possui um texto de introdução?                                                  |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                    |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                           |
+    | 06  | O artefato contém a metodologia/método utilizado?                                          |
+    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"?  |
+    | 08  | Os títulos das histórias são auto-explicativos, ou seja, resumem a história adequadamente? |
+    | 09  | As histórias possuem critérios de aceitação?                                               |
+    | 10  | As histórias são testáveis?                                                                |
+    | 11  | As histórias estão consistentes com o backlog?                                             |
+    | 12  | Houve a participação do cliente/persona na validação das histórias?                        |
+
+    **Autor**: [Guilherme Westphall](https://github.com/west7)
+
+    </center>
 
 === "Inspeção"
 
-    | ID  | Descrição | Avaliação |
-    | --- | --------- | --------- |
+    <center>
+
+    **Tabela 7**: Inspeção das histórias de usuário
+
+    | ID  | Descrição                                                                                 | Avaliação  |
+    | --- | ----------------------------------------------------------------------------------------- | ---------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                      | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                            | Sim        |
+    | 03  | O artefato possui um texto de introdução?                                                 | Sim        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                   | Sim        |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                          | Sim        |
+    | 06  | O artefato contém a metodologia/método utilizado?                                         | Sim        |
+    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"? | Sim        |
+    | 08  | Os títulos das histórias são autoexplicativos, ou seja, resumem a história adequadamente? | Sim        |
+    | 09  | As histórias possuem critérios de aceitação?                                              | Sim        |
+    | 10  | As histórias são testáveis?                                                               | Incompleto |
+    | 11  | As histórias estão consistentes com o backlog?                                            | Sim        |
+    | 12  | Houve a participação do cliente/persona na validação das histórias?                       | Sim        |
+
+    **Autor**: [Guilherme Westphall](https://github.com/west7)
+
+    </center>
+
+#### Problemas encontrados
+No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/historia_de_usuario/) está bem satisfatório. A única inconsistência encontrada foi a falta de objetividade em algumas histórias de usuário, fazendo com que elas não pudessem ser testadas adequadamente. Cito como exemplo as histórias: ^^US28, US36 e US39^^. Nessas e em outras histórias, acredito que os critérios de aceitação poderiam estar melhor descritos, de maneira que fossem testáveis. 
 
 ## Referência
 
@@ -136,6 +205,9 @@ Os principais problemas encontrados no artefato [Backlog](https://requisitos-de-
 
 ## Histórico de versão
 
-| Versão | Data       | Descição          | Autor                                           | Revisor |
-| ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| 1.0    | 03/06/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) | -       |
+| Versão | Data       | Descição                                      | Autor                                           | Revisor                                           |
+| ------ | ---------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 03/06/2024 | Criação da página                             | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.1    | 03/06/2024 | Adiciona verificação do Backlog               | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
