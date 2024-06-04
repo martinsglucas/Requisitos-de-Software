@@ -1,4 +1,4 @@
-# **Disponibilidade**
+# Mapa de disponibilidade
 
 ## Introdução
 
@@ -6,33 +6,33 @@ Em etapas iniciais de planejamento em um projeto, é necessário mapear e avalia
 
 Dessa forma, para uma indicação intuitiva de faixas de horário ideais para o desenvolvimento das atividades do projeto em grupo, foi adotado o método do mapa de calor (heatmap) de disponibilidade.
 
-## **Heatmap**
+## Heatmap
 
-### **Legenda**
+### Legenda
 
 O mapa de calor consiste em uma representação gráfica que mostra áreas de maior ou menor acesso em um site, por exemplo, ou, no contexto de uma tabela, as células mais ou menos preenchidas. No mapa gerado por membros do grupo, a identificação é feita por cores que saem do vermelho (representativo do 0, menor número) até o verde-escuro (representativo do 6, maior número), conforme imagem: 
 
 <center>
 
-**Escala de um heatmap**
+Figura 1: Escala de um heatmap
 
 ![](https://snipboard.io/Eh7oix.jpg)
 
-**Autor:** [Kallyne Macedo](https://github.com/kalipassos)
+Autor: [Kallyne Macedo](https://github.com/kalipassos)
 
 </center><br>
 
 Assim, entende-se que a célula marcada como 0 indica que não há disponibilidade de nenhum membro no horário, e a célula marcada como 6, que há disponibilidade para trabalho de todos os membros para o horário em questão.
 
-### **Heatmap de disponibilidade do grupo**
+### Heatmap de disponibilidade do grupo
 
 <center>
 
-**Heatmap de Disponibilidade de horários**
+Figura 2: Heatmap de Disponibilidade de horários
 
 ![](https://snipboard.io/mOUHt4.jpg)
 
-**Autor:** [Kallyne Macedo](https://github.com/kalipassos)
+Autor: [Kallyne Macedo](https://github.com/kalipassos)
 
 </center>
 
