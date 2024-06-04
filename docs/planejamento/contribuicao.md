@@ -30,7 +30,11 @@ new: adiciona elicitacao de requisitos
 
 ### Regra de Commit
 
-É importante notar que não são permitidos commits diretos na branch `main`. Todos os commits devem ser feitos em uma branch de desenvolvimento e, em seguida, mesclados na `main` através de um pull request. Isso ajuda a manter a integridade da `main` e permite que as alterações sejam revisadas antes de serem incorporadas ao projeto.
+É importante notar que não são permitidos commits diretos na branch `main`. Todos os commits devem ser feitos em uma branch de desenvolvimento e, em seguida, mesclados na `main` através de um pull request, conforme ilustrado na Figura 1. Isso ajuda a manter a integridade da `main` e permite que as alterações sejam revisadas antes de serem incorporadas ao projeto.
+
+<center>
+
+**Figura 1:** Fluxo de trabalho com branches de desenvolvimento.
 
 ```mermaid
     gitGraph:
@@ -58,6 +62,10 @@ new: adiciona elicitacao de requisitos
         merge entrega2/priorizacao-moscow
         merge entrega3/cenarios
 ```
+
+**Autor:** [Lucas Martins](https://github.com/martinsglucas), 2024.
+
+</center>
 
 
 ## Branches

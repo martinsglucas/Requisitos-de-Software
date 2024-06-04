@@ -6,7 +6,27 @@ A análise de documentos é uma técnica de elicitação de requisitos que consi
 
 ## Metodologia
 
-O grupo analisou documentos de estatísticas relacionadas ao Firefox, que contém, principalmente, informações demográficas dos usuários do navegador. Essas informações foram analisadas e selecionaadas para que fossem utilizadas apenas as que foram consideradas relevantes para formar o perfil de usuário médio do aplicativo. Com isso, fizemos a análise dos dados a fim de entender como cada um deles se encaixa como uma característica do perfil de usuário.
+O grupo analisou documentos de estatísticas relacionadas ao Firefox, que contém, principalmente, informações demográficas dos usuários do navegador. Essas informações foram analisadas e selecionadas para que fossem utilizadas apenas as que foram consideradas relevantes para formar o perfil de usuário médio do aplicativo. Com isso, fizemos a análise dos dados a fim de entender como cada um deles se encaixa como uma característica do perfil de usuário.
+
+## Análise
+
+Analisamos os documentos presentes no site Enterprise Apps Today e no site Firefox Public Data Report. A partir desses documentos, conseguimos extrair informações relevantes para a construção do perfil de usuário do aplicativo Firefox. A seguir, nos Documentos 1 e 2, apresentamos uma cópia digital dos documentos analisados.
+
+<center>
+
+**Documento 1**: Firefox Statistics
+
+<iframe src="https://drive.google.com/file/d/1Fh46qX121I5UnppAGz8XdcDOJbb4h-PE/preview" width="100%" height="500"></iframe>
+
+**Fonte**: [Enterprise Apps Today](https://www.enterpriseappstoday.com/stats/firefox-statistics.html), 2024.
+
+**Documento 2**: User Activity
+
+<iframe src="https://drive.google.com/file/d/1Fg2vs1JNBYFNhWCh_F9cdghaTFZuwQgp/preview" width="100%" height="500"></iframe>
+
+**Fonte**: [Firefox Public Data Report](https://data.firefox.com/dashboard/user-activity), 2024.
+
+</center>
 
 ## Resultados
 
@@ -22,5 +42,6 @@ De acordo com o site Enterprise Apps Today, o Firefox é mais utilizado por pess
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 13/04/2024 | Criação do documento | Lucas Martins | Leornardo Sobrinho
-| 1.1 | 15/04/2024 | Adição de informações | Leornardo Sobrinho | Kallyne, Guilherme, Kauan, Davi
+| 1.0 | 13/04/2024 | Criação do documento | [Lucas Martins](https://github.com/martinsglucas) | [Leornardo Aguiar](https://github.com/Leonardo0o)
+| 1.1 | 15/04/2024 | Adição de informações | [Leornardo Aguiar](https://github.com/Leonardo0o) | [Kallyne Macedo](https://github.com/kalipassos), [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras), [Davi Pierre](https://github.com/DaviPierre)
+| 1.2 | 02/06/2024 | Adição da cópia digital dos documentos analisados | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7)
