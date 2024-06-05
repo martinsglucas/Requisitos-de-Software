@@ -185,9 +185,9 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | *Pós-condições* |  O usuário confirma o que foi digitado para realizar a pesquisa.  |
 | *Data da Criação* | 20/05/2024 |
 | *Rastreabilidade* | OBS01, BRS23, OBS29 |
-
+<center>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
-
+</center>
 </center>
 
 ## Referências
@@ -207,4 +207,5 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7)| 
 | 1.5 | 20/05/2024 | Adiciona textos introdutórios | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 1.6 | 20/05/2024 | Adiciona casos de uso "Acessar site"| [Davi Pierre](https://github.com/DaviPierre)| [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)
+| 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)| 
+| 1.8 | 05/06/2024 | Atualização das legendas das tabelas e figuras /e atualizações dos textos | [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras)|
