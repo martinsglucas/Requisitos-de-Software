@@ -8,23 +8,23 @@ Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de
 
 Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](../../elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Template para os léxicos</p></font>
-</div>
+<center>
+
+**Tabela 1**: Template para os léxicos
 
 | Termo                    | Tipo                | Noção                                                           | Impacto                                                     | Autor                              |
 | ------------------------ | ------------------- | --------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------- |
 | Nome associado ao léxico | Objeto/Verbo/Estado | Significado do símbolo, com descrição quase que de "dicionário" | Descrição do efeito/uso/decorrência do símbolo na aplicação | Indivíduo que realizou a descrição |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Fonte**: SERRANO, 2019.
+
+</center>
 
 Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na tabela 2 estão listadas as regras por tipo de como devem ser definidos os léxicos.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 2:</b>  Regras por tipo</p></font>
-</div>
+<center>
+
+**Tabela 2**: Regras por tipo
 
 | Tipo   | Noção                                                              | Impacto                                                                                                   |
 | ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -32,21 +32,23 @@ Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na ta
 | Verbo  | Quem realiza, quando acontece e quais procedimentos são envolvidos | Quais são os reflexos da ação no ambiente (outras ações que podem/devem ocorrer) e os estados decorrentes |
 | Estado | Significado e quais ações levaram até esse estado                  | Identificar outros estados e ações que devem ocorrer a partir deste                                       |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Fonte**: SERRANO, 2019
+
+</center>
 
 ## Objetos
 
 Os léxicos do tipo objeto são uma abordagem na engenharia de requisitos que se concentra na identificação e descrição detalhada dos objetos relevantes dentro do domínio do problema ou do sistema em desenvolvimento. Nesse contexto, um "objeto" pode se referir a qualquer entidade, conceito ou componente significativo no domínio do sistema. Na tabela 3, a seguir, é possível encontrar os léxicos deste tipo.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  Léxicos do tipo Objeto</p></font>
-</div>
+
+<center>
+
+**Tabela 3**:  Léxicos do tipo Objeto
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 |<a id="usuario">Usuário</a>| Objeto  | Um usuário é qualquer pessoa que interage com o <a href="#site">site </a> para alcançar um objetivo específico, e sua experiência e feedback são fundamentais para o desenvolvimento e melhoria contínua desses sistemas e produtos. | Os  <a href="#usuario">usuários</a> fornecem feedback para melhorar a usabilidade, influenciando o desempenho e ajudando a identificar vulnerabilidades de segurança. Eles geram conteúdo, moldam a personalização e direcionam a evolução do  <a href="#site">site</a>. Além disso, suas interações influenciam estratégias de marketing, crescimento e monetização, orientando o desenvolvimento contínuo e a adaptação do  <a href="#site">site</a> ao mercado.| [Davi Pierre](https://github.com/DaviPierre) |
+|<a id="internauta">Internauta</a>| Objeto  | Um <a href="#internauta">internauta</a> é um <a href="#usuario">usuário</a> da <a href="#internet">inetrnet</a> que <a href="#navegar">navega</a> por <a href="#pw">páginas da web</a>, participa de redes sociais, consome conteúdo digital, envia e-mails, e realiza atividades <a href="#online">online</a>. Esse termo engloba qualquer pessoa que utiliza a <a href="#internet">internet</a>, seja para lazer, trabalho, estudo ou comunicação. Os <a href="#internauta">inetrnautas</a> interagem com diversas plataformas e serviços <a href="#online">online</a>, contribuindo para a vastidão e dinamismo do mundo digital. | Os <a href="#internauta">inetrnautas</a> impactam significativamente os <a href="#site">sites</a> da <a href="#internet">internet</a>. Eles geram <a href="#trafego">tráfego</a>, influenciam algoritmos de <a href="#busca">busca</a>, contribuem com feedback e conteúdo, e determinam tendências. Suas interações e preferências moldam a relevância e o sucesso dos <a href="#site">sites</a>. Além disso, seus dados de navegação são analisados para melhorar a experiência do <a href="#usuario">usuário</a> e direcionar publicidade, impulsionando a economia digital. | [Davi Pierre](https://github.com/DaviPierre) |
 | <a id="site">Site</a>  | Objeto | Entidade virtual que representa uma coleção de <a href="#pw">páginas web</a>, geralmente acessíveis através de um <a href="#navegador">navegador web</a>. Cada site possui um <a href="#url">URL</a> único que serve com um endereço na <a href="#internet">internet</a>. | Os <a href="#usuario">usuários</a> podem <a href="#navegar">navegar</a> por um <a href="#site">site</a> através de <a href="#link">links</a> internos, botões e menus de navegação. Também podem <a href="#busca">pesquisar</a> por informações relevantes dentro do <a href="#site">site</a>. | [Guilherme Westphall](https://github.com/west7) |
 | <a id="pw">Página web</a> | Objeto |  Uma <a href="#pw">página web</a> é uma única página digital composta por conteúdo, como texto, imagens, vídeos e elementos interativos, que é acessível por meio de um <a href="#navegador">navegador</a> da web. Geralmente, uma <a href="#pw">página web</a> é identificada por um <a href="#url">URL</a> único e pode conter informações sobre um tópico específico, serviço, produto ou qualquer outro conteúdo relevante para os <a href="#usuario">usuários</a> da <a href="#internet">internet</a>. | Os <a href="#usuario">usuários</a> visualizam o conteúdo da página que pode ser texto, imagens, vídeos, entre outros e interagem com elementos da página.| [Guilherme Westphall](https://github.com/west7) |
 | <a id="url">URL</a> | Objeto | Um <a href="#url">URL</a> (Uniform Resource Locator) é uma sequência de caracteres que especifica o endereço único de um recurso na <a href="#internet">internet</a>, como uma <a href="#pw">página web</a>, uma imagem, um arquivo de áudio, entre outros. Ele fornece a localização precisa do recurso na rede e é utilizado pelos <a href="navegador">navegadores</a> da web para acessar e exibir o conteúdo desejado. | Os <a href="#url">URLs</a> podem ser compartilhadas entre os <a href="#usuario">usuários</a> para acessar recursos específicos, podem ser digitados/colados/sugeridos na barra de pesquisa de um <a href="#navegador">navegador</a> e usados em <a href="#link">links</a>. | [Guilherme Westphall](https://github.com/west7) |
@@ -71,19 +73,16 @@ Os léxicos do tipo objeto são uma abordagem na engenharia de requisitos que se
 | <a id="proxy">Proxy</a> | Objeto | Um <a href="#proxy">proxy</a> é um servidor intermediário que atua entre o <a href="#usuario">usuário</a> e a <a href="#internet">internet</a>, encaminhando solicitações e respostas. | O uso de um <a href="#proxy">proxy</a> pode melhorar a <a href="#seguranca">segurança</a> e a <a href="#privacidade">privacidade</a>, além de permitir o acesso a conteúdos restritos ou bloqueados geograficamente. | [Kauan Eiras](https://github.com/kauaneiras) |
 
 
+**Autores**: [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras) e [Davi Pierre](https://github.com/DaviPierre)
 
-Esses termos e conceitos são importantes para uma compreensão abrangente das funcionalidades e impacto do Firefox como navegador.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPìerre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+</center>
 
 ## Verbo
 Os léxicos do tipo verbo representam uma abordagem na engenharia de requisitos que se foca nas ações realizadas pelos usuários ou sistemas dentro do contexto de um problema ou sistema em desenvolvimento. Nesse contexto, um "verbo" refere-se a uma operação, atividade ou procedimento que pode ser executado para alcançar um determinado objetivo ou realizar uma tarefa específica. Estão listados na tabela 4 abaixo.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Léxicos do tipo Verbo</p></font>
-</div>
+<center>
+
+**Tabela 4**: Léxicos do tipo Verbo
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -100,20 +99,17 @@ Os léxicos do tipo verbo representam uma abordagem na engenharia de requisitos 
 | <a id="proteger">Proteger</a> | Verbo | <a href="#proteger">Proteger</a> é a ação de implementar medidas de segurança para salvaguardar dados pessoais, históricos de navegação e outras informações sensíveis contra acesso não autorizado ou ataques. | Ao <a href="#proteger">proteger</a> seus dados, os <a href="#usuario">usuários</a> garantem a privacidade e a integridade de suas informações, prevenindo roubo de identidade, fraudes e outras ameaças cibernéticas. | [Kauan Eiras](https://github.com/kauaneiras) | |
 | <a id="personalizar">Personalizar</a> | Verbo | <a href="#personalizar">Personalizar</a> é a ação de ajustar as configurações de aparência, funcionalidades e comportamento do <a href="#navegador">navegador</a> para atender às preferências individuais do <a href="#usuario">usuário</a>. | A capacidade de <a href="#personalizar">personalizar</a> o <a href="#navegador">navegador</a> permite que os <a href="#usuario">usuários</a> melhorem sua experiência de navegação, tornando-a mais intuitiva, eficiente e agradável. | [Kauan Eiras](https://github.com/kauaneiras) | |
 
+**Autores**: [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras) e [Davi Pierre](https://github.com/DaviPierre)
 
-
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+</center>
 
 ## Estado
 
 Os léxicos do tipo Estado representam diferentes estados que um sistema pode assumir ao longo do tempo ou em resposta a determinadas condições ou eventos. Nesse contexto, um "estado" refere-se a uma condição ou situação específica em que o sistema se encontra em um determinado momento, refletindo diferentes configurações, modos de operação ou contextos de uso. Podem ser encontrados na tabela 5.
 
+<center>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Léxicos do tipo Estado</p></font>
-</div>
+**Tabela 5**: Léxicos do tipo Estado
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -122,15 +118,20 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 |<a id="privado">Modo de navegação privada</a>| Estado | O <a href="#privado">modo de navegação privada</a> permite que o <a href="#usuario">usuário</a> navegue na <a href="#internet">internet</a> sem armazenar histórico, cookies ou outros dados de navegação. | O <a href="#privado">modo de navegação privada</a> é útil para proteger a <a href="#privacidade">privacidade</a> do <a href="#usuario">usuário</a>, evitando que dados de navegação sejam salvos e rastreados. | [Kauan Eiras](https://github.com/kauaneiras) |
 |<a id="erro">Erro</a>| Estado | O estado de <a href="#erro">erro</a> ocorre quando o Firefox encontra um problema que impede o funcionamento normal do <a href="#navegador">navegador</a> ou de <a href="#pw">páginas web</a>. | Um <a href="#erro">erro</a> pode comprometer a experiência do <a href="#usuario">usuário</a>, necessitando de soluções rápidas e eficazes para restaurar a funcionalidade completa do sistema. | [Kauan Eiras](https://github.com/kauaneiras) |
 |<a id="conectado">Conectado</a>| Estado | O estado <a href="#conectado">conectado</a> indica que o Firefox está ativamente ligado à <a href="#internet">internet</a> e pode acessar e carregar recursos online. | Quando <a href="#conectado">conectado</a>, o <a href="#navegador">navegador</a> permite acesso completo a todos os recursos online, facilitando a navegação e a interação do <a href="#usuario">usuário</a> com a web. | [Kauan Eiras](https://github.com/kauaneiras) |
+|<a id="online">Online</a>| Estado  | Estar <a href="#online">online</a> significa que o <a href="#usuario">usuário</a> está conectado à <a href="#internet">internet</a> e ativo em uma plataforma digital. Este estado permite a interação em tempo real com conteúdos, serviços e outros <a href="#usuario">usuários</a>. | O estado <a href="#online">online</a> é essencial para atividades como <a href="#navegar">navegação</a>, envio de mensagens instantâneas, participação em redes sociais, compras <a href="#online">online</a> e uso de aplicativos e serviços baseados na web. | [Davi Pierre](https://github.com/DaviPierre) |
 
 
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a> 2024</p></font>
-</div>
+**Autores**: [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras) e [Davi Pierre](https://github.com/DaviPierre)
+
+</center>
 
 ## Referências
 
 1. SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf). Acesso em: 09 de maio de 2024.
+2. YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
+3. CHEMUTURI, Murali. Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+4. BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold. Software & Systems Requirements Engineering: In Practice.
+5. CHEMUTURI, Murali. Requirements Engineering and Management for Software Development Projects.
 
 ## Histórico de versões
 
@@ -140,5 +141,4 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 | 1.1 | 14/05/2024 | Adição Tabelas 4 e 5 | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.2 | 17/05/2024 | Adição de Itens nas Tabelas 3 e 4| [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.3 | 17/05/2024 | Adição de Itens nas Tabelas 3, 4 e 5| [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Martins](https://github.com/martinsglucas) |
-
-
+| 1.4 | 05/06/2024 | Adição de Itens nas Tabelas 3 e 5| [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras) |
