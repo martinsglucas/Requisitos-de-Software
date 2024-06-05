@@ -35,14 +35,14 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 </center>
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
 </div>
 
 ## Histórias de usuário
 
 Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabela x.
 
-### US01 - Acessar site
+### [US01](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site
 
 A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 
@@ -58,170 +58,16 @@ A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 | **Prioridade** | Alta |
 | **Dificuldade** | Baixa |
 
-
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
 </div>
 
-### US02 - Pesquisar no navegador
+### [US02](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site formato desktop
 
-A tabela 3 apresenta a história de usuário US02 - Pesquisar no navegador.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  US02 </p></font>
-</div>
-
-
-| US02 | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador firefox, desejo realizar uma busca no navegador, para que eu possa realizar minhas pesquisas. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir a digitação de uma consulta na barra de pesquisa.<br> - [ ] Após pressionar *Enter*, o navegador deve exibir uma página de resultados de pesquisa.<br> - [ ] Os resultados da pesquisa devem ser relevantes para a consulta digitada.<br> - [ ] A página de resultados deve carregar em menos de 5 segundos. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Média |
+A tabela 03 apresenta a história de usuário US02 - Acessar site formato desktop.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
-</div>
-
-### US03 - Pesquisa por voz
-
-A tabela 4 apresenta a história de usuário US03 - Pesquisa por voz.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 4:</b>  US03 </p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo realizar buscas utilizando comandos de voz, para que eu possa pesquisar sem usar o teclado. |
-|**Critérios de aceitação**| - [ ] Deve haver um botão ou comando para ativar a pesquisa por voz facilmente acessível. <br> - [ ] O navegador deve reconhecer e interpretar comandos de voz dados pelo usuário.<br>  |
-| **Prioridade** | Alta |
-| **Dificuldade** | Média |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
-
-### US04 - Leitura de Páginas para Usuários com Necessidades Especiais
-
-A tabela 5 apresenta a história de usuário US04 - Leitura de Páginas para Usuários com Necessidades Especiais.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 5:</b>  US04</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário com necessidades especiais, desejo que o navegador leia o conteúdo da página em voz alta, para que eu possa acessar informações sem precisar ler o texto. |
-|**Critérios de aceitação**| - [ ] O navegador deve suportar a leitura em voz alta de todo o conteúdo textual da página.<br> - [ ] Deve haver opções para controlar a velocidade e a voz da leitura.<br> - [ ] O usuário deve poder iniciar e parar a leitura facilmente.<br> - [ ] O texto deve ser destacado conforme é lido para facilitar o acompanhamento visual. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Alta |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
-
-### US05 - Controle parental de sites
-
-A tabela 6 apresenta a história de usuário US05 - Controle parental de sites.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 6:</b>  US05</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um pai/mãe ou responsável, desejo implementar controles parentais no navegador, para que eu possa limitar o acesso a conteúdos inapropriados para meus filhos. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir a configuração de listas de sites bloqueados e permitidos.<br>  - [ ] O navegador deve permitir a configuração de listas palavras que não podem estar inclusas nas pesquisas.<br> - [ ] Deve haver opções para definir horários de uso e tempo limite de navegação.<br> - [ ] O acesso ao controle parental deve ser protegido por senha. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Média |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
-
-### US06 - Alterar fonte do navegador em tipo e tamanho
-
-A tabela 7 apresenta a história de usuário US06 - Alterar fonte do navegador em tipo e tamanho.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 7:</b>  US06</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tipo e o tamanho da fonte, para que eu possa ajustar a leitura conforme minhas preferências e necessidades visuais. |
-|**Critérios de aceitação**| - [ ] O navegador deve oferecer uma variedade de tipos de fonte para escolha.<br> - [ ] O usuário deve poder aumentar ou diminuir o tamanho da fonte conforme desejado.<br> - [ ] As mudanças nas configurações de fonte devem ser aplicadas imediatamente a todas as páginas.<br> - [ ] As configurações de fonte personalizadas devem ser salvas para sessões futuras. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Baixa |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
-
-### US07 - Controlar atalhos por gestos
-
-A tabela 8 apresenta a história de usuário US07 - Controlar atalhos por gestos.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 8:</b>  US07</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo controlar os atalhos do navegador por meio de gestos, para que eu possa navegar de forma mais rápida e intuitiva. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir ativar ou desativar o reconhecimento de gestos padrão para comandos comuns (ex.: voltar, avançar, atualizar).<br> - [ ] Os gestos devem ser reconhecidos com precisão e ter uma resposta rápida.<br> |
-| **Prioridade** | Alta |
-| **Dificuldade** | Alta |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
-
-### US08 - Limpar histórico 
-
-A tabela 9 apresenta a história de usuário US08 - Limpar histórico.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 9:</b>  US08</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo limpar meu histórico, para que minha interação com um tópico seja invisível. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br>- [ ] O navegador deve permitir que eu acesse o meu histórico de downloads.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de downloads.<br> - [ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
-| **Prioridade** | Média |
-| **Dificuldade** | Baixa |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
-</div>
-
-### US09 - Limpar dados de usuário
-
-A tabela 10 apresenta a história de usuário US09 - Limpar dados de usuário.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 10:</b>  US09</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo deletar minhas senhas e emails, para que eu me sinta mais seguro. |
-|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse os meus dados pessoais.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar dos meus dados pessoais.<br> - [ ] O navegador deve deletar do sistema os itens selecionados. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Baixa |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
-</div>
-
-### US10 - Acessar um site versão desktop
-
-A tabela 11 apresenta a história de usuário US10 - Acessar um site versão desktop.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 11:</b>  US10</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 03:</b>  US02</p></font>
 </div>
 
 | ID | Descrição |
@@ -232,35 +78,15 @@ A tabela 11 apresenta a história de usuário US10 - Acessar um site versão des
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
 </div>
 
-### US11 - Alterar entre o tema claro e escuro
+### [US03](../../elicitacao/priorizacao/requisitos_priorizados.md) - Favoritar sites
 
-A tabela 12 apresenta a história de usuário US11 - Alterar entre o tema claro e escuro.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 12:</b>  US11</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tema do navegador para claro ou escuro, para que eu possa utilizar ele no modo escuro de noite e claro de dia. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> - [ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem essa opção, ao tema escolhido. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Média |
+A tabela 04 apresenta a história de usuário US03 - Favoritar sites.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
-</div>
-
-
-### US12 - Favoritar sites
-
-A tabela 13 apresenta a história de usuário US12 - Favoritar sites.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 13:</b>  US12</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 04:</b>  US03</p></font>
 </div>
 
 | ID | Descrição |
@@ -271,15 +97,150 @@ A tabela 13 apresenta a história de usuário US12 - Favoritar sites.
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
 </div>
 
-### US13 - Gerir memória
+### [US04](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar no navegador
 
-A tabela 14 apresenta a história de usuário US13 - Gerir memória.
+A tabela 05 apresenta a história de usuário US04 - Pesquisar no navegador.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 14:</b>  US13</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 05:</b>  US04 </p></font>
+</div>
+
+
+| US04 | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador firefox, desejo realizar uma busca no navegador, para que eu possa realizar minhas pesquisas. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir a digitação de uma consulta na barra de pesquisa.<br> - [ ] Após pressionar *Enter*, o navegador deve exibir uma página de resultados de pesquisa.<br> - [ ] Os resultados da pesquisa devem ser relevantes para a consulta digitada.<br> - [ ] A página de resultados deve carregar em menos de 5 segundos. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a></p></font>
+</div>
+
+### [US05](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar por voz
+
+A tabela 06 apresenta a história de usuário US05 - Pesquisar por voz.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 06:</b>  US05 </p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo realizar buscas utilizando comandos de voz, para que eu possa pesquisar sem usar o teclado. |
+|**Critérios de aceitação**| - [ ] Deve haver um botão ou comando para ativar a pesquisa por voz facilmente acessível. <br> - [ ] O navegador deve reconhecer e interpretar comandos de voz dados pelo usuário.<br>  |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
+</div>
+
+### [US06](../../elicitacao/priorizacao/requisitos_priorizados.md) - Iniciar leitura de páginas
+
+A tabela 07 apresenta a história de usuário US06 - Iniciar leitura de páginas.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 07:</b>  US06</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário, desejo que o navegador leia o conteúdo da página em voz alta, para que eu possa acessar informações sem precisar ler o texto. |
+|**Critérios de aceitação**| - [ ] O navegador deve suportar a leitura em voz alta de todo o conteúdo textual da página.<br> - [ ] Deve haver opções para controlar a velocidade e a voz da leitura.<br> - [ ] O usuário deve poder iniciar e parar a leitura facilmente.<br> - [ ] O texto deve ser destacado conforme é lido para facilitar o acompanhamento visual. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
+</div>
+
+### [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites
+
+A tabela 08 apresenta a história de usuário US07 - Controlar acesso à sites.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 08:</b>  US07</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um pai/mãe ou responsável, desejo implementar controles de acesso no navegador, para que eu possa limitar o acesso a conteúdos inapropriados para meus filhos. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir a configuração de listas de sites bloqueados e permitidos.<br>  - [ ] O navegador deve permitir a configuração de listas palavras que não podem estar inclusas nas pesquisas.<br> - [ ] Deve haver opções para definir horários de uso e tempo limite de navegação.<br> - [ ] O acesso ao controle de acesso deve ser protegido por senha. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
+</div>
+
+### [US08](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar fonte do navegador
+
+A tabela 09 apresenta a história de usuário US08 - Alterar fonte do navegador.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 09:</b>  US08</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tipo e o tamanho da fonte, para que eu possa ajustar a leitura conforme minhas preferências e necessidades visuais. |
+|**Critérios de aceitação**| - [ ] O navegador deve oferecer uma variedade de tipos de fonte para escolha.<br> - [ ] O usuário deve poder aumentar ou diminuir o tamanho da fonte conforme desejado.<br> - [ ] As mudanças nas configurações de fonte devem ser aplicadas imediatamente a todas as páginas.<br> - [ ] As configurações de fonte personalizadas devem ser salvas para sessões futuras. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Baixa |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
+</div>
+
+### [US09](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar por atalho de gestos
+
+A tabela 10 apresenta a história de usuário US09 - Controlar por atalho de gestos.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 10:</b>  US09</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo controlar os atalhos do navegador por meio de gestos, para que eu possa navegar de forma mais rápida e intuitiva. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir ativar ou desativar o reconhecimento de gestos padrão para comandos comuns (ex.: voltar, avançar, atualizar).<br> - [ ] Os gestos devem ser reconhecidos com precisão e ter uma resposta rápida.<br> |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
+</div>
+
+
+### [US10](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar entre o tema claro e escuro
+
+A tabela 11 apresenta a história de usuário US10 - Alterar entre o tema claro e escuro.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 11:</b>  US10</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tema do navegador para claro ou escuro, para que eu possa utilizar ele no modo escuro de noite e claro de dia. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> - [ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem essa opção, ao tema escolhido. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
+</div>
+
+### [US11](../../elicitacao/priorizacao/requisitos_priorizados.md) - Gerir memória
+
+A tabela 12 apresenta a história de usuário US11 - Gerir memória.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 12:</b>  US11</p></font>
 </div>
 
 | ID | Descrição |
@@ -290,53 +251,15 @@ A tabela 14 apresenta a história de usuário US13 - Gerir memória.
 | **Dificuldade** | Alta  |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
 </div>
 
-### US14 - Bloquear anúncios
+### [US12](../../elicitacao/priorizacao/requisitos_priorizados.md) - Mudar idioma
 
-A tabela 15 apresenta a história de usuário US14 - Bloquear anúncios.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 15:</b>  US14</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo me permita bloquear a aparição de anúncios e pop-ups, para que minha navegação seja livre de distrações. |
-| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de identificar e bloquear anúncios nas páginas <br> - [ ] O usuário deve poder ativar ou desativar a função de bloquear anúncios <br> - [ ] O navegador deve garantir que o bloqueio dos anúncios não afete o funcionamento dos sites. |
-| **Prioridade** | Alta |
-| **Dificuldade** | Média |
+A tabela 13 apresenta a história de usuário US12 - Mudar idioma.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
-</div>
-
-### US15 - Ter segurança
-
-A tabela 16 apresenta a história de usuário US15 - Ter segurança.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 16:</b>  US15</p></font>
-</div>
-
-| ID | Descrição |
-| --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo seja seguro, para que eu possa utilizá-lo sem me preocupar com rastreamento, roubo de dados e ataques on-line. |
-| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de detectar e sinalizar sites maliciosos <br> - [ ] Os dados do usuário devem ser criptografados pelo navegador <br> [] O usuário deve ser capaz de gerir as permissões de cookies <br> - [] O navegador deve utilizar técnicas de proteção contra vulnerabilidades.  |
-| **Prioridade** | Alta |
-| **Dificuldade** | Alta |
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
-</div> 
-
-### US16 - Mudar idioma
-
-A tabela 17 apresenta a história de usuário US16 - Mudar idioma.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 17:</b>  US16</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 13:</b>  US12</p></font>
 </div>
 
 | ID | Descrição |
@@ -347,15 +270,15 @@ A tabela 17 apresenta a história de usuário US16 - Mudar idioma.
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
-### US17 - Traduzir pagina
+### [US13](../../elicitacao/priorizacao/requisitos_priorizados.md) - Traduzir pagina
 
-A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
+A tabela 14 apresenta a história de usuário US13 - Traduzir pagina.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 18:</b>  US17</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 14:</b>  US13</p></font>
 </div>
 
 | ID | Descrição |
@@ -366,15 +289,15 @@ A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
-### US18 - Sincronizar dados
+### [US14](../../elicitacao/priorizacao/requisitos_priorizados.md) - Sincronizar dados
 
-A tabela 19 apresenta a história de usuário US18 - Sincronizar dados.
+A tabela 15 apresenta a história de usuário US14 - Sincronizar dados.
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 19:</b>  US18</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 15:</b>  US14</p></font>
 </div>
 
 | ID | Descrição |
@@ -385,10 +308,86 @@ A tabela 19 apresenta a história de usuário US18 - Sincronizar dados.
 | **Dificuldade** | Alta |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
 </div>
 
-### US19 - Trocar de conta
+### [US15](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de navegação
+
+A tabela 16 apresenta a história de usuário US15 - Acessar histórico de navegação.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 16:</b>  US15</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de páginas visitadas, para que eu possa revisar e gerenciar minhas atividades passadas de navegação. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Páginas" acessível a partir do menu principal.<br> - [ ] O histórico de páginas deve listar todas as páginas visitadas, ordenadas cronologicamente, com opções de busca e filtragem por data e site.<br> - [ ] Deve ser possível abrir diretamente uma página a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de páginas.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de páginas.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
+
+### [US16](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de downloads
+
+A tabela 17 apresenta a história de usuário US16 - Acessar histórico de downloads.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 17:</b>  US16</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de downloads realizados, para que eu possa revisar e gerenciar meus arquivos baixados. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Downloads" acessível a partir do menu principal.<br> - [ ] O histórico de downloads deve listar todos os downloads realizados, incluindo o nome do arquivo, a data e o status (completo, em andamento, falhado).<br> - [ ] Deve ser possível abrir diretamente um arquivo a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de downloads.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de downloads.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Média |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+</div>
+
+### [US17](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar histórico 
+
+A tabela 18 apresenta a história de usuário US17 - Limpar histórico.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 18:</b>  US17</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo limpar meu histórico, para que minha interação com um tópico seja invisível. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse o meu histórico de pesquisa.<br>- [ ] O navegador deve permitir que eu acesse o meu histórico de downloads.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de pesquisa.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar do meu histórico de downloads.<br> - [ ] O navegador deve deletar do sistema os itens selecionados do histórico. |
+| **Prioridade** | Média |
+| **Dificuldade** | Baixa |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
+</div>
+
+### [US18](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar dados de usuário
+
+A tabela 19 apresenta a história de usuário US18 - Limpar dados de usuário.
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 19:</b>  US18</p></font>
+</div>
+
+| ID | Descrição |
+| --- | --------- |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo deletar minhas senhas e emails, para que eu me sinta mais seguro. |
+|**Critérios de aceitação**| - [ ] O navegador deve permitir que eu acesse os meus dados pessoais.<br> - [ ] O navegador deve permitir que eu selecione o que eu quero retirar dos meus dados pessoais.<br> - [ ] O navegador deve deletar do sistema os itens selecionados. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Baixa |
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
+</div>
+
+### [US19](../../elicitacao/priorizacao/requisitos_priorizados.md) - Trocar de conta
 
 A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 
@@ -404,10 +403,10 @@ A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
-### US20 - Alterar senha
+### [US20](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar senha
 
 A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 
@@ -423,12 +422,12 @@ A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 | **Dificuldade** | Baixa |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
-### US21 - Acessar histórico de navegação
+### [US21](../../elicitacao/priorizacao/requisitos_priorizados.md) - Ter segurança contra rastreamento, roubo de dados e ataques
 
-A tabela 22 apresenta a história de usuário US21 - Acessar histórico de navegação.
+A tabela 22 apresenta a história de usuário US21 - Ter segurança contra rastreamento, roubo de dados e ataques.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 22:</b>  US21</p></font>
@@ -436,18 +435,18 @@ A tabela 22 apresenta a história de usuário US21 - Acessar histórico de naveg
 
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de páginas visitadas, para que eu possa revisar e gerenciar minhas atividades passadas de navegação. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Páginas" acessível a partir do menu principal.<br> - [ ] O histórico de páginas deve listar todas as páginas visitadas, ordenadas cronologicamente, com opções de busca e filtragem por data e site.<br> - [ ] Deve ser possível abrir diretamente uma página a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de páginas.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de páginas.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo seja seguro, para que eu possa utilizá-lo sem me preocupar com rastreamento, roubo de dados e ataques on-line. |
+| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de detectar e sinalizar sites maliciosos <br> - [ ] Os dados do usuário devem ser criptografados pelo navegador <br> [] O usuário deve ser capaz de gerir as permissões de cookies <br> - [] O navegador deve utilizar técnicas de proteção contra vulnerabilidades.  |
 | **Prioridade** | Alta |
-| **Dificuldade** | Média |
+| **Dificuldade** | Alta |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
+</div> 
 
-### US22 - Acessar downloads
+### [US22](../../elicitacao/priorizacao/requisitos_priorizados.md) - Bloquear anúncios
 
-A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
+A tabela 23 apresenta a história de usuário US22 - Bloquear anúncios.
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 23:</b>  US22</p></font>
@@ -455,14 +454,16 @@ A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
 
 | ID | Descrição |
 | --- | --------- |
-|  **História de usuário**   | Como um usuário do navegador Firefox, desejo acessar meu histórico de downloads realizados, para que eu possa revisar e gerenciar meus arquivos baixados. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir uma seção de "Histórico de Downloads" acessível a partir do menu principal.<br> - [ ] O histórico de downloads deve listar todos os downloads realizados, incluindo o nome do arquivo, a data e o status (completo, em andamento, falhado).<br> - [ ] Deve ser possível abrir diretamente um arquivo a partir do histórico clicando no item correspondente.<br> - [ ] O navegador deve permitir a exclusão individual de entradas do histórico de downloads.<br> - [ ] O navegador deve oferecer a opção de limpar todo o histórico de downloads.<br> - [ ] O histórico deve sincronizar com a conta do usuário, permitindo acesso consistente entre dispositivos diferentes. |
+|  **História de usuário**   | Como um usuário do navegador Firefox, desejo que o aplicativo me permita bloquear a aparição de anúncios e pop-ups, para que minha navegação seja livre de distrações. |
+| **Critérios de aceitação** | - [ ] O navegador deve ter capacidade de identificar e bloquear anúncios nas páginas <br> - [ ] O usuário deve poder ativar ou desativar a função de bloquear anúncios <br> - [ ] O navegador deve garantir que o bloqueio dos anúncios não afete o funcionamento dos sites. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
 </div>
+
+## Validação das histórias de usuário
 
 A validação das Histórias de Usuário é uma etapa crucial para garantir que as funcionalidades propostas atendam às necessidades dos usuários. Para isso, fizemos uma reunião gravada com os participantes apresentados na tabela 1.
 
@@ -470,14 +471,18 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
     <font size="3"><p style="text-align: center"><b>Tabela 24:</b>  Participantes da validação das Histórias de Usuário</p></font>
 </div>
 
+<div align="center">
+
 | Nome | Função |
 | --- | --------- |
 | [Kauan Eiras](https://github.com/kauaneiras) | Membro da equipe |
 | [Lucas Martins](https://github.com/martinsglucas) | Membro da equipe |
 | Leandro | Stakeholder |
 
+</div>
+
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
 <div align="center">
@@ -488,13 +493,16 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 </div>
 
 <div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
 </div>
 
 ## Referências
 
 1. SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 22 de maio de 2024.
+
 2. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn. Simplilearn. Youtube, 31 de jul. 2020. Disponível em: https://www.youtube.com/watch?v=SRRQCDZQ6G4. Acesso em: 22 maio 2024. 
+
+3. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario
 
 ## Histórico de versões
 
@@ -511,3 +519,4 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 | 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)|
 | 1.9 | 27/05/2024 | Adição da validação das Histórias de Usuários |  [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 2.0 | 27/05/2024 | Adição da gravação da validação | [Kauan Eiras](https://github.com/kauaneiras)|[Lucas Martins](https://github.com/martinsglucas) |
+| 2.1 | 05/06/2024 | correcoes | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
