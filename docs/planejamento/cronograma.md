@@ -85,8 +85,8 @@ Na Tabela 4, tem-se o cronograma planejado para a segunda etapa de entrega.
 | Definição e criação de personas                    | 08/04/2024 | 12/04/2024 | Leonardo e Kallyne                               | Guilherme, Kauan, Lucas, Davi                    | 12/04/2024 - 16/04/2024 |
 | Aplicação das técnicas de elicitação escolhidas    | 08/04/2024 | 12/04/2024 | Guilherme e Kauan                                | Leonardo, Guilherme, Lucas, Davi                 | 12/04/2024 - 16/04/2024 |
 | Aplicação das técnicas de priorização escolhidas   | 08/04/2024 | 12/04/2024 | Davi e Lucas                                     | Kallyne, Leonardo, Guilherme, Kauan              | 12/04/2024 - 16/04/2024 |
-| Ajustes finais da entrega 2                        | 12/04/2024 | 16/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
- 
+| Ajustes finais da entrega 2                        | 12/04/2024 | 14/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
+| Gravação da apresentação                           | 14/04/2024 | 16/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
 <font size="3">Ator: [Davi Pierre](https://github.com/DaviPierre), 2024.</font> </center>
 
 
@@ -112,6 +112,7 @@ Na Tabela 5, tem-se o cronograma executado para a segunda etapa de entrega.
 | Aplicação de técnica de priorização: MoSCoW | 16/04/2024 | 20/04/2024 | Kallyne, Leonardo                                | Guilherme                  | 17/04/2024 - 22/04/2024 |
 | Definição e criação de personas                    | 15/04/2024 | 16/04/2024 | Kallyne, Leonardo                              |  Davi                    | 17/04/2024 - 22/04/2024 |
 | Ajustes finais da entrega 2                        | 12/04/2024 | 21/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 21/04/2024              |
+| Gravar da reunião                        | 16/04/2024 | 16/04/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 16/04/2024              |
 | Confecção das atas de reunião                        | 12/04/2024 | 16/04/2024 | Davi | Leonardo | 16/04/2024              |
 | Cronograma Executado                        | 21/04/2024 | 22/04/2024 | Kallyne | Leonardo | 22/04/2024              |
  
@@ -257,3 +258,4 @@ Na Tabela 9, tem-se o cronograma planejado para a quarta etapa de entrega.
 | 1.4    | 20/05/2024 | Cronograma Executado Entrega 03 | [Davi Pierre](https://github.com/DaviPierre)                                   | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.5    | 27/05/2024 | Cronograma Executado Entrega 04 | [Kauan Eiras](https://github.com/kauaneiras)                                   | [Kallyne Macedo](https://github.com/kalipassos)  |
 | 1.6    | 03/06/2024 | Atualização das legendas das tabelas | [Davi Pierre](https://github.com/DaviPierre)                              | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.7    | 03/06/2024 | Add das gravações no cronograma da entrega 3 | [Davi Pierre](https://github.com/DaviPierre)                              | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
