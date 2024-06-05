@@ -18,6 +18,7 @@ Persona - Anna Beatriz
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
+* **Tipo:** Persona primária.<br>
 * **Nome:** Anna Beatriz Souza da Cruz Santos.<br>
 * **Gênero:** Feminino.<br>
 * **Idade:** 28 Anos.<br>
@@ -37,6 +38,7 @@ Persona - Ronaldo
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
+* **Tipo:** Persona primária.<br>
 * **Nome:** Ronaldo Junior Ferraz Castro.<br>
 * **Gênero:** Masculino.<br>
 * **Idade:** 35 Anos.<br>
@@ -55,6 +57,7 @@ Persona - Maria
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
+* **Tipo:** Persona secundária.<br>
 * **Nome:** Maria Vilma Barbosa de Assis.<br>
 * **Gênero:** Feminino.<br>
 * **Idade:** 62 Anos.<br>
@@ -67,12 +70,13 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * **Requisitos:** Maria precisa que o aplicativo do Firefox  seja intuitivo e que tenha opções que facilitem ela com seu problema de visão, seja lendo a página para ela, aumentando o tamanho da fonte, aumentando o contraste, etc. além de que tenha uma opção para encaminhar links dos sites que ela encontre, ter o histórico de páginas acessadas, caso ela feche uma aba sem querer e tenha um sistema nativo que bloqueie pop ups e downloads não confiáveis. <br>
 
 <center>
-Antipersona - Steve
+Anti-persona - Steve
 
 ![](../../images/steve.png)
 Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 </center>
 
+* **Tipo:** Anti-persona.<br>
 * **Nome:** Steve Harrington Matos.<br>
 * **Gênero:** masculino.<br>
 * **Idade:** 9 Anos.<br>
