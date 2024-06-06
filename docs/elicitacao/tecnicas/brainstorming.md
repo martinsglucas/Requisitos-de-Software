@@ -1,7 +1,7 @@
 # Elicitação de Requisitos: Brainstorming
 
 ## Introdução
-Conforme pesquisa levantada pela [UFSC](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming)", o brainstorming pode ser classificado como uma técnica de elicitação de requisitos em que cada participante tem a oportunidade de expor suas concepções de forma aberta, com o objetivo de desenvolvimento de um novo sistema. Nessa técnica, os participantes podem ter origens acadêmicas e profissionais distintas e compartilham suas ideias, que são direcionadas para a resolução de um problema específico, em um intervalo de tempo determinado. Dessa forma, a abordagem possibilita que os stakeholders ampliem suas perspectivas acerca do problema em questão.
+Conforme pesquisa levantada pela UFSC[1], o brainstorming pode ser classificado como uma técnica de elicitação de requisitos em que cada participante tem a oportunidade de expor suas concepções de forma aberta, com o objetivo de desenvolvimento de um novo sistema. Nessa técnica, os participantes podem ter origens acadêmicas e profissionais distintas e compartilham suas ideias, que são direcionadas para a resolução de um problema específico, em um intervalo de tempo determinado. Dessa forma, a abordagem possibilita que os stakeholders ampliem suas perspectivas acerca do problema em questão.
 
 ## Justificativa
 No contexto da elicitação de requisitos, o brainstorm tem como principal vantagem sua capacidade de estimular a criatividade, promovendo a geração de ideias diversas através da expressão livre dos pensamentos. Assim, a técnica traz variedade, profundidade e inovação para as informações coletadas e, consequentemente, auxilia na resolução de conflitos oriundos da elicitação.
@@ -73,6 +73,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 > - **BRSx**: Requisito nº x elicitado pela técnica de brainstorming
 
 <center>
+  
 ### Tabela 2: Requisitos elicitados
 
 | Tipo  | Descrição                                                       | ID    | Implementado |
@@ -120,7 +121,9 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 
 ## Referências
 
-GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
+1. Retraining. Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 5 jun. 2024.
+
+2. GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
 
 ## Histórico de Versões 
 
@@ -129,6 +132,6 @@ GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Téc
 |  1.0   | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 |  1.1   | 16/04/2024 | Adição das perguntas                             | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 |  1.2   | 16/04/2024 | Adiciona tabela 1 e 2                            | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.3 | 17/04 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) | 
-| 1.4 | 20/04 | Troca do link para link do Youtube | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
-| 1.5 | 30/05 | Correção da formatação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
+| 1.3 | 17/04/2024 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) | 
+| 1.4 | 20/04/2024 | Troca do link para link do Youtube | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
+| 1.5 | 30/05/2024 | Correção da formatação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
