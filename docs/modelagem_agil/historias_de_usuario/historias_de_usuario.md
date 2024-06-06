@@ -158,9 +158,9 @@ A tabela 07 apresenta a história de usuário US06 - Iniciar leitura de páginas
     <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
 </div>
 
-### [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites
+### [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites (controle parental)
 
-A tabela 08 apresenta a história de usuário US07 - Controlar acesso à sites.
+A tabela 08 apresenta a história de usuário US07 - Controlar acesso à sites (controle parental).
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 08:</b>  US07</p></font>

@@ -105,7 +105,7 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 | T01    | E02 | [US04](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar no navegador | Alta | Implementado |
 | T01    | E02 | [US05](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar por voz | Alta | Não implementado |
 | T02    | E03 | [US06](../../elicitacao/priorizacao/requisitos_priorizados.md) - Iniciar leitura de páginas | Alta | Implementado |
-| T02    | E03 | [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites | Alta | Não implementado |
+| T02    | E03 | [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites (controle parental) | Alta | Não implementado |
 | T02    | E03 | [US08](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar fonte do navegador | Alta | Implementado |
 | T02    | E03 | [US09](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar por atalho de gestos | Alta | Implementado |
 | T02    | E03 | [US10](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar entre o tema claro e escuro | Alta | Implementado |
