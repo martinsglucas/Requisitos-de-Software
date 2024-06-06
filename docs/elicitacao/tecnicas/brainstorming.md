@@ -11,7 +11,7 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 ### Tabela 1: Participantes
 
 | Nome                                              | Função   |
-| ------------------------------------------------- | -------- |
+|---------------------------------------------------|----------|
 | [Guilherme Westphall](https://github.com/west7)   | Mediador |
 | [Lucas Martins](https://github.com/martinsglucas) | Mediador |
 | Guilherme Dutra                                   | Usuário  |
@@ -73,10 +73,11 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 > - **BRSx**: Requisito nº x elicitado pela técnica de brainstorming
 
 <center>
+
 ### Tabela 2: Requisitos elicitados
 
 | Tipo  | Descrição                                                       | ID    | Implementado |
-| ----- | --------------------------------------------------------------- | ----- | ------------ |
+|-------|-----------------------------------------------------------------|-------|--------------|
 | RNF01 | O navegador deve responder rapidamente as pesquisas             | BRS01 | Sim          |
 | RNF02 | O sistema deve gerir bem a memória                              | BRS02 | Sim          |
 | RF01  | Deve sincronizar os dados                                       | BRS03 | Sim          |
@@ -122,11 +123,11 @@ GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Téc
 
 ## Histórico de Versões 
 
-| Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
-| :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-|  1.1   | 16/04/2024 | Adição das perguntas                             | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-|  1.2   | 16/04/2024 | Adiciona tabela 1 e 2                            | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.3 | 17/04 | Adiciona link da gravação | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) | 
-| 1.4 | 20/04 | Troca do link para link do Youtube | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
-| 1.5 | 30/05 | Correção da formatação | [Kauan T. Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) | 
+| Versão |    Data    | Descrição                                        |                      Autor                      |                      Revisor                      |
+|:------:|:----------:|--------------------------------------------------|:-----------------------------------------------:|:-------------------------------------------------:|
+|  1.0   | 14/04/2024 | Descrição do método de Elicitação: Brainstorming | [Kallyne Macedo](https://github.com/kalipassos) |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.1   | 16/04/2024 | Adição das perguntas                             | [Guilherme Westphall](https://github.com/west7) |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.2   | 16/04/2024 | Adiciona tabela 1 e 2                            | [Guilherme Westphall](https://github.com/west7) |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.3   |   17/04    | Adiciona link da gravação                        | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+|  1.4   |   20/04    | Troca do link para link do Youtube               | [Kauan T. Eiras](https://github.com/kauaneiras) |  [Guilherme Westphall](https://github.com/west7)  |
+|  1.5   |   30/05    | Correção da formatação                           | [Kauan T. Eiras](https://github.com/kauaneiras) |  [Guilherme Westphall](https://github.com/west7)  |

@@ -23,17 +23,17 @@ Na tabela 1, são apresentados os requisitos identificados em relação à usabi
 
 <center>
 
-Tabela 1 - Requisitos de Usabilidade.
+**Tabela 1**: Requisitos de Usabilidade.
 
-| ID |    Descrição   |
-| :----: | :--------: |
-| US1 | Deve ser possível visualizar em formato desktop |
-| US2 | Deve disponibilizar formas de facilitar seu uso principal, como criar atalhos, sugestões personalizadas de pesquisa e pesquisa por voz. |
+| ID  |                                                                                 Descrição                                                                                  |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| US1 |                                                              Deve ser possível visualizar em formato desktop                                                               |
+| US2 |                  Deve disponibilizar formas de facilitar seu uso principal, como criar atalhos, sugestões personalizadas de pesquisa e pesquisa por voz.                   |
 | US3 | Deve disponibilizar formas de se adaptar ao usuário, incluindo acessibilidade, personalizar a tela inicial do navegador, mudar o idioma e mudar entre tema claro e escuro. |
-| US4 | O aplicativo deve fornecer feedback imediato após cada ação do usuário. |
-| US5 | O aplicativo deve permitir que os usuários desfaçam ações sempre que possível. |
+| US4 |                                                  O aplicativo deve fornecer feedback imediato após cada ação do usuário.                                                   |
+| US5 |                                               O aplicativo deve permitir que os usuários desfaçam ações sempre que possível.                                               |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor:**  [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
@@ -44,19 +44,20 @@ O aspecto da confiabilidade refere-se à habilidade de um produto em executar um
 Na tabela 2, são apresentados os requisitos identificados em relação à confiabilidade.
 
 <center>
-Tabela 2 - Requisitos de Confiabilidade
 
-| ID     |    Descrição    | Subcategoria |
-| :----: | :--------:     |  :--------: |
-|  RC01  | O aplicativo deve estar disponível para uso 99.9% do tempo | Disponibilidade |
-|  RC02  | O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana | Disponibilidade |
-|  RC03  | O backup dos dados deve ser realizado automaticamente | Recuperabilidade | 
-|  RC04  | O aplicativo deve carregar as páginas Web com 99.9% de precisão, exibindo os elementos adequadamente | Precisão | 
-|  RC05  | O aplicativo deve ser atualizado sem interromper a navegação do usuário | Disponibilidade
-|  RC06  | Caso falhe ou trave, o aplicativo deve ser capaz de restaurar a sessão do usuário em menos de 1 minuto | Recuperabilidade |
-|  RC07  | O navegador deve ser compatível com pelo menos 90% das páginas web | Precisão 
+**Tabela 2**: Requisitos de Confiabilidade
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+|  ID  |                                                                                                    Descrição                                                                                                     |   Subcategoria   |
+|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|
+| RC01 | O aplicativo deve ter um Tempo Médio Entre Falhas (MTBF) de no mínimo 1000 horas de uso, e um Tempo Médio para Reparo (MTTR) de no máximo 1 hora, conforme medido por ferramentas de monitoramento de desempenho | Disponibilidade  |
+| RC02 |                               O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana, conforme comprovado por um sistema de segurança                                | Disponibilidade  |
+| RC03 |                                                                 O backup dos dados deve ser realizado automaticamente pelo menos uma vez por dia                                                                 | Recuperabilidade |
+| RC04 |                                         O aplicativo deve carregar as páginas Web com 99.9% de precisão, exibindo os elementos adequadamente, conforme diretrizes do W3C                                         |     Precisão     |
+| RC05 |                                                                     O aplicativo deve ser atualizado sem interromper a navegação do usuário                                                                      | Disponibilidade  |
+| RC06 |                                                      O aplicativo deve ser capaz de restaurar a sessão do usuário em menos de 1 minuto, caso falhe ou trave                                                      | Recuperabilidade |
+| RC07 |                                                 O navegador deve ser compatível com pelo menos 90% das páginas web, comprovado através de uma amostra de sites.                                                  |     Precisão     |
+
+**Autor:**  [Kallyne Macedo](https://github.com/kalipassos), 2024
 </center>
 
 ### Desempenho
@@ -67,18 +68,18 @@ Na tabela 3, são apresentados os requisitos identificados em relação ao desem
 
 <center>
 
-Tabela 3 - Requisitos de Desempenho
+**Tabela 3**: Requisitos de Desempenho
 
-| Identificador | Descrição |
-| :-----------: | :-------: |
-| DES01 | O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa |
-| DES02 | O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em dispositivos móveis com pelo menos 4 GB de RAM e processador quad-core de 1.8 GHz |
-| DES03 | As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos em conexões de internet de alta velocidade (pelo menos 50 Mbps) |
-| DES04 | O sistema deve ser capaz de armazenar em cache páginas web visitadas para acelerar o carregamento de páginas subsequentes |
-| DES05 | O Firefox deve consumir menos de 20% de CPU durante a navegação típica (definida como navegação em sites populares como redes sociais, notícias, e-commerce) e menos de 50% durante operações intensivas (definidas como execução de vídeos em alta definição, jogos online) |
-| DES06 | O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB durante a navegação típica (até 10 guias abertas) e não ultrapassar 2 GB em uso intenso (mais de 30 guias abertas) | 
+| Identificador |                                                                                                                                  Descrição                                                                                                                                   |
+|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     DES01     |                                                                                          O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa                                                                                           |
+|     DES02     |                                                  O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em dispositivos móveis com pelo menos 4 GB de RAM e processador quad-core de 1.8 GHz                                                   |
+|     DES03     |                                          As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos em conexões de internet de alta velocidade (pelo menos 50 Mbps)                                          |
+|     DES04     |                                                                          O sistema deve ser capaz de armazenar em cache páginas web visitadas para acelerar o carregamento de páginas subsequentes                                                                           |
+|     DES05     | O Firefox deve consumir menos de 20% de CPU durante a navegação típica (definida como navegação em sites populares como redes sociais, notícias, e-commerce) e menos de 50% durante operações intensivas (definidas como execução de vídeos em alta definição, jogos online) |
+|     DES06     |               O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB durante a navegação típica (até 10 guias abertas) e não ultrapassar 2 GB em uso intenso (mais de 30 guias abertas)               |
 
-Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor:**  [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
@@ -92,17 +93,17 @@ Na tabela 4, são apresentados os requisitos identificados em relação à supor
 
 <center>
 
-Tabela 4 - Requisitos de Suportabilidade.
+**Tabela 4**: Requisitos de Suportabilidade.
 
-| ID |    Descrição   |
-| :----: | :--------: |
-|  SUP01   | O aplicativo deve prover suporte em casos de erros de execução e bugs. |
-|  SUP02   | O sistema deve ser extensível para permitir a adição de novas funcionalidades e acompanhar as mudanças. |
-|  SUP03   | A documentação deve estar sempre atualizada para facilitar a contribuição, com cobertura de pelo menos 90%. |
-|  SUP04   | O sistema deve ser projetado para facilitar a realização de testes durante o desenvolvimento e a manutenção. |
-|  SUP05   | O sistema deve contar com rastreabilidade, incluindo mecanismos para registrar e acompanhar mudanças e correções ao longo do tempo, com controle de versão e registros de alterações.|
+|  ID   |                                                                                      Descrição                                                                                       |
+|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| SUP01 |                O aplicativo deve prover suporte técnico em casos de erros de execução e bugs através de sistema de tickets/reclamações com SLA inicial de até um dia                 |
+| SUP02 |             O sistema deve ser extensível para permitir a adição de novas funcionalidades e acompanhar as mudanças, com validação pela aplicação de um framework modular             |
+| SUP03 |                                         O aplicativo deve ter sua documentação sempre atualizada, com cobertura de pelo menos 90% do sistema                                         |
+| SUP04 | O sistema deve ser projetado para facilitar a realização de testes automatizados durante o desenvolvimento e a manutenção, validado através de pelo menos 80% de cobertura de testes |
+| SUP05 | O sistema deve contar com rastreabilidade, incluindo mecanismos para registrar e acompanhar mudanças e correções ao longo do tempo, com controle de versão e registros de alterações |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor:**  [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
@@ -113,15 +114,16 @@ As restrições de design tratam das limitações e diretrizes que o projeto dev
 Na tabela 5, são apresentados os requisitos identificados em relação às restrições de design. 
 
 <center>
-Tabela 5 - Requisitos de Restrições de Design 
 
-| ID     |    Descrição    | 
-| :----: | :--------:     | 
-|  RD01  | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
-|  RD02  | O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel |
-|  RD03  | O aplicativo deve seguir diretrizes de acessibilidade da WCAG |
+**Tabela 5**: Requisitos de Restrições de Design 
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+|  ID  |                                              Descrição                                               |
+|:----:|:----------------------------------------------------------------------------------------------------:|
+| RD01 | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
+| RD02 |        O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel        |
+| RD03 |                  O aplicativo deve seguir diretrizes de acessibilidade da WCAG 2.1                   |
+
+**Autor:**  [Kallyne Macedo](https://github.com/kalipassos), 2024
 </center>
 
 ### +: Requisitos de Implementação
@@ -132,17 +134,17 @@ Na tabela 6, são apresentados os requisitos em relação à implementação.
 
 <center>
 
-Tabela 6 - Requisitos de Implementação
+**Tabela 6**: Requisitos de Implementação
 
-| Identificador | Descrição |
-| :-----------: | :-------: |
-| IMP01 | O código-fonte deve seguir os padrões de codificação definidos pela Mozilla, como aqueles especificados no Mozilla Coding Style Guide |
-| IMP02 | O sistema deve ser desenvolvido de forma modular, permitindo a reutilização de componentes em diferentes partes do navegador |
-| IMP03 | A documentação técnica do sistema, incluindo diagramas de arquitetura e manuais de API, deve ser mantida atualizada |
-| IMP04 | Cobertura de testes deve ser mantida acima de 80%, com testes automatizados para todas as funcionalidades críticas. |
-| IMP05 | O código deve ser escrito de maneira a ser portátil, facilitando a execução do navegador em diferentes sistemas operacionais |
+| Identificador |                                                               Descrição                                                               |
+|:-------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+|     IMP01     | O código-fonte deve seguir os padrões de codificação definidos pela Mozilla, como aqueles especificados no Mozilla Coding Style Guide |
+|     IMP02     |     O sistema deve ser desenvolvido de forma modular, permitindo a reutilização de componentes em diferentes partes do navegador      |
+|     IMP03     |          A documentação técnica do sistema, incluindo diagramas de arquitetura e manuais de API, deve ser mantida atualizada          |
+|     IMP04     |          Cobertura de testes deve ser mantida acima de 80%, com testes automatizados para todas as funcionalidades críticas           |
+|     IMP05     |     O código deve ser escrito de maneira a ser portátil, facilitando a execução do navegador em diferentes sistemas operacionais      |
 
-Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor:**  [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
@@ -153,20 +155,20 @@ Os requisitos de interface no contexto do modelo FURPS+ estão relacionados à q
 Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relacionados a interface.
 
 <center>
-Tabela 7 - Requisitos de Interface
 
-| Identificador | Descrição                                                                                  |
-|---------------|--------------------------------------------------------------------------------------------|
-| INT01         | Os elementos da interface devem estar organizados de forma lógica e esteticamente agradável. |
-| INT02         | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques. |
-| INT03         | Mensagens de erro devem ser exibidas em vermelho e destacadas na tela. |
-| INT04         | Um novo usuário deve conseguir concluir uma tarefa simples sem consultar a documentação. |
-| INT05         | A interface deve ser testada com um leitor de tela para garantir que todas as informações sejam acessíveis. |
-| INT06         | O usuário deve conseguir alterar a cor de fundo da interface nas configurações. |
-| INT07         | A interface deve ser testada em pelo menos três navegadores diferentes. |
-| INT08         | A interface deve carregar em menos de dois segundos em uma conexão de internet padrão. |
+**Tabela 7**: Requisitos de Interface
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+| Identificador | Descrição                                                                                                                                                                           |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| INT01         | Os elementos da interface devem ser organizados conforme as diretrizes do Acorn Design                                                                                              |
+| INT02         | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques, validado através de testes de usabilidade com aprovação de 90%                                |
+| INT03         | Mensagens de erro devem ser exibidas em tons de vermelho entre #ffdfe7 e #810220, devendo ocupar pelo menos 15% da tela visível                                                     |
+| INT04         | Um novo usuário deve conseguir concluir uma tarefa simples, como abrir uma nova guia, sem consultar a documentação,  validado através de testes de usabilidade com aprovação de 90% |
+| INT05         | A interface deve ser testada com um leitor de tela para garantir que todas as informações sejam acessíveis, conforme as diretrizes de acessibilidade WCAG 2.1.                      |
+| INT06         | O usuário deve conseguir alterar a cor de fundo da interface nas configurações, validado através de testes de usabilidade com aprovação de 90%                                      |
+| INT07         | A interface deve carregar em menos de dois segundos em uma conexão de internet padrão, validado através de testes de desempenho.                                                    |
+
+**Autor:**  [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
@@ -178,25 +180,26 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 * No caso de sistemas Android, o aparelho deverá estar na versão 5.0 ou superior. <br>
 * O aparelho deverá possuir acesso à internet para ter todas as funcionalidades do software disponíveis.
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor:**  [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
-## Bibliografia
+## Referências
 
-SERRANO, et al. Requisitos - Aula 13. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em 17 maio 2024.
+1. SERRANO, et al. Requisitos - Aula 13. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em 17 de maio de 2024.
 
-ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes>. Acesso em: 17 maio 2024.
+2. ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes>. Acesso em: 17 de maio de 2024.
 
-SUPORTE, Mozilla; Gerir atualizações do Firefox, 2024. Disponível em: <https://support.mozilla.org/pt-PT/kb/gerir-atualizacoes-do-firefox>. Acesso em: 20 maio 2024.
+3. SUPORTE, Mozilla; Gerir atualizações do Firefox, 2024. Disponível em: <https://support.mozilla.org/pt-PT/kb/gerir-atualizacoes-do-firefox>. Acesso em: 20 de maio de 2024.
 
-UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponível em: <https://brasil.uxdesign.cc/10-heur%C3%ADsticas-de-nielsen-para-o-design-de-interface-58d782821840>. Acesso em: 20 maio 2024.
+4. UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponível em: <https://brasil.uxdesign.cc/10-heur%C3%ADsticas-de-nielsen-para-o-design-de-interface-58d782821840>. Acesso em: 20 de maio de 2024.
 
 ## Histórico de Versões 
 
 
-| Versão |    Data    | Descrição                                        |                      Autor                      |                     Revisor                     |
-| :----: | :--------: | ------------------------------------------------ | :---------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 19/05/2024 | Introdução e Metodologia | [Kallyne Macedo](https://github.com/kalipassos) | [Lucas Martins](https://github.com/martinsglucas) |
-|  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
-|  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação | [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)
-|  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras)
-| 1.4 | 27/05/2024 | Melhor especificação para o Desempenho | [Lucas Martins](https://github.com/martinsglucas) |  [Leonardo Aguiar](https://github.com/Leonardo0o0)
+| Versão |    Data    | Descrição                                         |                       Autor                       |                      Revisor                      |
+|:------:|:----------:|---------------------------------------------------|:-------------------------------------------------:|:-------------------------------------------------:|
+|  1.0   | 19/05/2024 | Introdução e Metodologia                          |  [Kallyne Macedo](https://github.com/kalipassos)  | [Lucas Martins](https://github.com/martinsglucas) |
+|  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) |   [Davi Pierre](https://github.com/DaviPierre)    |
+|  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação          | [Lucas Martins](https://github.com/martinsglucas) |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface  |  [Kallyne Macedo](https://github.com/kalipassos)  |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.4   | 27/05/2024 | Melhor especificação para o Desempenho            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+|  1.5   | 05/06/2024 | Reescrita da especificação de forma testável      |  [Kallyne Macedo](https://github.com/kalipassos)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
