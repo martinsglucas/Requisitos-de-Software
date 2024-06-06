@@ -22,7 +22,7 @@ Na definição dos casos de uso, utilizaremos as personas definidas para entende
 
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
 </div>
 
 ## Diagrama de casos de uso
@@ -36,7 +36,7 @@ A figura 1 apresenta o diagrama de casos de uso confeccionado com base no App Fi
 <center> <img src="https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/main/docs/modelagem/casos_de_uso/assets/REQ%202024.1%20-%20G6%20-%20Frame%202.jpg?raw=true"/> </center>
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
 </div>
 
 ## Especificação de casos de uso
@@ -64,7 +64,7 @@ Na tabela 2, abaixo, será disposta a especificação do caso de uso "Realizar p
 | **Rastreabilidade** | OBS01,  OBS12, BRS23, BRS15 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macêdo</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/kalipassos">Kallyne Macêdo</a>, 2024</p></font>
 </div>
 
 ### Acessar histórico
@@ -90,7 +90,7 @@ Na tabela 3, abaixo, será disposta a especificação do caso de uso "Acessar hi
 | **Rastreabilidade** | OBS05, BRS24, OBS06, OBS22 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024</p></font>
 </div>
 
 ### Bloquear anúncios
@@ -114,7 +114,7 @@ Na tabela 4, abaixo, será disposta a especificação do caso de uso "Bloquear a
 | **Rastreabilidade** | OBS27, BRS08, QST02 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
 </div>
 
 ### Mudar o Idioma
@@ -138,7 +138,7 @@ Na tabela 5, abaixo, será disposta a especificação do caso de uso "Mudar o Id
 | **Rastreabilidade** | OBS14 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
 </div>
 
 ### Acessar site
@@ -162,7 +162,7 @@ Na tabela 6, abaixo, será disposta a especificação do caso de uso "Acessar si
 | **Rastreabilidade** | OBS01, BRS23, OBS12, BRS15, OBS29, OBS04, ENT05, BRS24 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024</p></font>
 </div>
 
 ### Acessar barra de pesquisa
@@ -185,12 +185,12 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | *Pós-condições* |  O usuário confirma o que foi digitado para realizar a pesquisa.  |
 | *Data da Criação* | 20/05/2024 |
 | *Rastreabilidade* | OBS01, BRS23, OBS29 |
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
-
+<center>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
+</center>
 </center>
 
-## Referências bibliográficas
+## Referências
 
 1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
 2. Lucid Software Português. Tutorial de Caso de Uso UML. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 16 de maio de 2024.
@@ -207,4 +207,5 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | 1.4 | 20/05/2024 | Caso de uso "Mudar o Idioma" | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7)| 
 | 1.5 | 20/05/2024 | Adiciona textos introdutórios | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 1.6 | 20/05/2024 | Adiciona casos de uso "Acessar site"| [Davi Pierre](https://github.com/DaviPierre)| [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)
+| 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)| 
+| 1.8 | 05/06/2024 | Atualização das legendas das tabelas e figuras /e atualizações dos textos | [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras)|
