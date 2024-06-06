@@ -515,3 +515,4 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 | 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)|
 | 1.9 | 27/05/2024 | Adição da validação das Histórias de Usuários |  [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 2.0 | 27/05/2024 | Adição da gravação da validação | [Kauan Eiras](https://github.com/kauaneiras)|[Lucas Martins](https://github.com/martinsglucas) |
+| 2.1 | 28/05/2024 | Adiciona correções | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |

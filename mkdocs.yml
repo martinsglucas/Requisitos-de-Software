@@ -70,6 +70,7 @@ theme:
     - navigation.footer
     - content.tabs.link
   palette:
+<<<<<<< entrega5/v&v_g7_entr4
 theme:
   name: material
   features:
@@ -81,6 +82,8 @@ theme:
     - navigation.footer
     - content.tabs.link
   palette:
+=======
+>>>>>>> main
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -104,6 +107,7 @@ theme:
     - mkdocs-material-tabs
 
 markdown_extensions:
+<<<<<<< entrega5/v&v_g7_entr4
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -125,8 +129,19 @@ markdown_extensions:
   - admonition
   - pymdownx.tabbed:
       alternate_style: true 
+=======
+>>>>>>> main
   - pymdownx.superfences:
       custom_fences:
       - name: mermaid
         class: mermaid
         format: !!python/name:pymdownx.superfences.fence_code_format
+<<<<<<< entrega5/v&v_g7_entr4
+=======
+
+        
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+
+plugins:
+>>>>>>> main
