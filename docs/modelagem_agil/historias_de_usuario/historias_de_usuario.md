@@ -502,7 +502,7 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 
 2. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn. Simplilearn. Youtube, 31 de jul. 2020. Disponível em: https://www.youtube.com/watch?v=SRRQCDZQ6G4. Acesso em: 22 maio 2024. 
 
-3. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario
+3. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario. Acesso em: 5 de Julho de 2024.
 
 ## Histórico de versões
 
@@ -519,4 +519,4 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 | 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)|
 | 1.9 | 27/05/2024 | Adição da validação das Histórias de Usuários |  [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 2.0 | 27/05/2024 | Adição da gravação da validação | [Kauan Eiras](https://github.com/kauaneiras)|[Lucas Martins](https://github.com/martinsglucas) |
-| 2.1 | 05/06/2024 | correcoes | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 2.1 | 05/06/2024 | Correções | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |

@@ -24,7 +24,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * **Idade:** 28 Anos.<br>
 * **Profissão:** Designer de Ambientes.<br>
 * **Escolaridade:** Formada em Arquitetura. <br>
-* **Habilidades:** conhecimento bom em design e informatica <br>
+* **Habilidades:** Conhecimento bom em design e informatica <br>
 * **Relacionamentos:** Solteira com uma filha, mora sozinha, sai raramente com as amigas do trabalho e eventualmente com amigas de longa data, fica em casa apenas durante a noite e de manha antes de sair.<br>
 * **Objetivo:** Anna precisa de um meio para acessar sites importantes para seu trabalho de modo prático e eficiente, decide então testar o aplicativo do Firefox. Como compartilha de seu celular com sua filha, procura uma solução que ofereça uma maneira de limitar o que ela pode acessar na internet. <br>
 * **Limitações:** Seu celular já é considerado antigo e não tem alta capacidade de processamento. <br>
@@ -45,7 +45,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * **Idade:** 35 Anos.<br>
 * **Profissão:** Técnico de Infraestrutura.<br>
 * **Escolaridade:** Ensino médio completo com tecnólogo em Redes. Graduando em Ciência da Computação. <br>
-* **Habilidades:** conhecimento avançado em informática e cálculo<br>
+* **Habilidades:** Conhecimento avançado em informática e cálculo<br>
 * **Relacionamentos:** Casado com dois filhos, mora com a familia e com a mãe, passa a maior parte do dia em seu trabalho e estuda a distância de noite.<br>
 * **Objetivo:** Ronaldo precisa de um meio para realizar pesquisas da faculdade e se informar enquanto faz seu deslocamento diário. Após decidir parar de usar o navegador que usava por conta de notícias de venda de dados, faz o download do aplicativo do Firefox. <br>
 * **Limitações:** O aplicativo antigo estava personalizado com as preferências pessoais dele, favoritos e senhas. <br>
@@ -65,7 +65,7 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * **Idade:** 62 Anos.<br>
 * **Profissão:** Aposentada.<br>
 * **Escolaridade:** Formada em Administração. <br>
-* **Habilidades:** pouco conhecimento em informatica <br>
+* **Habilidades:** Pouco conhecimento em informatica <br>
 * **Relacionamentos:** Casada, mora com o marido e o filho mais velho, passa a tarde ligando para as amigas e vive assistindo novelas e seriados nos serviços de streaming que seu filho colocou na televisão.<br>
 * **Objetivo:** Maria quer um meio de pesquisar e compartilhar o que achou sobre suas novelas, séries e assuntos que conversa com suas amigas de uma maneira que seja fácil, e baixou o Firefox por recomendação de seu filho. Com isso, ela não planeja usar muito o aplicativo, tem o intuito de usar apenas quando estiver se sentindo pra trás em relação as amigas. <br>
 * **Limitações:** Maria não tem uma visão muito boa e costuma errar onde quer clicar, muitas vezes entrando em sites não confiáveis. <br>
@@ -80,11 +80,11 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 * **Tipo:** Anti-persona.<br>
 * **Nome:** Steve Harrington Matos.<br>
-* **Gênero:** masculino.<br>
+* **Gênero:** Masculino.<br>
 * **Idade:** 9 Anos.<br>
-* **Profissão:** estudante.<br>
-* **Escolaridade:** ensino fundamental. <br>
-* **Habilidades:** conhecimento básico de informática<br>
+* **Profissão:** Estudante.<br>
+* **Escolaridade:** Ensino fundamental. <br>
+* **Habilidades:** Conhecimento básico de informática<br>
 * **Relacionamentos:** Solteiro, Steve vai para a escola conversa com os amigos e se atualiza no que é legal, depois volta pra casa e procura coisas novas antes de dormir .<br>
 * **Objetivo:** Steve quer um meio de mostrar para os amigos que ele é legal, ele quer baixar o app do Firefox e personalizar ele para que seus amigos vejam como ficou legal. Como não tem muito interesse, ele deve esquecer do aplicativo em uma semana quando achar algo novo para se divertir. <br>
 * **Limitações:** Steve deve convencer os pais a deixar ele baixar o aplicativo. <br>
@@ -93,9 +93,9 @@ Fonte: [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 ## Referências
 
-This Person Does Not Exist. Disponível em: https://thispersondoesnotexist.com/. Acesso em: 15/04/2024. Disponível em:
+1. This Person Does Not Exist. Disponível em: https://thispersondoesnotexist.com/. Acesso em: 15 de Abril de 2024. 
 
-PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas 
+2. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas. Acesso em: 5 de Julho de 2024.
 
 ## Histórico de Versões 
 
@@ -103,4 +103,4 @@ PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/cl
 |:------:|:----:|-----------|:-----:|:------:
 | 1.0 | 15/04/2024 | Estrutura do documento | [Kallyne Macedo](https://github.com/kalipassos) | [Leonardo Aguiar](https://github.com/Leonardo0o0)|
 | 1.1 | 16/04/2024 | Adição de informações | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos)|
-| 1.2 | 05/06/2024 | correcoes | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.2 | 05/06/2024 | Correções | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
