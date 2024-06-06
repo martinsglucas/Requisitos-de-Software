@@ -505,3 +505,4 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 | 1.7   | 27/05/2024 | Desenvolvimento do NFR03 - Desempenho | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | 1.8  | 27/05/2024 | Desenvolvimento do NFR04 - Suportabilidade | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras) |
 | 1.9  | 27/05/2024 | Desenvolvimento do NFR06 - Implementação | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan Eiras](https://github.com/kauaneiras) |
+| 2.0 | 05/06/2024 | correcao de imagens | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
