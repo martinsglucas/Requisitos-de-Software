@@ -172,7 +172,7 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 </center><br>
 
 ## Referências 
-VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
+1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
 ## Histórico de Versões 
 
