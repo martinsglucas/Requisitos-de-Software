@@ -3,7 +3,7 @@
 ## Introdução
 As Histórias de Usuário são uma técnica essencial no desenvolvimento ágil, especialmente no Scrum. Elas são descrições simples de funcionalidades desejadas do ponto de vista do usuário final, geralmente escritas no formato: "Como (quem), eu quero (o que) para (por que)". No Scrum, essas histórias compõem o Product Backlog, ajudando a priorizar e planejar o trabalho. Elas facilitam a comunicação entre desenvolvedores e stakeholders, garantindo que o produto final atenda às necessidades dos usuários e permitindo ajustes com base em feedback contínuo.
 
-## Método
+## Metodologia
 
 Para desenvolver as Histórias de Usuário, seguiremos as etapas abaixo, utilizando os requisitos previamente [elicitados](../../elicitacao/tecnicas/requisitos_elicitados.md) e [priorizados](../../elicitacao/priorizacao/requisitos_priorizados.md) na Entrega 2. As técnicas de elicitação usadas foram brainstorming, entrevista, questionário e observação, e as técnicas de priorização foram In or Out, MoSCoW e Three Level Scale.
 
@@ -19,11 +19,10 @@ Este método garante que as Histórias de Usuário estejam bem fundamentadas nos
 ## Modelo 
 O modelo para a construção das histórias de usuário pode ser encontrado na tabela 1 a seguir
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Modelo para as histórias de usuário</p></font>
-</div>
-
 <center>
+
+**Tabela 1**: Modelo para as histórias de usuário
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -32,23 +31,22 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 | **Prioridade** | Alta / média / baixa |
 | **Dificuldade** | Alta / média / baixa |
 
-</center>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://www.youtube.com/watch?v=SRRQCDZQ6G4">SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn.</a></p></font>
-</div>
+**Fonte**: [SIMPLILEARN. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn](https://www.youtube.com/watch?v=SRRQCDZQ6G4)
+
+</center>
 
 ## Histórias de usuário
 
-Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabela x.
+Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabela 23.
 
 ### US01 - Acessar site
 
 A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 2:</b>  US01 </p></font>
-</div>
+<center>
+
+**Tabela 2**: US01 
 
 
 | US01 | Descrição |
@@ -59,18 +57,18 @@ A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 | **Dificuldade** | Baixa |
 
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Autor**: [Guilherme Westphall](https://github.com/west7)
+
+</center>
+
 
 ### US02 - Pesquisar no navegador
 
+<center>
+
 A tabela 3 apresenta a história de usuário US02 - Pesquisar no navegador.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  US02 </p></font>
-</div>
-
+**Tabela 3**: US02
 
 | US02 | Descrição |
 | --- | --------- |
@@ -79,17 +77,17 @@ A tabela 3 apresenta a história de usuário US02 - Pesquisar no navegador.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Autor**: [Guilherme Westphall](https://github.com/west7)
+
+</center>
 
 ### US03 - Pesquisa por voz
 
 A tabela 4 apresenta a história de usuário US03 - Pesquisa por voz.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 4:</b>  US03 </p></font>
-</div>
+<center>
+
+**Tabela 4**: US03 
 
 | ID | Descrição |
 | --- | --------- |
@@ -98,17 +96,17 @@ A tabela 4 apresenta a história de usuário US03 - Pesquisa por voz.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ### US04 - Leitura de Páginas para Usuários com Necessidades Especiais
 
 A tabela 5 apresenta a história de usuário US04 - Leitura de Páginas para Usuários com Necessidades Especiais.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 5:</b>  US04</p></font>
-</div>
+<center>
+
+**Tabela 5**: US04
 
 | ID | Descrição |
 | --- | --------- |
@@ -117,17 +115,17 @@ A tabela 5 apresenta a história de usuário US04 - Leitura de Páginas para Usu
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ### US05 - Controle parental de sites
 
 A tabela 6 apresenta a história de usuário US05 - Controle parental de sites.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 6:</b>  US05</p></font>
-</div>
+<center>
+
+**Tabela 6**: US05
 
 | ID | Descrição |
 | --- | --------- |
@@ -136,17 +134,17 @@ A tabela 6 apresenta a história de usuário US05 - Controle parental de sites.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ### US06 - Alterar fonte do navegador em tipo e tamanho
 
 A tabela 7 apresenta a história de usuário US06 - Alterar fonte do navegador em tipo e tamanho.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 7:</b>  US06</p></font>
-</div>
+<center>
+
+**Tabela 7**: US06
 
 | ID | Descrição |
 | --- | --------- |
@@ -155,17 +153,17 @@ A tabela 7 apresenta a história de usuário US06 - Alterar fonte do navegador e
 | **Prioridade** | Alta |
 | **Dificuldade** | Baixa |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ### US07 - Controlar atalhos por gestos
 
 A tabela 8 apresenta a história de usuário US07 - Controlar atalhos por gestos.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 8:</b>  US07</p></font>
-</div>
+<center>
+
+**Tabela 8**: US07
 
 | ID | Descrição |
 | --- | --------- |
@@ -174,17 +172,17 @@ A tabela 8 apresenta a história de usuário US07 - Controlar atalhos por gestos
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024.</p></font>
-</div>
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ### US08 - Limpar histórico 
 
 A tabela 9 apresenta a história de usuário US08 - Limpar histórico.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 9:</b>  US08</p></font>
-</div>
+<center>
+
+**Tabela 9**: US08
 
 | ID | Descrição |
 | --- | --------- |
@@ -193,17 +191,17 @@ A tabela 9 apresenta a história de usuário US08 - Limpar histórico.
 | **Prioridade** | Média |
 | **Dificuldade** | Baixa |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a> e <a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
-</div>
+**Autores**: [Davi Pierre](https://github.com/DaviPierre) e [Leonardo](https://github.com/Leonardo0o0)
+
+</center>
 
 ### US09 - Limpar dados de usuário
 
 A tabela 10 apresenta a história de usuário US09 - Limpar dados de usuário.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 10:</b>  US09</p></font>
-</div>
+<center>
+
+**Tabela 10**: US09
 
 | ID | Descrição |
 | --- | --------- |
@@ -212,17 +210,17 @@ A tabela 10 apresenta a história de usuário US09 - Limpar dados de usuário.
 | **Prioridade** | Alta |
 | **Dificuldade** | Baixa |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
-</div>
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
+</center>
 
 ### US10 - Acessar um site versão desktop
 
 A tabela 11 apresenta a história de usuário US10 - Acessar um site versão desktop.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 11:</b>  US10</p></font>
-</div>
+<center>
+
+**Tabela 11**: US10
 
 | ID | Descrição |
 | --- | --------- |
@@ -231,17 +229,17 @@ A tabela 11 apresenta a história de usuário US10 - Acessar um site versão des
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
-</div>
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
+</center>
 
 ### US11 - Alterar entre o tema claro e escuro
 
 A tabela 12 apresenta a história de usuário US11 - Alterar entre o tema claro e escuro.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 12:</b>  US11</p></font>
-</div>
+<center>
+
+**Tabela 12**: US11
 
 | ID | Descrição |
 | --- | --------- |
@@ -250,18 +248,17 @@ A tabela 12 apresenta a história de usuário US11 - Alterar entre o tema claro 
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a>, 2024.</p></font>
-</div>
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
 
+</center>
 
 ### US12 - Favoritar sites
 
 A tabela 13 apresenta a história de usuário US12 - Favoritar sites.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 13:</b>  US12</p></font>
-</div>
+<center>
+
+**Tabela 13**: US12
 
 | ID | Descrição |
 | --- | --------- |
@@ -270,17 +267,18 @@ A tabela 13 apresenta a história de usuário US12 - Favoritar sites.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/DaviPierre">Davi Pierre</a></p></font>
-</div>
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
+</center>
 
 ### US13 - Gerir memória
 
 A tabela 14 apresenta a história de usuário US13 - Gerir memória.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 14:</b>  US13</p></font>
-</div>
+<center>
+
+**Tabela 14**: US13
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -289,17 +287,17 @@ A tabela 14 apresenta a história de usuário US13 - Gerir memória.
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta  |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
-</div>
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos)
+
+</center>
 
 ### US14 - Bloquear anúncios
 
 A tabela 15 apresenta a história de usuário US14 - Bloquear anúncios.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 15:</b>  US14</p></font>
-</div>
+<center>
+
+**Tabela 15**: US14
 
 | ID | Descrição |
 | --- | --------- |
@@ -308,17 +306,18 @@ A tabela 15 apresenta a história de usuário US14 - Bloquear anúncios.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
-</div>
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos)
+
+</center>
+
 
 ### US15 - Ter segurança
 
 A tabela 16 apresenta a história de usuário US15 - Ter segurança.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 16:</b>  US15</p></font>
-</div>
+<center>
+
+**Tabela 16**: US15
 
 | ID | Descrição |
 | --- | --------- |
@@ -327,17 +326,19 @@ A tabela 16 apresenta a história de usuário US15 - Ter segurança.
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024.</p></font>
-</div> 
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos)
+
+</center>
+
 
 ### US16 - Mudar idioma
 
 A tabela 17 apresenta a história de usuário US16 - Mudar idioma.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 17:</b>  US16</p></font>
-</div>
+<center>
+
+**Tabela 17**: US16
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -346,17 +347,18 @@ A tabela 17 apresenta a história de usuário US16 - Mudar idioma.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
-</div>
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
+
+</center>
 
 ### US17 - Traduzir pagina
 
 A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 18:</b>  US17</p></font>
-</div>
+<center>
+
+**Tabela 18**: US17
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -365,17 +367,18 @@ A tabela 18 apresenta a história de usuário US17 - Traduzir pagina.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
-</div>
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
+
+</center>
 
 ### US18 - Sincronizar dados
 
 A tabela 19 apresenta a história de usuário US18 - Sincronizar dados.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 19:</b>  US18</p></font>
-</div>
+<center>
+
+**Tabela 19**: US18
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -384,17 +387,17 @@ A tabela 19 apresenta a história de usuário US18 - Sincronizar dados.
 | **Prioridade** | Alta |
 | **Dificuldade** | Alta |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Leonardo0o0">Leonardo Aguiar</a>, 2024.</p></font>
-</div>
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
+
+</center>
 
 ### US19 - Trocar de conta
 
 A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 20:</b>  US19</p></font>
-</div>
+<center>
+
+**Tabela 20**: US19
 
 | ID | Descrição |
 | --- | --------- |
@@ -403,17 +406,18 @@ A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+**Autor**: [Lucas Martins](https://github.com/martinsglucas)
+
+</center>
 
 ### US20 - Alterar senha
 
 A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 21:</b>  US20</p></font>
-</div>
+<center>
+
+**Tabela 21**: US20
+
 
 | ID | Descrição |
 | --- | --------- |
@@ -422,17 +426,17 @@ A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 | **Prioridade** | Alta |
 | **Dificuldade** | Baixa |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+**Autor**: [Lucas Martins](https://github.com/martinsglucas)
+
+</center>
 
 ### US21 - Acessar histórico de navegação
 
 A tabela 22 apresenta a história de usuário US21 - Acessar histórico de navegação.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 22:</b>  US21</p></font>
-</div>
+<center>
+
+**Tabela 22**: US21
 
 | ID | Descrição |
 | --- | --------- |
@@ -441,17 +445,18 @@ A tabela 22 apresenta a história de usuário US21 - Acessar histórico de naveg
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+**Autor**: [Lucas Martins](https://github.com/martinsglucas)
+
+</center>
 
 ### US22 - Acessar downloads
 
 A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 23:</b>  US22</p></font>
-</div>
+
+<center>
+
+**Tabela 23**: US22
 
 | ID | Descrição |
 | --- | --------- |
@@ -460,19 +465,18 @@ A tabela 23 apresenta a história de usuário US22 - Acessar downloads.
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+**Autor**: [Lucas Martins](https://github.com/martinsglucas)
+
+</center>
 
 ## Validação das Histórias de Usuário
 
 A validação das Histórias de Usuário é uma etapa crucial para garantir que as funcionalidades propostas atendam às necessidades dos usuários. Para isso, fizemos uma reunião gravada com os participantes apresentados na tabela 24.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 24:</b>  Participantes da validação das Histórias de Usuário</p></font>
-</div>
-
 <center>
+
+**Tabela 24**: Participantes da validação das Histórias de Usuário
+
 
 | Nome | Função |
 | --- | --------- |
@@ -480,22 +484,16 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 | [Lucas Martins](https://github.com/martinsglucas) | Membro da equipe |
 | Leandro | Stakeholder |
 
-</center>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b>, 2024.</p></font>
-</div>
+**Autores**: [Lucas Martins](https://martinsglucas) e [Kauan Eiras](https://github.com/kauaneiras)
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Vídeo: Gravação da validação das Histórias de Usuário(US)</b>  US22</p></font>
-</div>
-<div align="center">
+**Vídeo 1**: Gravação da validação das Histórias de Usuário(US) US22
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VovnduUKaQc?si=jnE57St9WnqN3Prt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024.</p></font>
-</div>
+**Autores**: [Lucas Martins](https://martinsglucas) e [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ## Referências
 
@@ -517,3 +515,4 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 | 1.8 | 27/05/2024 | Adição US19, US20, US21 e US22 |  [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)|
 | 1.9 | 27/05/2024 | Adição da validação das Histórias de Usuários |  [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 2.0 | 27/05/2024 | Adição da gravação da validação | [Kauan Eiras](https://github.com/kauaneiras)|[Lucas Martins](https://github.com/martinsglucas) |
+| 2.1 | 28/05/2024 | Adiciona correções | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |

@@ -14,6 +14,7 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 > - **QSTx**: Requisito nº x elicitado pela técnica de questionário
 
 ### Tabela 1
+<center>
 
 | Tipo | Descrição                                                                    | Rastreabilidade            |
 | ---- | ---------------------------------------------------------------------------- | -------------------------- |
@@ -60,9 +61,10 @@ A seguinte tabela contém os requisitos elicitados a partir das técnicas utiliz
 | RNF  | Sistema deve ser de fácil uso                                                | BRS12, QST07, BRS21        |
 | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      |
 
-Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+**Autor:** [Guilherme Westphall](https://github.com/west7), 2024.
+</center>
 
-## Bibliografia
+## Referências
 
 1. GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024.
 
@@ -77,3 +79,4 @@ Fonte: [Guilherme Westphall](https://github.com/west7), 2024
 | 1.0    | 19/04/2024 | Cria página       | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.1    | 19/04/2024 | Adiciona tabela 1 | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.2    | 19/04/2024 | Adiciona bibliografia | [Lucas Gabriel](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) | 
+| 1.3    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
