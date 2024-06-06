@@ -1,7 +1,7 @@
 # Elicitação de Requisitos: Entrevista
 
 ## Introdução
-Baseado no conceito do livro "[Engenharia de Requisitos](https://aprender3.unb.br/pluginfile.php/2844983/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf)", a entrevista se configura como uma conversa, formal ou informal, entre duas ou mais partes. Nesse contexto, o entrevistador se empenha em extrair respostas para um conjunto de indagações meticulosamente elaboradas.
+Baseado no conceito do livro Engenharia de Requisitos[1], a entrevista se configura como uma conversa, formal ou informal, entre duas ou mais partes. Nesse contexto, o entrevistador se empenha em extrair respostas para um conjunto de indagações meticulosamente elaboradas.
 
 ## Justificativa
 No contexto da elicitação de requisitos, a entrevista se destaca como uma ferramenta valiosa para entender as necessidades e expectativas dos usuários em relação a um sistema. Essa abordagem foi escolhida para este projeto porque permite uma troca direta entre o entrevistador e o usuário, possibilitando uma compreensão mais profunda das questões e desafios enfrentados ao utilizar o sistema. É uma maneira de ouvir os usuários sobre suas preocupações e usar essas informações para melhorar continuamente o sistema.
@@ -46,9 +46,10 @@ A primeira entrevista foi realizada no dia 12/04/2024 às 18:30, com a [Nathalia
 
 <center>
 
+**Video 1**: Entrevista Nathália
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1FsLuImzNow?si=BQpnzOy01gUifS3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Video Entrevista 1 - Nathália***
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
@@ -66,7 +67,7 @@ A primeira entrevista foi realizada no dia 12/04/2024 às 18:30, com a [Nathalia
 | Você gostaria de acrescentar algo mais? | Eu já testei o Firefox no celular, mas não me adaptei por conta dos pontos que mencionei. No entanto, um ponto positivo do Firefox é que ao abrir o aplicativo, já tinha as páginas que visitei recentemente. Esse recurso é muito interessante. | 
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center><br>
+</center>
 
 ## Entrevista 2
 A segunda entrevista foi realizada no dia 13/04/2024 às 20:00, com a Amanda Ferreira de Torres, mulher, 46 anos, professora de ensino fundamental 1. Ela já utilizou o Firefox, mas, atualmente, utiliza o [Google Chrome](https://www.google.pt/intl/pt-PT/chrome/) em seu computador e em seu celular.
@@ -75,9 +76,10 @@ A segunda entrevista foi realizada no dia 13/04/2024 às 20:00, com a Amanda Fer
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=30OWuL3uVPk)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/30OWuL3uVPk?si=a27EVy_ZztX1lkIL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Video Entrevista 2 - Amanda***
+**Video 2**: Entrevista Amanda
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30OWuL3uVPk?si=a27EVy_ZztX1lkIL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
@@ -92,7 +94,7 @@ A segunda entrevista foi realizada no dia 13/04/2024 às 20:00, com a Amanda Fer
 | Tem algo que você sente falta nos navegadores? | Para o que eu utilizo, só a retirada de anuncios já ficaria otimo |
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center><br>
+</center>
 
 ## Entrevista 3
 A terceira entrevista foi realizada no dia 14/04/2024 às 14h, com a [Carla Clementino](https://www.linkedin.com/in/carlaacr/?locale=en_US), mulher, 23 anos, desenvolvedora Front-End em uma software house. Ela gosta de analisar interfaces de aplicativos e já foi entrevistada anteriormente em outro projeto da disciplina sobre o Open Street Map. Carla utiliza o Firefox diariamente como desenvolvedora, para verificar se sua aplicação está funcionando em vários navegadores. Porém, o navegador principal que ela utiliza é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
@@ -101,9 +103,9 @@ A terceira entrevista foi realizada no dia 14/04/2024 às 14h, com a [Carla Clem
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=cOFauey7vbU)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cOFauey7vbU?si=sVDCNxDKEjeil_ES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Video Entrevista 3 - Carla***
+**Video 3**: Entrevista Carla
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cOFauey7vbU?si=sVDCNxDKEjeil_ES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
@@ -120,7 +122,7 @@ A terceira entrevista foi realizada no dia 14/04/2024 às 14h, com a [Carla Clem
 Após interromper a gravação, Carla levantou outros itens que ela acredita que o Firefox poderia melhorar. Não há opções de personalizar melhor as cores para daltônicos, ou melhorar o contraste para quem possui algum problema de visão. Além de que poderia ter outros temas que tornassem o navegador mais amigável e personalizado para o gosto de quem está usando.
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
-</center><br>
+</center>
 
 ## Entrevista 4
 A quarta entrevista foi realizada no dia 14/04/2024 as 19h, com o [José Roberto](https://www.linkedin.com/in/joseroberto0908/?originalSubdomain=br), homem, 22 anos, estudante de Engenharia de Computação e estagiário na área de desenvolvedor full stack na Presidência da República. Questiona fortemente a simplicidade do Firefox, falando sobre recursos que podem acabar sendo exagerados, poluindo a interface e pesando o aplicativo. José conhece o Firefox, já utilizou e instalou o aplicativo para analisar antes da entrevista, mas seu principal navegador é o[Google Chrome](https://www.google.pt/intl/pt-PT/chrome/), tanto em seu computador como em seu celular.
@@ -129,9 +131,9 @@ A quarta entrevista foi realizada no dia 14/04/2024 as 19h, com o [José Roberto
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=lXuBau7JaNA)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lXuBau7JaNA?si=qnBAv3o1KxlmZOEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Video Entrevista 4 - José***
+**Video 4**: Entrevista José
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXuBau7JaNA?si=qnBAv3o1KxlmZOEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
@@ -170,7 +172,7 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 </center><br>
 
 ## Referências 
-VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
+1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
 ## Histórico de Versões 
 

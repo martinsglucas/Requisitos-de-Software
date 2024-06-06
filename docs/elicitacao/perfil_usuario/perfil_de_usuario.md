@@ -12,7 +12,9 @@ Foi utilizada a  análise de documentos que é uma técnica de elicitação de r
 
 A análise dos resultados da análise de documentos nos permitiu definir o perfil de usuário, como está descrito na Tabela 1.
 
-<center>Tabela 1: Perfil de Usuário
+<center>
+
+**Tabela 1**: Perfil de Usuário
 
 
 | Especificação | Perfil | 
@@ -23,7 +25,7 @@ A análise dos resultados da análise de documentos nos permitiu definir o perfi
 | Atitude | tecnófilos |
 | Tarefa primária | pesquisa na web |
 
-Fonte: ENTERPRISE APPS TODAY e FIREFOX PUBLIC DATA REPORT
+**Fonte**: ENTERPRISE APPS TODAY e FIREFOX PUBLIC DATA REPORT
 
 </center>
 
@@ -37,5 +39,6 @@ Fonte: ENTERPRISE APPS TODAY e FIREFOX PUBLIC DATA REPORT
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 13/04/2024 | Criação do documento | Lucas Martins | Leornardo Sobrinho
-| 1.1 | 15/04/2024 | Adição de informações | Leornardo Sobrinho | Kallyne, Guilherme, Kauan, Davi
+| 1.0 | 13/04/2024 | Criação do documento | [Lucas Martins](https://github.com/martinsglucas) | [Leornardo Aguiar](https://github.com/Leonardo0o)
+| 1.1 | 15/04/2024 | Adição de informações | [Leornardo Aguiar](https://github.com/Leonardo0o) | [Kallyne Macedo](https://github.com/kalipassos), [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras), [Davi Pierre](https://github.com/DaviPierre)
+| 1.2 | 02/06/2024 | Correções de títulos, fontes e autores | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) 
