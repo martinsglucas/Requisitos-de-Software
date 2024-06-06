@@ -13,6 +13,7 @@ nav:
     - Reunião 08/04: atas/ata_08_04.md
     - Reunião 15/04: atas/ata_15_04.md
     - Reunião 06/05: atas/ata_06_05.md
+    - Reunião 22/05: atas/ata_22_05.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao_1.md
     - Apresentação 2: apresentacoes/apresentacao_2.md
@@ -50,10 +51,14 @@ nav:
     - Casos de Uso: modelagem/casos_de_uso/casos_de_uso.md
     - Validação dos Casos de Uso: modelagem/casos_de_uso/valid_casos.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
-  - Agil:
+  - Ágil:
     - Backlog: modelagem_agil/backlog.md
     - Histórias de usuário: modelagem_agil/historias_de_usuario/historias_de_usuario.md
-    - NFR Framework: modelagem/agil/NFR Framework.md
+    - NFR Framework: modelagem_agil/NFR Framework.md
+  - Verificação:
+    - Grupo 07:
+      - Entrega 4: verificacao/grupo_7/entrega_4.md
+
 theme:
   name: material
   features:
@@ -63,16 +68,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-  palette:
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.footer
+    - content.tabs.link
   palette:
     - scheme: default
       toggle:
@@ -87,12 +83,47 @@ theme:
         name: Mudar para o modo claro
       primary: orange
       accent: orange
-
-
   language: pt-BR
   logo: images/firefox.png
   favicon: images/firefox.png
   extra_css: [stylesheets/extra.css]
+  plugins:
+    - search
+    - include-markdown
+    - mkdocs-material-tabs
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+
+        
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
 
 plugins:
-  - mermaid2
+  - search
+  - include-markdown

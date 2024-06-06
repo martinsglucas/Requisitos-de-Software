@@ -8,7 +8,7 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 
 <center>
 
-Tabela 1: Cenários
+**Tabela 1**: Cenários
 
 | Identificador | Descrição | Membro de Equipe |
 |---|---|---|
@@ -28,7 +28,7 @@ Tabela 1: Cenários
 | CEN14 | Limpar histórico de navegação, senhas salvas e cache | [Lucas Martins](https://github.com/martinsglucas) | 
 | CEN15 | Escolher entre tema claro ou escuro | [Lucas Martins](https://github.com/martinsglucas) |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autores**: [Kauan Eiras](https://github.com/kauaneiras) e [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -36,7 +36,7 @@ Cada cenário é descrito conforme a tabela 2.
 
 <center>
 
-Tabela 2: Elementos de um cenário
+**Tabela 2**: Elementos de um cenário
 
 | Elemento | Descrição |
 | --- | --- |
@@ -49,7 +49,7 @@ Tabela 2: Elementos de um cenário
 | restrição | características que o cenário deve seguir |
 | exceção | situações que impedem a realização do cenário |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
+**Fonte**: LEITE, 1997
 
 </center>
 
@@ -62,7 +62,7 @@ Na tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertu
 
 <center>
 
-Tabela 3: CEN01
+**Tabela 3**: CEN01
 
 | Elemento | Descrição |
 | --- | --- |
@@ -75,7 +75,7 @@ Tabela 3: CEN01
 | Restrição | O aplicativo deve estar atualizado para evitar erros |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -85,7 +85,7 @@ Na tabela 4 está determinado o cenário CEN02, que descreve a escolha de idioma
 
 <center>
 
-Tabela 4: CEN02
+**Tabela 4**: CEN02
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -98,7 +98,7 @@ Tabela 4: CEN02
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O idioma escolhido deve estar disponível no aplicativo |
 | Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>O idioma escolhido não está disponível</li></ul>                        |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -108,7 +108,7 @@ Na tabela 5 está determinado o cenário CEN03, que descreve a tradução de pá
 
 <center>
 
-Tabela 5: CEN03
+**Tabela 5**: CEN03
 
 | Elemento | Descrição |
 | --- | --- |
@@ -121,7 +121,7 @@ Tabela 5: CEN03
 | Restrição | O aplicativo deve estar atualizado para evitar erros,<br> O idioma estar elegivel para ser traduzido |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -131,7 +131,7 @@ Na tabela 6 está determinado o cenário CEN04, que descreve a sincronização e
 
 <center>
 
-Tabela 6: CEN04
+**Tabela 6**: CEN04
 
 | Elemento | Descrição |
 | --- | --- |
@@ -144,7 +144,7 @@ Tabela 6: CEN04
 | Restrição | O aplicativo deve estar atualizado para evitar erros,<br>  |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar,<br> O computador não funcionar |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -154,7 +154,7 @@ Na tabela 7 está determinado o cenário CEN05, que descreve a troca de conta si
 
 <center>
 
-Tabela 7: CEN05
+**Tabela 7**: CEN05
 
 | Elemento | Descrição |
 | --- | --- |
@@ -167,7 +167,7 @@ Tabela 7: CEN05
 | Restrição | O aplicativo deve estar atualizado para evitar erros |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
-Fonte: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -177,7 +177,7 @@ Na tabela 8 está determinado o cenário CEN06, que descreve o bloqueio de anún
 
 <center>
 
-Tabela 8: CEN06
+**Tabela 8**: CEN06
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -190,7 +190,7 @@ Tabela 8: CEN06
 | Restrição | O aplicativo deve estar atualizado para evitar erros<br>Usuário deve ter permissões administrativas no dispositivo |
 | Exceção   | <ul><li>Queda de internet</li><li>O aparelho celular ou computador não funcionar</li><li>O aplicativo não aplicar corretamente as configurações de bloqueio</li><li>O site detectar e não permitir o bloqueio de anúncios</ul> |
 
-Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+**Autor**: [Guilherme Westphall](https://github.com/west7), 2024
 
 </center>
 
@@ -200,7 +200,7 @@ Na tabela 9 está determinado o cenário CEN07, que descreve a busca por texto e
 
 <center>
 
-Tabela 9: CEN07
+**Tabela 9**: CEN07
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -213,7 +213,7 @@ Tabela 9: CEN07
 | Restrição | O aplicativo deve estar atualizado para evitar erros<br>A página deve estar totalmente carregada para uma busca precisa |
 | Exceção | <ul><li>Queda de internet</li><li>O aparelho celular ou computador não funcionar</li><li>O aplicativo não encontrar o texto desejado devido a problemas de indexação</li></ul> | 
 
-Fonte: [Guilherme Westphall](https://github.com/west7), 2024
+**Autor**: [Guilherme Westphall](https://github.com/west7), 2024
 
 </center>
 
@@ -223,7 +223,7 @@ Na tabela 10 está determinado o cenário CEN08, que descreve a realização de 
 
 <center>
 
-Tabela 10: CEN08
+**Tabela 10**: CEN08
 
 | Elemento | Descrição |
 | --- | --- |
@@ -236,7 +236,7 @@ Tabela 10: CEN08
 | Restrição | O aplicativo deve estar atualizado para evitar erros,<br>O microfone deve estar ativado<br> |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar,<br> O aplicativo não entender a voz do usuário |
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2024
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
 </center>
 
@@ -246,7 +246,7 @@ Na tabela 11 está determinado o cenário CEN09, que descreve leitura de uma pá
 
 <center>
 
-Tabela 11: CEN09
+**Tabela 11**: CEN09
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -259,7 +259,7 @@ Tabela 11: CEN09
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
 
-Fonte: [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -269,7 +269,7 @@ Na tabela 12 está determinado o cenário CEN10, que descreve a ativação do mo
 
 <center>
 
-Tabela 12: CEN10
+**Tabela 12**: CEN10
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -282,7 +282,7 @@ Tabela 12: CEN10
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
 
-Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
@@ -292,7 +292,7 @@ Na tabela 13 está determinado o cenário CEN11, que descreve a ativação do co
 
 <center>
 
-Tabela 13: CEN11
+**Tabela 13**: CEN11
 
 
 | Elemento    | Descrição                                                                                          |
@@ -306,7 +306,7 @@ Tabela 13: CEN11
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O dispositivo deve ter suporte para controles parentais<br>Usuário deve ter permissões administrativas no dispositivo |
 | Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>O usuário não ter permissões administrativas no dispositivo</li></ul>                        |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -316,7 +316,7 @@ Na tabela 14 está determinado o cenário CEN12, que descreve a alteração da f
 
 <center>
 
-Tabela 14: CEN12
+**Tabela 14**: CEN12
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -329,7 +329,7 @@ Tabela 14: CEN12
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O tipo de fonte deve estar disponível no aplicativo |
 | Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>O tipo de fonte desejado não estar disponível</li></ul>                        |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -339,7 +339,7 @@ Na tabela 15 está determinado o cenário CEN13, que descreve a proteção dos d
 
 <center>
 
-Table 15: CEN13
+**Tabela 15**: CEN13
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -352,7 +352,7 @@ Table 15: CEN13
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O dispositivo deve suportar autenticação biométrica (se utilizada) |
 | Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>Falta de suporte para autenticação biométrica no dispositivo</li></ul>                        |
 
-Fonte: [Kauan Eiras](https://github.com/kauaneiras), 2024
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -362,7 +362,7 @@ Na tabela 16 está determinado o cenário CEN14, que descreve a limpeza do hist�
 
 <center>
 
-Tabela 16: CEN14
+**Tabela 16**: CEN14
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -375,7 +375,7 @@ Tabela 16: CEN14
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li></ul> |
 
-Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
+**Autor**: [Lucas Martins](https://github.com/martinglucas), 2024
 
 </center>
 
@@ -386,7 +386,7 @@ Na tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 
 <center>
 
-Tabela 17: CEN15
+**Tabela 17**: CEN15
 
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
@@ -399,13 +399,13 @@ Tabela 17: CEN15
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
 
-Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
-## Referências bibliográficas
+## Referências
 
-[1] Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
+1. Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
 
 ## Histórico de Versões 
 
@@ -420,3 +420,4 @@ Fonte: [Lucas Martins](https://github.com/martinsglucas), 2024
 |  1.6   | 20/05/2024 | Criação dos cenários CEN10, CEN14 e CEN15                 | [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
 |  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
+|  1.9   | 02/06/2024 | Correção das fontes | [Lucas Martins](https://github.com/martinsglucas) | [Kallyne Macedo](https://github.com/kalipassos) |

@@ -29,9 +29,16 @@ Para informações sobre como outras coisas são licenciadas, incluindo as marca
 
 Se, após ler tudo acima cuidadosamente (especialmente o FAQ), você tiver uma dúvida adicional sobre a MPL ou os termos de licenciamento do código do projeto Mozilla, envie-a para licensing@mozilla.org.
 
+## Licença em PDFs
+A licença foi acessada pela última no dia 30/05/2024 às 21h24 e o PDF da Licença pode ser acessado [aqui]()
+
+## Referências
+1. **Licença**: Disponível em [https://www.mozilla.org/en-US/MPL/](https://www.mozilla.org/en-US/MPL/)
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor               | Revisor |
 | ------ | ---------- | ----------------------------------- | ------------------- | ------- |
 | 1.0    | 01/04/2024 | Criação da página da licença | Kauan de Torres Eiras | Lucas Martins |
 | 1.1    | 01/04/2024 | Tradução da licença | Kauan de Torres Eiras | Lucas Martins |
+| 1.2    | 30/05/2024 | Adição do PDF da Licença | Kauan de Torres Eiras | Lucas Martins |

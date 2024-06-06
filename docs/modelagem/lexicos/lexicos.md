@@ -8,23 +8,23 @@ Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de
 
 Neste artefato iremos identificar os léxicos referentes ao navegador Firefox. Teremos como base os [requisitos elicitados na entrega 2](../../elicitacao/tecnicas/requisitos_elicitados.md) e a utilização do aplicativo. A seguir, na tabela 1, temos um modelo de como será feita a definição dos léxicos.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>  Template para os léxicos</p></font>
-</div>
+<center>
+
+**Tabela 1**: Template para os léxicos
 
 | Termo                    | Tipo                | Noção                                                           | Impacto                                                     | Autor                              |
 | ------------------------ | ------------------- | --------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------- |
 | Nome associado ao léxico | Objeto/Verbo/Estado | Significado do símbolo, com descrição quase que de "dicionário" | Descrição do efeito/uso/decorrência do símbolo na aplicação | Indivíduo que realizou a descrição |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Fonte**: SERRANO, 2019.
+
+</center>
 
 Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na tabela 2 estão listadas as regras por tipo de como devem ser definidos os léxicos.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 2:</b>  Regras por tipo</p></font>
-</div>
+<center>
+
+**Tabela 2**: Regras por tipo
 
 | Tipo   | Noção                                                              | Impacto                                                                                                   |
 | ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -32,17 +32,18 @@ Existem 3 tipos de léxicos que são os seguintes: Objeto, verbo e estado. Na ta
 | Verbo  | Quem realiza, quando acontece e quais procedimentos são envolvidos | Quais são os reflexos da ação no ambiente (outras ações que podem/devem ocorrer) e os estados decorrentes |
 | Estado | Significado e quais ações levaram até esse estado                  | Identificar outros estados e ações que devem ocorrer a partir deste                                       |
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, 2024</p></font>
-</div>
+**Fonte**: SERRANO, 2019
+
+</center>
 
 ## Objetos
 
 Os léxicos do tipo objeto são uma abordagem na engenharia de requisitos que se concentra na identificação e descrição detalhada dos objetos relevantes dentro do domínio do problema ou do sistema em desenvolvimento. Nesse contexto, um "objeto" pode se referir a qualquer entidade, conceito ou componente significativo no domínio do sistema. Na tabela 3, a seguir, é possível encontrar os léxicos deste tipo.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 3:</b>  Léxicos do tipo Objeto</p></font>
-</div>
+
+<center>
+
+**Tabela 3**:  Léxicos do tipo Objeto
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -71,19 +72,16 @@ Os léxicos do tipo objeto são uma abordagem na engenharia de requisitos que se
 | <a id="proxy">Proxy</a> | Objeto | Um <a href="#proxy">proxy</a> é um servidor intermediário que atua entre o <a href="#usuario">usuário</a> e a <a href="#internet">internet</a>, encaminhando solicitações e respostas. | O uso de um <a href="#proxy">proxy</a> pode melhorar a <a href="#seguranca">segurança</a> e a <a href="#privacidade">privacidade</a>, além de permitir o acesso a conteúdos restritos ou bloqueados geograficamente. | [Kauan Eiras](https://github.com/kauaneiras) |
 
 
+**Autores**: [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras) e [Davi Pierre](https://github.com/DaviPierre)
 
-Esses termos e conceitos são importantes para uma compreensão abrangente das funcionalidades e impacto do Firefox como navegador.
-
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPìerre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+</center>
 
 ## Verbo
 Os léxicos do tipo verbo representam uma abordagem na engenharia de requisitos que se foca nas ações realizadas pelos usuários ou sistemas dentro do contexto de um problema ou sistema em desenvolvimento. Nesse contexto, um "verbo" refere-se a uma operação, atividade ou procedimento que pode ser executado para alcançar um determinado objetivo ou realizar uma tarefa específica. Estão listados na tabela 4 abaixo.
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Léxicos do tipo Verbo</p></font>
-</div>
+<center>
+
+**Tabela 4**: Léxicos do tipo Verbo
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -100,20 +98,17 @@ Os léxicos do tipo verbo representam uma abordagem na engenharia de requisitos 
 | <a id="proteger">Proteger</a> | Verbo | <a href="#proteger">Proteger</a> é a ação de implementar medidas de segurança para salvaguardar dados pessoais, históricos de navegação e outras informações sensíveis contra acesso não autorizado ou ataques. | Ao <a href="#proteger">proteger</a> seus dados, os <a href="#usuario">usuários</a> garantem a privacidade e a integridade de suas informações, prevenindo roubo de identidade, fraudes e outras ameaças cibernéticas. | [Kauan Eiras](https://github.com/kauaneiras) | |
 | <a id="personalizar">Personalizar</a> | Verbo | <a href="#personalizar">Personalizar</a> é a ação de ajustar as configurações de aparência, funcionalidades e comportamento do <a href="#navegador">navegador</a> para atender às preferências individuais do <a href="#usuario">usuário</a>. | A capacidade de <a href="#personalizar">personalizar</a> o <a href="#navegador">navegador</a> permite que os <a href="#usuario">usuários</a> melhorem sua experiência de navegação, tornando-a mais intuitiva, eficiente e agradável. | [Kauan Eiras](https://github.com/kauaneiras) | |
 
+**Autores**: [Guilherme Westphall](https://github.com/west7), [Kauan Eiras](https://github.com/kauaneiras) e [Davi Pierre](https://github.com/DaviPierre)
 
-
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a>, 2024</p></font>
-</div>
+</center>
 
 ## Estado
 
 Os léxicos do tipo Estado representam diferentes estados que um sistema pode assumir ao longo do tempo ou em resposta a determinadas condições ou eventos. Nesse contexto, um "estado" refere-se a uma condição ou situação específica em que o sistema se encontra em um determinado momento, refletindo diferentes configurações, modos de operação ou contextos de uso. Podem ser encontrados na tabela 5.
 
+<center>
 
-<div align="center">
-    <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Léxicos do tipo Estado</p></font>
-</div>
+**Tabela 5**: Léxicos do tipo Estado
 
 | Termo | Tipo   | Noção                                                                                                                                                                                              | Impacto                                                                                                                                                                                 | Autor                                           |
 | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -124,13 +119,17 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 |<a id="conectado">Conectado</a>| Estado | O estado <a href="#conectado">conectado</a> indica que o Firefox está ativamente ligado à <a href="#internet">internet</a> e pode acessar e carregar recursos online. | Quando <a href="#conectado">conectado</a>, o <a href="#navegador">navegador</a> permite acesso completo a todos os recursos online, facilitando a navegação e a interação do <a href="#usuario">usuário</a> com a web. | [Kauan Eiras](https://github.com/kauaneiras) |
 
 
-<div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/kauaneiras">Kauan Eiras</a> 2024</p></font>
-</div>
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+
+</center>
 
 ## Referências
 
 1. SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2845027/mod_resource/content/1/Aula%2010.pdf). Acesso em: 09 de maio de 2024.
+2. YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
+3. CHEMUTURI, Murali. Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+4. BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold. Software & Systems Requirements Engineering: In Practice.
+5. CHEMUTURI, Murali. Requirements Engineering and Management for Software Development Projects.
 
 ## Histórico de versões
 

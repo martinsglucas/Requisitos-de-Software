@@ -1,9 +1,7 @@
 # Elicitação de Requisitos: Observação
 
 ## Introdução
-
-No contexto do navegador Firefox, no dia 14 de abril de 2024 foi realizada uma reunião no Teams, entre [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras) como, respectivamente, mediador e usuário para elicitar os requisitos do aplicativo.
-
+A técnica de observação envolve um usuário e um mediador, com o objetivo de identificar funcionalidades do software observando o uso do aplicativo. Essa técnica fornece insights valiosos sobre as interações dos usuários, ajudando a definir requisitos mais precisos. É especialmente útil em ambientes complexos ou quando os usuários têm dificuldade em expressar suas necessidades.
 
 ## Justificativa 
 
@@ -11,18 +9,20 @@ Por ser uma técnica etnográfica (que estuda o comportamento e os hábitos do u
 
 ## Metodologia
 
+No contexto do navegador Firefox, no dia 14 de abril de 2024 foi realizada uma reunião no Teams, entre [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras) como, respectivamente, mediador e usuário para elicitar os requisitos do aplicativo.
+
 A metodologia utilizada para a elicitação de requisitos das **Tabelas 2 e 3** foi a **Observação direta ativa**. Os requisitos são elicitados com base na observação de um processo no qual o usuário irá utilizar o produto. Na forma ativa, o observador conduz o usuário por meio de perguntas durante o uso do aplicativo. Ao contrário de outros métodos de coleta de dados, como questionários ou entrevistas, a observação direta ativa permite capturar informações em tempo real, sem depender da memória ou interpretação posterior dos usuários. Isso proporciona uma visão mais precisa e detalhada do uso do navegador, revelando insights valiosos que podem orientar melhorias no design, na usabilidade e na experiência do usuário. 
 
+<center> 
 
-<center> Tabela 1: Participantes
-
+### Tabela 1: Participantes
 
 | Nome      | Função     |
 | --------- | ---------- |
 | Guilherme | Observador |
 | Kauan     | Usuário    |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
@@ -34,8 +34,9 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 - **RNFx**: Requisito não funcional nº x
 - **OBSx**: Requisito nº x elicitado pela técnica de observação
 
-<br>
-<center> Tabela 2: Requisitos Funcionais
+<center> 
+
+### Tabela 2: Requisitos Funcionais
 
 | Tipo | Descrição                                                                     | ID    | Implementado |
 | ---- | ----------------------------------------------------------------------------- | ----- | ------------ |
@@ -74,12 +75,9 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 | RF33 | Deve oferecer opção de impressão                                              | OBS33 | Sim          |
 | RF34 | Deve conter opção de traduzir páginas                                         | OBS34 | Não          |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
-
-
-
-<br>Tabela 3: Requisitos não funcionais 
+### Tabela 3: Requisitos não funcionais 
 
 | Tipo  | Descrição                                                         | ID    | Implementado |
 | ----- | ----------------------------------------------------------------- | ----- | ------------ |
@@ -87,7 +85,7 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 | RFN02 | O navegador deve proteger os dados do usuário durante a navegação | OBS36 | Sim          |
 | RNF03 | O navegador deve proteger contra rastreamento de dados            | OBS37 | Sim          |
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
@@ -97,11 +95,11 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fOiNribFwbU?si=DXiJ6krCd1celE9W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras)
+**Autores:** [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
 
-## Bibliografia
+## Referências
 
 1. Universidade Federal de Santa Catarina. Guia de Retreinamento - Técnicas de Elicitação de Requisitos: Observação Direta. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
@@ -114,3 +112,4 @@ Fonte: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://g
 | 1.2    | 14/04/2024 | Adição das tabelas                        | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.3    | 14/04/2024 | Adição do link de gravação e bibliografia | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | 1.4    | 15/04/2024 | Adição de justificativa e correções de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| 1.5    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
