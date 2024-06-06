@@ -2,7 +2,7 @@
 
 ## Introdução
 
-De acordo com o livro "[Engenharia de Requisitos](https://aprender3.unb.br/pluginfile.php/2844983/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf)", a elaboração de um questionário pode ser um elemento crucial no processo de elicitação de requisitos de software, pois permite capturar informações vitais sobre as necessidades e expectativas das partes interessadas. Estruturado como uma sequência de perguntas meticulosamente formuladas, esse instrumento visa compreender as demandas dos usuários em relação a um sistema. Ao proporcionar uma abordagem abrangente, o questionário é capaz de coletar dados tanto quantitativos quanto qualitativos de maneira eficiente e ágil.
+De acordo com o livro Engenharia de Requisitos[1], a elaboração de um questionário pode ser um elemento crucial no processo de elicitação de requisitos de software, pois permite capturar informações vitais sobre as necessidades e expectativas das partes interessadas. Estruturado como uma sequência de perguntas meticulosamente formuladas, esse instrumento visa compreender as demandas dos usuários em relação a um sistema. Ao proporcionar uma abordagem abrangente, o questionário é capaz de coletar dados tanto quantitativos quanto qualitativos de maneira eficiente e ágil. Para isso, as perguntas devem ser divulgadas em grupos onde o publico alvo está presente.
 
 ## Justificativa
 
@@ -13,7 +13,7 @@ A metodologia adotada para este estudo envolveu a divulgação de um questionár
 
 Apesar do Firefox ser um navegador consolidado no mercado há muitos anos, a variedade de respostas provenientes de usuários que utilizam diferentes navegadores, possuem faixas etárias distintas e têm diferentes prioridades pode revelar requisitos que muitas vezes são negligenciados por sistemas já estabelecidos na internet. A inclusão de perspectivas diversas pode fornecer insights valiosos sobre as necessidades e expectativas dos usuários, contribuindo para aprimoramentos significativos no desenvolvimento do Firefox.
 
-O questionário possui seções personalizadas para pessoas que utilizam o Firefox, para pessoas que já utilizaram e também para pessoas que utilizam apenas outros navegadores. É possivel acessa o questionário clicando [aqui](https://forms.office.com/r/UTZ8YcG47d)
+O questionário possui seções personalizadas para pessoas que utilizam o Firefox, para pessoas que já utilizaram e também para pessoas que utilizam apenas outros navegadores. É possivel acessa o questionário clicando [aqui](https://forms.office.com/r/UTZ8YcG47d).
 
 O questionário começou a ser divulgado no dia , e ficou disponível para respostas até o dia 16/04/2024. 
 
@@ -22,9 +22,18 @@ Durante o período de aplicação do questionário, que se estendeu do dia 12 de
 
 A apresentação integral dos resultados do questionário será exibida abaixo, englobando imagens que ilustram tanto as perguntas quanto as respostas obtidas. Em seguida, serão oferecidas breves considerações acerca dos dados coletados. Posteriormente, será realizada uma análise minuciosa desses dados, culminando na identificação e no levantamento dos requisitos elicitados.
 
-### Inicio do questionário: 12/04/2024 às 20h.
-### Fim do questionário: 17/04/2024 às 12h.
-### Quantidade de respostas: 50 respostas.
+<center>
+### Tabela 1 - Detalhes do questionário
+
+| Detalhes do Questionário     | Informações                |
+|------------------------------|----------------------------|
+| **Início do questionário**   | 12/04/2024 às 20h          |
+| **Fim do questionário**      | 17/04/2024 às 12h          |
+| **Quantidade de respostas**  | 50 respostas               |
+
+**Autor** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
 
 ## Perguntas sobre perfil do usuário:
 <center>
@@ -150,7 +159,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 
 <center>
 
-### Tabela 1 - Motivação do usuário para utilização dos navegadores
+### Tabela 2 - Motivação do usuário para utilização dos navegadores
 | Navegador     | Motivo de utilizar                       | Firefox tem implementado |
 | ------------- | ---------------------------------------- | ------------------------ |
 | Google Chrome | Sincronização de dados com conta Google  | Não implementado         |
@@ -176,7 +185,7 @@ Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi po
 
 <center>
 
-### Tabela 2: Requisitos elicitados na Entrevista.
+### Tabela 3: Requisitos elicitados na Entrevista.
 | Identificador | Requisitos                                               | Tipo | Implementado    | 
 |---------------|----------------------------------------------------------|------|-----------------|
 | QST01         | Sincronização de dados com a conta do Google             | RF  | Não Implementado |
@@ -194,7 +203,7 @@ Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi po
 
 ## Referências
 
-VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
+1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 
 ## Histórico de Versões 
 
