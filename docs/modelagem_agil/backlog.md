@@ -22,7 +22,7 @@ A estrutura do backlog do produto que foi utilizada envolve a subdivisão em tem
 </center>
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, 2024</p></font>
 </div>
 
 ## Backlog
@@ -99,41 +99,41 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 
 | Tema | Épicos | Histórias de Usuário       | Prioridade         | Status                                          | 
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| T01    | E01 | US01 - Acessar site | Alta | Implementado |
-| T01    | E01 | US10 - Acessar site formato desktop | Alta | Implementado |
-| T01   | E01 | US12 - Favoritar sites | Alta | Implementado |
-| T01    | E02 | US02 - Pesquisar no navegador | Alta | Implementado |
-| T01    | E02 | US03 - Pesquisar por voz | Alta | Não implementado |
-| T02    | E03 | US04 - Iniciar leitura de páginas | Alta | Implementado |
-| T02    | E03 | US05 - Controlar acesso à sites | Alta | Não implementado |
-| T02    | E03 | US06 - Alterar fonte do navegador | Alta | Implementado |
-| T02    | E03 | US07 - Controlar por atalho de gestos | Alta | Implementado |
-| T02    | E03 | US11 - Alterar entre o tema claro e escuro | Alta | Implementado |
-| T03    | E04 | US13 - Gerir memória | Alta | Implementado |
-| T03    | E05 | US16 - Mudar idioma | Alta | Implementado |
-| T03    | E05 | US17 - Traduzir página | Alta | Implementado |
-| T03    | E06 | US18 - Sincronizar dados | Alta | Implementado |
-| T03    | E06 | US21 - Acessar histórico de navegação | Alta | Implementado |
-| T03    | E06 | US22 - Acessar histórico de downloads | Alta | Implementado |
-| T03    | E06 | US08 - Limpar histórico | Alta | Implementado |
-| T03    | E06 | US09 - Limpar dados de usuário | Alta | Implementado |
-| T03    | E07 | US19 - Trocar de conta | Alta | Implementado |
-| T03    | E07 | US20 - Alterar senha | Alta | Implementado |
-| T03    | E07 | US15 - Ter segurança contra ataques | Alta | Implementado |
-| T03    | E06 | US14 - Bloquear anúncios | Alta | Implementado |
+| T01    | E01 | [US01](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site | Alta | Implementado |
+| T01    | E01 | [US02](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site formato desktop | Alta | Implementado |
+| T01   | E01 | [US03](../../elicitacao/priorizacao/requisitos_priorizados.md) - Favoritar sites | Alta | Implementado |
+| T01    | E02 | [US04](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar no navegador | Alta | Implementado |
+| T01    | E02 | [US05](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar por voz | Alta | Não implementado |
+| T02    | E03 | [US06](../../elicitacao/priorizacao/requisitos_priorizados.md) - Iniciar leitura de páginas | Alta | Implementado |
+| T02    | E03 | [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites (controle parental) | Alta | Não implementado |
+| T02    | E03 | [US08](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar fonte do navegador | Alta | Implementado |
+| T02    | E03 | [US09](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar por atalho de gestos | Alta | Implementado |
+| T02    | E03 | [US10](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar entre o tema claro e escuro | Alta | Implementado |
+| T03    | E04 | [US11](../../elicitacao/priorizacao/requisitos_priorizados.md) - Gerir memória | Alta | Implementado |
+| T03    | E05 | [US12](../../elicitacao/priorizacao/requisitos_priorizados.md) - Mudar idioma | Alta | Implementado |
+| T03    | E05 | [US13](../../elicitacao/priorizacao/requisitos_priorizados.md) - Traduzir página | Alta | Implementado |
+| T03    | E06 | [US14](../../elicitacao/priorizacao/requisitos_priorizados.md) - Sincronizar dados | Alta | Implementado |
+| T03    | E06 | [US15](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de navegação | Alta | Implementado |
+| T03    | E06 | [US16](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de downloads | Alta | Implementado |
+| T03    | E06 | [US17](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar histórico | Alta | Implementado |
+| T03    | E06 | [US18](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar dados de usuário | Alta | Implementado |
+| T03    | E07 | [US19](../../elicitacao/priorizacao/requisitos_priorizados.md) - Trocar de conta | Alta | Implementado |
+| T03    | E07 | [US20](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar senha | Alta | Implementado |
+| T03    | E07 | [US21](../../elicitacao/priorizacao/requisitos_priorizados.md) - Ter segurança contra rastreamento, roubo de dados e ataques | Alta | Implementado |
+| T03    | E06 | [US22](../../elicitacao/priorizacao/requisitos_priorizados.md) - Bloquear anúncios | Alta | Implementado |
 
 
 
 </center>
 
 <div align="center"
-    <font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/Leonardo0o">Leonardo Aguiar</a>,2024</p></font>
+    <font size="3"><p style="text-align: center"><b>Autor: </b><a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/Leonardo0o">Leonardo Aguiar</a>,2024</p></font>
 </div>
 
 
 ## Referências 
 
-LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de maio de 2024. 
+1. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024. 
 
 ## Histórico de versões
 
@@ -142,3 +142,4 @@ LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Dispon
 | 1.0    | 25/05/2024 | Criação da página | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)     |
 | 1.1    | 27/05/2024 | Atualizações gerais do Backlog com as US08 -> US12 | [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.2    | 27/05/2024 | Correções gerais | [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.3 | 05/06/2024 | Correções | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras) |
