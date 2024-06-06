@@ -23,6 +23,7 @@ Durante o período de aplicação do questionário, que se estendeu do dia 12 de
 A apresentação integral dos resultados do questionário será exibida abaixo, englobando imagens que ilustram tanto as perguntas quanto as respostas obtidas. Em seguida, serão oferecidas breves considerações acerca dos dados coletados. Posteriormente, será realizada uma análise minuciosa desses dados, culminando na identificação e no levantamento dos requisitos elicitados.
 
 <center>
+  
 ### Tabela 1 - Detalhes do questionário
 
 | Detalhes do Questionário     | Informações                |
