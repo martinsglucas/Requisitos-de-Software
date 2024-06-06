@@ -49,13 +49,13 @@ O tema de Dados engloba os épicos e histórias de usuário que tratam da gestã
 
 O épico de acesso à sites engloba as funcionalidades responsáveis pela navegação em páginas na Internet. 
 
-    "Eu, como usuário, desejo utilizar o navegador para visitar sites na Web".
+"Eu, como usuário, desejo utilizar o navegador para visitar sites na Web".
 
 ##### E02. Pesquisa
 
 O épico de pesquisa engloba as funcionalidades que envolvem a realização de pesquisas através do navegador.
 
-    "Eu, como usuário, desejo realizar pesquisas pelo navegador".
+"Eu, como usuário, desejo realizar pesquisas pelo navegador".
 
 #### T02. Personalização 
 
@@ -63,7 +63,7 @@ O épico de pesquisa engloba as funcionalidades que envolvem a realização de p
 
 O épico de acessibilidade engloba as funcionalidades que permitem o usuário moldar o sistema de forma com que seu uso se torne prático e possível dentro de suas limitações. 
 
-    "Eu, como usuário, desejo que o aplicativo seja acessível para deficientes visuais".
+"Eu, como usuário, desejo que o aplicativo seja acessível para deficientes visuais".
 
 #### T03. Dados
 
@@ -71,25 +71,25 @@ O épico de acessibilidade engloba as funcionalidades que permitem o usuário mo
 
 O épico de performance engloba as funcionalidades que envolvem a otimização e funcionamento do sistema conforme o esperado pelo usuário.
 
-    "Eu, como usuário, desejo que a aplicação tenha uma gestão de memória eficiente". 
+"Eu, como usuário, desejo que a aplicação tenha uma gestão de memória eficiente". 
 
 ##### E05. Tradução
 
 O épico de tradução engloba as funcionalidades que envolvem a troca de idioma da aplicação.
 
-    "Eu, como usuário, desejo que as páginas que acesso possam ser traduzidas para o Português".
+"Eu, como usuário, desejo que as páginas que acesso possam ser traduzidas para o Português".
 
 ##### E06. Rastreabilidade
 
 O épico de rastreabilidade engloba as funcionalidades que envolvem o histórico de dados e as informações de navegação do usuário.
 
-    "Eu, como usuário, desejo ter um histórico que contenha as últimas páginas que acessei".
+"Eu, como usuário, desejo ter um histórico que contenha as últimas páginas que acessei".
 
 ##### E07. Segurança
 
 O épico de segurança engloba as funcionalidades que protegem o usuário de danos.
 
-    "Eu, como usuário, desejo que o aplicativo me proteja contra ataques maliciosos".
+"Eu, como usuário, desejo que o aplicativo me proteja contra ataques maliciosos".
 
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Backlog do Produto</p></font>

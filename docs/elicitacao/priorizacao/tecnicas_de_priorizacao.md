@@ -4,6 +4,10 @@
 
 A priorização de requisitos é o ato de classificar os requisitos elicitados quanto à sua importância e valor agregado ao projeto. Visa a melhor alocação de tempo e recursos disponíveis durante o desenvolvimento de um sistema. Existem várias técnicas de priorização de requisitos, mas normalmente os requisitos são dispostos em uma tabela e classificados em: Alta, média e baixa prioridade. De forma que, cada entrega gere valor agregado ao cliente e que a divisão de prioridade esteja alinhada com a visão dele. 
 
+## Metodologia
+
+A metodologia utilizada foi a aplicação das respectivas técnicas de priorização, escolhidas através da análise das técnicas apresentadas na disciplina que melhor se adaptariam ao contexto do projeto, realizada através de entrevistas realizadas virtualmente, com usuários do sistema, por meio da ferramenta Microsoft Teams.
+
 ## Técnicas de priorização
 
 Existem diversas técnicas de priorização de requisitos, para o projeto escolheremos: **In or Out, Three Level Scale e MoSCoW**.
