@@ -23,7 +23,7 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 <td align="center"><a href="https://github.com/martinsglucas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104236229?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Martins</b></sub></a><br /></td>
 
-<td align="center"><a href="https://github.com/Leonardo0o0"><img style="border-radius: 50%;" src="https://i.ibb.co/frtnYkn/image.png" width="100px;" alt=""/><br /><sub><b>Leonardo Sobrinho</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Leonardo0o0"><img style="border-radius: 50%;" src="https://i.ibb.co/frtnYkn/image.png" width="100px;" alt=""/><br /><sub><b>Leonardo Aguiar</b></sub></a><br /></td>
 </center>
 
 </tr>
