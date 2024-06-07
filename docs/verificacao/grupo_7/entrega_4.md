@@ -198,6 +198,66 @@ A separação deste artefato em dois ficou bem confusa e dificulta a visualizaç
 #### Problemas encontrados
 No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/historia_de_usuario/) está bem satisfatório. A única inconsistência encontrada foi a falta de objetividade em algumas histórias de usuário, fazendo com que elas não pudessem ser testadas adequadamente. Cito como exemplo as histórias: ^^US28, US36 e US39^^. Nessas e em outras histórias, acredito que os critérios de aceitação poderiam estar melhor descritos, de maneira que fossem testáveis. 
 
+### Rich Picture
+
+=== "Preparação do checklist"
+
+    <center>
+
+    **Tabela 8**: Preparação do checklist do Rich Picture
+
+    | ID  | Descrição                                                                                                        |
+    | --- | ---------------------------------------------------------------------------------------------------------------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                             |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                                   |
+    | 03  | O artefato possui um texto de introdução?                                                                        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                          |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                                 |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                                |
+    | 07  | O Rich Picture está padronizado com simbologia dos Atores, Setas, Operações, Data Stores e Fronteira do Sistema? |
+    | 08  | Os Atores tem legendas explicando o que representam?                                                             |
+    | 09  | Toda Operação é executada por um Ator ou outra Operação?                                                         |
+    | 10  | As Data Stores tem explicitamente qual tipo de dado será salvo nelas?                                            |
+    | 11  | Apenas as operações estão interagindo com os Data Stores?                                                        |
+    | 12  | As Setas tem legendas com a natureza do fluxo de dados?                                                          |
+    | 13 | Os Atores estão fora da Fronteira do Sistema?                                                                     |
+    | 14 | O Rich Picture é de fácil compreensão e descreve o sistema superficialmente?                                      |
+    | 15 | As preocupações, se presentes, estão presentes em bolhas de pensamento?                                           |
+    | 16 | A linguagem do Rich Picture está de simples compreensão do leitor?                                                |
+    **Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
+    </center>
+
+=== "Inspeção"
+
+    <center>
+
+    **Tabela 9**: Inspeção das histórias de usuário
+
+    | ID  | Descrição                                                                                                        | Avaliação |
+    | --- | ---------------------------------------------------------------------------------------------------------------- | --------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                             |           |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                                   |           |
+    | 03  | O artefato possui um texto de introdução?                                                                        |           |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                          |           |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                                 |           |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                                |           |
+    | 07  | O Rich Picture está padronizado com simbologia dos Atores, Setas, Operações, Data Stores e Fronteira do Sistema? |           |
+    | 08  | Os Atores tem legendas explicando o que representam?                                                             |           |
+    | 09  | Toda Operação é executada por um Ator ou outra Operação?                                                         |           |
+    | 10  | As Data Stores tem explicitamente qual tipo de dado será salvo nelas?                                            |           |
+    | 11  | Apenas as operações estão interagindo com os Data Stores?                                                        |           |
+    | 12  | As Setas tem legendas com a natureza do fluxo de dados?                                                          |           |
+    | 13 | Os Atores estão fora da Fronteira do Sistema?                                                                     |           |
+    | 14 | O Rich Picture é de fácil compreensão e descreve o sistema superficialmente?                                      |           |
+    | 15 | As preocupações, se presentes, estão presentes em bolhas de pensamento?                                           |           |
+    | 16 | A linguagem do Rich Picture está de simples compreensão do leitor?                                                |           |
+    **Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
+    </center>
+
+
+
 ## Referência
 
 1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 3 jun. 2024.
@@ -205,9 +265,10 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 
 ## Histórico de versão
 
-| Versão | Data       | Descição                                      | Autor                                           | Revisor                                           |
-| ------ | ---------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| 1.0    | 03/06/2024 | Criação da página                             | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
-| 1.1    | 03/06/2024 | Adiciona verificação do Backlog               | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
-| 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| Versão | Data       | Descição                                                   | Autor                                           | Revisor                                           |
+| ------ | ---------- | ---------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 03/06/2024 | Criação da página                                          | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.1    | 03/06/2024 | Adiciona verificação do Backlog                            | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework                      | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário              | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.4    | 07/06/2024 | Adiciona as tabelas 8 e 9 para a verificação do Rich Picture | [Davi Pierre](https://github.com/DaviPierre)    | --- |
