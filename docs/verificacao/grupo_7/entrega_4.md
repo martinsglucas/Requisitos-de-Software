@@ -260,7 +260,7 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 #### Problemas encontrados
 O [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/) teve apenas dois problemas:
 <br>07: Os Atores do [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/) não seguem o padrão do método, Demonstrando os Atores com imagens coloridas o invés dos boncos de palito indicado pela técnica.
-<br11: No [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/) os Atores interagem com as Data Stores, algo que só poderia acontecer por meio de uma operação.
+<br>11: No [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/) os Atores interagem com as Data Stores, algo que só poderia acontecer por meio de uma operação.
 
 
 
