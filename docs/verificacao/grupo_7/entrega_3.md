@@ -15,7 +15,7 @@ Este documento tem como objetivo relatar os resultados da verificação por insp
 | **Cenários**                  | 1.3    | 19/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Paulo Borba                                            | 19/05/2024      | Johnny Lopes  |
 | **Léxicos**                   | 1.4    | 19/05/2024 | Adição de novos léxicos                                                    | Amanda Campos, Bianca Castro e Paulo Borba             | 19/05/2024      | Johnny Lopes  |
 
-**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -63,7 +63,7 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 25 | No artefato, há a especificação de requisitos e restrições de interface?                                                                                          |
     | 26 | Os requisitos definidos no artefato são todos testáveis?                                                                                                          |
 
-    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
+    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
     </center>
 
@@ -75,34 +75,34 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     
     | ID | Pergunta                                                                                                                                                          | Resposta |
     |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-    | 01 | O artefato contém o histórico de versão padronizado?                                                                                                              |          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                                                                                                    |          |
-    | 03 | O artefato possui um texto de introdução?                                                                                                                         |          |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                                                                                                           |          |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                                                                                                  |          |
-    | 06 | O artefato contém a metodologia/método utilizado?                                                                                                                 |          |
-    | 07 | Todos os textos estão na norma padrão?                                                                                                                            |          |
-    | 08 | O documento tem em sua metodologia o modelo FURPS+?                                                                                                               |          |
-    | 09 | O documento possui o tópico de Funcionalidade?                                                                                                                    |          |
-    | 10 | O documento apresenta pelo menos dois tópicos + (Restrição de Design, Requisitos de Implementação, de Interface ou Físicos)?                                      |          |
-    | 11 | No tópico Funcionalidade, há a descrição ou redirecionamento para os requisitos funcionais?                                                                       |          |
-    | 12 | O documento possui o tópico de Usabilidade?                                                                                                                       |          |
-    | 13 | No tópico Usabilidade, há a especificação de requisitos que  facilite a realização das tarefas pelo usuário?                                                      |          |
-    | 14 | O documento possui o tópico de Confiabilidade?                                                                                                                    |          |
-    | 15 | No tópico Confiabilidade, há a especificação do Tempo Médio entre Falhas (MTBF) e o Tempo Médio para Reparo (MTTR)?                                               |          |
-    | 16 | No tópico Confiabilidade, há a especificação de requisitos que aumentam a confiabilidade considerando questões como disponibilidade, precisão e recuperabilidade? |          |
-    | 17 | O documento possui o tópico de Desempenho?                                                                                                                        |          |
-    | 18 | No tópico Desempenho, há a especificação do tempo de resposta de uma transação e da taxa de transferência?                                                        |          |
-    | 19 | No tópico Desempenho, há a especificação de requisitos que especificam a capacidade do sistema?                                                                   |          |
-    | 20 | O documento possui o tópico de Suportabilidade?                                                                                                                   |          |
-    | 21 | No tópico Suportabilidade, há a especificação de sistema operacional ou plataforma de execução do sistema?                                                        |          |
-    | 22 | No artefato, há a especificação física de funcionamento do sistema?                                                                                               |          |
-    | 23 | No artefato, há a especificação de requisitos e restrições de design do sistema?                                                                                  |          |
-    | 24 | No artefato, há a especificação de requisitos e restrições de construção do sistema?                                                                              |          |
-    | 25 | No artefato, há a especificação de requisitos e restrições de interface?                                                                                          |          |
-    | 26 | Os requisitos definidos no artefato são todos testáveis?                                                                                                          |          |
+    | 01 | O artefato contém o histórico de versão padronizado?                                                                                                              |   Sim    |
+    | 02 | Os autores e revisores estão identificados para cada artefato?                                                                                                    |   Sim    |
+    | 03 | O artefato possui um texto de introdução?                                                                                                                         |   Sim    |
+    | 04 | As tabelas/imagens possuem fonte/autor?                                                                                                                           |   Sim    |
+    | 05 | O artefato possui referências/bibliografia corretamente citadas?                                                                                                  |   Sim    |
+    | 06 | O artefato contém a metodologia/método utilizado?                                                                                                                 |   Sim    |
+    | 07 | Todos os textos estão na norma padrão?                                                                                                                            |   Sim    |
+    | 08 | O documento tem em sua metodologia o modelo FURPS+?                                                                                                               |   Sim    |
+    | 09 | O documento possui o tópico de Funcionalidade?                                                                                                                    |   Sim    |
+    | 10 | O documento apresenta pelo menos dois tópicos + (Restrição de Design, Requisitos de Implementação, de Interface ou Físicos)?                                      |   Sim    |
+    | 11 | No tópico Funcionalidade, há a descrição ou redirecionamento para os requisitos funcionais?                                                                       |   Sim    |
+    | 12 | O documento possui o tópico de Usabilidade?                                                                                                                       |   Sim    |
+    | 13 | No tópico Usabilidade, há a especificação de requisitos que  facilite a realização das tarefas pelo usuário?                                                      |   Sim    |
+    | 14 | O documento possui o tópico de Confiabilidade?                                                                                                                    |   Sim    |
+    | 15 | No tópico Confiabilidade, há a especificação do Tempo Médio entre Falhas (MTBF) e o Tempo Médio para Reparo (MTTR)?                                               |   Sim    |
+    | 16 | No tópico Confiabilidade, há a especificação de requisitos que aumentam a confiabilidade considerando questões como disponibilidade, precisão e recuperabilidade? |   Sim    |
+    | 17 | O documento possui o tópico de Desempenho?                                                                                                                        |   Sim    |
+    | 18 | No tópico Desempenho, há a especificação do tempo de resposta de uma transação e da taxa de transferência?                                                        |   Sim    |
+    | 19 | No tópico Desempenho, há a especificação de requisitos que especificam a capacidade do sistema?                                                                   |   Sim    |
+    | 20 | O documento possui o tópico de Suportabilidade?                                                                                                                   |   Sim    |
+    | 21 | No tópico Suportabilidade, há a especificação de sistema operacional ou plataforma de execução do sistema?                                                        |   Sim    |
+    | 22 | No artefato, há a especificação física de funcionamento do sistema?                                                                                               |   Sim    |
+    | 23 | No artefato, há a especificação de requisitos e restrições de design do sistema?                                                                                  |   Sim    |
+    | 24 | No artefato, há a especificação de requisitos e restrições de construção do sistema?                                                                              |   Sim    |
+    | 25 | No artefato, há a especificação de requisitos e restrições de interface?                                                                                          |   Sim    |
+    | 26 | Os requisitos definidos no artefato são todos testáveis?                                                                                                          |   Sim    |
 
-    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024.
+    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024
 
     </center>
 
@@ -143,7 +143,7 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 23 | A validação do diagrama de casos de uso foi realizada com usuário ou persona?                                     |
     | 24 | Na validação do diagrama, há a especificação da técnica utilizada?                                                |
 
-    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
+    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
     </center>
 
@@ -155,21 +155,21 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
     | ID | Pergunta                                                                                                          | Resposta |
     |----|-------------------------------------------------------------------------------------------------------------------|----------|
-    | 01 | O artefato contém o histórico de versão padronizado?                                                              |          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                                                    |          |
-    | 03 | O artefato possui um texto de introdução?                                                                         |          |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                                                           |          |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                                                  |          |
-    | 06 | O artefato contém a metodologia/método utilizado?                                                                 |          |
-    | 07 | Todos os textos seguem a norma padrão da língua portuguesa?                                                       |          |
-    | 08 | No documento, é apresentado um diagrama de casos de uso que representa a interação do usuário com o sistema?      |          |
-    | 08 | No documento, há a especificação de local e data da confecção do diagrama?                                        |          |
-    | 09 | O diagrama de casos de uso segue a notação UML?                                                                   |          |
-    | 10 | No diagrama, há a especificação de atores, sistema e metas?                                                       |          |
-    | 11 | No diagrama, o ator principal está do lado esquerdo e fora do limite do sistema?                                  |          |
+    | 01 | O artefato contém o histórico de versão padronizado?                                                              |    Sim   |
+    | 02 | Os autores e revisores estão identificados para cada artefato?                                                    |    Sim   |
+    | 03 | O artefato possui um texto de introdução?                                                                         |    Sim   |
+    | 04 | As tabelas/imagens possuem fonte/autor?                                                                           |    Sim   |
+    | 05 | O artefato possui referências/bibliografia corretamente citadas?                                                  |    Sim   |
+    | 06 | O artefato contém a metodologia/método utilizado?                                                                 |    Sim   |
+    | 07 | Todos os textos seguem a norma padrão da língua portuguesa?                                                       |    Sim   |
+    | 08 | No documento, é apresentado um diagrama de casos de uso que representa a interação do usuário com o sistema?      |    Sim   |
+    | 08 | Na validação do diagrama, há a especificação da técnica utilizada, especificação de local e data?                 |    Sim   |
+    | 09 | O diagrama de casos de uso segue a notação UML?                                                                   |    Sim   |
+    | 10 | No diagrama, há a especificação de atores, sistema e metas?                                                       |    Sim   |
+    | 11 | No diagrama, o ator principal está do lado esquerdo e fora do limite do sistema?                                  |    Sim   |
     | 12 | No diagrama, há a definição de atores principais e atores secundários?                                            |          |
     | 13 | No diagrama, o nome dos atores é significativo?                                                                   |          |
-    | 14 | No diagrama, a sinalização << system >> indica um software ou hardware?                                           |          |
+    | 14 | No diagrama, a sinalização << system >> indica um software ou hardware?                                           |    Sim   |
     | 15 | No diagrama, há pontos de extensão, inclusão e generalização?                                                     |          |
     | 16 | No diagrama, os pontos de extensão, inclusão ou generalização são aplicados corretamente?                         |          |
     | 17 | Os casos de uso levantados representam requisitos funcionais?                                                     |          |
@@ -179,9 +179,8 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 21 | Os fluxos alternativos são factívelmente alternativos ao principal?                                               |          |
     | 22 | Os fluxos de exceção representam a reação do sistema a erros ou situações fora do esperado?                       |          |
     | 23 | A validação do diagrama de casos de uso foi realizada com usuário ou persona?                                     |          |
-    | 24 | Na validação do diagrama, há a especificação da técnica utilizada?                                                |          |
 
-    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024.
+    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024
 
     </center>
 
@@ -208,8 +207,14 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    |
     | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            |
     | 12 | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          |
+    | 13 | O artefato contém o histórico de versão padronizado?                                                                             |         
+    | 14 | Os autores e revisores estão identificados para cada artefato?                                                                   |         
+    | 15 | O artefato possui um texto de introdução?                                                                                        | 
+    | 16 | As tabelas/imagens possuem fonte/autor?                                                                                          |       
+    | 17 | O artefato possui referências/bibliografia corretamente citadas?                                                                 |         
+    | 18 | O artefato contém a metodologia/método utilizado?                                                                                |         
 
-    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024.
+    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024
 
     </center>
 
@@ -231,17 +236,28 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 08 | Há uma referência clara aos léxicos nos cenários?                                                                                | Não      |
     | 09 | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         | Sim      |
     | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    | Não      |
-    | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            | Sim      |
+    | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            |Incompleto|
     | 12 | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          | Sim      |
 
-    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
+    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
     </center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Cenários](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/cenarios/), foram a ausência da conexão dos cenários com os [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/), também desenvolvidos durante essa etapa de entrega e a falta da participação de usuários ou personas na criação dos cenários.
+Os principais problemas encontrados no artefato [Cenários](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/cenarios/), foram a ausência da conexão dos cenários com os [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/), também desenvolvidos durante essa etapa de entrega e a falta da participação de usuários ou personas na criação dos cenários. Além disso, ao longo do artefato se nota a autoria de diversos membros do grupo na formulação dos cenários, entretanto, não há a representação dessa informação no histórico de versões do artefato. 
 
+#### Video de verificação
+
+<center>
+
+**Vídeo 1**: Verificação - Cenários
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iL9eNKaJe5w?si=8ij-deodVpsa4lf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
+
+</center>
 
 ### Checklist para Léxicos
 
@@ -265,7 +281,7 @@ Os principais problemas encontrados no artefato [Cenários](https://requisitos-d
     | 10 | O artefato menciona os autores e a data da criação dos léxicos?                                 |
     | 11 | Os léxicos estão conectados entre si através de hyperlinks?                                     |
 
-    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024.
+    **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras)
 
     </center>
 
@@ -289,7 +305,8 @@ Os principais problemas encontrados no artefato [Cenários](https://requisitos-d
     | 10 | O artefato menciona os autores e a data da criação dos léxicos?                                 | Sim        |
     | 11 | Os léxicos estão conectados entre si através de hyperlinks?                                     | Não        |
 
-    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
+
+    **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
     </center>
 
@@ -298,11 +315,25 @@ Os principais problemas encontrados no artefato [Cenários](https://requisitos-d
 
 Os principais problemas encontrados no artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/) foram a ausência da definição da importância do uso dos léxicos na engenharia de requisitos, da identificação da metodologia, com especificação que justifique o uso do modelo de dicionário de dados e da conexão dos léxicos entre si. Além disso, as noções e impactos de cada termo carecem de maior descrição para que se possa englobar corretamente o efeito de cada léxico no sistema. 
 
+### Video de verificação
+
+<center>
+
+**Vídeo 1**: Verificação - Léxicos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jU2JaQ-7ANw?si=w_qUZmZWyMXCb-t7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
+
+</center>
+
 ## Referências
 
 1. MEU INSS. Brasília, DF, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Meu-INSS/. Acesso em: 08 de junho de 2024.
 
 2. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 08 de junho de 2024.
+
+3. 
 
 ## Histórico de Versões
 
