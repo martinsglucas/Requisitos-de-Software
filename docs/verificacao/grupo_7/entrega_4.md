@@ -25,7 +25,7 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 | **Backlog**              | 1.3    | 28/05/2024 | Arrumando Hiperlinks e ajustes na tabela de backlog.                       | Johnny Lopes  | -               | -             |
 | **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Adição dos SIGs de operacionalização, afirmação e seleção de alternativas. | Vitor Feijó   | 02/06/2024      | Bianca Castro |
 | **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Bianca Castro | 30/05/2024      | Amanda Campos |
-
+| **Rich Picture**         | 1.1    | 27/03/2024 | Criação do documento | Amanda Campos, Bianca Castro e Paulo Borba | 30/03/2024 | Johnny Lopes |
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -217,5 +217,4 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 | 1.1    | 03/06/2024 | Adiciona verificação do Backlog               | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.4 | 09/06/2024 | Adiciona referências nas tabelas | [Guilherme Westphall](https://github.com/west7)  | [Kauan Eiras](https://github.com/kauaneiras) |                                             
-
+| 1.4    | 09/06/2024 | Adiciona referências nas tabelas | [Guilherme Westphall](https://github.com/west7)  | [Kauan Eiras](https://github.com/kauaneiras) |                                             
