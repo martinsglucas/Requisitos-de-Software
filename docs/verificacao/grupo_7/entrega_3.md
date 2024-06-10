@@ -105,8 +105,6 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
     </center>
 
-#### Problemas encontrados
-
 ### Casos de Uso
 === "Preparação do checklist"
 
@@ -290,7 +288,7 @@ Os principais problemas encontrados no artefato [Cenários](https://requisitos-d
 
     <center>
 
-   **Tabela 7**: Inspeção dos Léxicos
+    **Tabela 7**: Inspeção dos Léxicos
 
     | ID | Pergunta                                                                                        | Resposta   |
     |----|-------------------------------------------------------------------------------------------------|------------|
