@@ -26,7 +26,6 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 2. **Preparação**: Após a análise e compreensão dos artefatos, será elaborada uma lista de critérios (checklist) que orientará a avaliação de cada página.
 3. **Inspeção**: Esta etapa envolve verificar se os artefatos atendem aos critérios estabelecidos nas checklists.
 
-
 ### Especificação Suplementar
 === "Preparação do checklist"
 
@@ -167,24 +166,26 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 09 | O diagrama de casos de uso segue a notação UML?                                                                   |    Sim   |
     | 10 | No diagrama, há a especificação de atores, sistema e metas?                                                       |    Sim   |
     | 11 | No diagrama, o ator principal está do lado esquerdo e fora do limite do sistema?                                  |    Sim   |
-    | 12 | No diagrama, há a definição de atores principais e atores secundários?                                            |          |
-    | 13 | No diagrama, o nome dos atores é significativo?                                                                   |          |
+    | 12 | No diagrama, há a definição de atores principais e atores secundários?                                            |    Sim   |
+    | 13 | No diagrama, o nome dos atores é significativo?                                                                   |    Não   |
     | 14 | No diagrama, a sinalização << system >> indica um software ou hardware?                                           |    Sim   |
-    | 15 | No diagrama, há pontos de extensão, inclusão e generalização?                                                     |          |
-    | 16 | No diagrama, os pontos de extensão, inclusão ou generalização são aplicados corretamente?                         |          |
-    | 17 | Os casos de uso levantados representam requisitos funcionais?                                                     |          |
-    | 18 | Os casos de uso levantados representam corretamente as funcionalidades e suas interações                          |          |
-    | 19 | No documento, há a especificação completa (nome, descrição, atores, fluxos, pré e pós condição) dos casos de uso? |          |
-    | 20 | No documento, há a especificação de apenas um fluxo principal para cada caso de uso?                              |          |
-    | 21 | Os fluxos alternativos são factívelmente alternativos ao principal?                                               |          |
-    | 22 | Os fluxos de exceção representam a reação do sistema a erros ou situações fora do esperado?                       |          |
-    | 23 | A validação do diagrama de casos de uso foi realizada com usuário ou persona?                                     |          |
+    | 15 | No diagrama, há pontos de extensão, inclusão e generalização?                                                     |    Sim   |
+    | 16 | No diagrama, os pontos de extensão, inclusão ou generalização são aplicados corretamente?                         |    Sim   |
+    | 17 | Os casos de uso levantados representam requisitos funcionais?                                                     |    Sim   |
+    | 18 | Os casos de uso levantados representam corretamente as funcionalidades e suas interações                          |    Sim   |
+    | 19 | No documento, há a especificação completa (nome, descrição, atores, fluxos, pré e pós condição) dos casos de uso? |    Sim   |
+    | 20 | No documento, há a especificação de apenas um fluxo principal para cada caso de uso?                              |Incompleto|
+    | 21 | Os fluxos alternativos são factívelmente alternativos ao principal?                                               |    Sim   |
+    | 22 | Os fluxos de exceção representam a reação do sistema a erros ou situações fora do esperado?                       |    Sim   |
+    | 23 | A validação do diagrama de casos de uso foi realizada com usuário ou persona?                                     |    Sim   |
 
     **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024
 
     </center>
 
 #### Problemas encontrados
+
+O artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/useCase/) se aparentou claro e bem inscrito, porém, há alguns pontos que devem ser conferidos. Um desses pontos está no Diagrama de caso de usos, onde o ator "usuário" não tem um nome adequado, considerndo que "Usuário" pode ser todas as pessoas que utilizam o sistema, como o advogado e funcionários do INSS. É interessante buscar por um nome mais adequado que dê a entender que tal ator vai consultar extratos, solicitar benefinios e utilizar as funcionalidades oferecidas para quem tem um benefício ou solicitou. O outro ponto importante para conferir é a padronização das tabelas, onde algumas estão enumeradas e outras não. 
 
 ### Cenários
 === "Preparação do checklist"
@@ -319,9 +320,9 @@ Os principais problemas encontrados no artefato [Léxicos](https://requisitos-de
 
 <center>
 
-**Vídeo 1**: Verificação - Léxicos
+**Vídeo 2**: Verificação - Léxicos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jU2JaQ-7ANw?si=w_qUZmZWyMXCb-t7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IZNWhHzHcA?si=uzyy0R0gogMC4Ve8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024
 
