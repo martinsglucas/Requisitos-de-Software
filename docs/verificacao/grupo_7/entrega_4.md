@@ -135,7 +135,7 @@ Os principais problemas encontrados no artefato [Backlog](https://requisitos-de-
     | 07  | Os SIGs estão padronizados entre si?                                                                                       | Sim        |
     | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)? (SILVA, 2019)                                 | Incompleto |
     | 09  | A propagação de impactos foi feita? (SILVA, 2019)                                                                          | Incompleto |
-    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? (SILVA, 2019) | Sim        |
+    | 10  | Os cartões de especificação contém: Descrição, justificativa, origem do requisito, critérios de aceitação, dependências, prioridade, conflitos e história? (SILVA, 2019) | Sim        |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
