@@ -57,6 +57,8 @@ nav:
     - NFR Framework: modelagem_agil/NFR Framework.md
   - Verificação:
     - Grupo 07:
+      - Entrega 1: verificacao/grupo_7/entrega_1.md
+      - Entrega 3: verificacao/grupo_7/entrega_3.md
       - Entrega 4: verificacao/grupo_7/entrega_4.md
 
 theme:
