@@ -277,5 +277,5 @@ O [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-ra
 | 1.1    | 03/06/2024 | Adiciona verificação do Backlog               | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.4  | 07/06/2024 | Adiciona as tabelas 8 e 9 para a verificação do Rich Picture | [Davi Pierre](https://github.com/DaviPierre) | --- |
-| 1.5  | 07/06/2024 | Adiciona a verificação do Rich Picture                       | [Davi Pierre](https://github.com/DaviPierre) | --- |
+| 1.4  | 07/06/2024 | Adiciona as tabelas 8 e 9 para a verificação do Rich Picture | [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.5  | 07/06/2024 | Adiciona a verificação do Rich Picture                       | [Davi Pierre](https://github.com/DaviPierre) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
