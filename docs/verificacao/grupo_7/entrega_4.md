@@ -26,6 +26,7 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 | **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Adição dos SIGs de operacionalização, afirmação e seleção de alternativas. | Vitor Feijó   | 02/06/2024      | Bianca Castro |
 | **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Bianca Castro | 30/05/2024      | Amanda Campos |
 | **Rich Picture**| 1.1 | 27/03/2024 | Criação do documento | Amanda Campos, Bianca Castro e Paulo Borba | 30/03/2024 | Johnny Lopes |
+
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
