@@ -23,6 +23,7 @@ Nos dias que foi realizada a inspeção, 7 de junho de 2024 , os artefatos avali
 |                          | Versão | Data       | Descrição                                                                  | Autor(es)     | Data de revisão | Revisor(es)   |
 | ------------------------ | ------ | ---------- | -------------------------------------------------------------------------- | ------------- | --------------- | ------------- |
 | **Rich Picture**| 1.1 | 27/03/2024 | Criação do documento | Amanda Campos, Bianca Castro e Paulo Borba | 30/03/2024 | Johnny Lopes |
+
 **Autor**: [Davi Pierre](https://github.com/DaviPierre)
 
 </center>
