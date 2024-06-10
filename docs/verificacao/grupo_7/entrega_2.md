@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento aborda a verificação da [Entrega 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/), intitulada "Elicitação". Esta entrega inclui os artefatos de [Personas](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/), [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/), [Técnicas de Elicitação](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/), [Técnicas de Priorização](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/threelevelscale/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/), elaborados pelo [grupo 7](https://requisitos-de-software.github.io/2024.1-Meu-INSS/), que está trabalhando com o aplicativo: "Meu INSS".
+Este documento aborda a verificação da [Entrega 2](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/), intitulada "Elicitação". Esta entrega inclui os artefatos [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/), [Personas](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/), [Brainstorming](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/), [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/), [Entrevista](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/entrevista/), [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/), [Storytelling](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/storytelling/), [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/), [Three Level Scale](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Priorização/threelevelscale/), [$100](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Priorização/100%24/) e [First Things First](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Priorização/first_things/) elaborados pelo [grupo 7](https://requisitos-de-software.github.io/2024.1-Meu-INSS/), que está trabalhando com o aplicativo: "Meu INSS".
 
 ## Metodologia
 
@@ -24,7 +24,7 @@ Nos dias que foi realizada a inspeção, 9 de junho de 2024 , os artefatos avali
 | ------------------------ | ------ | ---------- | -------------------------------------------------------------------------- | ------------- | --------------- | ------------- |
 |**Introspecção**| `1.2` | 15/04/2024  | Adição de requisitos de acessibilidade elicitados. | [José Filipi](https://github.com/JohnnyLopess) |15/04/2024 | <a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/vitorfleonardo">Vitor</a>|
 |**Brainstorming**| `1.3` | 12/04/2024  | Complementando informações. | [Paulo Borba](https://github.com/paulohborba) | 13/04/2024|<a href="https://github.com/BiancaPatrocinio7">Bianca</a> & <a href="https://github.com/acamposs">Amanda</a>|
-|**entrevista**| `1.4`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 15/04/2024 | <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> |
+|**Entrevista**| `1.4`  | 13/04/2024 | Correção das referencias e citações| [Amanda Campos](https://github.com/acamposs) | 15/04/2024 | <a href="https://github.com/paulohborba">Paulo</a> & <a href="https://github.com/JohnnyLopess">Johnny</a> |
 | **Perfil de Usuário**| `1.0`  | 13/04/2024 | Criação do perfil de usuário. | [José Filipi](https://github.com/JoseFilipi) <br> [Gabriel Souza](https://github.com/GabrielMS00) | 14/04/2024|<a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/paulohborba">Paulo</a>|
 | **Personas**|`1.2`| 13/05/2024 | Correção após análise do monitor | [Bianca Castro](https://github.com/BiancaPatrocinio7) | - | [Amanda Campos](https://github.com/acamposs) |
 | **Questionário**| `1.1` | 16/04/2024  | Gráficos e requisitos elicitados documentados|  [Bianca Castro](https://github.com/BiancaPatrocinio7) | 16/04/2024 | <a href="https://github.com/JohnnyLopess">Johnny</a> & <a href="https://github.com/JoseFilipi">José Filipi</a> |
@@ -32,7 +32,7 @@ Nos dias que foi realizada a inspeção, 9 de junho de 2024 , os artefatos avali
 | **Storytelling**| `1.1` | 12/04/2024  | Complementando informações da pagina de Storytelling | [Paulo Borba](https://github.com/paulohborba) | 14/04/2024 |<a href="https://github.com/acamposs">Amanda</a> & <a href="https://github.com/BiancaPatrocinio7">Bianca</a>|
 | **$100**| `1.1` | 21/04/2024  | Adição do local e data. | [Johnny Lopes](https://github.com/johnnylopess) | 21/04/2024 |[Gabriel Souza](https://github.com/GabrielMS00)|21/04/2024|<a href="https://github.com/GabrielMS00">Gabriel</a> & <a href="https://github.com/paulohborba">Paulo</a>|
 | **First Thing First**| `1.1` | 21/04/2024  | Adição do local e data. | [Johnny Lopes](https://github.com/JohnnyLopess)  | 21/04/2024|  <a href="https://github.com/vitorfleonardo">Vitor</a>|
-| **Three-level scale**| `1.1` | 17/04/2024  | Adição da tabela de requisitos. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 18/04/2024|<a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a>| 
+| **Three Level Scale**| `1.1` | 17/04/2024  | Adição da tabela de requisitos. | [Johnny Lopes](https://github.com/JohnnyLopess) & [Paulo Borba](https://github.com/paulohborba)| 18/04/2024|<a href="https://github.com/JoseFilipi">José Filipi</a> & <a href="https://github.com/GabrielMS00">Gabriel</a>| 
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
@@ -187,7 +187,7 @@ Os principais problemas encontrados no artefato [Brainstorming](https://requisit
 
 </center>
 
-### entrevista
+### Entrevista
 
 As tabelas 6 e 7 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à entrevista.
 
@@ -258,13 +258,13 @@ Não foram encontrados problemas no artefato [entrevista](https://requisitos-de-
 
 ### Perfil de Usuário
 
-As tabelas 2 e 3 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "Perfil de Usuário".
+As tabelas 8 e 9 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "Perfil de Usuário".
 
 === "Preparação do checklist"
 
     <center>
 
-    **Tabela 2**: Preparação do checklist do perfil de usuário
+    **Tabela 8**: Preparação do checklist do perfil de usuário
 
     | ID | Descrição                                                                                                                               |
     |----|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -282,7 +282,7 @@ As tabelas 2 e 3 apresentam, respectivamente, a preparação do checklist e a in
 
     <center>
 
-    **Tabela 3**: Inspeção do perfil de usuário
+    **Tabela 9**: Inspeção do perfil de usuário
 
     | ID | Descrição                                                                                                                               | Avaliação |
     |----|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -298,6 +298,8 @@ As tabelas 2 e 3 apresentam, respectivamente, a preparação do checklist e a in
 
 
 #### Problemas encontrados
+
+Não foram encontrados problemas no artefato [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/) de acordo com a checklist feita para realizar a verificação.
 
 ### Personas
 
@@ -565,13 +567,13 @@ Os principais problemas encontrados no artefato [Storytelling](https://requisito
 
 ### $100
 
-As tabelas 6 e 7 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "$100".
+As tabelas 18 e 19 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "$100".
 
 === "Preparação do checklist"
 
     <center>
 
-    **Tabela 6**: Preparação do checklist do $100
+    **Tabela 18**: Preparação do checklist do $100
 
     | ID | Descrição                                                                                                    |
     |----|--------------------------------------------------------------------------------------------------------------|
@@ -589,7 +591,7 @@ As tabelas 6 e 7 apresentam, respectivamente, a preparação do checklist e a in
     
     <center>
 
-    **Tabela 7**: Inspeção do $100
+    **Tabela 19**: Inspeção do $100
 
     | ID | Descrição                                                                                                    | Avaliação |
     |----|--------------------------------------------------------------------------------------------------------------|-----------|
@@ -608,13 +610,13 @@ As tabelas 6 e 7 apresentam, respectivamente, a preparação do checklist e a in
 
 ### First Thing First
 
-As tabelas 8 e 9 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "First Things First".
+As tabelas 20 e 21 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "First Things First".
 
 === "Preparação do checklist"
 
     <center>
 
-    **Tabela 6**: Preparação do checklist do First Things First
+    **Tabela 20**: Preparação do checklist do First Things First
 
     | ID | Descrição                                                                                                                        |
     |----|----------------------------------------------------------------------------------------------------------------------------------|
@@ -639,7 +641,7 @@ As tabelas 8 e 9 apresentam, respectivamente, a preparação do checklist e a in
     
     <center>
 
-    **Tabela 7**: Inspeção do First Things First
+    **Tabela 21**: Inspeção do First Things First
 
     | ID | Descrição                                                                                                                        | Avaliação |
     |----|----------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -666,13 +668,13 @@ As tabelas 8 e 9 apresentam, respectivamente, a preparação do checklist e a in
 
 ### Three-level scale
 
-As tabelas 4 e 5 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "Three Level Scale".
+As tabelas 22 e 23 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "Three Level Scale".
 
 === "Preparação do checklist"
 
     <center>
 
-    **Tabela 4**: Preparação do checklist do Three Level Scale
+    **Tabela 22**: Preparação do checklist do Three Level Scale
 
     | ID | Descrição                                                                                                               |
     |----|-------------------------------------------------------------------------------------------------------------------------|
@@ -692,7 +694,7 @@ As tabelas 4 e 5 apresentam, respectivamente, a preparação do checklist e a in
 
     <center>
 
-    **Tabela 5**: Inspeção do Three Level Scale
+    **Tabela 23**: Inspeção do Three Level Scale
 
     | ID | Descrição                                                                                                               | Avaliação |
     |----|-------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -730,13 +732,11 @@ As tabelas 4 e 5 apresentam, respectivamente, a preparação do checklist e a in
 
 8. REQUISITOS DE SOFTWARE. Meu INSS. Disponível em: <https://requisitos-de-software.github.io/2024.1-Meu-INSS/>. Acesso em: 8 de junho de 2024.
 
-9. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: <https://www.youtube.com/watch?v=v_Lz2l_XsTQ>. Acesso em: 8 de junho de 2024.
-
-10. WIEGERS, Karl. First things first: prioritizing requirements. Software Development, 1999. Disponível em: <https://www.processimpact.com/articles/prioritizing.pdf>. Acesso em: 8 de junho de 2024.
+9. WIEGERS, Karl. First things first: prioritizing requirements. Software Development, 1999. Disponível em: <https://www.processimpact.com/articles/prioritizing.pdf>. Acesso em: 8 de junho de 2024.
 
 ## Histórico de versão
 
 | Versão | Data       | Descição                                      | Autor                                           | Revisor                                           |
 | ------ | ---------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
 | 1.0    | 09/06/2024 | Criação da página e adição da verificação de 7 artefatos | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Lucas Martins](https://github.com/martinsglucas)   |
-| 1.1    | 10/06/2024 | adição de artefatos restantes                            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)   |
+| 1.1    | 10/06/2024 | Adição de artefatos restantes                            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)   |
