@@ -202,7 +202,7 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 04 | Os objetivos dos cenários são alinhados com seus respectivos títulos?                                                            |
     | 05 | Os cenários descrevem interações realistas e significativas com o sistema?                                                       |
     | 06 | Os atores são apropriados e relevantes para o contexto dos cenários?                                                             |
-    | 07 | Há um episódio relacionado a esse cenário?                                                                                       |
+    | 07 | Há um episódio relacionado aos cenários?                                                                                         |
     | 08 | Há uma referência clara aos léxicos nos cenários?                                                                                |
     | 09 | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         |
     | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    |
@@ -221,24 +221,27 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
     | ID | Pergunta                                                                                                                         | Resposta |
     |----|----------------------------------------------------------------------------------------------------------------------------------|----------|
-    | 01 | O artefato inclui uma descrição detalhada dos cenários?                                                                          |          |
-    | 02 | Cada cenário possui um título claro e fácil de entender, objetivo, contexto, atores, recursos, restrições, exceções e episódios? |          |
-    | 03 | Os cenários são testáveis?                                                                                                       |          |
-    | 04 | Os objetivos dos cenários são alinhados com seus respectivos títulos?                                                            |          |
-    | 05 | Os cenários descrevem interações realistas e significativas com o sistema?                                                       |          |
-    | 06 | Os atores são apropriados e relevantes para o contexto dos cenários?                                                             |          |
-    | 07 | Há um episódio relacionado a esse cenário?                                                                                       |          |
-    | 08 | Há uma referência clara aos léxicos nos cenários?                                                                                |          |
-    | 09 | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         |          |
-    | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    |          |
-    | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            |          |
-    | 12 | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          |          |
+    | 01 | O artefato inclui uma descrição detalhada dos cenários?                                                                          | Sim      |
+    | 02 | Cada cenário possui um título claro e fácil de entender, objetivo, contexto, atores, recursos, restrições, exceções e episódios? | Sim      |
+    | 03 | Os cenários são testáveis?                                                                                                       | Sim      |
+    | 04 | Os objetivos dos cenários são alinhados com seus respectivos títulos?                                                            | Sim      |
+    | 05 | Os cenários descrevem interações realistas e significativas com o sistema?                                                       | Sim      |
+    | 06 | Os atores são apropriados e relevantes para o contexto dos cenários?                                                             | Sim      |
+    | 07 | Há um episódio relacionado aos cenários?                                                                                         | Sim      |
+    | 08 | Há uma referência clara aos léxicos nos cenários?                                                                                | Não      |
+    | 09 | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         | Sim      |
+    | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    | Não      |
+    | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            | Sim      |
+    | 12 | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          | Sim      |
 
     **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
 
     </center>
 
 #### Problemas encontrados
+
+Os principais problemas encontrados no artefato [Cenários](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/cenarios/), foram a ausência da conexão dos cenários com os [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/), também desenvolvidos durante essa etapa de entrega e a falta da participação de usuários ou personas na criação dos cenários.
+
 
 ### Checklist para Léxicos
 
@@ -260,6 +263,7 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
     | 08 | Os impactos descritos são detalhados e refletem corretamente o efeito dos termos no sistema?    |
     | 09 | As referências utilizadas para a definição dos léxicos são citadas corretamente?                |
     | 10 | O artefato menciona os autores e a data da criação dos léxicos?                                 |
+    | 11 | Os léxicos estão conectados entre si através de hyperlinks?                                     |
 
     **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024.
 
@@ -269,20 +273,21 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
     <center>
 
-    **Tabela 7**: Inspeção dos Léxicos
+   **Tabela 7**: Inspeção dos Léxicos
 
-    | ID | Pergunta                                                                                        | Resposta |
-    |----|-------------------------------------------------------------------------------------------------|----------|
-    | 01 | O artefato inclui uma definição clara de léxicos e sua importância na engenharia de requisitos? |          |
-    | 02 | A metodologia para a identificação dos léxicos é claramente descrita?                           |          |
-    | 03 | O template para a definição dos léxicos está devidamente apresentado e explicado?               |          |
-    | 04 | Cada léxico inclui todos os elementos do template: termo, tipo, noção, impacto e autor?         |          |
-    | 05 | Os termos definidos são relevantes e abrangem todos os aspectos do sistema?                     |          |
-    | 06 | Os tipos de léxicos (objeto, verbo, estado) estão devidamente identificados e diferenciados?    |          |
-    | 07 | As noções dos léxicos são claras e bem definidas?                                               |          |
-    | 08 | Os impactos descritos são detalhados e refletem corretamente o efeito dos termos no sistema?    |          |
-    | 09 | As referências utilizadas para a definição dos léxicos são citadas corretamente?                |          |
-    | 10 | O artefato menciona os autores e a data da criação dos léxicos?                                 |          |
+    | ID | Pergunta                                                                                        | Resposta   |
+    |----|-------------------------------------------------------------------------------------------------|------------|
+    | 01 | O artefato inclui uma definição clara de léxicos e sua importância na engenharia de requisitos? | Incompleto |
+    | 02 | A metodologia para a identificação dos léxicos é claramente descrita?                           | Incompleto |
+    | 03 | O template para a definição dos léxicos está devidamente apresentado e explicado?               | Sim        |
+    | 04 | Cada léxico inclui todos os elementos do template: termo, tipo, noção, impacto e autor?         | Sim        |
+    | 05 | Os termos definidos são relevantes e abrangem os aspectos do sistema?                           | Sim        |
+    | 06 | Os tipos de léxicos (objeto, verbo, estado) estão devidamente identificados e diferenciados?    | Sim        |
+    | 07 | As noções dos léxicos são claras e bem definidas?                                               | Incompleto |
+    | 08 | Os impactos descritos são detalhados e refletem corretamente o efeito dos termos no sistema?    | Incompleto |
+    | 09 | As referências utilizadas para a definição dos léxicos são citadas corretamente?                | Sim        |
+    | 10 | O artefato menciona os autores e a data da criação dos léxicos?                                 | Sim        |
+    | 11 | Os léxicos estão conectados entre si através de hyperlinks?                                     | Não        |
 
     **Autor**: [Kallyne Macedo](https://github.com/kalipassos), 2024.
 
@@ -291,6 +296,7 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
 #### Problemas encontrados
 
+Os principais problemas encontrados no artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/) foram a ausência da definição da importância do uso dos léxicos na engenharia de requisitos, da identificação da metodologia, com especificação que justifique o uso do modelo de dicionário de dados e da conexão dos léxicos entre si. Além disso, as noções e impactos de cada termo carecem de maior descrição para que se possa englobar corretamente o efeito de cada léxico no sistema. 
 
 ## Referências
 
@@ -300,7 +306,9 @@ Para realizar a análise dos documentos, será utilizado uma adaptação do mét
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor(es)                                              | Revisor(es)                                     |
-|--------|------------|-----------------------------------|--------------------------------------------------------|-------------------------------------------------|
-| 1.0    | 09/06/2024 | Introdução e Metodologia          | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.2    | 09/06/2024 | Checklist para Cenários e Léxicos | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
+| Versão | Data       | Descrição                                               | Autor(es)                                              | Revisor(es)                                            |
+|--------|------------|---------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 1.0    | 09/06/2024 | Introdução e Metodologia                                | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)        |
+| 1.1    | 09/06/2024 | Checklist para Cenários e Léxicos                       | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)        |
+| 1.2    | 09/06/2024 | Checklist para Casos de Uso e Especificação Suplementar | [Kallyne Macedo](https://github.com/kalipassos)        | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
+| 1.4    | 10/06/2024 | Verificação para Cenários e Léxicos                     | [Kallyne Macedo](https://github.com/kalipassos)        | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
