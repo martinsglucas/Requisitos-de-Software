@@ -272,7 +272,7 @@ Na Tabela 13, tem-se o cronograma executado para a quarta etapa de entrega.
 
 Na Tabela 6, tem-se o cronograma executado para a etapa 5.1 de entrega.
 
-<center><p><b>Tabela 06</b>: Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 14</b>: Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
