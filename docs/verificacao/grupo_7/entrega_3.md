@@ -206,12 +206,7 @@ O artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Meu-IN
     | 10 | O artefato identifica os participantes e seus papéis na criação dos cenários?                                                    |
     | 11 | O artefato inclui informações autores e data na criação dos cenários?                                                            |
     | 12 | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          |
-    | 13 | O artefato contém o histórico de versão padronizado?                                                                             |         
-    | 14 | Os autores e revisores estão identificados para cada artefato?                                                                   |         
-    | 15 | O artefato possui um texto de introdução?                                                                                        | 
-    | 16 | As tabelas/imagens possuem fonte/autor?                                                                                          |       
-    | 17 | O artefato possui referências/bibliografia corretamente citadas?                                                                 |         
-    | 18 | O artefato contém a metodologia/método utilizado?                                                                                |         
+  
 
     **Autor**: [Kauan de Torres Eiras](https://github.com/kauaneiras), 2024
 
@@ -258,7 +253,7 @@ Os principais problemas encontrados no artefato [Cenários](https://requisitos-d
 
 </center>
 
-### Checklist para Léxicos
+### Léxicos
 
 === "Preparação do checklist"
 
@@ -332,7 +327,7 @@ Os principais problemas encontrados no artefato [Léxicos](https://requisitos-de
 
 2. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 08 de junho de 2024.
 
-3. 
+3. LEITE, Julio; FRANCO, Ana. A Strategy for Conceptual Model Acquisition. Rio de Janeiro: PUC-Rio, 1992. 243-246 p. Acesso em: 09 de junho de 2024.
 
 ## Histórico de Versões
 

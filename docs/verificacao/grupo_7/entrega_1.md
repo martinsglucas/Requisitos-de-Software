@@ -98,7 +98,7 @@ O [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-ra
 
 
 
-## Referência
+## Referências
 
 1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 7 jun. 2024.
 
