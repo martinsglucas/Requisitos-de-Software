@@ -249,7 +249,7 @@ Na Tabela 12, tem-se o cronograma executado para a terceira etapa de entrega.
 
 ### Entrega 4 - Modelagem de Requisitos II
 
-Na Tabela 13, tem-se o cronograma planejado para a quarta etapa de entrega.
+Na Tabela 13, tem-se o cronograma executado para a quarta etapa de entrega.
 
 <center><p><b>Tabela 13</b>: Execução da etapa 4 - Modelagem de Requisitos II </p>
 
@@ -265,6 +265,22 @@ Na Tabela 13, tem-se o cronograma planejado para a quarta etapa de entrega.
 | Gravar a apresentação                   | 27/05/2024 | 27/05/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 27/05/2024 - 27/05/2024 |
 | Montagem do Cronograma Executado        | 27/05/2024 | 27/05/2024 | Kauan                                            | Kallyne                                          | 27/05/2024 - 27/05/2024 |
 
+
+**Autor:**  [Kauan Eiras](https://github.com/kauaneiras), 2024. </center>
+
+### Entrega 5.1 - Verificação e Validação - Grupo 7
+
+Na Tabela 6, tem-se o cronograma executado para a etapa 5.1 de entrega.
+
+<center><p><b>Tabela 14</b>: Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+
+| *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
+|-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 4                                   | 28/05/2024 | 10/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 07/06/2024 - 10/06/2024 |
+| Análise de Requisitos: Verificação dos Artefatos Grupo 07 | 29/05/2024 | 10/06/2024 | Leonardo , Davi, Kallyne                         | Guilherme, Lucas, Kauan                          | 07/06/2024 - 10/06/2024 |
+| Análise de Requisitos: Validação Grupo 07                 | 29/05/2024 | 10/06/2024 | Guilherme, Lucas, Kauan                          | Leonardo, Davi, Kallyne                          | 07/06/2024 - 10/06/2024 |
+| Realizar a ata das reuniões                               | 29/05/2024 | 10/06/2024 | Davi                                             | Kallyne                                          | 09/06/2024 - 10/06/2024 |
+| Gravar a apresentação                                     | 10/06/2024 | 10/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 10/06/2024 - 10/06/2024 |
 
 **Autor:**  [Kauan Eiras](https://github.com/kauaneiras), 2024. </center>
 
@@ -284,3 +300,4 @@ Na Tabela 13, tem-se o cronograma planejado para a quarta etapa de entrega.
 | 1.3    | 10/05/2024 | Cronograma - Novo Calendário    | [Kallyne Macedo](https://github.com/kalipassos)                                                                                                   | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.4    | 27/05/2024 | Cronograma Executado Entrega 04 | [Kauan Eiras](https://github.com/kauaneiras)                                                                                                      | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.5    | 05/06/2024 | Reorganização do Cronograma     | [Kallyne Macedo](https://github.com/kalipassos)                                                                                                   | [Guilherme Westphall](https://github.com/west7)   |
+| 1.6    | 10/06/2024 | Cronograma Executado Entrega 5.1 | [Kauan Eiras](https://github.com/kauaneiras)                                                                                                      | [Kallyne Macedo](https://github.com/kalipassos)   |
