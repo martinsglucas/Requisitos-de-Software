@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento aborda a verificação da [Entrega 1]([https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/backlog/](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/)), intitulada "modelagem ágil". Esta entrega inclui os artefatos de  [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/), elaborados pelo [grupo 7](https://requisitos-de-software.github.io/2024.1-Meu-INSS/), que está trabalhando com o aplicativo: "Meu INSS".
+Este documento aborda a verificação da [Entrega 1](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/), intitulada "modelagem ágil". Esta entrega inclui os artefatos de  [Rich Picture](https://requisitos-de-software.github.io/2024.1-Meu-INSS/pre-rastreabilidade/rich_picture/), elaborados pelo [grupo 7](https://requisitos-de-software.github.io/2024.1-Meu-INSS/), que está trabalhando com o aplicativo: "Meu INSS".
 
 ## Metodologia
 
