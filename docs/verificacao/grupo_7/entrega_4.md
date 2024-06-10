@@ -26,6 +26,7 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 | **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Adição dos SIGs de operacionalização, afirmação e seleção de alternativas. | Vitor Feijó   | 02/06/2024      | Bianca Castro |
 | **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Bianca Castro | 30/05/2024      | Amanda Campos |
 
+
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
@@ -34,7 +35,8 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 
 ## Checklists
 
-Nesta seção, serão apresentadas a preparação dos checklists e as respectivas inspeções, onde os critérios poderão ser avaliados como "Sim", "Não" ou "Incompleto", dos artefatos listados anteriormente nas Tabelas 2, 3, 4, 5, 6 e 7.
+Nesta seção, serão apresentadas a preparação dos checklists e as respectivas inspeções, onde os critérios poderão ser avaliados como "Sim", "Não" ou "Incompleto", dos artefatos listados anteriormente nas Tabelas 2, 3, 4, 5, 6, e 7.
+
 
 ### Backlog
 
@@ -44,20 +46,20 @@ Nesta seção, serão apresentadas a preparação dos checklists e as respectiva
 
     **Tabela 2**: Preparação do checklist do backlog
 
-    | ID  | Descrição                                                                                 |
-    | --- | ----------------------------------------------------------------------------------------- |
-    | 01  | O artefato contém o histórico de versão padronizado?                                      |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                            |
-    | 03  | O artefato possui um texto de introdução?                                                 |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                   |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                          |
-    | 06  | O artefato contém a metodologia/método utilizado?                                         |
-    | 07  | Houve participação do cliente/persona na elicitação dos requisitos?                       |
-    | 08  | A separação do backlog em temas, épicos e histórias de usuário está bem definida?         |
-    | 09  | No backlog, está claro se uma história de usuário está implementada ou não no aplicativo? |
-    | 10  | O backlog contém a rastreabilidade dos requisitos?                                        |
-    | 11  | O backlog contém hyperlinks para os requisitos elicitados?                                |
-    | 12  | No backlog estão descritas as prioridades das histórias de usuário?                       |
+    | ID  | Descrição                                                                                         |
+    | --- | ------------------------------------------------------------------------------------------------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                              |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                    |
+    | 03  | O artefato possui um texto de introdução?                                                         |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                           |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                  |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                 |
+    | 07  | Houve participação do cliente/persona na elicitação dos requisitos? (SERRANO, 2019)               |
+    | 08  | A separação do backlog em temas, épicos e histórias de usuário está bem definida? (SERRANO, 2019) |
+    | 09  | No backlog, está claro se uma história de usuário está implementada ou não no aplicativo?         |
+    | 10  | O backlog contém a rastreabilidade dos requisitos?                                                |
+    | 11  | O backlog contém hyperlinks para os requisitos elicitados?                                        |
+    | 12  | No backlog estão descritas as prioridades das histórias de usuário?                               |
     
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -69,20 +71,20 @@ Nesta seção, serão apresentadas a preparação dos checklists e as respectiva
 
     **Tabela 3**: Inspeção do backlog
 
-    | ID  | Descrição                                                                                 | Avaliação  |
-    | --- | :---------------------------------------------------------------------------------------- | ---------- |
-    | 01  | O artefato contém o histórico de versão padronizado?                                      | Sim        |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                            | Incompleto |
-    | 03  | O artefato possui um texto de introdução?                                                 | Sim        |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                   | Sim        |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                          | Sim        |
-    | 06  | O artefato contém a metodologia/método utilizado?                                         | Sim        |
-    | 07  | Houve participação do cliente/persona na elicitação dos requisitos?                       | Incompleto |
-    | 08  | A separação do backlog em temas, épicos e histórias de usuário está bem definida?         | Sim        |
-    | 09  | No backlog, está claro se uma história de usuário está implementada ou não no aplicativo? | Não        |
-    | 10  | O backlog contém a rastreabilidade dos requisitos?                                        | Sim        |
-    | 11  | O backlog contém hyperlinks para os requisitos elicitados?                                | Sim        |
-    | 12  | No backlog estão descritas as prioridades das histórias de usuário?                       | Não        |
+    | ID  | Descrição                                                                                                                                                                    | Avaliação  |
+    | --- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                                                                                         | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                                                                                               | Incompleto |
+    | 03  | O artefato possui um texto de introdução?                                                                                                                                    | Sim        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                                                                                      | Sim        |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                                                                                             | Sim        |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                                                                                            | Sim        |
+    | 07  | Houve participação do cliente/persona na elicitação dos requisitos? (SERRANO, 2019)                                                                                          | Incompleto |
+    | 08  | A separação do backlog em temas, épicos e histórias de usuário está bem definida (Os épicos são grandes e generalizados e as histórias curtas e detalhadas)? (SERRANO, 2019) | Sim        |
+    | 09  | No backlog, está claro se uma história de usuário está implementada ou não no aplicativo?                                                                                    | Não        |
+    | 10  | O backlog contém a rastreabilidade dos requisitos?                                                                                                                           | Sim        |
+    | 11  | O backlog contém hyperlinks para os requisitos elicitados?                                                                                                                   | Sim        |
+    | 12  | No backlog estão descritas as prioridades das histórias de usuário?                                                                                                          | Não        |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -100,18 +102,18 @@ Os principais problemas encontrados no artefato [Backlog](https://requisitos-de-
 
     **Tabela 4**: Preparação do checklist do NFR Framework.
 
-    | ID  | Descrição                                                                                                    |
-    | --- | ------------------------------------------------------------------------------------------------------------ |
-    | 01  | O artefato contém o histórico de versão padronizado?                                                         |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                                               |
-    | 03  | O artefato possui um texto de introdução?                                                                    |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                                      |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                             |
-    | 06  | O artefato contém a metodologia/método utilizado?                                                            |
-    | 07  | Os SIGs estão padronizados entre si?                                                                         |
-    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)?                                 |
-    | 09  | A propagação de impactos foi feita?                                                                          |
-    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? |
+    | ID  | Descrição                                                                                                                  |
+    | --- | -------------------------------------------------------------------------------------------------------------------------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                                       |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                                             |
+    | 03  | O artefato possui um texto de introdução?                                                                                  |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                                    |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                                           |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                                          |
+    | 07  | Os SIGs estão padronizados entre si?                                                                                       |
+    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)? (SILVA, 2019)                                 |
+    | 09  | A propagação de impactos foi feita? (SILVA, 2019)                                                                          |
+    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? (SILVA, 2019) |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -123,18 +125,18 @@ Os principais problemas encontrados no artefato [Backlog](https://requisitos-de-
 
     **Tabela 5**: Inspeção do NFR Framework
 
-    | ID  | Descrição                                                                                                    | Avaliação  |
-    | --- | ------------------------------------------------------------------------------------------------------------ | ---------- |
-    | 01  | O artefato contém o histórico de versão padronizado?                                                         | Sim        |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                                               | Sim        |
-    | 03  | O artefato possui um texto de introdução?                                                                    | Sim        |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                                      | Sim        |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                             | Sim        |
-    | 06  | O artefato contém a metodologia/método utilizado?                                                            | Sim        |
-    | 07  | Os SIGs estão padronizados entre si?                                                                         | Sim        |
-    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)?                                 | Incompleto |
-    | 09  | A propagação de impactos foi feita?                                                                          | Incompleto |
-    | 10  | Os cartões de especificação contém: Descrição, justificativa, conflitos, dependências e origem do requisito? | Sim        |
+    | ID  | Descrição                                                                                                                  | Avaliação  |
+    | --- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                                       | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                                             | Sim        |
+    | 03  | O artefato possui um texto de introdução?                                                                                  | Sim        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                                    | Sim        |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                                           | Sim        |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                                          | Sim        |
+    | 07  | Os SIGs estão padronizados entre si?                                                                                       | Sim        |
+    | 08  | Os softgoals são refinados até o nível de operacionalização (são testáveis)? (SILVA, 2019)                                 | Incompleto |
+    | 09  | A propagação de impactos foi feita? (SILVA, 2019)                                                                          | Incompleto |
+    | 10  | Os cartões de especificação contém: Descrição, justificativa, origem do requisito, critérios de aceitação, dependências, prioridade, conflitos e história? (SILVA, 2019) | Sim        |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -151,20 +153,20 @@ A separação deste artefato em dois ficou bem confusa e dificulta a visualizaç
 
     **Tabela 6**: Preparação do checklist das histórias de usuário
 
-    | ID  | Descrição                                                                                  |
-    | --- | ------------------------------------------------------------------------------------------ |
-    | 01  | O artefato contém o histórico de versão padronizado?                                       |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                             |
-    | 03  | O artefato possui um texto de introdução?                                                  |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                    |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                           |
-    | 06  | O artefato contém a metodologia/método utilizado?                                          |
-    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"?  |
-    | 08  | Os títulos das histórias são auto-explicativos, ou seja, resumem a história adequadamente? |
-    | 09  | As histórias possuem critérios de aceitação?                                               |
-    | 10  | As histórias são testáveis?                                                                |
-    | 11  | As histórias estão consistentes com o backlog?                                             |
-    | 12  | Houve a participação do cliente/persona na validação das histórias?                        |
+    | ID  | Descrição                                                                                                  |
+    | --- | ---------------------------------------------------------------------------------------------------------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                       |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                             |
+    | 03  | O artefato possui um texto de introdução?                                                                  |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                    |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                           |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                          |
+    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"? (SERRANO, 2019)  |
+    | 08  | Os títulos das histórias são auto-explicativos, ou seja, resumem a história adequadamente? (SERRANO, 2019) |
+    | 09  | As histórias possuem critérios de aceitação? (SERRANO, 2019)                                               |
+    | 10  | As histórias são testáveis?                                                                                |
+    | 11  | As histórias estão consistentes com o backlog?                                                             |
+    | 12  | Houve a participação do cliente/persona na validação das histórias? (SERRANO, 2019)                        |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -176,20 +178,20 @@ A separação deste artefato em dois ficou bem confusa e dificulta a visualizaç
 
     **Tabela 7**: Inspeção das histórias de usuário
 
-    | ID  | Descrição                                                                                 | Avaliação  |
-    | --- | ----------------------------------------------------------------------------------------- | ---------- |
-    | 01  | O artefato contém o histórico de versão padronizado?                                      | Sim        |
-    | 02  | Os autores e revisores estão identificados para cada artefato?                            | Sim        |
-    | 03  | O artefato possui um texto de introdução?                                                 | Sim        |
-    | 04  | As tabelas/imagens possuem fonte/autor?                                                   | Sim        |
-    | 05  | O artefato possui referências/bibliografia corretamente citadas?                          | Sim        |
-    | 06  | O artefato contém a metodologia/método utilizado?                                         | Sim        |
-    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"? | Sim        |
-    | 08  | Os títulos das histórias são autoexplicativos, ou seja, resumem a história adequadamente? | Sim        |
-    | 09  | As histórias possuem critérios de aceitação?                                              | Sim        |
-    | 10  | As histórias são testáveis?                                                               | Incompleto |
-    | 11  | As histórias estão consistentes com o backlog?                                            | Sim        |
-    | 12  | Houve a participação do cliente/persona na validação das histórias?                       | Sim        |
+    | ID  | Descrição                                                                                                 | Avaliação  |
+    | --- | --------------------------------------------------------------------------------------------------------- | ---------- |
+    | 01  | O artefato contém o histórico de versão padronizado?                                                      | Sim        |
+    | 02  | Os autores e revisores estão identificados para cada artefato?                                            | Sim        |
+    | 03  | O artefato possui um texto de introdução?                                                                 | Sim        |
+    | 04  | As tabelas/imagens possuem fonte/autor?                                                                   | Sim        |
+    | 05  | O artefato possui referências/bibliografia corretamente citadas?                                          | Sim        |
+    | 06  | O artefato contém a metodologia/método utilizado?                                                         | Sim        |
+    | 07  | As histórias de usuário estão no formato: "Eu como [quem] desejo [o que] para [por que]"? (SERRANO, 2019) | Sim        |
+    | 08  | Os títulos das histórias são autoexplicativos, ou seja, resumem a história adequadamente? (SERRANO, 2019) | Sim        |
+    | 09  | As histórias possuem critérios de aceitação? (SERRANO, 2019)                                              | Sim        |
+    | 10  | As histórias são testáveis?                                                                               | Incompleto |
+    | 11  | As histórias estão consistentes com o backlog?                                                            | Sim        |
+    | 12  | Houve a participação do cliente/persona na validação das histórias? (SERRANO, 2019)                       | Sim        |
 
     **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -201,7 +203,13 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 ## Referência
 
 1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 3 jun. 2024.
-
+2. SERRANO, Milene. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Disponível em: https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 09 de junho de 2024.
+3. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024.
+4. Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
+5. Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (último acesso:
+2017).
+6. Chemuturi, Murali. Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+7. SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 09 de junho de 2024.
 
 ## Histórico de versão
 
@@ -211,3 +219,5 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 | 1.1    | 03/06/2024 | Adiciona verificação do Backlog               | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.4 | 09/06/2024 | Adiciona referências nas tabelas | [Guilherme Westphall](https://github.com/west7)  | [Kauan Eiras](https://github.com/kauaneiras) |                                             
+
