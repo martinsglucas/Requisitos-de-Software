@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento aborda a verificação da [Entrega 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/backlog/), intitulada "modelagem ágil". Esta entrega inclui os artefatos de [Backlog](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/backlog/), [NFR Framework](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/nfr2/), [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/historia_de_usuario/), que está trabalhando com o aplicativo: "Meu INSS".
+Este documento aborda a verificação da [Entrega 4](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/backlog/), intitulada "modelagem ágil". Esta entrega inclui os artefatos de [Backlog](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/backlog/), [NFR Framework](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/nfr2/) e [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/historia_de_usuario/), elaborados pelo [grupo 7](https://requisitos-de-software.github.io/2024.1-Meu-INSS/), que está trabalhando com o aplicativo: "Meu INSS".
 
 ## Metodologia
 
@@ -36,6 +36,7 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 ## Checklists
 
 Nesta seção, serão apresentadas a preparação dos checklists e as respectivas inspeções, onde os critérios poderão ser avaliados como "Sim", "Não" ou "Incompleto", dos artefatos listados anteriormente nas Tabelas 2, 3, 4, 5, 6, e 7.
+
 
 ### Backlog
 
@@ -219,3 +220,4 @@ No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.
 | 1.2    | 04/06/2024 | Adiciona verificação do NFR Framework         | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3    | 04/06/2024 | Adiciona verificação das Histórias de usuário | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.4 | 09/06/2024 | Adiciona referências nas tabelas | [Guilherme Westphall](https://github.com/west7)  | [Kauan Eiras](https://github.com/kauaneiras) |                                             
+
