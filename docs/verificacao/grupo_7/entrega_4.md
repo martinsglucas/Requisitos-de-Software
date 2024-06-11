@@ -25,7 +25,6 @@ Nos dias que foi realizada a inspeção, 3 e 4 de junho de 2024 , os artefatos a
 | **Backlog**              | 1.3    | 28/05/2024 | Arrumando Hiperlinks e ajustes na tabela de backlog.                       | Johnny Lopes  | -               | -             |
 | **NFR Framework 1 e 2**  | 1.9    | 02/06/2024 | Adição dos SIGs de operacionalização, afirmação e seleção de alternativas. | Vitor Feijó   | 02/06/2024      | Bianca Castro |
 | **Histórias de Usuário** | 2.2    | 30/05/2024 | Adição da validação e priorização do cliente e ajustes.                    | Bianca Castro | 30/05/2024      | Amanda Campos |
-| **Rich Picture**         | 1.1    | 27/03/2024 | Criação do documento | Amanda Campos, Bianca Castro e Paulo Borba | 30/03/2024 | Johnny Lopes |
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
@@ -200,7 +199,7 @@ A separação deste artefato em dois ficou bem confusa e dificulta a visualizaç
 #### Problemas encontrados
 No geral, o artefato de [Histórias de usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/Agil/historia_de_usuario/) está bem satisfatório. A única inconsistência encontrada foi a falta de objetividade em algumas histórias de usuário, fazendo com que elas não pudessem ser testadas adequadamente. Cito como exemplo as histórias: ^^US28, US36 e US39^^. Nessas e em outras histórias, acredito que os critérios de aceitação poderiam estar melhor descritos, de maneira que fossem testáveis. 
 
-## Referência
+## Referências
 
 1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 3 de Junho 2024.
 2. SERRANO, Milene. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Disponível em: https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 09 de Junho de 2024.

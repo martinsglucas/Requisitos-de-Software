@@ -342,7 +342,7 @@ Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos 
 | RNF  | O aplicativo deve gerir bem a memória                                            | BRS02                      | Sim          | In, Alta, M  |
 | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                | BRS05, BRS20               | Sim          | In, Média, M |
 | RNF  | O aplicativo deve ser seguro                                                     | OBS36, OBS37, BRS06, BRS16 | Sim          | In, Alta, M  |
-| RNF  | O aplicativo deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim          | In, Alta, M  | --> |
+| RNF  | O aplicativo deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim          | In, Alta, M  | -->
 
 
 <!-- TABELA CHEIA -->

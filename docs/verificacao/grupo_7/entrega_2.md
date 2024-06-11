@@ -575,13 +575,13 @@ As tabelas 18 e 19 apresentam, respectivamente, a preparação do checklist e a 
 
     **Tabela 18**: Preparação do checklist do $100
 
-    | ID | Descrição                                                                                                    |
+     | ID | Descrição                                                                                                   |
     |----|--------------------------------------------------------------------------------------------------------------|
     | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                     |
-    | 02 | Houve a participação de diferentes participantes no processo de priorização? (WIEGERS, 2013)                 |
+    | 02 | Diferentes partes interessadas participaram da priorização? (WIEGERS, 2013)                                  |
     | 03 | Foi realizada a soma do número total de dinheiro atribuído individualmente a cada requisito? (WIEGERS, 2013) |
     | 04 | Os requisitos foram priorizados de acordo com o valor total de dinheiro atribuído? (WIEGERS, 2013)           |
-    | 05 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                          |
+    | 05 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                           |
 
     **Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
 
@@ -593,13 +593,13 @@ As tabelas 18 e 19 apresentam, respectivamente, a preparação do checklist e a 
 
     **Tabela 19**: Inspeção do $100
 
-    | ID | Descrição                                                                                                    | Avaliação |
-    |----|--------------------------------------------------------------------------------------------------------------|-----------|
-    | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                     | Sim       |
-    | 02 | Houve a participação de diferentes participantes no processo de priorização? (WIEGERS, 2013)                 | Sim       |
-    | 03 | Foi realizada a soma do número total de dinheiro atribuído individualmente a cada requisito? (WIEGERS, 2013) | Sim       |
-    | 04 | Os requisitos foram priorizados de acordo com o valor total de dinheiro atribuído? (WIEGERS, 2013)           | Sim       |
-    | 05 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                           | Sim       |
+    | ID | Descrição                                                                                                    | Avaliação  |
+    |----|--------------------------------------------------------------------------------------------------------------|------------|
+    | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                     | Sim        |
+    | 02 | Diferentes partes interessadas participaram da priorização? (WIEGERS, 2013)                                  | Não        |
+    | 03 | Foi realizada a soma do número total de dinheiro atribuído individualmente a cada requisito? (WIEGERS, 2013) | Não        |
+    | 04 | Os requisitos foram priorizados de acordo com o valor total de dinheiro atribuído? (WIEGERS, 2013)           | Incompleto |
+    | 05 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                           | Não        |
 
     **Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
 
@@ -607,6 +607,8 @@ As tabelas 18 e 19 apresentam, respectivamente, a preparação do checklist e a 
 
 
 #### Problemas encontrados
+
+Os principais problemas encontrados no artefato [$100](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/100%24/) foram a falta de participação de diferentes partes interessadas na priorização, a falta de soma do número total de dinheiro atribuído individualmente a cada requisito, o que dificultou um pouco a entender o que de fato foi priorizado, e a ausência de rastrabilidade dos requisitos nesse artefato.
 
 ### First Thing First
 
@@ -622,15 +624,15 @@ As tabelas 20 e 21 apresentam, respectivamente, a preparação do checklist e a 
     |----|----------------------------------------------------------------------------------------------------------------------------------|
     | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                                         |
     | 02 | Houve a participação de representantes de desenvolvimento? (WIEGERS, 1999)                                                       |
-    | 03 | Foram estabelecidos riscos técnicos e demais dificuldades associadas a um requisito? (WIEGERS, 1999)                             |
-    | 04 | Foi feita uma lista de todos os requisitos? (WIEGERS, 1999)                                                                      |
-    | 05 | Foi estimado o benefício relativo que cada requisito fornece ao cliente e utilizado uma escala de 1 a 9? (WIEGERS, 1999)         |
-    | 06 | Foi estimado a penalidade que o negócio sofrerá se o requisito não for incluído e utilizado uma escala de 1 a 9? (WIEGERS, 1999) |
-    | 07 | A coluna ValorTotal é a soma do [Benefício Relativo * Peso Relativo] e da [Penalidade Relativa * Peso Relativo]? (WIEGERS, 1999) |
-    | 08 | Foi estimado o custo relativo de implementação de cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                |
-    | 09 | Foi estimado o grau relativo de risco para cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                       |
-    | 10 | A prioridade foi calculado como valor / (custo * peso custo + risco * peso risco)? (WIEGERS, 1999)                               |
-    | 11 | A lista foi ordenada em ordem decrescente de prioridade? (WIEGERS, 1999)                                                         |
+    | 03 | Foi feita uma lista de todos os requisitos? (WIEGERS, 1999)                                                                      |
+    | 04 | Foi estimado o benefício relativo que cada requisito fornece ao cliente e utilizado uma escala de 1 a 9? (WIEGERS, 1999)         |
+    | 05 | Foi estimado a penalidade que o negócio sofrerá se o requisito não for incluído e utilizado uma escala de 1 a 9? (WIEGERS, 1999) |
+    | 06 | A coluna ValorTotal é a soma do [Benefício Relativo * Peso Relativo] e da [Penalidade Relativa * Peso Relativo]? (WIEGERS, 1999) |
+    | 07 | Foi estimado o custo relativo de implementação de cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                |
+    | 08 | Foi estimado o grau relativo de risco para cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                       |
+    | 09 | A prioridade foi calculado como valor % / (custo % * peso custo + risco % * peso risco)? (WIEGERS, 1999)                         |
+    | 10 | A lista foi ordenada em ordem decrescente de prioridade? (WIEGERS, 1999)                                                         |
+    | 11 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                                               |
     
 
     **Autor**: [Lucas Martins](https://github.com/martinsglucas)
@@ -643,28 +645,28 @@ As tabelas 20 e 21 apresentam, respectivamente, a preparação do checklist e a 
 
     **Tabela 21**: Inspeção do First Things First
 
-    | ID | Descrição                                                                                                                        | Avaliação |
-    |----|----------------------------------------------------------------------------------------------------------------------------------|-----------|
-    | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                                         | Sim       |
-    | 02 | Houve a participação de representantes de desenvolvimento? (WIEGERS, 1999)                                                       | Sim       |
-    | 03 | Foram estabelecidos riscos técnicos e demais dificuldades associadas a um requisito? (WIEGERS, 1999)                             | Sim       |
-    | 04 | Foi feita uma lista de todos os requisitos? (WIEGERS, 1999)                                                                      | Sim       |
-    | 05 | Foi estimado o benefício relativo que cada requisito fornece ao cliente e utilizado uma escala de 1 a 9? (WIEGERS, 1999)         | Sim       |
-    | 06 | Foi estimado a penalidade que o negócio sofrerá se o requisito não for incluído e utilizado uma escala de 1 a 9? (WIEGERS, 1999) | Sim       |
-    | 07 | A coluna ValorTotal é a soma do [Benefício Relativo * Peso Relativo] e da [Penalidade Relativa * Peso Relativo]? (WIEGERS, 1999) | Sim       |
-    | 08 | Foi estimado o custo relativo de implementação de cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                | Sim       |
-    | 09 | Foi estimado o grau relativo de risco para cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                       | Sim       |
-    | 10 | A prioridade foi calculado como valor / (custo * peso custo + risco * peso risco)? (WIEGERS, 1999)                               | Sim       |
-    | 11 | A lista foi ordenada em ordem decrescente de prioridade? (WIEGERS, 1999)                                                         | Não       |
+    | ID | Descrição                                                                                                                        | Avaliação  |
+    |----|----------------------------------------------------------------------------------------------------------------------------------|------------|
+    | 01 | Houve a participação do cliente e/ou persona no processo de priorização? (WIEGERS, 2013)                                         | Sim        |
+    | 02 | Houve a participação de representantes de desenvolvimento? (WIEGERS, 1999)                                                       | Sim        |
+    | 03 | Foi feita uma lista de todos os requisitos? (WIEGERS, 1999)                                                                      | Sim        |
+    | 04 | Foi estimado o benefício relativo que cada requisito fornece ao cliente e utilizado uma escala de 1 a 9? (WIEGERS, 1999)         | Sim        |
+    | 05 | Foi estimado a penalidade que o negócio sofrerá se o requisito não for incluído e utilizado uma escala de 1 a 9? (WIEGERS, 1999) | Sim        |
+    | 06 | A coluna ValorTotal é a soma do [Benefício Relativo * Peso Relativo] e da [Penalidade Relativa * Peso Relativo]? (WIEGERS, 1999) | Sim        |
+    | 07 | Foi estimado o custo relativo de implementação de cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                | Sim        |
+    | 08 | Foi estimado o grau relativo de risco para cada requisito e utilizado uma escala de 1 a 9? (WIEGERS, 1999)                       | Sim        |
+    | 09 | A prioridade foi calculado como valor % / (custo % * peso custo + risco % * peso risco)? (WIEGERS, 1999)                         | Sim        |
+    | 10 | A lista foi ordenada em ordem decrescente de prioridade? (WIEGERS, 1999)                                                         | Não        |
+    | 11 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                                               | Não        |
 
 
     **Autor**: [Lucas Martins](https://github.com/martinsglucas)
 
     </center>
 
-
-
 #### Problemas encontrados
+
+Os principais problemas encontrados no artefato [First Things First](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/first_things/) foram a falta de ordenação da lista em ordem decrescente de prioridade e a ausência de rastrabilidade dos requisitos no artefato.
 
 ### Three-level scale
 
@@ -704,7 +706,7 @@ As tabelas 22 e 23 apresentam, respectivamente, a preparação do checklist e a 
     | 04 | A prioridade média significa requisitos importantes mas não urgentes? (WIEGERS, 2013)                                   | Sim       |
     | 05 | A prioridade baixa significa requisitos não importantes e não urgentes? (WIEGERS, 2013)                                 | Sim       |
     | 06 | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? (WIEGERS, 2013) | Sim       |
-    | 07 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                                      | Sim       |
+    | 07 | Os requisitos possuem rastrabilidade? (POHL, 2016)                                                                      | Não       |
 
 
     **Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
@@ -714,7 +716,9 @@ As tabelas 22 e 23 apresentam, respectivamente, a preparação do checklist e a 
 
 #### Problemas encontrados
 
-## Referência
+O único problema encontrado no artefato [Three Level Scale](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Prioriza%C3%A7%C3%A3o/threelevelscale/) foi a ausência de rastrabilidade dos requisitos no artefato.
+
+## Referências
 
 1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 3 jun. 2024.
 
