@@ -28,16 +28,16 @@ A técnica "In or Out", foi aplicada no dia 19 de abril de 2024 das 23:28 às 23
 |------|----------------------------------------------------------------------------------|----------------------------|-----------|
 | RF   | O aplicativo deve possuir uma barra de pesquisa                                  | OBS01, BRS23               | In        |
 | RF   | O aplicativo deve ter opção de navegação anônima                                 | OBS02                      | Out       |
-| RF   | Deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | In        |
-| RF   | Deve possuir opção de favoritar sites                                            | OBS04                      | Out       |
+| RF   | O aplicativo deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | In        |
+| RF   | O aplicativo deve possuir opção de favoritar sites                                            | OBS04                      | Out       |
 | RF   | O aplicativo deve possuir histórico de navegação                                 | OBS05, BRS24               | In        |
-| RF   | Deve possuir histórico de downloads                                              | OBS06                      | Out       |
+| RF   | O aplicativo deve possuir histórico de downloads                                              | OBS06                      | Out       |
 | RF   | O aplicativo deve ser possível instalar extensões de uso                         | OBS07, BRS09               | In        |
 | RF   | O aplicativo deve possuir opção de sincronizar e salvar dados inseridos          | OBS08, BRS03, QST01, BRS14 | In        |
-| RF   | Deve ser possível visualizar em formato desktop                                  | OBS09                      | Out       |
-| RF   | Deve ser possível criar atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | Out       |
-| RF   | O navegador deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | In        |
-| RF   | Deve ser possível personalizar a tela inicial do navegador                       | OBS13, BRS22               | Out       |
+| RF   | O aplicativo deve permitir visualização dos sites em formato desktop                                  | OBS09                      | Out       |
+| RF   | O aplicativo deve permitir a criação de atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | Out       |
+| RF   | O aplicativo deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | In        |
+| RF   | O aplicativo deve permitir a personalização da tela inicial do navegador                       | OBS13, BRS22               | Out       |
 | RF   | O aplicativo deve suportar a mudança de idioma do sistema                        | OBS14                      | In        |
 | RF   | O aplicativo deve permitir a alternação entre tema claro e escuro                | OBS15, OBS16, ENT06, QST04 | In        |
 | RF   | O aplicativo deve possuir suporte para atalhos de gestos                         | OBS18                      | In        |
@@ -52,22 +52,22 @@ A técnica "In or Out", foi aplicada no dia 19 de abril de 2024 das 23:28 às 23
 | RF   | O aplicativo deve incluir opção de pesquisa por voz                              | OBS29                      | In        |
 | RF   | O aplicativo deve possuir opção de leitura da página em voz alta                 | OBS30, BRS11               | In        |
 | RF   | O aplicativo deve possuir opção de controle parental de acesso das páginas       | OBS32, BRS18               | In        |
-| RF   | Deve oferecer opção de impressão                                                 | OBS33                      | Out       |
+| RF   | O aplicativo deve oferecer opção de impressão de páginas                                                 | OBS33                      | Out       |
 | RF   | O aplicativo deve conter opção de traduzir o idioma das páginas                  | OBS34, BRS10               | In        |
 | RF   | O aplicativo deve permitir sincronização de dados pessoais com a conta do Google | ENT01, BRS07, QST01        | In        |
-| RF   | Rede privada virtual (VPN)                                                       | ENT03                      | Out       |
-| RNF  | Ser leve                                                                         | ENT04, QST03               | In        |
+| RF   | O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)                                                       | ENT03                      | Out       |
+| RNF  | O aplicativo deve ser leve                                                                         | ENT04, QST03               | In        |
 | RNF  | Acesso rápido à sites acessados recentemente                                     | ENT05, BRS24               | Out       |
-| RNF  | Temas mais arredondados                                                          | ENT06                      | Out       |
-| RNF  | Modo para daltônicos                                                             | ENT07, BRS17, QST04        | In        |
-| RF   | Capacidade de usar aplicações em outros navegadores                              | ENT08                      | Out       |
+| RNF  | O aplicativo deve apresentar um design arredondado                                                          | ENT06                      | Out       |
+| RNF  | O aplicativo deve possuir modo alternativo de cores para daltônicos                                                             | ENT07, BRS17, QST04        | In        |
+| RF   | O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores                              | ENT08                      | Out       |
 | RNF  | O aplicativo deve apresentar uma interface minimalista                           | ENT09, QST06               | In        |
-| RNF  | O navegador deve ser rápido                                                      | BRS01                      | Out       |
+| RNF  | O aplicativo deve ser rápido                                                      | BRS01                      | Out       |
 | RNF  | O aplicativo deve gerir bem a memória                                            | BRS02                      | In        |
 | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                | BRS05, BRS20               | In        |
 | RNF  | O aplicativo deve ser seguro                                                     | OBS36, OBS37, BRS16, BRS06 | In        |
 | RNF  | O aplicativo deve ser de fácil uso                                               | BRS12, QST07, BRS21        | In        |
-| RF   | Deve conter uma ferramenta de correção ortográfica                               | BRS19                      | Out       |
+| RF   | O aplicativo deve conter uma ferramenta de correção ortográfica                               | BRS19                      | Out       |
 
 **Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
 
@@ -124,16 +124,16 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 |------|----------------------------------------------------------------------------------|----------------------------|------------|
 | RF   | O aplicativo deve possuir uma barra de pesquisa                                  | OBS01, BRS23               | Alta       |
 | RF   | O aplicativo deve ter opção de navegação anônima                                 | OBS02                      | Média      |
-| RF   | Deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | Baixa      |
-| RF   | Deve possuir opção de favoritar sites                                            | OBS04                      | Alta       |
+| RF   | O aplicativo deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | Baixa      |
+| RF   | O aplicativo deve possuir opção de favoritar sites                                            | OBS04                      | Alta       |
 | RF   | O aplicativo deve possuir histórico de navegação                                 | OBS05, BRS24               | Média      |
-| RF   | Deve possuir histórico de downloads                                              | OBS06                      | Baixa      |
+| RF   | O aplicativo deve possuir histórico de downloads                                              | OBS06                      | Baixa      |
 | RF   | O aplicativo deve ser possível instalar extensões de uso                         | OBS07, BRS09               | Alta       |
 | RF   | O aplicativo deve possuir opção de sincronizar e salvar dados inseridos          | OBS08, BRS03, QST01, BRS14 | Alta       |
-| RF   | Deve ser possível visualizar em formato desktop                                  | OBS09                      | Alta       |
-| RF   | Deve ser possível criar atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | Alta       |
-| RF   | O navegador deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | Média      |
-| RF   | Deve ser possível personalizar a tela inicial do navegador                       | OBS13, BRS22               | Alta       |
+| RF   | O aplicativo deve permitir visualização dos sites em formato desktop                                  | OBS09                      | Alta       |
+| RF   | O aplicativo deve permitir a criação de atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | Alta       |
+| RF   | O aplicativo deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | Média      |
+| RF   | O aplicativo deve permitir a personalização da tela inicial do navegador                       | OBS13, BRS22               | Alta       |
 | RF   | O aplicativo deve suportar a mudança de idioma do sistema                        | OBS14                      | Média      |
 | RF   | O aplicativo deve permitir a alternação entre tema claro e escuro                | OBS15, OBS16, ENT06, QST04 | Alta       |
 | RF   | O aplicativo deve possuir suporte para atalhos de gestos                         | OBS18                      | Média      |
@@ -148,22 +148,22 @@ Fonte:  [Lucas Martins](https://github.com/martinglucas), 2024
 | RF   | O aplicativo deve incluir opção de pesquisa por voz                              | OBS29                      | Alta       |
 | RF   | O aplicativo deve possuir opção de leitura da página em voz alta                 | OBS30, BRS11               | Alta       |
 | RF   | O aplicativo deve possuir opção de controle parental de acesso das páginas       | OBS32, BRS18               | Alta       |
-| RF   | Deve oferecer opção de impressão                                                 | OBS33                      | Média      |
+| RF   | O aplicativo deve oferecer opção de impressão de páginas                                                 | OBS33                      | Média      |
 | RF   | O aplicativo deve conter opção de traduzir o idioma das páginas                  | OBS34, BRS10               | Alta       |
 | RF   | O aplicativo deve permitir sincronização de dados pessoais com a conta do Google | ENT01, BRS07, QST01        | Alta       |
-| RF   | Rede privada virtual (VPN)                                                       | ENT03                      | Média      |
-| RNF  | Ser leve                                                                         | ENT04, QST03               | Baixa      |
+| RF   | O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)                                                       | ENT03                      | Média      |
+| RNF  | O aplicativo deve ser leve                                                                         | ENT04, QST03               | Baixa      |
 | RNF  | Acesso rápido à sites acessados recentemente                                     | ENT05, BRS24               | Baixa      |
-| RNF  | Temas mais arredondados                                                          | ENT06                      | Baixa      |
-| RNF  | Modo para daltônicos                                                             | ENT07, BRS17, QST04        | Baixa      |
-| RF   | Capacidade de usar aplicações em outros navegadores                              | ENT08                      | Baixa      |
+| RNF  | O aplicativo deve apresentar um design arredondado                                                          | ENT06                      | Baixa      |
+| RNF  | O aplicativo deve possuir modo alternativo de cores para daltônicos                                                             | ENT07, BRS17, QST04        | Baixa      |
+| RF   | O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores                              | ENT08                      | Baixa      |
 | RNF  | O aplicativo deve apresentar uma interface minimalista                           | ENT09, QST06               | Média      |
-| RNF  | O navegador deve ser rápido                                                      | BRS01                      | Alta       |
+| RNF  | O aplicativo deve ser rápido                                                      | BRS01                      | Alta       |
 | RNF  | O aplicativo deve gerir bem a memória                                            | BRS02                      | Alta       |
 | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                | BRS05, BRS20               | Média      |
 | RNF  | O aplicativo deve ser seguro                                                     | OBS36, OBS37, BRS16, BRS06 | Alta       |
 | RNF  | O aplicativo deve ser de fácil uso                                               | BRS12, QST07, BRS21        | Alta       |
-| RF   | Deve conter uma ferramenta de correção ortográfica                               | BRS19                      | Média      |
+| RF   | O aplicativo deve conter uma ferramenta de correção ortográfica                               | BRS19                      | Média      |
 
 Autor: [Lucas Martins](https://github.com/martinglucas), 2024
 
@@ -218,16 +218,16 @@ Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 |------|----------------------------------------------------------------------------------|----------------------------|---------|
 | RF   | O aplicativo deve possuir uma barra de pesquisa                                  | OBS01, BRS23               | M       |
 | RF   | O aplicativo deve ter opção de navegação anônima                                 | OBS02                      | S       |
-| RF   | Deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | C       |
-| RF   | Deve possuir opção de favoritar sites                                            | OBS04                      | S       |
+| RF   | O aplicativo deve possuir opção de visualizar e agrupar guias                                 | OBS03, BRS13               | C       |
+| RF   | O aplicativo deve possuir opção de favoritar sites                                            | OBS04                      | S       |
 | RF   | O aplicativo deve possuir histórico de navegação                                 | OBS05, BRS24               | M       |
-| RF   | Deve possuir histórico de downloads                                              | OBS06                      | M       |
+| RF   | O aplicativo deve possuir histórico de downloads                                              | OBS06                      | M       |
 | RF   | O aplicativo deve ser possível instalar extensões de uso                         | OBS07, BRS09               | S       |
 | RF   | O aplicativo deve possuir opção de sincronizar e salvar dados inseridos          | OBS08, BRS03, QST01, BRS14 | M       |
-| RF   | Deve ser possível visualizar em formato desktop                                  | OBS09                      | M       |
-| RF   | Deve ser possível criar atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | S       |
-| RF   | O navegador deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | C       |
-| RF   | Deve ser possível personalizar a tela inicial do navegador                       | OBS13, BRS22               | W       |
+| RF   | O aplicativo deve permitir visualização dos sites em formato desktop                                  | OBS09                      | M       |
+| RF   | O aplicativo deve permitir a criação de atalhos na tela inicial do dispositivo                   | OBS10, ENT10               | S       |
+| RF   | O aplicativo deve oferecer sugestões personalizadas de pesquisa                   | OBS12, BRS15               | C       |
+| RF   | O aplicativo deve permitir a personalização da tela inicial do navegador                       | OBS13, BRS22               | W       |
 | RF   | O aplicativo deve suportar a mudança de idioma do sistema                        | OBS14                      | M       |
 | RF   | O aplicativo deve permitir a alternação entre tema claro e escuro                | OBS15, OBS16, ENT06, QST04 | C       |
 | RF   | O aplicativo deve possuir suporte para atalhos de gestos                         | OBS18                      | M       |
@@ -242,22 +242,22 @@ Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 | RF   | O aplicativo deve incluir opção de pesquisa por voz                              | OBS29                      | M       |
 | RF   | O aplicativo deve possuir opção de leitura da página em voz alta                 | OBS30, BRS11               | M       |
 | RF   | O aplicativo deve possuir opção de controle parental de acesso das páginas       | OBS32, BRS18               | M       |
-| RF   | Deve oferecer opção de impressão                                                 | OBS33                      | S       |
+| RF   | O aplicativo deve oferecer opção de impressão de páginas                                                 | OBS33                      | S       |
 | RF   | O aplicativo deve conter opção de traduzir o idioma das páginas                  | OBS34, BRS10               | M       |
 | RF   | O aplicativo deve permitir sincronização de dados pessoais com a conta do Google | ENT01, BRS07, QST01        | S       |
-| RF   | Rede privada virtual (VPN)                                                       | ENT03                      | S       |
-| RNF  | Ser leve                                                                         | ENT04, QST03               | S       |
+| RF   | O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)                                                       | ENT03                      | S       |
+| RNF  | O aplicativo deve ser leve                                                                         | ENT04, QST03               | S       |
 | RNF  | Acesso rápido à sites acessados recentemente                                     | ENT05, BRS24               | S       |
-| RNF  | Temas mais arredondados                                                          | ENT06                      | W       |
-| RNF  | Modo para daltônicos                                                             | ENT07, BRS17, QST04        | M       |
-| RF   | Capacidade de usar aplicações em outros navegadores                              | ENT08                      | M       |
+| RNF  | O aplicativo deve apresentar um design arredondado                                                          | ENT06                      | W       |
+| RNF  | O aplicativo deve possuir modo alternativo de cores para daltônicos                                                             | ENT07, BRS17, QST04        | M       |
+| RF   | O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores                              | ENT08                      | M       |
 | RNF  | O aplicativo deve apresentar uma interface minimalista                           | ENT09, QST06               | S       |
-| RNF  | O navegador deve ser rápido                                                      | BRS01                      | M       |
+| RNF  | O aplicativo deve ser rápido                                                      | BRS01                      | M       |
 | RNF  | O aplicativo deve gerir bem a memória                                            | BRS02                      | M       |
 | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                | BRS05, BRS20               | M       |
 | RNF  | O aplicativo deve ser seguro                                                     | OBS36, OBS37, BRS16, BRS06 | M       |
 | RNF  | O aplicativo deve ser de fácil uso                                               | BRS12, QST07, BRS21        | M       |
-| RF   | Deve conter uma ferramenta de correção ortográfica                               | BRS19                      | C       |
+| RF   | O aplicativo deve conter uma ferramenta de correção ortográfica                               | BRS19                      | C       |
 
 Fonte: [Leonardo Sobrinho](https://github.com/Leonardo0o0), 2024
 
@@ -311,8 +311,6 @@ A tabela 8 mostra os requisitos que tiveram maior prioridade nas técnicas [In o
 | RNF  | O aplicativo deve ser de fácil uso                                               | [BRS12](../tecnicas/brainstorming.md#tabela-2-requisitos-elicitados), [QST07](../tecnicas/questionario.md#tabela-2-requisitos-elicitados-na-entrevista), [BRS21](../tecnicas/brainstorming.md#tabela-2-requisitos-elicitados)                                                                    | Sim          | In, Alta, M  |
  -->
 
-Claro, aqui está a tabela completa com a nova coluna de numeração adicionada à esquerda:
-
 | Nº  | Tipo | Descrição                                                                        | Rastreabilidade                                                                                                                                                                                                                                                                                  | Implementado | Priorização  |
 |-----|------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
 | 1   | RF   | O aplicativo deve possuir uma barra de pesquisa                                  | [OBS01](../tecnicas/observacao.md#tabela-2-requisitos-funcionais), [BRS23](../tecnicas/brainstorming.md#tabela-2-requisitos-elicitados)                                                                                                                                                          | Sim          | In, Alta, M  |
@@ -355,7 +353,7 @@ Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos 
 | RF   | O aplicativo deve possuir histórico de navegação                                 | OBS05, BRS24               | Sim          | In, Média, M |
 | RF   | O aplicativo deve ser possível instalar extensões de uso                         | OBS07, BRS09               | Sim          | In, Alta, S  |
 | RF   | O aplicativo deve possuir opção de sincronizar e salvar dados inseridos          | OBS08, BRS03, BRS14        | Sim          | In, Alta, M  |
-| RF   | Deve ser possível visualizar em formato desktop                                  | OBS09                      | Sim          | Out, Alta, M |
+| RF   | O aplicativo deve permitir visualização dos sites em formato desktop                                  | OBS09                      | Sim          | Out, Alta, M |
 | RF   | O aplicativo deve suportar a mudança de idioma do sistema                        | OBS14                      | Sim          | In, Média, M |
 | RF   | O aplicativo deve permitir a alternação entre tema claro e escuro                | OBS15, OBS16               | Sim          | In, Alta, C  |
 | RF   | O aplicativo deve possuir suporte para atalhos de gestos                         | OBS18                      | Sim          | In, Média, M |
@@ -372,8 +370,8 @@ Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos 
 | RF   | O aplicativo deve possuir opção de controle parental de acesso das páginas       | OBS32, BRS18               | Não          | In, Alta, M  |
 | RF   | O aplicativo deve conter opção de traduzir o idioma das páginas                  | OBS34, BRS10               | Não          | In, Alta, M  |
 | RF   | O aplicativo deve permitir sincronização de dados pessoais com a conta do Google | ENT01, BRS07, QST01        | Não          | In, Alta, S  |
-| RNF  | Modo para daltônicos                                                             | ENT07, BRS17, QST04        | Não          | In, Baixa, M |
-| RNF  | O navegador deve ser rápido                                                      | BRS01                      | Sim          | Out, Alta, M |
+| RNF  | O aplicativo deve possuir modo alternativo de cores para daltônicos                                                             | ENT07, BRS17, QST04        | Não          | In, Baixa, M |
+| RNF  | O aplicativo deve ser rápido                                                      | BRS01                      | Sim          | Out, Alta, M |
 | RNF  | O aplicativo deve gerir bem a memória                                            | BRS02                      | Sim          | In, Alta, M  |
 | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                | BRS05, BRS20               | Sim          | In, Média, M |
 | RNF  | O aplicativo deve ser seguro                                                     | OBS36, OBS37, BRS06, BRS16 | Sim          | In, Alta, M  |
@@ -385,16 +383,16 @@ Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos 
 <!-- | ---- | ---------------------------------------------------------------------------- | -------------------------- | ------------- | -------------- | -->
 <!-- | RF   | O aplicativo deve possuir uma barra de pesquisa                              | OBS01, BRS23               | Sim           | In, Alta, M    | -->
 <!-- | RF   | O aplicativo deve ter opção de navegação anônima                             | OBS02                      | Sim           | Out, Média, S  | -->
-<!-- | RF   | Deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | Não           | In, Baixa, C   | -->
-<!-- | RF   | Deve possuir opção de favoritar sites                                        | OBS04                      | Sim           | Out, Alta, S   | -->
+<!-- | RF   | O aplicativo deve possuir opção de visualizar e agrupar guias                             | OBS03, BRS13               | Não           | In, Baixa, C   | -->
+<!-- | RF   | O aplicativo deve possuir opção de favoritar sites                                        | OBS04                      | Sim           | Out, Alta, S   | -->
 <!-- | RF   | O aplicativo deve possuir histórico de navegação                                          | OBS05, BRS24               | Sim           | In, Média, M   | -->
-<!-- | RF   | Deve possuir histórico de downloads                                          | OBS06                      | Sim           | Out, Baixa, M  | -->
+<!-- | RF   | O aplicativo deve possuir histórico de downloads                                          | OBS06                      | Sim           | Out, Baixa, M  | -->
 <!-- | RF   | O aplicativo deve ser possível instalar extensões de uso                                  | OBS07, BRS09               | Sim           | In, Alta, S    | -->
 <!-- | RF   | O aplicativo deve possuir opção de sincronizar e salvar dados inseridos                             | OBS08, BRS03, QST01, BRS14 | Sim           | In, Alta, M    | -->
-<!-- | RF   | Deve ser possível visualizar em formato desktop                              | OBS09                      | Sim           | Out, Alta, M   | -->
-<!-- | RF   | Deve ser possível criar atalhos na tela inicial do dispositivo               | OBS10, ENT10               | Sim           | Out, Alta, S   | -->
-<!-- | RF   | O navegador deve oferecer sugestões personalizadas de pesquisa               | OBS12, BRS15               | Sim           | In, Média, C   | -->
-<!-- | RF   | Deve ser possível personalizar a tela inicial do navegador                   | OBS13, BRS22               | Sim           | Out, Alta, W   | -->
+<!-- | RF   | O aplicativo deve permitir visualização dos sites em formato desktop                              | OBS09                      | Sim           | Out, Alta, M   | -->
+<!-- | RF   | O aplicativo deve permitir a criação de atalhos na tela inicial do dispositivo               | OBS10, ENT10               | Sim           | Out, Alta, S   | -->
+<!-- | RF   | O aplicativo deve oferecer sugestões personalizadas de pesquisa               | OBS12, BRS15               | Sim           | In, Média, C   | -->
+<!-- | RF   | O aplicativo deve permitir a personalização da tela inicial do navegador                   | OBS13, BRS22               | Sim           | Out, Alta, W   | -->
 <!-- | RF   | O aplicativo deve suportar a mudança de idioma do sistema                                             | OBS14                      | Sim           | In, Média, M   | -->
 <!-- | RF   | O aplicativo deve permitir a alternação entre tema claro e escuro                            | OBS15, OBS16, QST04        | Sim           | In, Alta, C    | -->
 <!-- | RF   | O aplicativo deve possuir suporte para atalhos de gestos                                               | OBS18                      | Sim           | In, Média, M   | -->
@@ -409,22 +407,22 @@ Essa tabela é contém os requisitos que tiveram maior prioridade em pelo menos 
 <!-- | RF   | O aplicativo deve incluir opção de pesquisa por voz                   | OBS29                      | Sim           | In, Alta, M    | -->
 <!-- | RF   | O aplicativo deve possuir opção de leitura da página em voz alta | OBS30, BRS11               | Não           | In, Alta, M    | -->
 <!-- | RF   | O aplicativo deve possuir opção de controle parental de acesso das páginas                                      | OBS32, BRS18               | Não           | In, Alta, M    | -->
-<!-- | RF   | Deve oferecer opção de impressão                                             | OBS33                      | Sim           | Out, Média, S  | -->
+<!-- | RF   | O aplicativo deve oferecer opção de impressão de páginas                                             | OBS33                      | Sim           | Out, Média, S  | -->
 <!-- | RF   | O aplicativo deve conter opção de traduzir o idioma das páginas                                        | OBS34, BRS10               | Não           | In, Alta, M    | -->
 <!-- | RF   | O aplicativo deve permitir sincronização de dados pessoais com a conta do Google                                 | ENT01, BRS07, QST01        | Não           | In, Alta, S    | -->
-<!-- | RNF  | Ser leve                                                                     | ENT04, QST03               | Não           | In, Baixa, S   | -->
+<!-- | RNF  | O aplicativo deve ser leve                                                                     | ENT04, QST03               | Não           | In, Baixa, S   | -->
 <!-- | RNF  | Acesso rápido à sites acessados recentemente                                 | ENT05, BRS24               | Sim           | Out, Baixa, S  | -->
-<!-- | RNF  | Temas mais arredondados                                                      | ENT06                      | Não           | Out, Baixa, W  | -->
-<!-- | RNF  | Modo para daltônicos                                                         | ENT07, BRS17, QST04        | Não           | In, Baixa, M   | -->
-<!-- | RF   | Rede privada virtual (VPN)                                                   | ENT03                      | Não           | Out, Média, S  | -->
-<!-- | RF   | Capacidade de usar aplicações em outros navegadores                          | ENT08                      | Não           | Out, Baixa, M  | -->
+<!-- | RNF  | O aplicativo deve apresentar um design arredondado                                                      | ENT06                      | Não           | Out, Baixa, W  | -->
+<!-- | RNF  | O aplicativo deve possuir modo alternativo de cores para daltônicos                                                         | ENT07, BRS17, QST04        | Não           | In, Baixa, M   | -->
+<!-- | RF   | O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)                                                   | ENT03                      | Não           | Out, Média, S  | -->
+<!-- | RF   | O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores                          | ENT08                      | Não           | Out, Baixa, M  | -->
 <!-- | RNF  | O aplicativo deve apresentar uma interface minimalista                     | ENT09, QST06               | Não           | In, Média, S   | -->
-<!-- | RNF  | O navegador deve ser rápido                                                  | BRS01                      | Sim           | Out, Alta, M   | -->
+<!-- | RNF  | O aplicativo deve ser rápido                                                  | BRS01                      | Sim           | Out, Alta, M   | -->
 <!-- | RNF  | O aplicativo deve gerir bem a memória                                           | BRS02                      | Sim           | In, Alta, M    | -->
 <!-- | RF   | O aplicativo deve ser compatível com vários sistemas operacionais                         | BRS05, BRS20               | Sim           | In, Média, M   | -->
 <!-- | RNF  | O aplicativo deve ser seguro                                                  | OBS36, OBS37, BRS16, BRS06 | Sim           | In, Alta, M    | -->
 <!-- | RNF  | O aplicativo deve ser de fácil uso                                                | BRS12, QST07, BRS21        | Sim           | In, Alta, M    | -->
-<!-- | RF   | Deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Não           | Out, Média, C  | -->
+<!-- | RF   | O aplicativo deve conter uma ferramenta de correção ortográfica                           | BRS19                      | Não           | Out, Média, C  | -->
 
 
 Fonte: [Lucas Martins](https://github.com/martinglucas), 2024
