@@ -132,3 +132,4 @@
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
 | ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
 | 1.0    | 13/06/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) |         |
+| 1.1    | 15/06/2024 | Cria tabela 1     | [Guilherme Westphall](https://github.com/west7) |         |
