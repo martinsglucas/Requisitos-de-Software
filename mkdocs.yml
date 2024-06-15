@@ -63,6 +63,8 @@ nav:
       - Entrega 2: verificacao/grupo_7/entrega_2.md
       - Entrega 3: verificacao/grupo_7/entrega_3.md
       - Entrega 4: verificacao/grupo_7/entrega_4.md
+  - Pós-Rastreabilidade:
+    - Baseline: pos-rastreabilidade/baseline.md
 
 theme:
   name: material
