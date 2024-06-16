@@ -2,7 +2,16 @@
 
 ## Introdução
 
+Neste documento, vamos apresentar de forma detalhada os requisitos do projeto. Para isso, utilizaremos uma tabela que abrange todas as versões dos requisitos. Cada linha da tabela trará uma descrição completa, começando desde a criação inicial dos requisitos até o estágio atual do projeto. O objetivo é fornecer uma visão clara e abrangente de como os requisitos evoluíram ao longo do tempo, documentando todas as mudanças e atualizações realizadas em cada fase do desenvolvimento.
+
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
+
 ## Metodologia
+
+A baseline de requisitos refere-se ao grupo de requisitos documentados no Software Requirements Specification (SRS). Esses requisitos são desenvolvidos ao longo das diversas etapas do processo de requisitos, incluindo elicitação, modelagem, verificação e validação. Eles servem como fundamento para o design e a implementação do software. Qualquer modificação nos requisitos estabelecidos na baseline exige justificativa e aprovação.
+
+**Fonte**: [Referência 1](docs/pos-rastreabilidade/assets/ref-1.png)<br>
+**Autor**: [Davi Pierre](https://github.com/DaviPierre)
 
 ## Baseline dos requisitos
 
@@ -56,17 +65,17 @@
         <td>Descrição da versão 1.2 do Requisito 3</td>
     </tr>
     <tr>
-        <td rowspan="3">R8</td>
+        <td rowspan="3">Requisito 4</td>
         <td>1.0</td>
-        <td>O aplicativo deve possuir opção de sincronizar e salvar dados inseridos</td>
+        <td>Descrição da versão 1.0 do Requisito 4</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td></td>
+        <td>Descrição da versão 1.1 do Requisito 4</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td></td>
+        <td>Descrição da versão 1.2 do Requisito 4</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 5</td>
@@ -120,12 +129,458 @@
         <td>1.2</td>
         <td>Descrição da versão 1.2 do Requisito 8</td>
     </tr>
+    <tr>
+        <td rowspan="3">Requisito 9</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 9</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 9</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 9</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 10</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 10</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 10</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 10</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 11</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 11</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 11</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 11</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 12</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 12</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 12</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 12</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 13</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 13</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 13</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 13</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 14</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 14</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 14</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 14</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 15</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 15</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 15</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 15</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 16</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 16</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 16</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 16</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 17</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 17</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 17</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 17</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 18</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 18</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 18</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 18</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 19</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 19</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 19</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 19</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 20</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 20</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 20</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 20</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 21</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 21</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 21</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 21</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 22</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 22</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 22</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 22</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 23</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 23</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 23</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 23</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 24</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 24</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 24</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 24</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 25</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 25</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 25</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 25</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 26</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 26</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 26</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 26</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 27</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 27</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 27</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 27</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 28</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 28</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 28</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 28</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 29</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 29</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 29</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 29</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 30</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 30</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 30</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 30</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 31</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 31</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 31</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 31</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 32</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 32</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 32</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 32</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 33</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 33</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 33</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 33</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 34</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 34</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 34</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 34</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 35</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 35</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 35</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 35</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 36</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 36</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 36</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 36</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 37</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 37</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 37</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 37</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 38</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 38</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 38</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 38</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 39</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 39</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 39</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 39</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 40</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 40</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 40</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 40</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 41</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 41</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 41</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 41</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Requisito 42</td>
+        <td>1.0</td>
+        <td>Descrição da versão 1.0 do Requisito 42</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Descrição da versão 1.1 do Requisito 42</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Descrição da versão 1.2 do Requisito 42</td>
+    </tr>
 </table>
+
 
 **Autor**: Todos
 </center>
 
 ## Referências
+
+Monografias em Ciência da Computação n° 20/05, Miriam Sayão e Julio Cesar Sampaio do Prado Leite acessado dia 16 de junho de 2024
+
 
 ## Histórico de versões
 
