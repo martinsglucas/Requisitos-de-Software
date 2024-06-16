@@ -10,7 +10,7 @@ Neste documento, vamos apresentar de forma detalhada os requisitos do projeto. P
 
 A baseline de requisitos refere-se ao grupo de requisitos documentados no Software Requirements Specification (SRS). Esses requisitos são desenvolvidos ao longo das diversas etapas do processo de requisitos, incluindo elicitação, modelagem, verificação e validação. Eles servem como fundamento para o design e a implementação do software. Qualquer modificação nos requisitos estabelecidos na baseline exige justificativa e aprovação.
 
-**Fonte**: [Referência 1](docs/pos-rastreabilidade/assets/ref-1.png)<br>
+**Fonte**: [Referência 1](./assets/ref-1.png)<br>
 **Autor**: [Davi Pierre](https://github.com/DaviPierre)
 
 ## Baseline dos requisitos
@@ -26,17 +26,9 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <th>Descrição</th>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 1</td>
+        <td rowspan="1">Requisito 1</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 1</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 1</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 1</td>
+        <td>O aplicativo deve possuir uma barra de pesquisa</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 2</td>
@@ -104,17 +96,10 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 6</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 7</td>
+        <td rowspan="1">Requisito 7</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 7</td>
+        <td>O aplicativo deve ser possível instalar extensões de uso</td>
     </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 7</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 7</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 8</td>
@@ -182,17 +167,9 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 12</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 13</td>
+        <td rowspan="1">Requisito 13</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 13</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 13</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 13</td>
+        <td>O aplicativo deve suportar a mudança de idioma do sistema</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 14</td>
@@ -260,17 +237,9 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 18</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 19</td>
+        <td rowspan="1">Requisito 19</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 19</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 19</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 19</td>
+        <td>O aplicativo deve permitir ao usuário limpar seus dados inseridos e de navegação</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 20</td>
@@ -338,17 +307,9 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 24</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 25</td>
+        <td rowspan="1">Requisito 25</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 25</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 25</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 25</td>
+        <td>O aplicativo deve possuir opção de leitura da página em voz alta</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 26</td>
@@ -416,17 +377,13 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 30</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 31</td>
+        <td rowspan="2">Requisito 31</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 31</td>
+        <td>O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 31</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 31</td>
+        <td>Capacidade de usar aplicações em outros navegadores</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 32</td>
@@ -494,17 +451,13 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Descrição da versão 1.2 do Requisito 36</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 37</td>
+        <td rowspan="2">Requisito 37</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 37</td>
+        <td>O aplicativo deve possuir modo alternativo de cores para daltônicos</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 37</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 37</td>
+        <td>Modo para daltônicos</td>
     </tr>
     <tr>
         <td rowspan="3">Requisito 38</td>
@@ -584,7 +537,9 @@ Monografias em Ciência da Computação n° 20/05, Miriam Sayão e Julio Cesar S
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição         | Autor                                           | Revisor |
-| ------ | ---------- | ----------------- | ----------------------------------------------- | ------- |
-| 1.0    | 13/06/2024 | Criação da página | [Guilherme Westphall](https://github.com/west7) |         |
-| 1.1    | 15/06/2024 | Cria tabela 1     | [Guilherme Westphall](https://github.com/west7) |         |
+| Versão | Data       | Descrição                                             | Autor                                           | Revisor                                      |
+| ------ | ---------- | ----------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
+| 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
+| 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
+| 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
