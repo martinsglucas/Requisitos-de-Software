@@ -67,22 +67,22 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td> Não </td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 4</td>
+        <td rowspan="3">R4</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 4</td>
+        <td>Descrição da versão 1.0 do R4</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 4</td>
+        <td>Descrição da versão 1.1 do R4</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 4</td>
+        <td>Descrição da versão 1.2 do R4</td>
     </tr>
     <tr>
         <td rowspan="3">R5</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 5</td>
+        <td>Descrição da versão 1.0 do R5</td>
     </tr>
     <tr>
         <td>1.1</td>
@@ -90,7 +90,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 5</td>
+        <td>Descrição da versão 1.2 do R5</td>
     </tr>
     <tr>
         <td rowspan="2">R6</td>
@@ -104,7 +104,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve possuir histórico de downloads</td>
     </tr>
     <tr>
-        <td rowspan="2">Requisito 7</td>
+        <td rowspan="2">R7</td>
         <td>1.1</td>
         <td>O aplicativo deve ser possível instalar extensões de uso</td>
         <td>  Sim </td>
@@ -146,30 +146,30 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>OBS09 - Deve ser possível visualizar em formato desktop	</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 10</td>
+        <td rowspan="3">R10</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 10</td>
+        <td>Descrição da versão 1.0 do R10</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 10</td>
+        <td>Descrição da versão 1.1 do R10</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 10</td>
+        <td>Descrição da versão 1.2 do R10</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 11</td>
+        <td rowspan="3">R11</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 11</td>
+        <td>Descrição da versão 1.0 do R11</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 11</td>
+        <td>Descrição da versão 1.1 do R11</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 11</td>
+        <td>Descrição da versão 1.2 do R11</td>
     </tr>
     <tr>
         <td rowspan="3">R12</td>
@@ -187,7 +187,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>O sistema deve fornecer uma personalização diversa</td>
     </tr>
     <tr>
-        <td rowspan="2">Requisito 13</td>
+        <td rowspan="2">R13</td>
         <td>1.1</td>
         <td>O aplicativo deve suportar a mudança de idioma do sistema</td>
         <td>  Sim </td>
@@ -219,30 +219,30 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>OBS18 - Deve possuir atalhos de gestos</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 16</td>
+        <td rowspan="3">R16</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 16</td>
+        <td>Descrição da versão 1.0 do R16</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 16</td>
+        <td>Descrição da versão 1.1 do R16</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 16</td>
+        <td>Descrição da versão 1.2 do R16</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 17</td>
+        <td rowspan="3">R17</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 17</td>
+        <td>Descrição da versão 1.0 do R17</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 17</td>
+        <td>Descrição da versão 1.1 do R17</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 17</td>
+        <td>Descrição da versão 1.2 do R17</td>
     </tr>
     <tr>
         <td rowspan="2">R18</td>
@@ -254,7 +254,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve ser possível limpar histórico de navegação</td>
     </tr>
     <tr>
-        <td rowspan="1">Requisito 19</td>
+        <td rowspan="1">R19</td>
         <td>1.1</td>
         <td>O aplicativo deve permitir ao usuário limpar seus dados inseridos e de navegação</td>
         <td>  Sim </td>
@@ -276,59 +276,59 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve ser possível habilitar e bloquear notificações	</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 21</td>
+        <td rowspan="3">R21</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 21</td>
+        <td>Descrição da versão 1.0 do R21</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 21</td>
+        <td>Descrição da versão 1.1 do R21</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 21</td>
+        <td>Descrição da versão 1.2 do R21</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 22</td>
+        <td rowspan="3">R22</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 22</td>
+        <td>Descrição da versão 1.0 do R22</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 22</td>
+        <td>Descrição da versão 1.1 do R22</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 22</td>
+        <td>Descrição da versão 1.2 do R22</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 23</td>
+        <td rowspan="3">R23</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 23</td>
+        <td>Descrição da versão 1.0 do R23</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 23</td>
+        <td>Descrição da versão 1.1 do R23</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 23</td>
+        <td>Descrição da versão 1.2 do R23</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 24</td>
+        <td rowspan="3">R24</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 24</td>
+        <td>Descrição da versão 1.0 do R24</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 24</td>
+        <td>Descrição da versão 1.1 do R24</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 24</td>
+        <td>Descrição da versão 1.2 do R24</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 25</td>
+        <td rowspan="3">R25</td>
         <td>1.2</td>
         <td>O aplicativo deve possuir opção de leitura da página em voz alta</td>
         <td>  Sim </td>
@@ -362,59 +362,59 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve possuir opção de controle parental</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 27</td>
+        <td rowspan="3">R27</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 27</td>
+        <td>Descrição da versão 1.0 do R27</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 27</td>
+        <td>Descrição da versão 1.1 do R27</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 27</td>
+        <td>Descrição da versão 1.2 do R27</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 28</td>
+        <td rowspan="3">R28</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 28</td>
+        <td>Descrição da versão 1.0 do R28</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 28</td>
+        <td>Descrição da versão 1.1 do R28</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 28</td>
+        <td>Descrição da versão 1.2 do R28</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 29</td>
+        <td rowspan="3">R29</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 29</td>
+        <td>Descrição da versão 1.0 do R29</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 29</td>
+        <td>Descrição da versão 1.1 do R29</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 29</td>
+        <td>Descrição da versão 1.2 do R29</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 30</td>
+        <td rowspan="3">R30</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 30</td>
+        <td>Descrição da versão 1.0 do R30</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 30</td>
+        <td>Descrição da versão 1.1 do R30</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 30</td>
+        <td>Descrição da versão 1.2 do R30</td>
     </tr>
     <tr>
-    <td rowspan="2">Requisito 31</td>
+    <td rowspan="2">R31</td>
         <td>1.1</td>
         <td>Capacidade de usar aplicações em outros navegadores</td>
         <td>  Sim </td>
@@ -442,59 +442,59 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>O sistema deve ser compatível com várias plataformas</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 33</td>
+        <td rowspan="3">R33</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 33</td>
+        <td>Descrição da versão 1.0 do R33</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 33</td>
+        <td>Descrição da versão 1.1 do R33</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 33</td>
+        <td>Descrição da versão 1.2 do R33</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 34</td>
+        <td rowspan="3">R34</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 34</td>
+        <td>Descrição da versão 1.0 do R34</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 34</td>
+        <td>Descrição da versão 1.1 do R34</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 34</td>
+        <td>Descrição da versão 1.2 do R34</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 35</td>
+        <td rowspan="3">R35</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 35</td>
+        <td>Descrição da versão 1.0 do R35</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 35</td>
+        <td>Descrição da versão 1.1 do R35</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 35</td>
+        <td>Descrição da versão 1.2 do R35</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 36</td>
+        <td rowspan="3">R36</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 36</td>
+        <td>Descrição da versão 1.0 do R36</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 36</td>
+        <td>Descrição da versão 1.1 do R36</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 36</td>
+        <td>Descrição da versão 1.2 do R36</td>
     </tr>
     <tr>
-    <td rowspan="5">Requisito 37</td>
+    <td rowspan="5">R37</td>
         <td>1.4</td>
         <td>O aplicativo deve possuir modo alternativo de cores para daltônicos</td>
         <td>  Sim </td>
@@ -538,56 +538,56 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Retirar excesso de funções que usuários não vão utilizar</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 39</td>
+        <td rowspan="3">R39</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 39</td>
+        <td>Descrição da versão 1.0 do R39</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 39</td>
+        <td>Descrição da versão 1.1 do R39</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 39</td>
+        <td>Descrição da versão 1.2 do R39</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 40</td>
+        <td rowspan="3">R40</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 40</td>
+        <td>Descrição da versão 1.0 do R40</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 40</td>
+        <td>Descrição da versão 1.1 do R40</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 40</td>
+        <td>Descrição da versão 1.2 do R40</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 41</td>
+        <td rowspan="3">R41</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 41</td>
+        <td>Descrição da versão 1.0 do R41</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 41</td>
+        <td>Descrição da versão 1.1 do R41</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 41</td>
+        <td>Descrição da versão 1.2 do R41</td>
     </tr>
     <tr>
-        <td rowspan="3">Requisito 42</td>
+        <td rowspan="3">R42</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do Requisito 42</td>
+        <td>Descrição da versão 1.0 do R42</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do Requisito 42</td>
+        <td>Descrição da versão 1.1 do R42</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do Requisito 42</td>
+        <td>Descrição da versão 1.2 do R42</td>
     </tr>
 </table>
 
@@ -603,8 +603,9 @@ SAYÃO, Miriam; LEITE, Julio Cesar. Monografias em Ciência da Computação n° 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                             | Autor                                           | Revisor                                      |
-|--------|------------|-------------------------------------------------------|-------------------------------------------------|----------------------------------------------|
+| ------ | ---------- | ----------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
 | 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
-| 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
+| 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)    | [Kauan Eiras](https://github.com/kauaneiras) |
+| 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)    | [Kauan Eiras](https://github.com/kauaneiras) |
+| 1.3    | 16/06/2024 | Update da tabela 1                                    | Todos                                           | Todos                                        |
