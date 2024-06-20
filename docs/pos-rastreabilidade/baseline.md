@@ -38,7 +38,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>1.0</td>
         <td>O sistema deve conter uma ferramenta de pesquisa rápida</td>
         <td>  Sim </td>
-        <td>  Sim </td>
+        <td>  Não </td>
     </tr>
     <tr>
         <td rowspan="">R2</td>
@@ -67,30 +67,24 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td> Não </td>
     </tr>
     <tr>
-        <td rowspan="3">R4</td>
+        <td rowspan="1">R4</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R4</td>
+        <td><b>O aplicativo deve possuir opção de favoritar sites</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
+        <td rowspan="2">R5</td>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R4</td>
+        <td><b>O aplicativo deve possuir histórico de navegação</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R4</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R5</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R5</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td> 	O aplicativo deve possuir histórico de navegação</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R5</td>
+        <td> Deve possuir histórico de navegação </td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td rowspan="2">R6</td>
@@ -114,7 +108,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>1.0</td>
         <td>Deve ser possível instalar extensões de uso</td>
         <td>  Sim </td>
-        <td>  Sim </td>
+        <td>  Não </td>
     </tr>
     </tr>
     <tr>
@@ -133,50 +127,38 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve sincronizar os dados</td>
     </tr>
     <tr>
-        <td rowspan="3">R9</td>
-        <td>1.2</td>
-        <td>R9 - O aplicativo deve permitir visualização dos sites em formato desktop</td>
-    </tr>
-    <tr>
+        <td rowspan="2">R9</td>
         <td>1.1</td>
-        <td>US1 - Deve ser possível visualizar em formato desktop</td>
+        <td><b>R9 - O aplicativo deve permitir visualização dos sites em formato desktop</b></td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>OBS09 - Deve ser possível visualizar em formato desktop	</td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td rowspan="3">R10</td>
+        <td rowspan="1">R10</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R10</td>
+        <td><b>O aplicativo deve permitir a criação de atalhos na tela inicial do dispositivo</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R10</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R10</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R11</td>
+        <td rowspan="1">R11</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R11</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R11</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R11</td>
+        <td><b>O aplicativo deve oferecer sugestões personalizadas de pesquisa</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="3">R12</td>
         <td><b>1.2</></td>
         <td><b>O aplicativo deve permitir a personalização da tela inicial do navegador</b></td>
-        <td rowspan="3">Sim</td>
-        <td rowspan="3">Não</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td>1.1</td>
@@ -213,57 +195,57 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td rowspan="2">R15</td>
         <td>1.1</td>
         <td><b>R15 - O aplicativo deve possuir suporte para atalhos de gestos</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>OBS18 - Deve possuir atalhos de gestos</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
-        <td rowspan="3">R16</td>
+        <td rowspan="1">R16</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R16</td>
+        <td><b>O aplicativo deve possibilitar a troca de conta do usuário </b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
+        <td rowspan="2">R17</td>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R16</td>
+        <td><b>O aplicativo deve permitir a alteração da senha da conta do usuário</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R16</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R17</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R17</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R17</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R17</td>
+        <td>Deve ser possível alterar senha</td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td rowspan="2">R18</td>
         <td><b>1.1</b></td>
-        <td>O aplicativo deve permitir ao usuário limpar seu histórico de navegação</td>
+        <td><b>O aplicativo deve permitir ao usuário limpar seu histórico de navegação</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>Deve ser possível limpar histórico de navegação</td>
     </tr>
     <tr>
-        <td rowspan="1">R19</td>
+        <td rowspan="2">R19</td>
         <td>1.1</td>
-        <td>O aplicativo deve permitir ao usuário limpar seus dados inseridos e de navegação</td>
-        <td>  Sim </td>
-        <td>  Sim </td>
+        <td><b>O aplicativo deve permitir ao usuário limpar seus dados inseridos e de navegação</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
-    <tr><td>1.0</td>
+    <tr>
+        <td>1.0</td>
         <td>Deve ser possível limpar dados do usuário</td>
-        <td>  Sim </td>
-        <td>  Sim </td></tr>
+    </tr>
     <tr>
         <td rowspan="2">R20</td>
         <td>1.1</td>
@@ -278,54 +260,50 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <tr>
         <td rowspan="3">R21</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R21</td>
+        <td>R21 - O aplicativo deve permitir alterar a fonte de texto em tipo e tamanho  </td>
+        <td> Não </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R21</td>
+        <td>OBS26 - Deve ser possível alterar fonte do navegador</td>
+        <td> Não </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do R21</td>
+        <td>OBS19 - O aplicativo deve permitir alterar a fonte de texto em tipo e tamanho</td>
+        <td> Não </td>
+        <td> Sim </td>
     </tr>
     <tr>
-        <td rowspan="3">R22</td>
+        <td rowspan="1">R22</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R22</td>
+        <td><b>O aplicativo deve incluir opção de bloquear anúncios</b></td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R22</td>
+        <td rowspan="2">R23</td>
+        <td><b>1.1</b></td>
+        <td><b>O aplicativo deve incluir opção de busca interna na página</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R22</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R23</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R23</td>
+        <td>O navegador deve incluir opção de busca na página</td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R23</td>
+        <td rowspan="2">R24</td>
+        <td><b>1.1</b></td>
+        <td><b>O aplicativo deve incluir opção de pesquisa por voz</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R23</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R24</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R24</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R24</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R24</td>
+        <td>A barra de pesquisa deve incluir opção de pesquisa por voz</td>
     </tr>
     <tr>
         <td rowspan="3">R25</td>
@@ -344,7 +322,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <td>1.0</td>
         <td>Deve fornecer uma ferramenta de leitura avançada</td>
         <td>  Sim </td>
-        <td>  Sim </td>
+        <td>  Não </td>
     </tr>
     <tr>
         <td rowspan="3">R26</td>
@@ -362,56 +340,60 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>Deve possuir opção de controle parental</td>
     </tr>
     <tr>
-        <td rowspan="3">R27</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R27</td>
+        <td rowspan="2">R27</td>
+        <td>1.1</td>
+        <td><b>R27 - O aplicativo deve oferecer opção de impressão de páginas</b></td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R27</td>
+        <td>1.0</td>
+        <td>OBS33 - Deve oferecer opção de impressão</td>
+        <td> Sim </td>
+        <td> Não </td>
+    </tr>
+    <tr>
+        <td rowspan="1">R28</td>
+        <td>1.0</td>
+        <td><b>O aplicativo deve conter opção de traduzir o idioma das páginas</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td rowspan="4">R29</td>
+        <td>1.3</td>
+        <td><b>O aplicativo deve permitir sincronização de dados pessoais com a conta do Google</b></td>
+        <td> Não </td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do R27</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R28</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R28</td>
+        <td>O sistema deve prover sincronização com a conta google</td>
+        <td> Não </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R28</td>
+        <td>Sincronização de dados com conta Google	</td>
+        <td> Não </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R28</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R29</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R29</td>
+        <td>Sincronização de dados com a conta do Google</td>
+        <td> Não </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R29</td>
+        <td rowspan="2">R30</td>
+        <td><b>1.1</b></td>
+        <td><b>O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)</b></td>
+        <td>Não</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R29</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R30</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R30</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R30</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R30</td>
+        <td>Rede privada virtual (VPN)</td>
     </tr>
     <tr>
     <td rowspan="2">R31</td>
@@ -424,7 +406,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>1.0</td>
         <td>O aplicativo deve simular, para desenvolvedores, suas aplicações em outros navegadores</td>
         <td>  Sim </td>
-        <td>  Sim </td>
+        <td>  Não </td>
     </tr>
     <tr>
         <td rowspan="3">R32</td>
@@ -442,96 +424,90 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>O sistema deve ser compatível com várias plataformas</td>
     </tr>
     <tr>
-        <td rowspan="3">R33</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R33</td>
-    </tr>
-    <tr>
+        <td rowspan="2">R33</td>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R33</td>
+        <td><b>R33 - O aplicativo deve conter uma ferramenta de correção ortográfica</b></td>
+        <td> Não </td>
+        <td> Não </td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R33</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R34</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R34</td>
+        <td>BRS19 - Deve conter uma ferramenta de correção ortográfica</td>
+        <td> Não </td>
+        <td> Não </td>
     </tr>
     <tr>
+        <td rowspan="2">R34</td>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R34</td>
+        <td><b>O Firefox deve consumir menos de 20% de CPU durante a navegação típica e menos de 50% durante operações intensivas</b></td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R34</td>
+        <td>1.0</td>
+        <td>O aplicativo deve ser leve </td>
     </tr>
     <tr>
         <td rowspan="3">R35</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R35</td>
+        <td>1.2</td>
+        <td><b>O aplicativo deve permitir acesso rápido a sites acessados recentemente</b></td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R35</td>
+        <td>Acesso à sites acessados recentemente</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R35</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R36</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R36</td>
+        <td>Acesso rápido à sites acessados recentemente</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R36</td>
+        <td rowspan="2">R36</td>
+        <td><b>1.1</b></td>
+        <td><b>O aplicativo deve apresentar um design arredondado</b></td>
+        <td>Não</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R36</td>
+        <td>1.0</td>
+        <td>Temas mais arredondados</td>
     </tr>
     <tr>
-    <td rowspan="5">R37</td>
-        <td>1.4</td>
+    <td rowspan="4">R37</td>
+        <td>1.3</td>
         <td>O aplicativo deve possuir modo alternativo de cores para daltônicos</td>
         <td>  Sim </td>
         <td>  Não </td>
     </tr>
     <tr>
-        <td>1.3</td>
+        <td>1.2</td>
         <td>Modo para daltônicos</td>
         <td>  Sim </td>
         <td>  Não </td>
     </tr>
     <tr>
-        <td>1.2</td>
+        <td>1.1</td>
         <td>Temas para dautônicos</td>
         <td>  Sim </td>
         <td>  Não </td>
     </tr>
     <tr>
-        <td>1.1</td>
+        <td>1.0</td>
         <td>O navegador deve incluir um modo de daltonismo </td>
         <td>  Sim </td>
         <td>  Não </td>
     </tr>
     <tr>
-        <td>1.0</td>
-        <td>Temas mais agradáveis</td>
-        <td>  Sim </td>
-        <td>  Não </td>
-    </tr>
-    <tr>
-        <td rowspan="3">R38</td>
-        <td>1.2</td>
-        <td>O usuário deve ser capaz de realizar uma ação simples em no máximo 3 clicks</td>
-    </tr>
-    <tr>
+        <td rowspan="2">R38</td>
         <td>1.1</td>
-        <td>O aplicativo deve apresentar uma interface minimalista</td>
+        <td><b>O aplicativo deve apresentar uma interface minimalista</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
@@ -539,60 +515,84 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="3">R39</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R39</td>
+        <td>1.2</td>
+        <td><b>DES01 - O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa</b></td>
+        <td> Sim </td>
+        <td> Não </td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R39</td>
+        <td>R39 - O aplicativo deve ser rápido</td>
+        <td> Sim </td>
+        <td> Não </td>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>BRS01 - O navegador deve responder rapidamente as pesquisas </td>
+        <td> Sim </td>
+        <td> Não </td>
+    </tr>
+    <tr>
+        <td rowspan="2">R40</td>
+        <td>1.1</td>
+        <td><b>O Firefox deve liberar memória quando as guias são fechadas ou não utilizadas, mantendo o consumo de memória abaixo de 500 MB durante a navegação típica (até 10 guias abertas) e não ultrapassar 2 GB em uso intenso (mais de 30 guias abertas)</b></td>
+        <td>Sim</td>
+        <td>Não</td>
+    <tr>
+        <td>1.0</td>
+        <td>O aplicativo deve gerir bem a memória</td>
+    </tr>
+    <tr>
+        <td rowspan="5">R41</td>
+        <td>1.4</td>
+        <td><b>O aplicativo deve ser seguro</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>1.3</td>
+        <td>O navegador deve prover uma navegação segura</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do R39</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R40</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R40</td>
+        <td>O sistema deve proteger os dados do usuário durante a navegação</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Descrição da versão 1.1 do R40</td>
+        <td>O navegador deve proteger contra rastreamento de dados</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R40</td>
-    </tr>
-    <tr>
-        <td rowspan="3">R41</td>
         <td>1.0</td>
-        <td>Descrição da versão 1.0 do R41</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R41</td>
-    </tr>
-    <tr>
-        <td>1.2</td>
-        <td>Descrição da versão 1.2 do R41</td>
+        <td>O navegador deve prover uma navegação segura</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="3">R42</td>
-        <td>1.0</td>
-        <td>Descrição da versão 1.0 do R42</td>
-    </tr>
-    <tr>
-        <td>1.1</td>
-        <td>Descrição da versão 1.1 do R42</td>
+        <td><b>1.3</b></td>
+        <td><b>O aplicativo deve ser de fácil uso </b></td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Descrição da versão 1.2 do R42</td>
+        <td>Sistema deve ser de fácil uso</td>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>O sistema deve ter uma interface intuitiva</td>
     </tr>
 </table>
 
 
-**Autor**: Todos
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas).
+
 </center>
 
 ## Referências
@@ -602,10 +602,11 @@ SAYÃO, Miriam; LEITE, Julio Cesar. Monografias em Ciência da Computação n° 
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                             | Autor                                           | Revisor                                      |
-| ------ | ---------- | ----------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)    | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)    | [Kauan Eiras](https://github.com/kauaneiras) |
-| 1.3    | 16/06/2024 | Update da tabela 1                                    | Todos                                           | Todos                                        |
+| Versão | Data       | Descrição                                             | Autor                                                                                                                                                                                                                                                                                              | Revisor                                         |
+|--------|------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.4    | 16/06/2024 | Adiciona mais requisitos                              | [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Lucas Martins](https://github.com/martinsglucas)                                               | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.5    | 19/06/2024 | Atualiza requisitos da baseline                       | [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)    |
