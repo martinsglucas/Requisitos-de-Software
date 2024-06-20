@@ -13,36 +13,6 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
 ## Baseline dos requisitos
 
 
-<!-- <table border="1">
-    <tr>
-        <td rowspan="3">R8</td>
-        <td>1.2</td>
-        <td><b>Deve possuir opção de sincronizar e salvar dados inseridos</b></td>
-        <td>Sim</td>
-        <td>Sim</td>
-        <td>
-            <button onclick="toggleVersions()">Ver versões anteriores</button>
-        </td>
-    </tr>
-    <tr class="hidden">
-        <td>1.1</td>
-        <td>Deve ser possível sincronizar senhas com outros dispositivos</td>
-    </tr>
-    <tr class="hidden">
-        <td>1.0</td>
-        <td>Deve sincronizar os dados</td>
-    </tr>
-</table>
-
-<script>
-    function toggleVersions() {
-        const rows = document.querySelectorAll('tr.hidden');
-        rows.forEach(row => {
-            row.style.display = row.style.display === 'table-row' ? 'none' : 'table-row';
-        });
-    }
-</script> -->
-
 <center>
 
 **Tabela 1**: Baseline de requisitos
@@ -53,7 +23,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <th>Versão</th>
         <th>Descrição</th>
         <th>Implementado</th>
-        <th>Priorizado</th>
+        <th>Alta-prioridade</th>
     </tr>
     <tr>
         <td rowspan="2">R1</td>
@@ -149,10 +119,14 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <tr>
         <td>1.1</td>
         <td>Deve ser possível sincronizar senhas com outros dispositivos</td>
+        <td>  Sim </td>
+        <td>  Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>Deve sincronizar os dados</td>
+        <td>  Sim </td>
+        <td>  Sim </td>
     </tr>
     <tr>
         <td rowspan="2">R9</td>
