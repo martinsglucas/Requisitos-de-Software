@@ -65,6 +65,8 @@ nav:
       - Entrega 4: verificacao/grupo_7/entrega_4.md
   - Pós-Rastreabilidade:
     - Baseline: pos-rastreabilidade/baseline.md
+    - Backward From: pos-rastreabilidade/backwardfrom.md
+    - Forward From: pos-rastreabilidade/forwardfrom.md
 
 theme:
   name: material
