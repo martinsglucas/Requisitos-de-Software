@@ -44,6 +44,7 @@ nav:
         - Observação: elicitacao/tecnicas/observacao.md
         - Questionário: elicitacao/tecnicas/questionario.md
       - Requisitos Elicitados: elicitacao/tecnicas/requisitos_elicitados.md
+      - Especificação de Requisitos: elicitacao/tecnicas/espec_requisitos.md
     - Priorização de Requisitos: 
       - Técnicas: elicitacao/priorizacao/tecnicas_de_priorizacao.md
       - Requisitos Priorizados: elicitacao/priorizacao/requisitos_priorizados.md
