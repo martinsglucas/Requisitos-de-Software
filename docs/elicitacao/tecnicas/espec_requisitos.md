@@ -8,11 +8,11 @@ Nesta página serão documentadas especificações/explicações de alguns requi
 
 ## Especificação dos requisitos
 
-| Requisito | Descrição anterior                                                | Nova descrição                                                           | Print                                           |
-| --------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- |
-| R14       | Temas agradáveis                                                  | Alternar entre temas claro e escuro                                      | [Conversa com José](../tecnicas/assets/J1.jpeg) |
-| R32       | O aplicativo deve ser compatível com vários sistemas operacionais | O sistema deve ser compatível com os sistemas operacionais IOS e Android | [Conversa com José](../tecnicas/assets/J2.jpeg) |
-| R38 | O aplicativo deve apresentar uma interface minimalista | A interface do aplicativo deve apresentar  abas quadradas, animações suaves e uma Biblioteca que oferece acesso rápido a itens salvos, como favoritos, histórico, downloads, abas e capturas de tela | [Mozilla Blog](../tecnicas/assets/M1.png) |
+| Requisito | Descrição anterior                                                | Nova descrição                                                                                                                                                                                       | Print                                           |
+| --------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| R14       | Temas agradáveis                                                  | Alternar entre temas claro e escuro                                                                                                                                                                  | [Conversa com José](../tecnicas/assets/J1.jpeg) |
+| R32       | O aplicativo deve ser compatível com vários sistemas operacionais | O sistema deve ser compatível com os sistemas operacionais IOS e Android                                                                                                                             | [Conversa com José](../tecnicas/assets/J2.jpeg) |
+| R38       | O aplicativo deve apresentar uma interface minimalista            | A interface do aplicativo deve apresentar  abas quadradas, animações suaves e uma Biblioteca que oferece acesso rápido a itens salvos, como favoritos, histórico, downloads, abas e capturas de tela | [Mozilla Blog](../tecnicas/assets/M1.png)       |
 
 
 ## Referências
@@ -28,3 +28,5 @@ Nesta página serão documentadas especificações/explicações de alguns requi
 | ------ | ---------- | ------------------------------------------------ | ----------------------------------------------- | ------- |
 | 1.0    | 20/06/2024 | Cria a página                                    | [Guilherme Westphall](https://github.com/west7) | -       |
 | 1.1    | 20/06/2024 | Adiciona especificações dos requisitos R14 e R32 | [Guilherme Westphall](https://github.com/west7) | -       |
+| 1.2    | 21/06/2024 | Adiciona especificação do R38                    | [Guilherme Westphall](https://github.com/west7) | -       |
+| 1.3    | 21/06/2024 | Adiciona referências                             | [Guilherme Westphall](https://github.com/west7) | -       |
