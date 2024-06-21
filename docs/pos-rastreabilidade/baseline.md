@@ -6,7 +6,7 @@ Neste documento, vamos apresentar de forma detalhada os requisitos do projeto. P
 
 ## Metodologia
 
-A baseline de requisitos refere-se ao grupo de requisitos documentados no Software Requirements Specification (SRS). Esses requisitos são desenvolvidos ao longo das diversas etapas do processo de requisitos, incluindo elicitação, modelagem, verificação e validação. Eles servem como fundamento para o design e a implementação do software. Qualquer modificação nos requisitos estabelecidos na baseline exige justificativa e aprovação.
+A baseline de requisitos refere-se ao grupo de requisitos documentados no Software Requirements Specification (SRS). Esses requisitos são desenvolvidos ao longo das diversas etapas do processo de requisitos, incluindo elicitação, modelagem, verificação e validação. Eles servem como fundamento para o design e a implementação do software.
 
 **Fonte**: [Referência 1](./assets/ref-1.png)<br>
 
@@ -112,7 +112,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <tr>
         <td rowspan="3">R8</td>
         <td>1.2</td>
-        <td><b>Deve possuir opção de sincronizar e salvar dados inseridos</b></td>
+        <td><b>O aplicativo deve possuir opção de sincronizar e salvar dados inseridos</b></td>
         <td>  Sim </td>
         <td>  Sim </td>
     </tr>
@@ -505,11 +505,15 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
         <td>  Não </td>
     </tr>
     <tr>
-        <td rowspan="2">R38</td>
+        <td rowspan="3">R38</td>
+        <td>1.2</td>
+        <td><b>A interface do aplicativo deve apresentar  abas quadradas, animações suaves e uma Biblioteca que oferece acesso rápido a itens salvos, como favoritos, histórico, downloads, abas e capturas de tela</b></td>
+        <td> Sim </td>
+        <td> Sim </td>
+    </tr>
+    <tr>
         <td>1.1</td>
-        <td><b>O aplicativo deve apresentar uma interface minimalista</b></td>
-        <td> Sim </td>
-        <td> Sim </td>
+        <td>O aplicativo deve apresentar uma interface minimalista</td>
     </tr>
     <tr>
         <td>1.0</td>
