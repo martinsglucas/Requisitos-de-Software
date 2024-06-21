@@ -236,8 +236,7 @@ A tabela 11 apresenta a história de usuário US10 - Alterar entre o tema claro 
 | ID | Descrição |
 | --- | --------- |
 |  **História de usuário**   | Como um usuário do navegador Firefox, desejo alterar o tema do navegador para claro ou escuro, para que eu possa utilizar ele no modo escuro de noite e claro de dia. |
-|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> - [ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem e
-**Autor:** <ssa opção, ao tema escolhido. |
+|**Critérios de aceitação**| - [ ] O navegador deve possuir um botão para que eu troque entre esses temas.<br> - [ ] O navegador deve adaptar ele mesmo  ao tema escolhido. <br> - [ ] O navegador deve adaptar os sites, que possuem essa opção, ao tema escolhido. |
 | **Prioridade** | Alta |
 | **Dificuldade** | Média |
 

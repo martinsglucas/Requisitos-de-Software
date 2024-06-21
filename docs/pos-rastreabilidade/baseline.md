@@ -17,7 +17,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
 
 **Tabela 1**: Baseline de requisitos
 
-<table border='1'>
+<table border='0.5'>
     <tr>
         <th>Requisito</th>
         <th>Versão</th>
