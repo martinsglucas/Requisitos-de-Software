@@ -40,7 +40,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 1 - Permissão do usuário
-![Imagem 1](./questionario/Q01.png)
+![Imagem 1](./assets/Q01.png)
 </center>
 
 **Descrição:** Quem não concordou em participar, não teve seus dados adicionados no resultado.
@@ -53,7 +53,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 2 - Faixa etária
-![Imagem 2](./questionario/Q02.png)
+![Imagem 2](./assets/Q02.png)
 
 </center>
 
@@ -68,7 +68,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 3 - Identidade de gênero
-![Imagem 3](./questionario/Q03.png)
+![Imagem 3](./assets/Q03.png)
 
 </center>
 
@@ -82,7 +82,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 4 - Quantidade de usuários do Firefox
-![Imagem 4](./questionario/Q04.png)
+![Imagem 4](./assets/Q04.png)
 
 </center>
 
@@ -96,7 +96,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 5 - Facilidade para utilizar
-![Imagem 5](./questionario/Q05.png)
+![Imagem 5](./assets/Q05.png)
 
 </center>
 
@@ -110,7 +110,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 6 - Pessoas que usariam recursos dos 3 pontinhos
-![Imagem 6](./questionario/Q06.png)
+![Imagem 6](./assets/Q06.png)
 
 </center>
 
@@ -124,7 +124,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 7 - Navegadores utilizados nos dispositivos móveis
-![Imagem 7](./questionario/Q07.png)
+![Imagem 7](./assets/Q07.png)
 
 </center>
 
@@ -138,7 +138,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 8 - Navegadores utilizados nos computadores
-![Imagem 8](./questionario/Q08.png)
+![Imagem 8](./assets/Q08.png)
 
 </center>
 
@@ -152,7 +152,7 @@ A apresentação integral dos resultados do questionário será exibida abaixo, 
 <center>
 
 ### Imagem 9 - Motivos para utilizar cada navegador
-![Imagem 9](./questionario/Q09.png)
+![Imagem 9](./assets/Q09.png)
 
 </center>
 

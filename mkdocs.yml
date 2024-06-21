@@ -44,6 +44,7 @@ nav:
         - Observação: elicitacao/tecnicas/observacao.md
         - Questionário: elicitacao/tecnicas/questionario.md
       - Requisitos Elicitados: elicitacao/tecnicas/requisitos_elicitados.md
+      - Especificação de Requisitos: elicitacao/tecnicas/espec_requisitos.md
     - Priorização de Requisitos: 
       - Técnicas: elicitacao/priorizacao/tecnicas_de_priorizacao.md
       - Requisitos Priorizados: elicitacao/priorizacao/requisitos_priorizados.md
@@ -65,6 +66,8 @@ nav:
       - Entrega 4: verificacao/grupo_7/entrega_4.md
   - Pós-Rastreabilidade:
     - Baseline: pos-rastreabilidade/baseline.md
+    - Backward From: pos-rastreabilidade/backwardfrom.md
+    - Forward From: pos-rastreabilidade/forwardfrom.md
 
 theme:
   name: material
