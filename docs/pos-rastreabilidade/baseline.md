@@ -8,14 +8,34 @@ Neste documento, vamos apresentar de forma detalhada os requisitos do projeto. P
 
 A baseline de requisitos refere-se ao grupo de requisitos documentados no Software Requirements Specification (SRS). Esses requisitos são desenvolvidos ao longo das diversas etapas do processo de requisitos, incluindo elicitação, modelagem, verificação e validação. Eles servem como fundamento para o design e a implementação do software.
 
-**Fonte**: [Referência 1](./assets/ref-1.png)<br>
+<!-- **Fonte**: [Referência 1](./assets/ref-1.png)<br>-->
 
-## Baseline dos requisitos
-
+Para a construção da baseline, os requisitos foram dividos igualmente entre o grupo da seguinte maneira:
 
 <center>
 
-**Tabela 1**: Baseline de requisitos
+**Tabela 1**: Divisão dos requisitos
+
+| Integrante          | Requisitos                        |
+| ------------------- | --------------------------------- |
+| Davi Pierre         | R1, R7, R13, R19, R25, R31 e R37  |
+| Guilherme Westphall | R2, R8, R14, R20, R26, R32 e R38  |
+| Kallyne Macedo      | R3, R9, R15, R21, R27, R33 e R39  |
+| Kauan Eiras         | R4, R10, R16, R22, R28, R34 e R40 |
+| Leonardo Aguiar     | R5, R11, R17, R23, R29, R35 e R41 |
+| Lucas Martins       | R6, R12, R18, R24, R30, R36 e R42 |
+
+**Autor**: [Guilherme Westphall](https://github.com/west7)
+
+</center>
+
+## Baseline dos requisitos
+
+Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a seguir. Esta tabela registra os requisitos, incluindo suas diferentes versões, com a versão mais atual destacada em negrito.
+
+<center>
+
+**Tabela 2**: Baseline de requisitos
 
 <table border='0.5'>
     <tr>
@@ -157,7 +177,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="3">R12</td>
-        <td><b>1.2</></td>
+        <td>1.2</td>
         <td><b>O aplicativo deve permitir a personalização da tela inicial do navegador</b></td>
         <td>Sim</td>
         <td>Não</td>
@@ -185,7 +205,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <tr>
         <td rowspan="2">R14</td>
         <td>1.1</td>
-        <td><b>Deve ser possível alternar entre tema claro e escuro</b></td>
+        <td><b>O aplicativo deve permitir a alternação entre tema claro e escuro</b></td>
         <td> Sim </td>
         <td> Sim </td>
     </tr>
@@ -228,7 +248,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="2">R18</td>
-        <td><b>1.1</b></td>
+        <td>1.1</td>
         <td><b>O aplicativo deve permitir ao usuário limpar seu histórico de navegação</b></td>
         <td>Sim</td>
         <td>Sim</td>
@@ -251,7 +271,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     <tr>
         <td rowspan="2">R20</td>
         <td>1.1</td>
-        <td><b>O aplicativo deve ser permitir a habilitação e bloqueio de notificações</b></td>
+        <td><b>O aplicativo deve permitir a habilitação e bloqueio de notificações</b></td>
         <td> Sim </td>
         <td> Sim </td>
     </tr>
@@ -298,7 +318,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="2">R24</td>
-        <td><b>1.1</b></td>
+        <td>1.1</td>
         <td><b>O aplicativo deve incluir opção de pesquisa por voz</b></td>
         <td>Sim</td>
         <td>Sim</td>
@@ -388,7 +408,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="2">R30</td>
-        <td><b>1.1</b></td>
+        <td>1.1</td>
         <td><b>O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)</b></td>
         <td>Não</td>
         <td>Não</td>
@@ -470,7 +490,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="2">R36</td>
-        <td><b>1.1</b></td>
+        <td>1.1</td>
         <td><b>O aplicativo deve apresentar um design arredondado</b></td>
         <td>Não</td>
         <td>Não</td>
@@ -581,7 +601,7 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
     </tr>
     <tr>
         <td rowspan="4">R42</td>
-        <td><b>1.4</b></td>
+        <td>1.4</td>
         <td><b>O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques, validado através de testes de usabilidade com aprovação de 90%</b></td>
         <td>Sim</td>
         <td>Sim</td>
@@ -607,16 +627,17 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
 
 ## Referências
 
-SAYÃO, Miriam; LEITE, Julio Cesar. Monografias em Ciência da Computação n° 20/05. Acesso em 16 de junho de 2024.
+1. SAYÃO, Miriam; LEITE, Julio Cesar. Monografias em Ciência da Computação n° 20/05. Acesso em 16 de junho de 2024.
 
 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                             | Autor                                                                                                                                                                                                                                                                                              | Revisor                                         |
-|--------|------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| ------ | ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
 | 1.3    | 16/06/2024 | Adiciona os requisitos 1 - 7 - 13 - 19 - 25 - 31 - 37 | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
 | 1.4    | 16/06/2024 | Adiciona mais requisitos                              | [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Lucas Martins](https://github.com/martinsglucas)                                               | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.5    | 19/06/2024 | Atualiza requisitos da baseline                       | [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.6    | 21/06/2024 | Adiciona tabela 1                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Kallyne Macedo](https://github.com/kalipassos) |
