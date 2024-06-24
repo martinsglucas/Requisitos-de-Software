@@ -17,7 +17,7 @@ Para a construção da baseline, os requisitos foram dividos igualmente entre o 
 **Tabela 1**: Divisão dos requisitos
 
 | Integrante          | Requisitos                        |
-| ------------------- | --------------------------------- |
+|---------------------|-----------------------------------|
 | Davi Pierre         | R1, R7, R13, R19, R25, R31 e R37  |
 | Guilherme Westphall | R2, R8, R14, R20, R26, R32 e R38  |
 | Kallyne Macedo      | R3, R9, R15, R21, R27, R33 e R39  |
@@ -607,9 +607,21 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
         <td>Não</td>
     </tr>
     <tr>
-        <td rowspan="5">R41</td>
+        <td rowspan="7">R41</td>
+        <td>1.6</td>
+        <td><b>O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana, conforme comprovado por um sistema de segurança</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>1.5</td>
+        <td>Ter segurança contra rastreamento, roubo de dados e ataques</td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
         <td>1.4</td>
-        <td><b>O aplicativo deve ser seguro</b></td>
+        <td>O navegador deve proteger contra rastreamento de dados</td>
         <td>Sim</td>
         <td>Sim</td>
     </tr>
@@ -627,7 +639,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td>1.1</td>
-        <td>O navegador deve proteger contra rastreamento de dados</td>
+        <td>O aplicativo deve ser seguro</td>
         <td>Sim</td>
         <td>Sim</td>
     </tr>
@@ -677,7 +689,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                             | Autor                                                                                                                                                                                                                                                                                              | Revisor                                         |
-| ------ | ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+|--------|------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
