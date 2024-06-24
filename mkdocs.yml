@@ -68,6 +68,7 @@ nav:
     - Baseline: pos-rastreabilidade/baseline.md
     - Backward From: pos-rastreabilidade/backwardfrom.md
     - Forward From: pos-rastreabilidade/forwardfrom.md
+    - Elos: pos-rastreabilidade/elos.md
 
 theme:
   name: material
