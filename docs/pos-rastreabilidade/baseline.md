@@ -17,7 +17,7 @@ Para a construção da baseline, os requisitos foram dividos igualmente entre o 
 **Tabela 1**: Divisão dos requisitos
 
 | Integrante          | Requisitos                        |
-| ------------------- | --------------------------------- |
+|---------------------|-----------------------------------|
 | Davi Pierre         | R1, R7, R13, R19, R25, R31 e R37  |
 | Guilherme Westphall | R2, R8, R14, R20, R26, R32 e R38  |
 | Kallyne Macedo      | R3, R9, R15, R21, R27, R33 e R39  |
@@ -37,7 +37,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
 
 **Tabela 2**: Baseline de requisitos
 
-<table border='0.5'>
+<table border='1'>
     <tr>
         <th>Requisito</th>
         <th>Versão</th>
@@ -108,12 +108,14 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
         <td rowspan="2">R6</td>
         <td>1.1</td>
         <td><b>O aplicativo deve possuir histórico de downloads</b></td>
-        <td rowspan="2">Sim</td>
-        <td rowspan="2">Não</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>Deve possuir histórico de downloads</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td rowspan="2">R7</td>
@@ -185,10 +187,14 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.1</td>
         <td>Deve ser possível personalizar a tela inicial do navegador</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>O sistema deve fornecer uma personalização diversa</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td rowspan="2">R13</td>
@@ -212,6 +218,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Temas mais agradáveis</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td rowspan="2">R15</td>
@@ -256,6 +264,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Deve ser possível limpar histórico de navegação</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="2">R19</td>
@@ -267,6 +277,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Deve ser possível limpar dados do usuário</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="2">R20</td>
@@ -278,6 +290,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Deve ser possível habilitar e bloquear notificações	</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td rowspan="3">R21</td>
@@ -302,6 +316,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
         <td rowspan="1">R22</td>
         <td>1.0</td>
         <td><b>O aplicativo deve incluir opção de bloquear anúncios</b></td>
+        <td>Não</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="2">R23</td>
@@ -326,6 +342,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>A barra de pesquisa deve incluir opção de pesquisa por voz</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td rowspan="3">R25</td>
@@ -356,10 +374,14 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.1</td>
         <td>Deve conter uma ferramenta de controle parental</td>
+        <td> Não </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>Deve possuir opção de controle parental</td>
+        <td> Não </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td rowspan="2">R27</td>
@@ -416,6 +438,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Rede privada virtual (VPN)</td>
+        <td>Não</td>
+        <td>Não</td>
     </tr>
     <tr>
     <td rowspan="2">R31</td>
@@ -440,10 +464,14 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.1</td>
         <td>O aplicativo deve ser compatível com vários sistemas operacionais</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>O sistema deve ser compatível com várias plataformas</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td rowspan="2">R33</td>
@@ -468,6 +496,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>O aplicativo deve ser leve </td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
         <td rowspan="3">R35</td>
@@ -498,6 +528,8 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>Temas mais arredondados</td>
+        <td>Não</td>
+        <td>Não</td>
     </tr>
     <tr>
     <td rowspan="4">R37</td>
@@ -534,10 +566,14 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.1</td>
         <td>O aplicativo deve apresentar uma interface minimalista</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>Retirar excesso de funções que usuários não vão utilizar</td>
+        <td> Sim </td>
+        <td> Sim </td>
     </tr>
     <tr>
         <td rowspan="3">R39</td>
@@ -567,11 +603,25 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td>1.0</td>
         <td>O aplicativo deve gerir bem a memória</td>
+        <td>Sim</td>
+        <td>Não</td>
     </tr>
     <tr>
-        <td rowspan="5">R41</td>
+        <td rowspan="7">R41</td>
+        <td>1.6</td>
+        <td><b>O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana, conforme comprovado por um sistema de segurança</b></td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
+        <td>1.5</td>
+        <td>Ter segurança contra rastreamento, roubo de dados e ataques</td>
+        <td>Sim</td>
+        <td>Sim</td>
+    </tr>
+    <tr>
         <td>1.4</td>
-        <td><b>O aplicativo deve ser seguro</b></td>
+        <td>O navegador deve proteger contra rastreamento de dados</td>
         <td>Sim</td>
         <td>Sim</td>
     </tr>
@@ -589,7 +639,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td>1.1</td>
-        <td>O navegador deve proteger contra rastreamento de dados</td>
+        <td>O aplicativo deve ser seguro</td>
         <td>Sim</td>
         <td>Sim</td>
     </tr>
@@ -602,21 +652,27 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td rowspan="4">R42</td>
         <td>1.4</td>
-        <td><b>O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques, validado através de testes de usabilidade com aprovação de 90%</b></td>
+        <td><b>O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques</b></td>
         <td>Sim</td>
         <td>Sim</td>
     </tr>
     <tr>
         <td>1.3</td>
         <td>O aplicativo deve ser de fácil uso</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.2</td>
         <td>Sistema deve ser de fácil uso</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
     <tr>
         <td>1.0</td>
         <td>O sistema deve ter uma interface intuitiva</td>
+        <td>Sim</td>
+        <td>Sim</td>
     </tr>
 </table>
 
@@ -633,7 +689,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                             | Autor                                                                                                                                                                                                                                                                                              | Revisor                                         |
-| ------ | ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+|--------|------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |
