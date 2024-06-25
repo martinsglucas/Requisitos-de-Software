@@ -17,11 +17,10 @@ No contexto da elicitação de requisitos, o brainstorming tem como principal va
 A metodologia adotada neste estudo foi baseada na combinação de técnicas de elicitação de requisitos e práticas de Design Thinking. Para o brainstorming, foi estabelecido um número mínimo de seis participantes para garantir uma diversidade adequada de perspectivas e ideias, conforme recomendado na literatura (Vianna et al., 2011). As sessões foram estruturadas da seguinte maneira:
 
 1. **Preparação:**
-   - Seleção de participantes com diferentes origens acadêmicas e profissionais.
+   - Seleção de participantes.
    - Definição do problema específico a ser resolvido.
 
 2. **Sessão de Brainstorming:**
-   - Utilização da técnica do "computador mágico" proposta por Cooper (1999) para estimular a criatividade sem restrições.
    - Condução da sessão por um moderador, garantindo que todos os participantes tenham a oportunidade de contribuir e que a sessão permaneça focada.
 
 3. **Análise e Síntese:**
