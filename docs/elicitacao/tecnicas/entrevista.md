@@ -35,8 +35,8 @@ Na tabela a seguir será apresentado informações sobre os entrevistados.
 <center>
 
 ### Tabela 1: Informações dos entrevistados
-| Entrevistado | Idade | Gênero | Escolaridade | Ocupação | Estado civil |
-|--------------|-------|--------|--------------|----------|--------------|
+| Entrevistado | Idade | Gênero  | Ocupação | Estado civil |
+|--------------|-------|--------|----------|--------------|
 | Nathalia Pimentel de Assis| 24 | Feminino | Estudante e Desenvolvedora Full Stack | Solteira| 
 | Amanda Ferreira | 46 | Feminino | Professora | Casada |
 | Carla Clementino | 23 | Feminino | Desenvolvedora Front-End | Solteiro |
