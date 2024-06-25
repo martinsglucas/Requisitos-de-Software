@@ -34,7 +34,7 @@ Atráves da análise dos requisitos elicitados e priorizados para o projeto, foi
 #### T01. Navegação 
 O tema de Navegação engloba os épicos e histórias de usuário voltadas para o acesso e para a pesquisa, tanto em sites quanto no próprio navegador. 
 
-#### T02. Personalização 
+#### T02. Personalização    
 O tema de Personalização engloba os épicos e histórias de usuários que intendem adequar a aplicação às preferências e necessidades do usuário. 
 
 #### T03. Dados 
