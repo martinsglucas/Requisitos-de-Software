@@ -12,7 +12,7 @@ A entrevista é valiosa para entender as necessidades e expectativas dos usuári
 
 Empregamos a técnica de entrevista para realizar entrevistas com usuários, ex-usuários ou não usuários do Firefox, mas que utilizam navegadores como Google Chrome, Microsoft Edge, Safari, ou outros. O objetivo principal foi identificar as necessidades dos usuários e entender os motivos para a escolha de cada navegador, além de compreender suas experiências, desafios e preferências ao utilizar navegadores, visando identificar possíveis aprimoramentos para o Firefox (Barbosa e Silva, 2021).
 
-### Perfil dos usuários:
+#### Perfil dos usuários:
 Pessoas com idade superior a 12 anos, que utilizem navegadores de internet.
 
 ## Metodologia
