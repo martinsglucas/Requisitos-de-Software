@@ -60,7 +60,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td rowspan="1">R2</td>
-        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/observacao/#tabela-2-requisitos-funcionais">1.0</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/observacao/#tabela-2-requisitos-funcionais"><b>1.0</b></a></td>
         <td><b>O aplicativo deve ter opção de navegação anônima</b></td>
         <td> Sim </td>
         <td> Não </td>
@@ -133,7 +133,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td rowspan="5">R8</td>
-        <td><b><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/priorizacao/requisitos_priorizados/#resultado-da-priorizacao">1.4</a></b></td>
+        <td><b><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/priorizacao/requisitos_priorizados/#resultado-da-priorizacao"><b>1.4</b></a></b></td>
         <td><b>O aplicativo deve possuir opção de sincronizar e salvar dados inseridos</b></td>
         <td>  Sim </td>
         <td>  Sim </td>
@@ -384,7 +384,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td rowspan="3">R26</td>
-        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/priorizacao/requisitos_priorizados/#resultado-da-priorizacao">1.2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/priorizacao/requisitos_priorizados/#resultado-da-priorizacao"><b>1.2</b></a></td>
         <td><b>O aplicativo deve possuir opção de controle parental de acesso das páginas</b></td>
         <td> Não </td>
         <td> Sim </td>
@@ -474,7 +474,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td rowspan="3">R32</td>
-        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/espec_requisitos/#especificacao-dos-requisitos_1">1.2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/espec_requisitos/#especificacao-dos-requisitos_1"><b>1.2</b></a></td>
         <td><b>O sistema deve ser compatível com os sistemas operacionais IOS e Android</b></td>
         <td> Sim </td>
         <td> Sim </td>
@@ -576,7 +576,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     <tr>
         <td rowspan="3">R38</td>
-        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/#requisitos-de-interface">1.2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/#requisitos-de-interface"><b>1.2</b></a></td>
         <td><b>A interface do aplicativo deve apresentar  abas quadradas, animações suaves e uma Biblioteca que oferece acesso rápido a itens salvos, como favoritos, histórico, downloads, abas e capturas de tela</b></td>
         <td> Sim </td>
         <td> Sim </td>
