@@ -1,10 +1,36 @@
 # Elicitação de Requisitos: Brainstorming
 
 ## Introdução
-Conforme pesquisa levantada pela UFSC[1], o brainstorming pode ser classificado como uma técnica de elicitação de requisitos em que cada participante tem a oportunidade de expor suas concepções de forma aberta, com o objetivo de desenvolvimento de um novo sistema. Nessa técnica, os participantes podem ter origens acadêmicas e profissionais distintas e compartilham suas ideias, que são direcionadas para a resolução de um problema específico, em um intervalo de tempo determinado. Dessa forma, a abordagem possibilita que os stakeholders ampliem suas perspectivas acerca do problema em questão.
+
+Conforme pesquisa levantada pela UFSC, o brainstorming pode ser classificado como uma técnica de elicitação de requisitos em que cada participante tem a oportunidade de expor suas concepções de forma aberta, com o objetivo de desenvolvimento de um novo sistema. Nessa técnica, os participantes podem ter origens acadêmicas e profissionais distintas e compartilham suas ideias, que são direcionadas para a resolução de um problema específico, em um intervalo de tempo determinado. Dessa forma, a abordagem possibilita que os stakeholders ampliem suas perspectivas acerca do problema em questão (UFSC, 2023).
+
+Alan Cooper (1999) sugere realizar sessões de brainstorming considerando um “computador mágico”, que não possui qualquer restrição. Ele acredita que esse exercício ajuda a fazer a distinção entre objetivos e tarefas. A elaboração de um perfil de usuário também é fundamental nesse processo, como destacado por Barbosa e Silva (2021), onde se identificam características de interesse e se conduz um estudo para coletar dados dos usuários.
+
+O Design Thinking, conforme apresentado por Vianna et al. (2011), promove a geração de um grande número de ideias em um curto espaço de tempo. No processo de ideação, o brainstorming possibilita uma abordagem rica para gerar ideias em cima de questões relevantes que nasceram durante as fases de imersão e análise. Para que um brainstorming tenha sucesso, é necessário estar atento a preceitos como qualidade pela quantidade e evitar julgamentos precipitados das ideias.
 
 ## Justificativa
-No contexto da elicitação de requisitos, o brainstorm tem como principal vantagem sua capacidade de estimular a criatividade, promovendo a geração de ideias diversas através da expressão livre dos pensamentos. Assim, a técnica traz variedade, profundidade e inovação para as informações coletadas e, consequentemente, auxilia na resolução de conflitos oriundos da elicitação.
+
+No contexto da elicitação de requisitos, o brainstorming tem como principal vantagem sua capacidade de estimular a criatividade, promovendo a geração de ideias diversas através da expressão livre dos pensamentos (Vianna et al., 2011). Assim, a técnica traz variedade, profundidade e inovação para as informações coletadas e, consequentemente, auxilia na resolução de conflitos oriundos da elicitação.
+
+## Metodologia
+
+A metodologia adotada neste estudo foi baseada na combinação de técnicas de elicitação de requisitos e práticas de Design Thinking. Para o brainstorming, foi estabelecido um número mínimo de seis participantes para garantir uma diversidade adequada de perspectivas e ideias, conforme recomendado na literatura (Vianna et al., 2011). As sessões foram estruturadas da seguinte maneira:
+
+1. **Preparação:**
+   - Seleção de participantes com diferentes origens acadêmicas e profissionais.
+   - Definição do problema específico a ser resolvido.
+
+2. **Sessão de Brainstorming:**
+   - Utilização da técnica do "computador mágico" proposta por Cooper (1999) para estimular a criatividade sem restrições.
+   - Condução da sessão por um moderador, garantindo que todos os participantes tenham a oportunidade de contribuir e que a sessão permaneça focada.
+
+3. **Análise e Síntese:**
+   - Coleta e agrupamento das ideias geradas durante a sessão.
+   - Elaboração de perfis de usuário a partir dos dados coletados, conforme metodologia de Barbosa e Silva (2021).
+
+4. **Avaliação:**
+   - Discussão das ideias geradas e seleção das mais viáveis e inovadoras.
+   - Revisão e refinamento dos requisitos identificados.
 
 <center>
 
@@ -121,9 +147,13 @@ No contexto da elicitação de requisitos, o brainstorm tem como principal vanta
 
 ## Referências
 
-1. Retraining. Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 5 jun. 2024.
+1. **COOPER, Alan.** The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Indianapolis: Sams, 1999.
 
-2. GNACIO, Rafael C. Guia Facetado de Técnicas de Elicitação de Requisitos: Técnicas de Elicitação de Requisitos. Universidade Federal de Santa Catarina, 2018. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em 10/04/2024. 
+2. **BARBOSA, Simone; SILVA, Bruno.** Interação Humano-Computador e Experiência do Usuário. 3 de maio de 2021.
+
+3. **VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz.** Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda, 2011.
+
+4. **Universidade Federal de Santa Catarina (UFSC).** *Pesquisa sobre técnicas de elicitação de requisitos*, 2023.
 
 ## Histórico de Versões 
 
