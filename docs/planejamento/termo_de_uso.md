@@ -25,7 +25,7 @@ O Mozilla Firefox usa serviços de informações de sites (“Serviços”) para
 Se você não quiser usar um ou mais Serviços ou não aceitar os termos a seguir, você pode desativar o(s) recurso(s) ou o(s) Serviço(s). Instruções sobre como desativar um recurso ou Serviço em particular podem ser encontradas abaixo. Outros recursos e Serviços podem ser desativados nas preferências do aplicativo.
 
 ## Termo de Uso em PDF
-O termo de uso foi acessado pela última no dia 30/05/2024 às 21h11 e o PDF do Termo de Uso pode ser acessado [aqui]()
+O termo de uso foi acessado pela última no dia 30/05/2024 às 21h11 e o PDF do Termo de Uso pode ser acessado [aqui](https://github.com/Requisitos-de-Software/2024.1-Firefox/blob/textos/docs/planejamento/PDFs/termo%20de%20uso.pdf)
 
 ## Referências
 
