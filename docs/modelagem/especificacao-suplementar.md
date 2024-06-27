@@ -191,6 +191,8 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 
 4. SUPORTE, Mozilla; Gerir atualizações do Firefox, 2024. Disponível em: <https://support.mozilla.org/pt-PT/kb/gerir-atualizacoes-do-firefox>. Acesso em: 20 de maio de 2024.
 
+5. ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes. Acesso em: 17 de maio de 2024.
+
 ## Histórico de Versões 
 
 | Versão |    Data    | Descrição                                         |                       Autor                       |                      Revisor                      |
@@ -201,3 +203,4 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 |  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface  |  [Kallyne Macedo](https://github.com/kalipassos)  |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
 |  1.4   | 27/05/2024 | Melhor especificação para o Desempenho            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 |  1.5   | 05/06/2024 | Reescrita da especificação de forma testável      |  [Kallyne Macedo](https://github.com/kalipassos)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+|  1.6   | 27/06/2024 | Referenciação Bibliográfica      |  [Kauan Eiras](https://github.com/kauaneiras)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
