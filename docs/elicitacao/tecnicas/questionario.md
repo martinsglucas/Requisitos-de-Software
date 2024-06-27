@@ -204,9 +204,9 @@ Após a analise dos dados do questionário sobre o aplicativo da Firefox, foi po
 
 ## Referências
 
-1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Brasport, 2016.
-2. Universidade Federal de Santa Catarina (UFSC). Pesquisa sobre técnicas de elicitação de requisitos, 2023. Disponível em: [UFSC](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta). Acesso em: 14 abr. 2024.
-3. VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz. Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda, 2011.
+1. **VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira.** Engenharia de requisitos: software orientado ao negócio. 1. ed. Brasport, 2016.
+2. **Universidade Federal de Santa Catarina (UFSC).** Pesquisa sobre técnicas de elicitação de requisitos, 2023. Disponível em: [UFSC](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta). Acesso em: 14 abr. 2024.
+3. **VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz.** Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda, 2011.
 
 ## Histórico de Versões 
 
