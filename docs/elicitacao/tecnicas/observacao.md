@@ -106,9 +106,9 @@ A observação utilizada para a elicitação de requisitos das Tabelas 2 e 3 foi
 </center>
 
 ## Referências
- 1. VAZQUEZ, C. E., & SIMÕES, G. S. (2016). Engenharia de requisitos: software orientado ao negócio. Brasport.
- 2. Universidade Federal de Santa Catarina (UFSC). (2023). Pesquisa sobre técnicas de elicitação de requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
- 3. VIANNA, M., VIANNA, Y., ADLER, I. K., LUCENA, B., & RUSSO, B. (2011). Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda.
+ 1. **VAZQUEZ, C. E., & SIMÕES, G. S. (2016).** Engenharia de requisitos: software orientado ao negócio. Brasport.
+ 2. **Universidade Federal de Santa Catarina (UFSC).** (2023). Pesquisa sobre técnicas de elicitação de requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
+ 3. **VIANNA, M., VIANNA, Y., ADLER, I. K., LUCENA, B., & RUSSO, B. (2011).** Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda.
 
 ## Histórico de versões
 
