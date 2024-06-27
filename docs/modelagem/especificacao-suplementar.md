@@ -118,9 +118,7 @@ Na tabela 5, são apresentados os requisitos identificados em relação às rest
 
 |  ID  |                                              Descrição                                               |
 |:----:|:----------------------------------------------------------------------------------------------------:|
-| RD01 | O aplicativo deve ser compatível com as diretrizes de design do
-
- sistema operacional (Android ou iOS) |
+| RD01 | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
 | RD02 |        O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel        |
 | RD03 |                  O aplicativo deve seguir diretrizes de acessibilidade da WCAG 2.1                   |
 
