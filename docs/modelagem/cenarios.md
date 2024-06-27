@@ -252,9 +252,7 @@ Na Tabela 11 está determinado o cenário CEN09, que descreve leitura de uma pá
 
 **Tabela 11**: CEN09
 
-| Elemento    | Des
-
-crição                                                                                          |
+| Elemento    | Descrição                                                                                          |
 | --- | --- |
 | Título      | Ler textos da página para deficientes visuais      |
 | Objetivo    | Ativar uma funcionalidade de acessibilidade para pessoas com deficiência visual |
@@ -356,9 +354,7 @@ Na Tabela 15 está determinado o cenário CEN13, que descreve a proteção dos d
 | Atores      | Usuário do aplicativo Firefox                                                                      |
 | Episódios   | <ul><li>Usuário deseja configurar as opções de proteger dados no aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu de configurações</li><li>Usuário seleciona a opção "Proteger Dados"</li><li>Usuário revisa e ajusta as configurações de segurança, como ativar a proteção de contas, gerenciar senhas salvas, e ativar a verificação em duas etapas</li><li>Usuário define uma senha mestra ou utiliza autenticação biométrica para proteger o acesso às configurações de segurança</li><li>Usuário configura alertas de segurança para notificações de tentativas de acesso não autorizadas</li><li>Usuário salva as configurações</li><li>O aplicativo Firefox aplica as configurações de segurança e protege as contas, senhas, cartões e informações pessoais do usuário</li></ul> |
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O dispositivo deve suportar autenticação biométrica (se utilizada) |
-| Exceção     | <ul><li>Queda de internet</li><li>O
-
- aparelho celular não funcionar</li><li>Falta de suporte para autenticação biométrica no dispositivo</li></ul>                        |
+| Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>Falta de suporte para autenticação biométrica no dispositivo</li></ul> |
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
