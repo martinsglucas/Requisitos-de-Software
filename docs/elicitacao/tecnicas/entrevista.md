@@ -1,25 +1,32 @@
 # Elicitação de Requisitos: Entrevista
 
 ## Introdução
-Baseado no conceito do livro Engenharia de Requisitos[1], a entrevista se configura como uma conversa, formal ou informal, entre duas ou mais partes. Nesse contexto, o entrevistador se empenha em extrair respostas para um conjunto de indagações meticulosamente elaboradas.
+
+A entrevista é amplamente reconhecida como a técnica mais comum e uma das mais eficazes para a elicitação de requisitos. A Entrevista envolve discussões individuais entre um representante da equipe e um usuário ou stakeholder. Devido à sua capacidade de obter um conhecimento profundo, é considerada essencial para obter e validar os requisitos de software. Através de uma conversa, são feitas perguntas associadas aos requisitos (Barbosa e Silva, 2021).
 
 ## Justificativa
-No contexto da elicitação de requisitos, a entrevista se destaca como uma ferramenta valiosa para entender as necessidades e expectativas dos usuários em relação a um sistema. Essa abordagem foi escolhida para este projeto porque permite uma troca direta entre o entrevistador e o usuário, possibilitando uma compreensão mais profunda das questões e desafios enfrentados ao utilizar o sistema. É uma maneira de ouvir os usuários sobre suas preocupações e usar essas informações para melhorar continuamente o sistema.
+
+A entrevista é valiosa para entender as necessidades e expectativas dos usuários em relação a um sistema. Ela permite uma troca direta entre o entrevistador e o usuário, possibilitando uma compreensão profunda das questões e desafios enfrentados ao utilizar o sistema (Vianna et al., 2011). Esta técnica foi escolhida para este projeto por ser uma maneira eficaz de ouvir os usuários sobre suas preocupações e usar essas informações para melhorar continuamente o sistema (UFSC, 2023).
 
 ## Objetivo
-Empregamos a técnica de entrevista com o propósito de realizar entrevistas com os usuários, ex-usuários ou não usuários do Firefox, mas que utilizam algum navegador como o Google Chrome, Microsoft Edge, Safari, ou outro. O objetivo principal das entrevistas foi buscar necessidades dos usuários e entender o motivo de utilizarem cada navegador. Adicionalmente, buscamos compreender suas experiências, desafios e preferências ao utilizar navegadores, visando identificar possiveis aprimoramentos para o Firefox.
 
-## Público Alvo
-Pessoas idade superior a 12 anos, que utilizem navegadores de internet.
+Empregamos a técnica de entrevista para realizar entrevistas com usuários, ex-usuários ou não usuários do Firefox, mas que utilizam navegadores como Google Chrome, Microsoft Edge, Safari, ou outros. O objetivo principal foi identificar as necessidades dos usuários e entender os motivos para a escolha de cada navegador, além de compreender suas experiências, desafios e preferências ao utilizar navegadores, visando identificar possíveis aprimoramentos para o Firefox (Barbosa e Silva, 2021).
+
+**Perfil dos usuários:** Pessoas com idade superior a 12 anos, que utilizem navegadores de internet.
 
 ## Metodologia
-Na metodologia entrevista, alguns precauçẽos devem ser tomados, como o consentimento que será apresentado ao mesmo antes da entrevista e novamente será perguntado para confirmar a intenção do usuário em colaborar com o trabalho. Após a realização da entrevista, serão elicitados os requisitos baseando-se nos resultados obtidos.
 
-As entrevistas foram conduzidas de maneiras distintas, tendo um roteiro de perguntas principal, mas adaptando-o para cada tipo de resposta do entrevistado, tendo perguntas abertas e permitindo que os entrevistados expressassem suas opniões, experiências e sugestões de forma livre. A ferramenta utilizada para as entrevistas gravadas foi o Google Meets, e para a entrevista sem gravação, foi utilizado o Whatsapp.
+A entrevista, sendo um método verbal fácil e efetivo para compartilhar ideias e expressar necessidades entre usuários, analistas e stakeholders, pode ser estruturada, não estruturada ou semi-estruturada:
 
-As gravações das entrevistas serão disponibilizadas no presente artefato, e o cronograma da entrevista que foi utilizado em todas as entrevistas e o termo de consentimento que tambem foi utilizado em todas as entrevistas e pode ser conferido clicando [aqui](https://drive.google.com/drive/folders/1rE7I4LeM09IeOsDSxTvZ2_RKEwCYpVEF?usp=drive_link).
+- **Estruturadas**: Baseadas em um conjunto fixo de perguntas, permitem examinar o nível de compreensão dos stakeholders sobre determinado tópico.
+- **Não estruturadas**: Conversacionais por natureza, são úteis para focar na compreensão de problemas específicos.
+- **Semi-estruturada**: Combinação de perguntas pré-definidas e não planejadas, misturando os tipos estruturado e não estruturado (Barbosa e Silva, 2021).
 
-Após apresentar o termo de consentimento, são feitas perguntas para o participante. Como nem todos os participantes utilizavam o Firefox, as perguntas foram abertas e adaptadas para melhor interação do usuário. Tamabém foi dada a abertura para o participante expressar opiniões fora deste escopo. As perguntas poderão ser lidas na transcrição de cada entrevista.
+O processo de entrevista pode ser resumido em oito passos: identificar o stakeholder, preparar a entrevista, agendar, preparar o ambiente, conduzir, finalizar a entrevista e organizar os requisitos elicitados (UFSC, 2023).
+
+A técnica de entrevista utilizada foi a semi-estruturada, conduzidas utilizando o Google Meets. O termo de consentimento para realização das entrevistas podem ser conferidos clicando [aqui](https://drive.google.com/drive/folders/1rE7I4LeM09IeOsDSxTvZ2_RKEwCYpVEF?usp=drive_link).
+
+Após apresentar o termo de consentimento, forão feitas perguntas para o participante. Como nem todos os participantes utilizavam o Firefox, as perguntas foram abertas e adaptadas para melhor interação do usuário. Tamabém foi dada a abertura para o participante expressar opiniões fora deste escopo. As perguntas poderão ser lidas na transcrição de cada entrevista.
 
 ## Desenvolvimento 
 
@@ -28,8 +35,8 @@ Na tabela a seguir será apresentado informações sobre os entrevistados.
 <center>
 
 ### Tabela 1: Informações dos entrevistados
-| Entrevistado | Idade | Gênero | Escolaridade | Ocupação | Estado civil |
-|--------------|-------|--------|--------------|----------|--------------|
+| Entrevistado | Idade | Gênero  | Ocupação | Estado civil |
+|--------------|-------|--------|----------|--------------|
 | Nathalia Pimentel de Assis| 24 | Feminino | Estudante e Desenvolvedora Full Stack | Solteira| 
 | Amanda Ferreira | 46 | Feminino | Professora | Casada |
 | Carla Clementino | 23 | Feminino | Desenvolvedora Front-End | Solteiro |
@@ -172,7 +179,9 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 </center><br>
 
 ## Referências 
-1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
+1. VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz. *Design Thinking: Inovação em Negócios*. MJV Tecnologia Ltda, 2011.
+2. BARBOSA, Simone; SILVA, Bruno. *Interação Humano-Computador e Experiência do Usuário*. 3 de maio de 2021.
+3. Universidade Federal de Santa Catarina (UFSC). *Pesquisa sobre técnicas de elicitação de requisitos*, 2023. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
 ## Histórico de Versões 
 

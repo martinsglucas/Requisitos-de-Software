@@ -1,17 +1,23 @@
 # Elicitação de Requisitos: Observação
 
 ## Introdução
-A técnica de observação envolve um usuário e um mediador, com o objetivo de identificar funcionalidades do software observando o uso do aplicativo. Essa técnica fornece insights valiosos sobre as interações dos usuários, ajudando a definir requisitos mais precisos. É especialmente útil em ambientes complexos ou quando os usuários têm dificuldade em expressar suas necessidades.
 
-## Justificativa 
+A técnica de observação, também chamada de análise social, envolve um usuário e um mediador com o objetivo de identificar funcionalidades do software observando o uso do aplicativo. Esta técnica fornece insights valiosos sobre as interações dos usuários, ajudando a definir requisitos mais precisos. É especialmente útil em ambientes complexos ou quando os usuários têm dificuldade em expressar suas necessidades (VAZQUEZ; SIMÕES, 2016).
 
-Por ser uma técnica etnográfica (que estuda o comportamento e os hábitos do usuário) e que pode ser aplicada pelo próprio analista do projeto, a escolha da observação direta como método de elicitação de requisitos é justificada ao permitir a coleta de requisitos que poderiam não ser identificados por meio de outras técnicas. 
+## Justificativa
+
+Por ser uma técnica etnográfica, que estuda o comportamento e os hábitos do usuário, a escolha da observação direta como método de elicitação de requisitos é justificada pela capacidade de coletar requisitos que poderiam não ser identificados por meio de outras técnicas. A observação ajuda a coletar requisitos implícitos que uma entrevista não consegue revelar e é particularmente útil quando os usuários estão muito ocupados para serem envolvidos em entrevistas (UFSC, 2023).
 
 ## Metodologia
 
-No contexto do navegador Firefox, no dia 14 de abril de 2024 foi realizada uma reunião no Teams, entre [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras) como, respectivamente, mediador e usuário para elicitar os requisitos do aplicativo.
+No contexto do navegador Firefox, no dia 14 de abril de 2024, foi realizada uma reunião no Teams entre Guilherme Westphall e Kauan Eiras, respectivamente mediador e usuário, para elicitar os requisitos do aplicativo.
 
-A metodologia utilizada para a elicitação de requisitos das **Tabelas 2 e 3** foi a **Observação direta ativa**. Os requisitos são elicitados com base na observação de um processo no qual o usuário irá utilizar o produto. Na forma ativa, o observador conduz o usuário por meio de perguntas durante o uso do aplicativo. Ao contrário de outros métodos de coleta de dados, como questionários ou entrevistas, a observação direta ativa permite capturar informações em tempo real, sem depender da memória ou interpretação posterior dos usuários. Isso proporciona uma visão mais precisa e detalhada do uso do navegador, revelando insights valiosos que podem orientar melhorias no design, na usabilidade e na experiência do usuário. 
+Esta técnica pode ser aplicada de duas formas:
+
+- **Ativa**: O usuário pode ser questionado durante o processo de observação.
+- **Passiva**: O observador não interage com o usuário enquanto observa sua rotina.
+
+A observação utilizada para a elicitação de requisitos das Tabelas 2 e 3 foi a Observação direta ativa. Os requisitos foram elicitados com base na observação no qual o usuário utilizou o aplicativo. Na forma ativa, o observador conduziu o usuário por meio de perguntas durante o uso do aplicativo. Ao contrário de outros métodos de coleta de dados, como questionários ou entrevistas, a observação direta ativa permite capturar informações em tempo real, sem depender da memória ou interpretação posterior dos usuários. Isso proporciona uma visão mais precisa e detalhada do uso do navegador, revelando insights valiosos que podem orientar melhorias no design, na usabilidade e na experiência do usuário (VIANNA et al., 2011).
 
 <center> 
 
@@ -100,8 +106,9 @@ A metodologia utilizada para a elicitação de requisitos das **Tabelas 2 e 3** 
 </center>
 
 ## Referências
-
-1. Universidade Federal de Santa Catarina. Guia de Retreinamento - Técnicas de Elicitação de Requisitos: Observação Direta. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
+ 1. VAZQUEZ, C. E., & SIMÕES, G. S. (2016). Engenharia de requisitos: software orientado ao negócio. Brasport.
+ 2. Universidade Federal de Santa Catarina (UFSC). (2023). Pesquisa sobre técnicas de elicitação de requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
+ 3. VIANNA, M., VIANNA, Y., ADLER, I. K., LUCENA, B., & RUSSO, B. (2011). Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda.
 
 ## Histórico de versões
 
