@@ -1,10 +1,12 @@
-# Cenários
+### Cenários
 
 ## Introdução
-Os cenários são uma estratégia essencial para compreender a interação entre o ambiente e o sistema. Eles são eficazes para elicitar e especificar o comportamento do software. Nossa abordagem considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o trabalho de Leite sobre uma linha de base de requisitos orientada ao cliente. Esta abordagem visa modelar os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais.
+
+Os cenários são uma estratégia essencial para compreender a interação entre o ambiente e o sistema. Eles são eficazes para elicitar e especificar o comportamento do software. A abordadem escolhida pelo grupo considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o conteúdo de Leite et al. (1997) sobre uma linha de base de requisitos orientada ao cliente. Esta abordagem modela os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais (LEITE et al., 2024).
 
 ## Metodologia
-A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e IOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
+
+A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e iOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
 <center>
 
@@ -32,7 +34,7 @@ A construção dos cenários foi realizada identificando as principais tarefas d
 
 </center>
 
-Cada cenário é descrito conforme a tabela 2.
+Cada cenário é descrito conforme a Tabela 2.
 
 <center>
 
@@ -58,7 +60,7 @@ Cada cenário é descrito conforme a tabela 2.
 
 ### CEN01: Pesquisar e abrir sites
 
-Na tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertura de sites no aplicativo Firefox.
+Na Tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertura de sites no aplicativo Firefox.
 
 <center>
 
@@ -67,7 +69,7 @@ Na tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertu
 | Elemento | Descrição |
 | --- | --- |
 | Título | Pesquisar e abrir sites |
-| Objetivo | Realizar uma pesquisa na internet atraves da barra de pesquisa |
+| Objetivo | Realizar uma pesquisa na internet através da barra de pesquisa |
 | Contexto | Local: em casa,<br> Tempo: durante o dia realizado em 1 minuto,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
 | Recursos | Aparelho celular,<br> Acesso à internet |
 | Atores | Usuário do aplicativo Firefox |
@@ -81,7 +83,7 @@ Na tabela 3 está determinado o cenário CEN01, que descreve a pesquisa e abertu
 
 ### CEN02: Escolher idioma
 
-Na tabela 4 está determinado o cenário CEN02, que descreve a escolha de idioma no aplicativo Firefox.
+Na Tabela 4 está determinado o cenário CEN02, que descreve a escolha de idioma no aplicativo Firefox.
 
 <center>
 
@@ -104,7 +106,7 @@ Na tabela 4 está determinado o cenário CEN02, que descreve a escolha de idioma
 
 ### CEN03: Traduzir páginas
 
-Na tabela 5 está determinado o cenário CEN03, que descreve a tradução de páginas no aplicativo Firefox.
+Na Tabela 5 está determinado o cenário CEN03, que descreve a tradução de páginas no aplicativo Firefox.
 
 <center>
 
@@ -113,12 +115,12 @@ Na tabela 5 está determinado o cenário CEN03, que descreve a tradução de pá
 | Elemento | Descrição |
 | --- | --- |
 | Título | Traduzir páginas |
-| Objetivo | Traduzir uma pagina que esta em um idioma desconhecido para um idioma conhecido |
+| Objetivo | Traduzir uma página que está em um idioma desconhecido para um idioma conhecido |
 | Contexto | Local: em casa,<br> Tempo: durante a noite realizado em 1 minuto,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
 | Recursos | Aparelho celular,<br> Acesso à internet |
 | Atores | Usuário do aplicativo Firefox |
-| Episódios | Usuário deseja realizar uma pesquisa sobre gatos,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário abre a barra de pesquisa,<br> Usuário digita o que deseja pesquisar,<br> Usuário aperta o botão para realizar a pesquisa,<br> O app Firefox mostra os resultados da pesquisa,<br> O Usuário entra em um dos links,<br> A pagina se encontra em um idioma desconhecido,<br> O Usuário abre o menu de opçoes,<br> O Usuário seleciona a opcao "traduzir pagina",<br> O Usuário seleciona o idioma para o qual ele deseja que a pagina seja traduzida,<br> O app Firefox mostra a mesma pagina no idioma que foi selecionado a traducao |
-| Restrição | O aplicativo deve estar atualizado para evitar erros,<br> O idioma estar elegivel para ser traduzido |
+| Episódios | Usuário deseja realizar uma pesquisa sobre gatos,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário abre a barra de pesquisa,<br> Usuário digita o que deseja pesquisar,<br> Usuário aperta o botão para realizar a pesquisa,<br> O app Firefox mostra os resultados da pesquisa,<br> O Usuário entra em um dos links,<br> A página se encontra em um idioma desconhecido,<br> O Usuário abre o menu de opções,<br> O Usuário seleciona a opção "traduzir página",<br> O Usuário seleciona o idioma para o qual ele deseja que a página seja traduzida,<br> O app Firefox mostra a mesma página no idioma que foi selecionado a tradução |
+| Restrição | O aplicativo deve estar atualizado para evitar erros,<br> O idioma estar elegível para ser traduzido |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
@@ -127,7 +129,9 @@ Na tabela 5 está determinado o cenário CEN03, que descreve a tradução de pá
 
 ### CEN04: Sincronizar e salvar dados do usuário
 
-Na tabela 6 está determinado o cenário CEN04, que descreve a sincronização e salvamento de dados do usuário no aplicativo Firefox.
+Na Tabela 6 está determinado o cenário CEN04, que descreve a
+
+ sincronização e salvamento de dados do usuário no aplicativo Firefox.
 
 <center>
 
@@ -136,12 +140,12 @@ Na tabela 6 está determinado o cenário CEN04, que descreve a sincronização e
 | Elemento | Descrição |
 | --- | --- |
 | Título | Sincronizar e salvar dados do usuário |
-| Objetivo | Sincronizar as configuracoes e dados salvos entre dois aparelhos diferentes que possuam o app Firefox |
-| Contexto | Local: no escritorio do trabalho,<br> Tempo: durante a tarde realizado em 5 minutos,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado em ambas as máquinas, possuir um dos aparelhos com camera ou possuir um email valido |
+| Objetivo | Sincronizar as configurações e dados salvos entre dois aparelhos diferentes que possuam o app Firefox |
+| Contexto | Local: no escritório do trabalho,<br> Tempo: durante a tarde realizado em 5 minutos,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado em ambas as máquinas, possuir um dos aparelhos com câmera ou possuir um email válido |
 | Recursos | Aparelho celular e/ou computador,<br> Acesso à internet |
 | Atores | Usuário do aplicativo Firefox |
-| Episódios | Usuário deseja sincronizar os dados do navegador do pc com o do celular,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário abre o menu de opcoes,<br> Usuário clica na opcao "sincronizar e salvar dados",<br> Usuário aperta o botão para sincronizar via QR Code,<br> Usuário abre o QR Code no pc, <br> Usuário aponta a camera do celular para o QR Code no pc,<br> O app Firefox sincroniza os dados dos dispositivos |
-| Restrição | O aplicativo deve estar atualizado para evitar erros,<br>  |
+| Episódios | Usuário deseja sincronizar os dados do navegador do PC com o do celular,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário abre o menu de opções,<br> Usuário clica na opção "sincronizar e salvar dados",<br> Usuário aperta o botão para sincronizar via QR Code,<br> Usuário abre o QR Code no PC, <br> Usuário aponta a câmera do celular para o QR Code no PC,<br> O app Firefox sincroniza os dados dos dispositivos |
+| Restrição | O aplicativo deve estar atualizado para evitar erros |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar,<br> O computador não funcionar |
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
@@ -150,7 +154,7 @@ Na tabela 6 está determinado o cenário CEN04, que descreve a sincronização e
 
 ### CEN05: Trocar de conta sincronizada
 
-Na tabela 7 está determinado o cenário CEN05, que descreve a troca de conta sincronizada no aplicativo Firefox.
+Na Tabela 7 está determinado o cenário CEN05, que descreve a troca de conta sincronizada no aplicativo Firefox.
 
 <center>
 
@@ -159,11 +163,11 @@ Na tabela 7 está determinado o cenário CEN05, que descreve a troca de conta si
 | Elemento | Descrição |
 | --- | --- |
 | Título | Trocar de conta sincronizada |
-| Objetivo | Ter ao mesmo tempo duas contas registradas no app do Firefox e conectadas que possam ser trocadas conforme necessario |
+| Objetivo | Ter ao mesmo tempo duas contas registradas no app do Firefox e conectadas que possam ser trocadas conforme necessário |
 | Contexto | Local: na academia,<br> Tempo: durante a tarde realizado em 1 minuto,<br> Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
 | Recursos | Aparelho celular,<br> Acesso à internet |
 | Atores | Usuário do aplicativo Firefox |
-| Episódios | Usuário deseja entrar no perfil de trabalho para enviar um email,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário ve que esta no seu perfil pessoal,<br> Usuário deseja trocar para o perfil de trabalho,<br> Usuário abre o menu de opcoes,<br> O Usuário seleciona a opcao "contas",<br> O app Firefox abre uma pagina com opcoes relacionadas a conta do usuário,<br> O Usuário seleciona a opcao "trocar de conta",<br> O Usuário seleciona a conta que deseja entrar,<br> O app Firefox sincroniza com a conta escolhida,<br> O Usuário envia o email do trabalho |
+| Episódios | Usuário deseja entrar no perfil de trabalho para enviar um email,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário vê que está no seu perfil pessoal,<br> Usuário deseja trocar para o perfil de trabalho,<br> Usuário abre o menu de opções,<br> O Usuário seleciona a opção "contas",<br> O app Firefox abre uma página com opções relacionadas à conta do usuário,<br> O Usuário seleciona a opção "trocar de conta",<br> O Usuário seleciona a conta que deseja entrar,<br> O app Firefox sincroniza com a conta escolhida,<br> O Usuário envia o email do trabalho |
 | Restrição | O aplicativo deve estar atualizado para evitar erros |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar |
 
@@ -173,7 +177,7 @@ Na tabela 7 está determinado o cenário CEN05, que descreve a troca de conta si
 
 ### CEN06: Bloquear anúncios de sites
 
-Na tabela 8 está determinado o cenário CEN06, que descreve o bloqueio de anúncios de sites no aplicativo Firefox.
+Na Tabela 8 está determinado o cenário CEN06, que descreve o bloqueio de anúncios de sites no aplicativo Firefox.
 
 <center>
 
@@ -196,7 +200,7 @@ Na tabela 8 está determinado o cenário CEN06, que descreve o bloqueio de anún
 
 ### CEN07: Busca por texto em páginas
 
-Na tabela 9 está determinado o cenário CEN07, que descreve a busca por texto em páginas no aplicativo Firefox.
+Na Tabela 9 está determinado o cenário CEN07, que descreve a busca por texto em páginas no aplicativo Firefox.
 
 <center>
 
@@ -219,7 +223,7 @@ Na tabela 9 está determinado o cenário CEN07, que descreve a busca por texto e
 
 ### CEN08: Realizar pesquisa por voz
 
-Na tabela 10 está determinado o cenário CEN08, que descreve a realização de uma pesquisa por voz no aplicativo Firefox.
+Na Tabela 10 está determinado o cenário CEN08, que descreve a realização de uma pesquisa por voz no aplicativo Firefox.
 
 <center>
 
@@ -232,7 +236,7 @@ Na tabela 10 está determinado o cenário CEN08, que descreve a realização de 
 | Contexto | Local: em casa,<br> Tempo: de manhã, realizado em 1 minuto,<br> Pré-condições: acesso à Internet, ter o aplicativo do Firefox instalado, ter um microfone funcional no aparelho |
 | Recursos | Aparelho celular,<br> Acesso à internet |
 | Atores | Usuário do aplicativo Firefox |
-| Episódios | Usuário está cozinhando e precisa pesquisar uma receita,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário está com a mão suja, então prefere usar a voz<br> Usuário abre a barra de pesquisa, <br> Usuário seleciona a opção de pesquisa por voz, <br> Usuário fala, no microfone, o que deseja pesquisar, <br> O app Firefox retorna uma pagina com resultados da busca, <br> Usuário consegue visualizar a informação que precisava,<br> Usuário volta a cozinhar<br> |
+| Episódios | Usuário está cozinhando e precisa pesquisar uma receita,<br> Usuário pega o celular, <br> Usuário abre o aplicativo do Firefox,<br> Usuário está com a mão suja, então prefere usar a voz<br> Usuário abre a barra de pesquisa, <br> Usuário seleciona a opção de pesquisa por voz, <br> Usuário fala, no microfone, o que deseja pesquisar, <br> O app Firefox retorna uma página com resultados da busca, <br> Usuário consegue visualizar a informação que precisava,<br> Usuário volta a cozinhar<br> |
 | Restrição | O aplicativo deve estar atualizado para evitar erros,<br>O microfone deve estar ativado<br> |
 | Exceção | Queda de internet,<br> O aparelho celular não funcionar,<br> O aplicativo não entender a voz do usuário |
 
@@ -242,20 +246,22 @@ Na tabela 10 está determinado o cenário CEN08, que descreve a realização de 
 
 ### CEN09: Ler textos da página para deficientes visuais
 
-Na tabela 11 está determinado o cenário CEN09, que descreve leitura de uma página no ponto de vista de um deficiente visual.
+Na Tabela 11 está determinado o cenário CEN09, que descreve leitura de uma página no ponto de vista de um deficiente visual.
 
 <center>
 
 **Tabela 11**: CEN09
 
-| Elemento    | Descrição                                                                                          |
+| Elemento    | Des
+
+crição                                                                                          |
 | --- | --- |
 | Título      | Ler textos da página para deficientes visuais      |
-| Objetivo    | Ativar uma funcionalidade de acessabilidade para pessoas com deficiência visual |
+| Objetivo    | Ativar uma funcionalidade de acessibilidade para pessoas com deficiência visual |
 | Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
 | Recursos    | Aparelho celular<br>Acesso à internet                                                             |
 | Atores      | Usuário do aplicativo Firefox portador de deficiência visual     |
-| Episódios   | <ul><li>Usuário deseja ler uma pagina no aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário abre o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Acessibilidade"</li><li>Usuário desativa a opção de "Dimensionamento automático de fontes"</li><li>Usuário aumenta o tamanho da fonte até o tamanho desejado deslizando a barra "Tamanho das fontes"</li><li>Usuário liga a opção "Zoom em todos os sites"</li></ul> |
+| Episódios   | <ul><li>Usuário deseja ler uma página no aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário abre o menu</li><li>Usuário seleciona a opção "Configurações"</li><li>Usuário seleciona a opção "Acessibilidade"</li><li>Usuário desativa a opção de "Dimensionamento automático de fontes"</li><li>Usuário aumenta o tamanho da fonte até o tamanho desejado deslizando a barra "Tamanho das fontes"</li><li>Usuário liga a opção "Zoom em todos os sites"</li></ul> |
 | Restrição   | O aplicativo deve estar atualizado para evitar erros |
 | Exceção     | <ul><li>O aparelho celular não funcionar</li></ul> |
 
@@ -265,7 +271,7 @@ Na tabela 11 está determinado o cenário CEN09, que descreve leitura de uma pá
 
 ### CEN10: Ativar modo para daltônicos
 
-Na tabela 12 está determinado o cenário CEN10, que descreve a ativação do modo para daltônicos no aplicativo Firefox.
+Na Tabela 12 está determinado o cenário CEN10, que descreve a ativação do modo para daltônicos no aplicativo Firefox.
 
 <center>
 
@@ -274,7 +280,7 @@ Na tabela 12 está determinado o cenário CEN10, que descreve a ativação do mo
 | Elemento    | Descrição                                                                                          |
 | --- | --- |
 | Título      | Ativar modo para daltônicos                                               |
-| Objetivo    | Ativar uma funcionalidade de acessabilidade para pessoas com daltonismo |
+| Objetivo    | Ativar uma funcionalidade de acessibilidade para pessoas com daltonismo |
 | Contexto    | Local: em casa<br>Tempo: durante o dia, realizado em 1 minuto<br>Pré-condições: acesso à internet, ter o aplicativo do Firefox instalado |
 | Recursos    | Aparelho celular<br>Acesso à internet                                                             |
 | Atores      | Usuário do aplicativo Firefox                                                                      |
@@ -288,7 +294,7 @@ Na tabela 12 está determinado o cenário CEN10, que descreve a ativação do mo
 
 ### CEN11: Ativar controle parental
 
-Na tabela 13 está determinado o cenário CEN11, que descreve a ativação do controle parental no aplicativo Firefox.
+Na Tabela 13 está determinado o cenário CEN11, que descreve a ativação do controle parental no aplicativo Firefox.
 
 <center>
 
@@ -312,7 +318,7 @@ Na tabela 13 está determinado o cenário CEN11, que descreve a ativação do co
 
 ### CEN12: Alterar fonte do navegador em tipo e tamanho
 
-Na tabela 14 está determinado o cenário CEN12, que descreve a alteração da fonte do navegador em tipo e tamanho no aplicativo Firefox.
+Na Tabela 14 está determinado o cenário CEN12, que descreve a alteração da fonte do navegador em tipo e tamanho no aplicativo Firefox.
 
 <center>
 
@@ -335,7 +341,7 @@ Na tabela 14 está determinado o cenário CEN12, que descreve a alteração da f
 
 ### CEN13: Proteger dados do usuário
 
-Na tabela 15 está determinado o cenário CEN13, que descreve a proteção dos dados do usuário no aplicativo Firefox.
+Na Tabela 15 está determinado o cenário CEN13, que descreve a proteção dos dados do usuário no aplicativo Firefox.
 
 <center>
 
@@ -350,7 +356,9 @@ Na tabela 15 está determinado o cenário CEN13, que descreve a proteção dos d
 | Atores      | Usuário do aplicativo Firefox                                                                      |
 | Episódios   | <ul><li>Usuário deseja configurar as opções de proteger dados no aplicativo Firefox</li><li>Usuário pega o celular</li><li>Usuário abre o aplicativo do Firefox</li><li>Usuário navega até o menu de configurações</li><li>Usuário seleciona a opção "Proteger Dados"</li><li>Usuário revisa e ajusta as configurações de segurança, como ativar a proteção de contas, gerenciar senhas salvas, e ativar a verificação em duas etapas</li><li>Usuário define uma senha mestra ou utiliza autenticação biométrica para proteger o acesso às configurações de segurança</li><li>Usuário configura alertas de segurança para notificações de tentativas de acesso não autorizadas</li><li>Usuário salva as configurações</li><li>O aplicativo Firefox aplica as configurações de segurança e protege as contas, senhas, cartões e informações pessoais do usuário</li></ul> |
 | Restrição   | O aplicativo deve estar atualizado para evitar erros<br>O dispositivo deve suportar autenticação biométrica (se utilizada) |
-| Exceção     | <ul><li>Queda de internet</li><li>O aparelho celular não funcionar</li><li>Falta de suporte para autenticação biométrica no dispositivo</li></ul>                        |
+| Exceção     | <ul><li>Queda de internet</li><li>O
+
+ aparelho celular não funcionar</li><li>Falta de suporte para autenticação biométrica no dispositivo</li></ul>                        |
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024
 
@@ -358,7 +366,7 @@ Na tabela 15 está determinado o cenário CEN13, que descreve a proteção dos d
 
 ### CEN14: Limpar histórico de navegação, senhas salvas e cache
 
-Na tabela 16 está determinado o cenário CEN14, que descreve a limpeza do histórico de navegação, senhas salvas e cache no aplicativo Firefox.
+Na Tabela 16 está determinado o cenário CEN14, que descreve a limpeza do histórico de navegação, senhas salvas e cache no aplicativo Firefox.
 
 <center>
 
@@ -382,7 +390,7 @@ Na tabela 16 está determinado o cenário CEN14, que descreve a limpeza do hist�
 ### CEN15: Escolher entre tema claro ou escuro
 
 
-Na tabela 17 está determinado o cenário CEN15, que descreve a escolha entre tema claro ou escuro no aplicativo Firefox.
+Na Tabela 17 está determinado o cenário CEN15, que descreve a escolha entre tema claro ou escuro no aplicativo Firefox.
 
 <center>
 
@@ -405,7 +413,8 @@ Na tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 
 ## Referências
 
-1. Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
+1. **LEITE, Júlio C. S. P.;** et al. *Cenários*. In: **Modelos de requisitos e cenários: uma abordagem centrada no usuário**. PUC-Rio. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 27 jun. 2024.
+2. **BARBOSA, Simone D. J.; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J.** *Interação Humano-Computador e Experiência do Usuário*.
 
 ## Histórico de Versões 
 
