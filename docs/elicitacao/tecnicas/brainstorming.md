@@ -152,7 +152,7 @@ A metodologia adotada neste estudo foi baseada na combinação de técnicas de e
 
 3. **VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz.** Design Thinking: Inovação em Negócios. MJV Tecnologia Ltda, 2011.
 
-4. **Universidade Federal de Santa Catarina (UFSC).** *Pesquisa sobre técnicas de elicitação de requisitos*, 2023.
+4. **Universidade Federal de Santa Catarina (UFSC).** *Pesquisa sobre técnicas de elicitação de requisitos*, 2023. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
 ## Histórico de Versões 
 
