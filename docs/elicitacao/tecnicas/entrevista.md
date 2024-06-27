@@ -179,9 +179,9 @@ Após a realização da entrevista com o usuária e ex-usuárias do aplicativo d
 </center><br>
 
 ## Referências 
-1. VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz. *Design Thinking: Inovação em Negócios*. MJV Tecnologia Ltda, 2011.
-2. BARBOSA, Simone; SILVA, Bruno. *Interação Humano-Computador e Experiência do Usuário*. 3 de maio de 2021.
-3. Universidade Federal de Santa Catarina (UFSC). *Pesquisa sobre técnicas de elicitação de requisitos*, 2023. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
+1. **VIANNA, Maurício; VIANNA, Ysmar; ADLER, Isabel K.; LUCENA, Brenda; RUSSO, Beatriz.** *Design Thinking: Inovação em Negócios*. MJV Tecnologia Ltda, 2011.
+2. **BARBOSA, Simone; SILVA, Bruno.** *Interação Humano-Computador e Experiência do Usuário*. 3 de maio de 2021.
+3. **Universidade Federal de Santa Catarina (UFSC).** *Pesquisa sobre técnicas de elicitação de requisitos*, 2023. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-observacao-direta. Acesso em: 14 abr. 2024.
 
 ## Histórico de Versões 
 
