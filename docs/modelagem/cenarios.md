@@ -2,11 +2,13 @@
 
 ## Introdução
 
-Os cenários são uma estratégia essencial para compreender a interação entre o ambiente e o sistema. Eles são eficazes para elicitar e especificar o comportamento do software. A abordadem escolhida pelo grupo considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o conteúdo de Leite et al. (1997) sobre uma linha de base de requisitos orientada ao cliente. Esta abordagem modela os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a inter-relação entre requisitos funcionais e não funcionais (LEITE et al., 2024).
+Os cenários são uma ferramenta muito útil para compreender a interação entre o ambiente e o sistema. Eles são eficazes na elicitação e especificação do comportamento do software. A abordagem escolhida pelo grupo considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o conteúdo de Leite et al. (1997) sobre uma linha de base de requisitos orientada ao cliente ou usuário. Esta abordagem modela os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a elação entre requisitos funcionais e não funcionais (LEITE, 1997).
+
+Para Young (2003) os cenários facilitam a comunicação entre stakeholders, ajudando a visualizar como o sistema deve funcionar em situações reais. Chemuturi (2010) complementa ao mencionar que os cenários são fundamentais para garantir a qualidade do software, pois identificam possíveis problemas e áreas de melhoria desde as fases iniciais do desenvolvimento. Ademais, Berenbach et al. (2009) destaca que cenários bem definidos podem facilitar a análise de requisitos, proporcionando uma melhor compreensão das necessidades do usuário e do contexto de uso.
 
 ## Metodologia
 
-A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e iOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
+A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e iOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A elaboração dos cenários seguiu as diretrizes propostas por Leite (1997), que sugere uma estrutura semi-estruturada para facilitar o entendimento e a validação dos requisitos.  A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
 <center>
 
@@ -409,8 +411,10 @@ Na Tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 
 ## Referências
 
-1. **LEITE, Júlio C. S. P.;** et al. *Cenários*. In: **Modelos de requisitos e cenários: uma abordagem centrada no usuário**. PUC-Rio. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 27 jun. 2024.
-2. **BARBOSA, Simone D. J.; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J.** *Interação Humano-Computador e Experiência do Usuário*.
+1. LEITE, Júlio C. S. P.; et al. **Modelos de requisitos e cenários: uma abordagem centrada no usuário**. PUC-Rio. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 27 jun. 2024.
+2. YOUNG, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
+3. CHEMUTURI, Murali. **Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+4. BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold. **Software & Systems Requirements Engineering: In Practice**. Disponível em: <http://livrodeengenhariaderequisitos.blogspot.com.br/>. Acesso em: 2017.
 
 ## Histórico de Versões 
 
@@ -426,3 +430,4 @@ Na Tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 |  1.7   | 20/05/2024 | Criação do cenário CN09                                   | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
 |  1.8   | 20/05/2024 | Organização geral de numeração                            | [Davi Pierre](https://github.com/DaviPierre)      |  [Guilherme Westphall](https://github.com/west7)                                              |
 |  1.9   | 02/06/2024 | Correção das fontes | [Lucas Martins](https://github.com/martinsglucas) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  2.0   | 27/06/2024 | Correção das fontes | [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
