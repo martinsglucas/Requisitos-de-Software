@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Casos de uso são ferramentas essenciais na engenharia de requisitos, pois descrevem interações entre um sistema e seus usuários, definindo os requisitos funcionais de forma clara. Eles ajudam a garantir uma compreensão comum dos objetivos do sistema entre todos os stakeholders (LARMAN, 2004). Além disso, melhoram a comunicação entre desenvolvedores e stakeholders, proporcionando uma descrição clara dos requisitos (COCKBURN, 2000). No contexto do Processo Unificado de Desenvolvimento de Software, casos de uso servem como base para todas as atividades de desenvolvimento, desde a análise de requisitos até o design e a implementação (JACOBSON et al., 1999). Assim, casos de uso são fundamentais para garantir que o software desenvolvido atenda às expectativas e necessidades dos usuários finais.
+Casos de uso são ferramentas essenciais na engenharia de requisitos, pois descrevem interações entre um sistema e seus usuários, definindo os requisitos funcionais de forma clara. Eles ajudam a garantir uma compreensão comum dos objetivos do sistema entre todos os stakeholders (LARMAN, 2004). Além disso, melhoram a comunicação entre desenvolvedores e stakeholders, proporcionando uma descrição clara dos requisitos (COCKBURN, 2000). No contexto do Processo Unificado de Desenvolvimento de Software, casos de uso servem como base para todas as atividades de desenvolvimento, desde a análise de requisitos até o design e a implementação (JACOBSON et al., 1999). Um caso de uso representa uma possível utilização do sistema por um ator utilizando algum de seus serviços, narrando a interação entre o sistema e os atores envolvidos para atingir um ou mais objetivos. Ele cria um contrato entre os stakeholders de um sistema sobre seu comportamento, descrevendo o comportamento do sistema sob diversas condições enquanto responde a uma requisição de um ator primário, que pode ser uma pessoa, dispositivo físico, mecanismo ou subsistema (RETRAINING, 2024). Assim, casos de uso são fundamentais para garantir que o software desenvolvido atenda às expectativas e necessidades dos usuários finais.
 
 ## Metodologia
 
@@ -197,6 +197,7 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 3. **LARMAN, C.** *Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development*. 3. ed. New Jersey: Prentice Hall PTR, 2004.
 4. **COCKBURN, A.** *Writing Effective Use Cases*. Boston: Addison-Wesley, 2000.
 5. **JACOBSON, I.; BOOCH, G.; RUMBAUGH, J.** *The Unified Software Development Process*. Boston: Addison-Wesley, 1999.
+6. **RETRAINING.** Técnicas de Elicitação de Requisitos - Casos de Uso. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-casos-de-uso. Acesso em: 27 jun. 2024.
 
 
 ## Histórico de versões

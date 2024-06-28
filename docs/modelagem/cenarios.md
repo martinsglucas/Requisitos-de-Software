@@ -1,14 +1,14 @@
-### Cenários
+# Cenários
 
 ## Introdução
 
-Os cenários são uma ferramenta muito útil para compreender a interação entre o ambiente e o sistema. Eles são eficazes na elicitação e especificação do comportamento do software. A abordagem escolhida pelo grupo considera os cenários como descrições evolutivas de situações no ambiente, alinhada com o conteúdo de Leite et al. (1997) sobre uma linha de base de requisitos orientada ao cliente ou usuário. Esta abordagem modela os requisitos externos de um sistema de software e sua evolução. Os cenários começam descrevendo as situações do ambiente, de acordo com as principais ações realizadas fora do sistema de software. Além disso, eles ajudam a esclarecer a elação entre requisitos funcionais e não funcionais (LEITE, 1997).
+Os cenários são uma ferramenta muito útil para compreender a interação entre o ambiente e o sistema. Eles são eficazes na elicitação e especificação do comportamento do software. A abordagem escolhida pelo grupo considera os cenários como descrições evolutivas de situações no ambiente, alinhada com uma linha de base de requisitos orientada ao cliente ou usuário. Esta abordagem modela os requisitos externos de um sistema de software e sua evolução, começando por descrever as situações do ambiente e as principais ações realizadas fora do sistema de software. Além disso, os cenários ajudam a esclarecer a relação entre requisitos funcionais e não funcionais (LEITE, 1997).
 
-Para Young (2003) os cenários facilitam a comunicação entre stakeholders, ajudando a visualizar como o sistema deve funcionar em situações reais. Chemuturi (2010) complementa ao mencionar que os cenários são fundamentais para garantir a qualidade do software, pois identificam possíveis problemas e áreas de melhoria desde as fases iniciais do desenvolvimento. Ademais, Berenbach et al. (2009) destaca que cenários bem definidos podem facilitar a análise de requisitos, proporcionando uma melhor compreensão das necessidades do usuário e do contexto de uso.
+Os cenários facilitam a comunicação entre stakeholders, ajudando a visualizar como o sistema deve funcionar em situações reais (YOUNG, 2003). Eles são fundamentais para garantir a qualidade do software, pois identificam possíveis problemas e áreas de melhoria desde as fases iniciais do desenvolvimento (CHEMUTURI, 2010). Cenários bem definidos podem facilitar a análise de requisitos, proporcionando uma melhor compreensão das necessidades do usuário e do contexto de uso (BERENBACH et al., 2009). Casos de uso bem elaborados ajudam a identificar e preparar narrativas detalhadas do atual e futuro processo necessário para o desenvolvimento do projeto de software, incluindo a descrição completa de todos os processos, fluxo de eventos e atividades simultâneas (RETRAINING, 2024).
 
 ## Metodologia
 
-A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e iOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A elaboração dos cenários seguiu as diretrizes propostas por Leite (1997), que sugere uma estrutura semi-estruturada para facilitar o entendimento e a validação dos requisitos.  A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
+A construção dos cenários foi realizada identificando as principais tarefas do aplicativo Firefox para Android e iOS. Essas tarefas foram selecionadas com base nos requisitos que foram priorizados pelo grupo utilizando as técnicas In or Out, Three Level Scale e MOSCOW. Os cenários escolhidos são os requisitos que obtiveram a maior prioridade nas três técnicas de priorização. Para essa tarefa, todos os membros da equipe foram designados, cada um responsável por descrever quatro cenários usando textos estruturados para melhor compreensão. A elaboração dos cenários seguiu as diretrizes propostas por Leite (1997), que sugere uma estrutura semi-estruturada para facilitar o entendimento e a validação dos requisitos. A Tabela 1 mostra o identificador do cenário, descrição e membro da equipe responsável.
 
 <center>
 
@@ -415,6 +415,7 @@ Na Tabela 17 está determinado o cenário CEN15, que descreve a escolha entre te
 2. YOUNG, Ralph. **Requirements Engineering Handbook**. Norwood, US: Artech House Books, 2003.
 3. CHEMUTURI, Murali. **Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers**. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 4. BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold. **Software & Systems Requirements Engineering: In Practice**. Disponível em: <http://livrodeengenhariaderequisitos.blogspot.com.br/>. Acesso em: 2017.
+5. RETRAINING. Técnicas de Elicitação de Requisitos - Cenários. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios. Acesso em: 27 jun. 2024.
 
 ## Histórico de Versões 
 
