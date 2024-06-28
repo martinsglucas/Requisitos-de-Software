@@ -4,11 +4,11 @@
 
 O NFR (Non-Functional Requirements) Framework, ou Framework de Requisitos Não Funcionais, é uma metodologia essencial na engenharia de software. Ele se concentra na definição e gerenciamento de requisitos que não estão diretamente ligados às funcionalidades do sistema, mas sim às suas características qualitativas, como desempenho, segurança, usabilidade e outros aspectos que afetam a experiência do usuário. Esses requisitos são cruciais para o sucesso do projeto, pois definem como o sistema deve operar em diversos cenários.
 
-O framework utiliza o conceito de "softgoals", que são objetivos sem critérios específicos de satisfação. Softgoals representam requisitos não funcionais e podem influenciar uns aos outros [1].
+O framework utiliza o conceito de "softgoals", que são objetivos sem critérios específicos de satisfação. Softgoals representam requisitos não funcionais e podem influenciar uns aos outros (CHUNG et al., 2000).
 
-Os gráficos de interdependência de softgoals, conhecidos como Softgoal Interdependency Graphs (SIGs), são usados pelo NFR Framework para capturar e representar essas interdependências e decisões de desenvolvimento. Esses gráficos documentam detalhadamente as decisões, alternativas e justificativas, permitindo uma avaliação abrangente dos requisitos [1].
+Os gráficos de interdependência de softgoals, conhecidos como Softgoal Interdependency Graphs (SIGs), são usados pelo NFR Framework para capturar e representar essas interdependências e decisões de desenvolvimento. Esses gráficos documentam detalhadamente as decisões, alternativas e justificativas, permitindo uma avaliação abrangente dos requisitos (CHUNG et al., 2000).
 
-Os softgoals são divididos em três categorias [2], conforme ilustrado na Figura 1:
+Os softgoals são divididos em três categorias:
 
 1. **Softgoals NFR**: Representam os requisitos não funcionais.
 2. **Softgoals de Operacionalização**: Soluções práticas para satisfazer os softgoals NFR.
@@ -80,7 +80,7 @@ As contribuições descrevem como um softgoal descendente pode impactar o softgo
 
 ### Procedimento de Avaliação
 
-O processo de avaliação dos softgoals verifica o grau de satisfação de cada requisito não funcional. Para isso, são atribuídos rótulos aos softgoals, que podem incluir "satisfeito", "parcialmente satisfeito", "não atendido", "parcialmente não atendido", "conflitante" e "indeterminado". Este procedimento é crucial para garantir que todas as interdependências no SIG sejam adequadamente avaliadas e gerenciadas [1].
+O processo de avaliação dos softgoals verifica o grau de satisfação de cada requisito não funcional. Para isso, são atribuídos rótulos aos softgoals, que podem incluir "satisfeito", "parcialmente satisfeito", "não atendido", "parcialmente não atendido", "conflitante" e "indeterminado". Este procedimento é crucial para garantir que todas as interdependências no SIG sejam adequadamente avaliadas e gerenciadas  (CHUNG et al., 2000).
 
 <center>
 
@@ -140,7 +140,7 @@ Cada membro da equipe foi responsável por um requisito específico, conforme de
 
 ## NFR01 - Usabilidade
 
-De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo "usabilidade" refere-se à facilidade com que os usuários podem aprender a utilizar um sistema, sua eficiência no uso, a facilidade de lembrar como usá-lo, a frequência de erros cometidos pelos usuários e a satisfação dos usuários com o sistema. Ele define os componentes principais da usabilidade como: eficácia, eficiência, aprendizado, memorização e satisfação[4]. Com a grande quantidade de pessoas analfabetas ou portadoras de alguma deficiência que utilizam a internet, outro item importante a ser incluso no NFR Framework de Usabilidade é a acessibilidade.
+De acordo com Jakob Nielsen, um dos principais teóricos da usabilidade, o termo "usabilidade" refere-se à facilidade com que os usuários podem aprender a utilizar um sistema, sua eficiência no uso, a facilidade de lembrar como usá-lo, a frequência de erros cometidos pelos usuários e a satisfação dos usuários com o sistema. Ele define os componentes principais da usabilidade como: eficácia, eficiência, aprendizado, memorização e satisfação (NIELSEN, 1993). Com a grande quantidade de pessoas analfabetas ou portadoras de alguma deficiência que utilizam a internet, outro item importante a ser incluso no NFR Framework de Usabilidade é a acessibilidade.
 
 ### Softgoal Interdependency Graph
 
@@ -196,7 +196,7 @@ Na tabela 3, temos o cartão de especificação do softgoal "Usabilidade".
 
 ## NFR02 - Confiabilidade
 
-O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade.
+O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade (CHEMUTURI, 2010).
 
 ### Softgoal Interdependency Graph
 
@@ -252,7 +252,7 @@ Na tabela 4, temos o cartão de especificação do softgoal "Confiabilidade".
 
 ## NFR03 - Desempenho
 
-Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga.
+Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga (BERENBACH et al., 2009).
 
 ### Softgoal Interdependency Graph
 
@@ -309,8 +309,7 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 
 ## NFR04 - Suportabilidade
 
-A Suportabilidade de Software é a capacidade de suportar um sistema de software durante toda a sua vida útil. Isso implica satisfazer todas as necessidades ou requisitos necessários, bem como a provisão de equipamentos, infraestrutura de suporte, software adicional, instalações, mão de obra ou qualquer outro recurso necessário para manter o software 
-operacional e capaz de cumprir sua função. Com isso, por ser de grande importancia para o produto de software ele deve ser incluso no NFR Framework.
+A Suportabilidade de Software é a capacidade de suportar um sistema de software durante toda a sua vida útil. Isso implica satisfazer todas as necessidades ou requisitos necessários, bem como a provisão de equipamentos, infraestrutura de suporte, software adicional, instalações, mão de obra ou qualquer outro recurso necessário para manter o software operacional e capaz de cumprir sua função. Com isso, por ser de grande importância para o produto de software ele deve ser incluso no NFR Framework (CHEMUTURI, 2010; BERENBACH et al., 2009).
 
 ### Softgoal Interdependency Graph
 
@@ -366,7 +365,7 @@ Na tabela 6, temos o cartão de especificação do softgoal "suportabilidade".
 
 ## NFR05 - Interface
 
-Os requisitos de interface especificam as expectativas e padrões relacionados à apresentação e interação do usuário com um sistema ou aplicativo. Eles são essenciais para garantir que o software ofereça uma experiência de usuário intuitiva, acessível e agradável, facilitando a navegação, a compreensão e a utilização eficiente das funcionalidades disponíveis. Esses requisitos abrangem aspectos como design visual, consistência, acessibilidade, personalização e feedback do usuário, contribuindo para a satisfação e a aceitação do sistema por parte dos usuários.
+Os requisitos de interface especificam as expectativas e padrões relacionados à apresentação e interação do usuário com um sistema ou aplicativo. Eles são essenciais para garantir que o software ofereça uma experiência de usuário intuitiva, acessível e agradável, facilitando a navegação, a compreensão e a utilização eficiente das funcionalidades disponíveis. Esses requisitos abrangem aspectos como design visual, consistência, acessibilidade, personalização e feedback do usuário, contribuindo para a satisfação e a aceitação do sistema por parte dos usuários (NIELSEN, 1993; BARBOSA et al., 2021).
 
 ### Softgoal Interdependency Graph
 
@@ -416,7 +415,7 @@ Os requisitos de interface especificam as expectativas e padrões relacionados �
 
 ## NFR06 - Implementação
 
-Os requisitos de implementação especificam as restrições e condições necessárias para a construção de uma aplicação. Eles indicam a maneira de desenvolvimento técnico, de estruturação e de manutenabilidade adotada.  
+Os requisitos de implementação especificam as restrições e condições necessárias para a construção de uma aplicação. Eles indicam a maneira de desenvolvimento técnico, de estruturação e de manutenabilidade adotada (PRESSMAN, 2011);
 
 ### Softgoal Interdependency Graph
 
@@ -472,15 +471,14 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 
 ## Referências
 
-1. SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
-
-2. CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
-
-3. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
-
-4. NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
-
-5. Firefox Source Tree Documentation, 2024.  Disponível em: https://firefox-source-docs.mozilla.org/index.html. Acesso em 26 de maio de 2024.
+1. **SILVA, Reinaldo Antônio.** NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
+2. **CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J.** Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
+3. **SERRANO, Maurício; SERRANO, Milene.** Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+4. **NIELSEN, Jakob. Usability Engineering.** Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
+5. **Firefox Source Tree Documentation, 2024.**  Disponível em: https://firefox-source-docs.mozilla.org/index.html. Acesso em 26 de maio de 2024.
+6. **CHEMUTURI, Murali.** Mastering Software Quality Assurance: Best Practices, Tools and Techniques for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+7. **BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold.** Software & Systems Requirements Engineering: In Practice. 1. ed. McGraw-Hill, 2009.
+8. **PRESSMAN, Roger S.** Software Engineering: A Practitioner's Approach. 7th ed. New York: McGraw-Hill, 2011.
 
 ## Histórico de versões
 
