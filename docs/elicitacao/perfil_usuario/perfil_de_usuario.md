@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O perfil de usuário é uma técnica de elicitação de requisitos que consiste em identificar e descrever as características dos usuários do sistema. 
+O perfil de usuário é uma técnica de elicitação de requisitos que consiste em identificar e descrever as características dos usuários do sistema. Essa técnica é essencial para garantir que o desenvolvimento do sistema seja direcionado para atender às necessidades e expectativas dos usuários finais (BARBOSA et al., 2021). A definição de um perfil de usuário ajuda a compreender melhor quem são os usuários, quais são suas necessidades e como eles interagem com o sistema, permitindo que os desenvolvedores criem soluções mais eficazes e alinhadas com o público-alvo.
 
 ## Metodologia
 
