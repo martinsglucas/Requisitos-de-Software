@@ -2,12 +2,11 @@
 
 ## Introdução
 
-A Especificação Suplementar corresponde a um documento em linguagem natural que busca descrever os requisitos de um sistema que não foram elicitados pelos casos de uso. Este documento é complementar à modelagem de casos de uso e é crucial no processo de desenvolvimento de software, pois captura requisitos não funcionais e outros aspectos essenciais que não são facilmente definidos pela modelagem.
-O objetivo principal da Especificação Suplementar é garantir que todos os requisitos do sistema sejam abrangidos, proporcionando uma visão completa e detalhada que, junto com os casos de uso, define todos os requisitos do sistema. Este documento é essencial para assegurar a qualidade do software e a satisfação do usuário.
+A Especificação Suplementar corresponde a um documento em linguagem natural que busca descrever os requisitos de um sistema que não foram elicitados pelos casos de uso. Este documento é complementar à modelagem de casos de uso e é crucial no processo de desenvolvimento de software, pois captura requisitos não funcionais e outros aspectos essenciais que não são facilmente definidos pela modelagem (MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES, 2024). O objetivo principal da Especificação Suplementar é garantir que todos os requisitos do sistema sejam abrangidos, proporcionando uma visão completa e detalhada que, junto com os casos de uso, define todos os requisitos do sistema. Este documento é essencial para assegurar a qualidade do software e a satisfação do usuário.
 
 ## Metodologia
 
-A metodologia base utilizada para a produção da especificação suplementar é a FURPS+, que aborda Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, além de outros aspectos. Dessa forma, o documento foi estruturado de forma a permitir que cada subtópico da Especificação Suplementar represente um aspecto da FURPS+.
+A metodologia base utilizada para a produção da Especificação Suplementar é a FURPS+, que aborda Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, além de outros aspectos (PRESSMAN, 2014). Dessa forma, o documento foi estruturado de forma a permitir que cada subtópico da Especificação Suplementar represente um aspecto da FURPS+.
 
 ## Especificação Suplementar
 
@@ -17,7 +16,7 @@ Os requisitos funcionais estão especificados nos [cenários](cenarios.md) e [ca
 
 ### Usabilidade
 
-Usabilidade, segundo Nielsen, é a qualidade que avalia a facilidade de uso de uma interface. Ele propõe 10 heurísticas que, quando seguidas, promovem uma melhor usabilidade, permitindo que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória.
+Usabilidade, segundo Nielsen (1994), é a qualidade que avalia a facilidade de uso de uma interface. Ele propõe 10 heurísticas que, quando seguidas, promovem uma melhor usabilidade, permitindo que os usuários realizem suas tarefas de forma eficiente, eficaz e satisfatória (NIELSEN, 1994).
 
 Na tabela 1, são apresentados os requisitos identificados em relação à usabilidade:
 
@@ -39,7 +38,7 @@ Na tabela 1, são apresentados os requisitos identificados em relação à usabi
 
 ### Confiabilidade
 
-O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade.
+O aspecto da confiabilidade refere-se à habilidade de um produto em executar uma função específica sob condições determinadas, por um período de tempo definido ou por uma quantidade específica de operações. As principais subcategorias que compõem a confiabilidade podem ser definidas como: disponibilidade, precisão e recuperabilidade (PRESSMAN, 2014).
 
 Na tabela 2, são apresentados os requisitos identificados em relação à confiabilidade.
 
@@ -62,7 +61,7 @@ Na tabela 2, são apresentados os requisitos identificados em relação à confi
 
 ### Desempenho
 
-Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga.
+Os requisitos de desempenho especificam as expectativas e limites relacionados à eficiência e capacidade de resposta de um sistema ou aplicativo. Eles são críticos para garantir que o software funcione de maneira eficaz sob várias condições de uso e carga (PRESSMAN, 2014).
 
 Na tabela 3, são apresentados os requisitos identificados em relação ao desempenho.
 
@@ -85,9 +84,9 @@ Na tabela 3, são apresentados os requisitos identificados em relação ao desem
 
 ### Suportabilidade
 
-A Suportabilidade de Software é a capacidade de suportar um sistema de software durante toda a sua vida útil. Isso implica satisfazer todas as necessidades ou requisitos necessários, bem como a provisão de equipamentos, infraestrutura de suporte, software adicional, instalações, mão de obra ou qualquer outro recurso necessário para manter o software operacional e capaz de cumprir sua função.
+A Suportabilidade de Software é a capacidade de suportar um sistema de software durante toda a sua vida útil. Isso implica satisfazer todas as necessidades ou requisitos necessários, bem como a provisão de equipamentos, infraestrutura de suporte, software adicional, instalações, mão de obra ou qualquer outro recurso necessário para manter o software operacional e capaz de cumprir sua função (MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES, 2024).
 
-A empresa que gerencia o software possui uma [página de suporte online](https://support.mozilla.org/pt-BR/). Além disso, realiza atualizações regulares, com uma frequência de quatro semanas, além de uma atualização anual mais abrangente. As atualizações abordam novas funcionalidades e corrigem erros identificados em seus respectivos períodos. No caso do aplicativo Firefox, ele oferece suporte para sistemas operacionais iOS 13.0 e superior, e Android 5.0 e acima. 
+A empresa que gerencia o software possui uma [página de suporte online](https://support.mozilla.org/pt-BR/). Além disso, realiza atualizações regulares, com uma frequência de quatro semanas, além de uma atualização anual mais abrangente. As atualizações abordam novas funcionalidades e corrigem erros identificados em seus respectivos períodos. No caso do aplicativo Firefox, ele oferece suporte para sistemas operacionais iOS 13.0 e superior, e Android 5.0 e acima.
 
 Na tabela 4, são apresentados os requisitos identificados em relação à suportabilidade:
 
@@ -109,13 +108,13 @@ Na tabela 4, são apresentados os requisitos identificados em relação à supor
 
 ### +: Restrições de Design
 
-As restrições de design tratam das limitações e diretrizes que o projeto deve seguir. 
+As restrições de design tratam das limitações e diretrizes que o projeto deve seguir.
 
-Na tabela 5, são apresentados os requisitos identificados em relação às restrições de design. 
+Na tabela 5, são apresentados os requisitos identificados em relação às restrições de design.
 
 <center>
 
-**Tabela 5**: Requisitos de Restrições de Design 
+**Tabela 5**: Requisitos de Restrições de Design
 
 |  ID  |                                              Descrição                                               |
 |:----:|:----------------------------------------------------------------------------------------------------:|
@@ -128,7 +127,7 @@ Na tabela 5, são apresentados os requisitos identificados em relação às rest
 
 ### +: Requisitos de Implementação
 
-Requisitos de implementação detalham as restrições e condições para a construção, codificação e integração de um sistema ou aplicativo. Eles são orientados para o desenvolvimento técnico e influenciam a forma como o software é desenvolvido, estruturado e mantido
+Requisitos de implementação detalham as restrições e condições para a construção, codificação e integração de um sistema ou aplicativo. Eles são orientados para o desenvolvimento técnico e influenciam a forma como o software é desenvolvido, estruturado e mantido (PRESSMAN, 2014).
 
 Na tabela 6, são apresentados os requisitos em relação à implementação.
 
@@ -150,7 +149,7 @@ Na tabela 6, são apresentados os requisitos em relação à implementação.
 
 ### +: Requisitos de Interface
 
-Os requisitos de interface no contexto do modelo FURPS+ estão relacionados à qualidade de usabilidade e interface do usuário de um sistema de software. 
+Os requisitos de interface no contexto do modelo FURPS+ estão relacionados à qualidade de usabilidade e interface do usuário de um sistema de software (NIELSEN, 1994).
 
 Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relacionados a interface.
 
@@ -174,7 +173,7 @@ Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relaci
 
 ### +: Requisitos Físicos
 
-Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como será exibido, além da interface usuário-sistema através do hardware. Desse modo, foi levantado que o app Firefox possui as seguintes restrições:
+Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como será exibido, além da interface usuário-sistema através do hardware. Desse modo, foi levantado que o app Firefox possui as seguintes restrições (SUPORTE, Mozilla, 2024):
 
 * No caso de sistemas iOS, o aparelho deverá estar na versão 13.0 ou superior. <br>
 * No caso de sistemas Android, o aparelho deverá estar na versão 5.0 ou superior. <br>
@@ -184,16 +183,17 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 
 ## Referências
 
-1. SERRANO, et al. Requisitos - Aula 13. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em 17 de maio de 2024.
+1. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação de Caso de Uso. Disponível em: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Especificacao%20Caso%20Uso_81686821.html?nodeId=afc37190. Acesso em: 27 jun. 2024.
+   
+2. PRESSMAN, Roger S. Software Engineering: A Practitioner's Approach. 7. ed. New York: McGraw-Hill, 2014.
 
-2. ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes>. Acesso em: 17 de maio de 2024.
+3. NIELSEN, Jakob. 10 Usability Heuristics for User Interface Design. NN/g Nielsen Norman Group, 24 abr. 1994. Atualizado em 30 jan. 2024. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 27 jun. 2024.
 
-3. SUPORTE, Mozilla; Gerir atualizações do Firefox, 2024. Disponível em: <https://support.mozilla.org/pt-PT/kb/gerir-atualizacoes-do-firefox>. Acesso em: 20 de maio de 2024.
+4. SUPORTE, Mozilla; Gerir atualizações do Firefox, 2024. Disponível em: <https://support.mozilla.org/pt-PT/kb/gerir-atualizacoes-do-firefox>. Acesso em: 20 de maio de 2024.
 
-4. UXDesign, 10 heurísticas de Nielsen para o design de interface, 2024. Disponível em: <https://brasil.uxdesign.cc/10-heur%C3%ADsticas-de-nielsen-para-o-design-de-interface-58d782821840>. Acesso em: 20 de maio de 2024.
+5. ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes. Acesso em: 17 de maio de 2024.
 
 ## Histórico de Versões 
-
 
 | Versão |    Data    | Descrição                                         |                       Autor                       |                      Revisor                      |
 |:------:|:----------:|---------------------------------------------------|:-------------------------------------------------:|:-------------------------------------------------:|
@@ -203,3 +203,4 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 |  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface  |  [Kallyne Macedo](https://github.com/kalipassos)  |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
 |  1.4   | 27/05/2024 | Melhor especificação para o Desempenho            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 |  1.5   | 05/06/2024 | Reescrita da especificação de forma testável      |  [Kallyne Macedo](https://github.com/kalipassos)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+|  1.6   | 27/06/2024 | Referenciação Bibliográfica      |  [Kauan Eiras](https://github.com/kauaneiras)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de palavras e vocabulário específico relacionado ao domínio do sistema que está sendo desenvolvido. Eles servem como referência para garantir que todos os membros do time tenham uma compreensão comum e consistente dos termos utilizados no projeto, além do que ajudam a definir a linguagem utilizada para a definição dos requisitos do software.
+Na engenharia de requisitos, léxicos são documentos que contêm um conjunto de palavras e vocabulário específico relacionado ao domínio do sistema que está sendo desenvolvido. Eles servem como referência para garantir que todos os membros do time tenham uma compreensão comum e consistente dos termos utilizados no projeto, além de ajudarem a definir a linguagem utilizada para a definição dos requisitos do software (YOUNG, 2003; CHEMUTURI, 2010; LEITE et al., 1997).
 
 ## Metodologia
 
@@ -132,7 +132,6 @@ Os léxicos do tipo Estado representam diferentes estados que um sistema pode as
 2. YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 3. CHEMUTURI, Murali. Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 4. BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold. Software & Systems Requirements Engineering: In Practice.
-5. CHEMUTURI, Murali. Requirements Engineering and Management for Software Development Projects.
 
 ## Histórico de versões
 
