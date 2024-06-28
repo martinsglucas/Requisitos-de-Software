@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A análise de documentos é uma técnica de elicitação de requisitos que consiste em analisar documentos já existentes, como manuais, relatórios, contratos, etc. A análise de documentos é uma técnica passiva, pois não requer a interação direta com os stakeholders. Ela se trata de um procedimento sistemático para revisar ou avaliar documentos e, como outros métodos analíticos, exige que os dados sejam examinados e interpretados a fim de agregar significado, entendimento e desenvolver conhecimento empírico.
+A análise de documentos é uma técnica de elicitação de requisitos que consiste em analisar documentos já existentes, como manuais, relatórios e contratos. Esta técnica é passiva, pois não requer interação direta com os stakeholders. Trata-se de um procedimento sistemático para revisar ou avaliar documentos e exige que os dados sejam examinados e interpretados a fim de agregar significado, entendimento e desenvolver conhecimento empírico (VAZQUEZ; SIMÕES, 2016).
 
 ## Metodologia
 
