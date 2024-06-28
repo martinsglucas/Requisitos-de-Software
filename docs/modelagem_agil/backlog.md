@@ -2,11 +2,11 @@
 
 ## Introdução 
 
-O backlog do produto é uma lista priorizada que contém todas as funcionalidades que devem fazer parte do produto. O conteúdo do mesmo é definido pelo Product Owner, que cria e mantém o backlog do produto durante toda a produção e evolução do software. Portanto, o backlog do produto não precisa estar completo no início do projeto, uma vez que ele cresce e muda à medida que se aprende mais sobre o produto e seus usuários.
+O backlog do produto é uma lista priorizada que contém todas as funcionalidades que devem fazer parte do produto. O conteúdo do mesmo é definido pelo Product Owner, que cria e mantém o backlog do produto durante toda a produção e evolução do software. Portanto, o backlog do produto não precisa estar completo no início do projeto, uma vez que ele cresce e muda à medida que se aprende mais sobre o produto e seus usuários (SCHWABER; SUTHERLAND, 2020).
 
 ## Metodologia 
 
-A estrutura do backlog do produto que foi utilizada envolve a subdivisão em tema, épicos e histórias de usuário. Dessa forma, a organização do backlog do produto foi pensada da seguinte maneira: os temas foram definidos com base nos requisitos levantados e priorizados anteriormente e divididos em épicos, que são as partes que constituem os temas e guiam as histórias de usuário, que são ainda menores e mais específicas.
+A estrutura do backlog do produto que foi utilizada envolve a subdivisão em tema, épicos e histórias de usuário. Dessa forma, a organização do backlog do produto foi pensada da seguinte maneira: os temas foram definidos com base nos requisitos levantados e priorizados anteriormente e divididos em épicos, que são as partes que constituem os temas e guiam as histórias de usuário, que são ainda menores e mais específicas (CACERES, 2017).
 
 ## Modelo 
 
@@ -133,7 +133,9 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 
 ## Referências 
 
-1. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024. 
+1. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024.
+2. SCHWABER, Ken; SUTHERLAND, Jeff. The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. 2020. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 24 de Maio de 2024.
+3. CACERES, Diana. Agile Product Management with Scrum: Creating Products that Customers Love. 1. ed. Addison-Wesley Professional, 2017.
 
 ## Histórico de versões
 
