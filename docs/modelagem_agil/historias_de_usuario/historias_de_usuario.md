@@ -1,7 +1,9 @@
 # Histórias de usuário
 
 ## Introdução
-As Histórias de Usuário são uma técnica essencial no desenvolvimento ágil, especialmente no Scrum. Elas são descrições simples de funcionalidades desejadas do ponto de vista do usuário final, geralmente escritas no formato: "Como (quem), eu quero (o que) para (por que)". No Scrum, essas histórias compõem o Product Backlog, ajudando a priorizar e planejar o trabalho. Elas facilitam a comunicação entre desenvolvedores e stakeholders, garantindo que o produto final atenda às necessidades dos usuários e permitindo ajustes com base em feedback contínuo.
+As Histórias de Usuário são uma técnica essencial no desenvolvimento ágil, especialmente no Scrum. Elas são descrições simples de funcionalidades desejadas do ponto de vista do usuário final, geralmente escritas no formato: "Como (quem), eu quero (o que) para (por que)". No Scrum, essas histórias compõem o Product Backlog, ajudando a priorizar e planejar o trabalho. Elas facilitam a comunicação entre desenvolvedores e stakeholders, garantindo que o produto final atenda às necessidades dos usuários e permitindo ajustes com base em feedback contínuo (COHN, 2004).
+
+Histórias de Usuário capturam o "quem", "o quê" e "por quê" de um requisito de maneira concisa, promovendo a colaboração e o entendimento comum entre as partes envolvidas. Além disso, ao serem desenvolvidas em colaboração com o cliente ou Product Owner, as histórias garantem que o produto final será ajustado para atender às necessidades reais do usuário, tornando o processo de desenvolvimento mais ágil e responsivo.
 
 ## Metodologia
 
@@ -504,10 +506,10 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 ## Referências
 
 1. SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 22 de maio de 2024.
-
 2. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn. Simplilearn. Youtube, 31 de jul. 2020. Disponível em: https://www.youtube.com/watch?v=SRRQCDZQ6G4. Acesso em: 22 maio 2024. 
-
 3. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario. Acesso em: 5 de Julho de 2024.
+4. COHN, Mike. User Stories Applied: For Agile Software Development. Addison-Wesley Professional, 2004.
+5. REtraining. Histórias de usuário. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario. Acesso em: 5 de Julho de 2024.
 
 ## Histórico de versões
 
