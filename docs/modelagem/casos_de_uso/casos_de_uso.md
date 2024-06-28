@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Casos de uso são uma ferramenta fundamental na engenharia de requisitos. Eles descrevem interações entre um sistema e seus usuários, ajudando a definir os requisitos funcionais de um sistema de forma clara e compreensível. Um caso de uso identifica diferentes cenários de uso do sistema, descrevendo as ações que um usuário realiza e as respostas do sistema em cada situação. Esses casos fornecem uma visão detalhada de como o sistema deve se comportar em diferentes circunstâncias, ajudando os desenvolvedores a entender os requisitos do cliente e a projetar soluções que atendam às necessidades específicas dos usuários finais. Além disso, os casos de uso servem como uma ponte eficaz entre os stakeholders do projeto, permitindo uma comunicação clara e eficiente entre os desenvolvedores, clientes e outras partes interessadas. Em resumo, os casos de uso desempenham um papel essencial na garantia de que o software desenvolvido atenda às expectativas e requisitos do usuário final.
+Casos de uso são ferramentas essenciais na engenharia de requisitos, pois descrevem interações entre um sistema e seus usuários, definindo os requisitos funcionais de forma clara. Eles ajudam a garantir uma compreensão comum dos objetivos do sistema entre todos os stakeholders (LARMAN, 2004). Além disso, melhoram a comunicação entre desenvolvedores e stakeholders, proporcionando uma descrição clara dos requisitos (COCKBURN, 2000). No contexto do Processo Unificado de Desenvolvimento de Software, casos de uso servem como base para todas as atividades de desenvolvimento, desde a análise de requisitos até o design e a implementação (JACOBSON et al., 1999). Assim, casos de uso são fundamentais para garantir que o software desenvolvido atenda às expectativas e necessidades dos usuários finais.
 
 ## Metodologia
 
@@ -192,8 +192,11 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 
 ## Referências
 
-1. Lucidchart. Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
-2. Lucid Software Português. Tutorial de Caso de Uso UML. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 16 de maio de 2024.
+1. **Lucidchart.** Diagrama de caso de uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 16 de maio de 2024.
+2. **Lucid Software Português.** Tutorial de Caso de Uso UML. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 16 de maio de 2024.
+3. **LARMAN, C.** *Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development*. 3. ed. New Jersey: Prentice Hall PTR, 2004.
+4. **COCKBURN, A.** *Writing Effective Use Cases*. Boston: Addison-Wesley, 2000.
+5. **JACOBSON, I.; BOOCH, G.; RUMBAUGH, J.** *The Unified Software Development Process*. Boston: Addison-Wesley, 1999.
 
 
 ## Histórico de versões
@@ -210,3 +213,4 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | 1.7 | 20/05/2024 | Adiciona caso de uso "Acessar barra de pesquisa" | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0)| 
 | 1.8 | 05/06/2024 | Atualização das legendas das tabelas e figuras /e atualizações dos textos | [Davi Pierre](https://github.com/DaviPierre) | [Kauan Eiras](https://github.com/kauaneiras)|
 | 1.9 | 10/06/2024 | Atualização da tabela 1 e da imagem 1 e substituição de usuário por internauta nos textos de caso de uso| [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) | 
+| 2.0 | 27/06/2024 | Adições bibliográficas| [Kauan Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) | 
