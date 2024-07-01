@@ -38,8 +38,8 @@ Nos dias que foi realizada a inspeção, 30 de junho de 2024 , os artefatos aval
 |---------------------------|--------|------------|----------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
 | **Perfil de Usuário**     | `1.2`  | 02/06/2024 | Correções de títulos, fontes e autores.            | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | **Personas**              | `1.2`  | 05/06/2024 | Correções                                          | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
-| **Brainstorming**         | `1.5`  | 30/05/2024 | Correção da formatação                             | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Observação**            | `1.5`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Brainstorming**         | `1.5`  | 30/05/2024 | Correção da formatação                             | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Entrevista**            | `1.9`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Questionário**          | `1.4`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Requisitos Elicitados** | `1.5`  | 15/06/2024 | Adiciona ID para cada um dos requisitos elicitados | [Guilherme Westphall](https://github.com/west7)   | [Kauan T. Eiras](https://github.com/kauaneiras) |
@@ -107,414 +107,163 @@ Não foram encontrados problemas no artefato [Perfil de Usuário](https://requis
 
 ### Personas
 
-As tabelas 10 e 11 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à Personas.
+A tabela x contêm o checklist do artefato relacionado à [Personas](/docs/elicitacao/personas/personas.md)
 
-=== "Preparação do checklist"
-
-    <center>
-
-    **Tabela 10**: Preparação do checklist de Personas
-
-    | ID | Descrição                                                                           |
-    |----|-------------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                                |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                      |
-    | 03 | O artefato possui um texto de introdução?                                           |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                             |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                    |
-    | 06 | O artefato contém a metodologia/método utilizado?                                   |
-    | 07 | Houve a identificação do perfil de usuário?                                         |
-    | 08 | O artefato contém o número de personas recomendado (3-15)?                          |
-    | 09 | O artefato possui ao menos uma antipersona?                                         |
-    | 10 | As personas criadas são fictícias?                                                  |
-    | 11 | As personas possuem uma boa variedade de atributos (nome, formação, desejos, etc.)? |
-    | 12 | As personas são realistas (não possuem exageros)?                                   |
-    | 13 | As personas são fáceis de entender?                                                 |
-    | 14 | O artefato descreve o tipo das personas (primária, secundária ou antipersona)?      |
-    | 15 | As personas possuem imagem de pessoas que não existem?                              |
-
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 11**: Inspeção de Personas
-
-    | ID | Descrição                                                                           | Avaliação  |
-    |----|-------------------------------------------------------------------------------------|------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                                | sim        |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                      | incompleto |
-    | 03 | O artefato possui um texto de introdução?                                           | sim        |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                             | sim        |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                    | sim        |
-    | 06 | O artefato contém a metodologia/método utilizado?                                   | sim        |
-    | 07 | Houve a identificação do perfil de usuário?                                         | sim        |
-    | 08 | O artefato contém o número de personas recomendado (3-15)?                          | sim        |
-    | 09 | O artefato possui ao menos uma antipersona?                                         | sim        |
-    | 10 | As personas criadas são fictícias?                                                  | sim        |
-    | 11 | As personas possuem uma boa variedade de atributos (nome, formação, desejos, etc.)? | sim        |
-    | 12 | As personas são realistas (não possuem exageros)?                                   | sim        |
-    | 13 | As personas são fáceis de entender?                                                 | sim        |
-    | 14 | O artefato descreve o tipo das personas (primária, secundária ou antipersona)?      | sim        |
-    | 15 | As personas possuem imagem de pessoas que não existem?                              | sim        |
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-
-#### Problemas encontrados
-
-O único problema encontrado no artefato [Personas](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/personas/) foi a falta de um revisor no histórico de versões.
-
-
-### Introspecção
-
-As tabelas 2 e 3 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à Introspecção.
-
-=== "Preparação do checklist"
-
-    <center>
-
-    **Tabela 2**: Preparação do checklist da Introspecção
-
-    | ID | Descrição                                                                     |
-    |----|-------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                |
-    | 03 | O artefato possui um texto de introdução?                                     |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              |
-    | 06 | O artefato contém a metodologia/método utilizado?                             |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? |
-    | 08 | O artefato possui a descrição da tarefa?                                      |
-    | 09 | O artefato possui os recursos disponíveis para a realização da tarefa?        |
-    | 10 | O artefato aponta quem foi o profissional que realizou a introspecção?        |
-    | 11 | O artefato possui uma gravação da realização da técnica?                      |
-    | 12 | O artefato possui a declaração dos requisitos elicitados?                     |
-    | 13 | O artefato indica se os requisitos estão implementados?                       |
-
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 3**: Inspeção da Introspecção
-
-    | ID | Descrição                                                                     | Avaliação |
-    |----|-------------------------------------------------------------------------------|-----------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          | sim       |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                | sim       |
-    | 03 | O artefato possui um texto de introdução?                                     | sim       |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       | sim       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              | sim       |
-    | 06 | O artefato contém a metodologia/método utilizado?                             | sim       |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? | não       |
-    | 08 | O artefato possui a descrição da tarefa?                                      | sim       |
-    | 09 | O artefato possui os recursos disponíveis para a realização da tarefa?        | não       |
-    | 10 | O artefato aponta quem foi o profissional que realizou a introspecção?        | sim       |
-    | 11 | O artefato possui uma gravação da realização da técnica?                      | não       |
-    | 12 | O artefato possui a declaração dos requisitos elicitados?                     | sim       |
-    | 13 | O artefato indica se os requisitos estão implementados?                       | Sim       |
-
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-#### Problemas encontrados
-
-Os principais problemas encontrados no artefato [Introspecção](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/Introspeccao/) foram não especificar os recursos disponíveis, a falta da gravação e não ter a participação do cliente na validação dos requisitos.
-
-### Brainstorming
-
-As tabelas 4 e 5 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à Brainstorming.
-
-=== "Preparação do checklist"
-
-    <center>
-
-    **Tabela 4**: Preparação do checklist do Brainstorming
-
-    | ID | Descrição                                                                     |
-    |----|-------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                |
-    | 03 | O artefato possui um texto de introdução?                                     |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              |
-    | 06 | O artefato contém a metodologia/método utilizado?                             |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           |
-    | 09 | Houve a etapa de geração de ideias?                                           |
-    | 10 | Houve a etapa de evolução de ideias?                                          |
-    | 11 | Houve o planejamento da sessão?                                               |
-    | 12 | O artefato contém onde ocorreu a sessão?                                      |
-    | 13 | O artefato contém quando (data e hora) ocorreu a sessão?                      |
-    | 14 | Houve um moderador conduzindo a sessão?                                       |
-    | 15 | Houve a explicação das regras da sessão?                                      |
-    | 16 | Houve a avaliação das ideias?                                                 |
-    | 17 | O artefato possui a declaração dos requisitos elicitados?                     |
-    | 18 | O artefato indica se os requisitos estão implementados?                       |
-    | 19 | O artefato possui uma gravação da realização da técnica?                      |
-
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 5**: Inspeção do Brainstorming
-
-    | ID | Descrição                                                                     | Avaliação  |
-    |----|-------------------------------------------------------------------------------|------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          | sim        |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                | sim        |
-    | 03 | O artefato possui um texto de introdução?                                     | sim        |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       | sim        |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              | sim        |
-    | 06 | O artefato contém a metodologia/método utilizado?                             | sim        |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? | incompleto |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           | incompleto |
-    | 09 | Houve a etapa de geração de ideias?                                           | sim        |
-    | 10 | Houve a etapa de evolução de ideias?                                          | sim        |
-    | 11 | Houve o planejamento da sessão?                                               | sim        |
-    | 12 | O artefato contém onde ocorreu a sessão?                                      | incompleto |
-    | 13 | O artefato contém quando (data e hora) ocorreu a sessão?                      | incompleto |
-    | 14 | Houve um moderador conduzindo a sessão?                                       | sim        |
-    | 15 | Houve a explicação das regras da sessão?                                      | sim        |
-    | 16 | Houve a avaliação das ideias?                                                 | sim        |
-    | 17 | O artefato possui a declaração dos requisitos elicitados?                     | sim        |
-    | 18 | O artefato indica se os requisitos estão implementados?                       | Sim        |
-    | 19 | O artefato possui uma gravação da realização da técnica?                      | sim        |
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-
-#### Problemas encontrados
-
-Os principais problemas encontrados no artefato [Brainstorming](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/brainStorm/) foram a participação do cliente/persona, e onde e quando ocorreu a sessão.
-
-#### Video de verificação
 
 <center>
 
-**Video 1**: Exemplo de verificação Brainstorming
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jU2JaQ-7ANw?si=w_qUZmZWyMXCb-t7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| 01  | Houve a definição de um perfil de usuaario?                                                            | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per1.png)                                    |           |
+| 01  | As personas sao ficticias?                                                            | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per2.png)                                    |           |
+| 01  | As personas apesar de ficticias representam um usuario real?                                                            | [About Face: the essentials of interaction design.](./assets/Per3.png)                                    |           |
+| 01  | As personas possuem identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos, expectativas e dificuldades?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per4.png)                                    |           |
+| 01  | Existem ao menos 3 personas?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
+| 01  | Existe mais de uma persona primaria?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
+| 01  | Existe ao menos uma persona secunddaria?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
+| 01  | Existe ao menos uma aanti-persona?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
 </center>
 
-### Entrevista
+#### Problemas encontrados
 
-As tabelas 6 e 7 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à entrevista.
+O único problema encontrado no artefato [Personas](/docs/elicitacao/personas/personas.md) 
 
-=== "Preparação do checklist"
 
-    <center>
+### Observação
 
-    **Tabela 6**: Preparação do checklist da entrevista
+A tabela x contêm o checklist do artefato relacionado à [Observação](/docs/elicitacao/tecnicas/observacao.md).
 
-    | ID | Descrição                                                                     |
-    |----|-------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                |
-    | 03 | O artefato possui um texto de introdução?                                     |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              |
-    | 06 | O artefato contém a metodologia/método utilizado?                             |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           |
-    | 09 | Houve a identificação do(a) entrevistado(a)?                                  |
-    | 10 | O artefato contém onde ocorreu a entrevista?                                  |
-    | 11 | O artefato contém quando (data e hora) ocorreu a entrevista?                  |
-    | 12 | Houve um moderador conduzindo a entrevista?                                   |
-    | 13 | O moderador fez o encerramento da entrevista?                                 |
-    | 14 | Houve a explicação do problema?                                               |
-    | 15 | O artefato possui uma gravação da realização da técnica?                      |
-    | 16 | O artefato possui a declaração dos requisitos elicitados?                     |
-    | 17 | O artefato indica se os requisitos estão implementados?                       |
+<center>
 
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo?                                                            | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
+| 02  | Houve a definição e exposição de um público-alvo?                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
+| 03  | Existe uma gravação da realização da técnica?                                                                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 08  | Houve a definição do tipo de observação?                                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)                                      |           |
+| 09  | O observador agiu de acordo com o tipo de observação?                                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)                                      |           |
+| 10  | O observador procurou entender o porquê das ações ao realizar perguntas?                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs2.png)                                      |           |
+| 11  | O observador explicou como funcionaria a sessão?                                                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)                                      |           |
+| 12  | O observador sugeriu a quem ele observava que "pensasse em voz alta"?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)                                      |           |
 
-    </center>
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
-=== "Inspeção"
+</center>
 
-    <center>
+#### Problemas encontrados
 
-    **Tabela 7**: Inspeção da entrevista
+Os principais problemas encontrados no artefato [Observação](/docs/elicitacao/tecnicas/observacao.md)
 
-    | ID | Descrição                                                                     | Avaliação |
-    |----|-------------------------------------------------------------------------------|-----------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          | sim       |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                | sim       |
-    | 03 | O artefato possui um texto de introdução?                                     | sim       |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       | sim       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              | sim       |
-    | 06 | O artefato contém a metodologia/método utilizado?                             | sim       |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? | sim       |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           | sim       |
-    | 09 | Houve a identificação do(a) entrevistado(a)?                                  | sim       |
-    | 10 | O artefato contém onde ocorreu a entrevista?                                  | sim       |
-    | 11 | O artefato contém quando (data e hora) ocorreu a entrevista?                  | sim       |
-    | 12 | Houve um moderador conduzindo a entrevista?                                   | sim       |
-    | 13 | O moderador fez o encerramento da entrevista?                                 | sim       |
-    | 14 | Houve a explicação do problema?                                               | sim       |
-    | 15 | O artefato possui uma gravação da realização da técnica?                      | sim       |
-    | 16 | O artefato possui a declaração dos requisitos elicitados?                     | sim       |
-    | 17 | O artefato indica se os requisitos estão implementados?                       | Sim       |
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+### Brainstorming
 
-    </center>
+A tabela x contêm o checklist do artefato relacionado à [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md).
+
+
+<center>
+
+| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo?                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
+| 02  | Houve a definição e exposição de um público-alvo?                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
+| 03  | Existe uma gravação da realização da técnica?                                                                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 08  | O processo foi construtivo, ou seja, livre de críticas?                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra1.png)                                         |           |
+| 09  | Houve a etapa de geração de ideias?                                                                                                                  | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)                                         |           |
+| 10  | Houve a etapa de evolução de ideias?                                                                                                                 | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)                                         |           |
+| 11  | As ideias foram avaliadas?                                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra3.png)                                         |           |
+| 12  | Havia um moderador?                                                                                                                                  | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
+| 13  | O moderador conseguiu manter um bom ritmo do brainstorming?                                                                                          | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
+| 14  | O moderador criou regras para a sessão?                                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
+| 15  | A sessão foi planejada?                                                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra5.png)                                         |           |
+| 16  | Foram definidos os tempos de fala?                                                                                                                   | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)                                         |           |
+| 17  | Os participantes eram de áreas diferentes (a fim de ter insights diferentes)?                                                                        | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)                                         |           |
+
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+
+</center>
 
 
 #### Problemas encontrados
 
-Não foram encontrados problemas no artefato [entrevista](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/entrevista/) de acordo com a checklist feita para realizar a verificação.
+Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md)
+
+</center>
+
+### Entrevista
+
+A tabela x contêm o checklist do artefato relacionado à [entrevista](/docs/elicitacao/tecnicas/entrevista.md).
+
+<center>
+
+| ID  | Descrição                                                                                                                                     | Referência                                                                                          | Avaliação |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado na entrevista?                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
+| 02  | Houve a definição e exposição de um público-alvo?                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
+| 03  | Existe uma gravação da realização da técnica?                                                                                                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                         | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
+| 08  | Foram criadas atas para as entrevistas?                                                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent1.png)                                      |           |
+| 09  | As entrevistas possuíam roteiros?                                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent2.png)                                      |           |
+| 10  | O entrevistador foi adequado para uma entrevista (foi um bom ouvinte, aceitou as respostas do entrevistado e também as opiniões)?             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent3.png)                                      |           |
+| 11  | Foi definido um tempo para a entrevista ou ela durou menos de duas horas?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent4.png)                                      |           |
+| 12  | Foi definido um local para a entrevista ocorrer?                                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent5.png)                                      |           |
+| 13  | O entrevistador demonstrou entender o conteúdo de forma que evidencie que houve um estudo prévio?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent6.png)                                      |           |
+| 14  | As perguntas foram breves?                                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent7.png)                                      |           |
+| 15  | O entrevistador fez anotações durante a entrevista?                                                                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent8.png)                                      |           |
+| 16  | Houve a identificação do(a) entrevistado(a)?                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Ent9.png)                                      |           |
+
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+
+</center>
+
+
+#### Problemas encontrados
+
+Não foram encontrados problemas no artefato [entrevista](/docs/elicitacao/tecnicas/entrevista.md)
 
 
 ### Questionário
 
-As tabelas 12 e 13 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à Questionário.
+A tabela x contêm o checklist do artefato relacionado à [Questionário](/docs/elicitacao/tecnicas/questionario.md).
 
-=== "Preparação do checklist"
+<center>
 
-    <center>
+| ID  | Descrição                                                                                                               | Referência | Avaliação |
+|-----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no questionário?                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) |           |
+| 02  | Houve a definição e exposição de um público-alvo?                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) |           |
+| 03  | Os requisitos elicitados através do questionário foram passados para o documento de forma escrita?                      | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) |           |
+| 04  | Os envolvidos autorizaram a utilização de suas respostas caso suas identidades tenham sido expostas?                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) |           |
+| 05  | Houve participação do cliente na elicitação dos requisitos?                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) |           |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) |           |
+| 07  | Foi definido um período no qual o questionário ficou aberto para respostas?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) |           |
+| 08  | O período no qual o questionário ficou aberto para respostas está descrito no documento?                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) |           |
+| 09  | Foi explicada a forma como o questionário foi distribuído para respostas?                                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest2.png) |           |
+| 10  | As perguntas do questionário foram organizadas de modo a não influenciar negativamente quem o respondeu?                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest3.png) |           |
+| 11  | As perguntas do questionário são construídas de maneira que evite mal-entendidos?                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest4.png) |           |
+| 12  | Foi definido um número de respostas que tornasse o questionário satisfatório?                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest5.png) |           |
+| 13  | O questionário foi testado e isso foi abordado no documento?                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest6.png) |           |
+| 14  | O questionário possui perguntas que aceitam apenas respostas livres ou limitadas?                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest7.png) |           |
 
-    **Tabela 12**: Preparação do checklist do Questionário
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
-    | ID | Descrição                                                                       |
-    |----|---------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                            |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                  |
-    | 03 | O artefato possui um texto de introdução?                                       |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                         |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                |
-    | 06 | O artefato contém a metodologia/método utilizado?                               |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados?   |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?             |
-    | 09 | Houve a identificação do resultado em quantidade de respostas?                  |
-    | 10 | O artefato contém o período no qual o questionário ficou aberto para respostas? |
-    | 11 | O artefato contém os dados adquiridos por meio do questionário?                 |
-    | 12 | As perguntas do questionário são construídas de forma concisa?                  |
-    | 13 | As perguntas do questionário são fáceis de entender?                            |
-    | 14 | O artefato possui a declaração dos requisitos elicitados?                       |
-    | 15 | O artefato indica se os requisitos estão implementados?                         |
-    | 16 | Houve a explicação do problema?                                                 |
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 13**: Inspeção do Questionário
-
-    | ID | Descrição                                                                       | Avaliação |
-    |----|---------------------------------------------------------------------------------|-----------|
-    | 01 | O artefato contém o histórico de versão padronizado?                            | sim       |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                  | sim       |
-    | 03 | O artefato possui um texto de introdução?                                       | sim       |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                         | sim       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?                | sim       |
-    | 06 | O artefato contém a metodologia/método utilizado?                               | sim       |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados?   | sim       |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?             | sim       |
-    | 09 | Houve a identificação do resultado em quantidade de respostas?                  | sim       |
-    | 10 | O artefato contém o período no qual o questionário ficou aberto para respostas? | sim       |
-    | 11 | O artefato contém os dados adquiridos por meio do questionário?                 | sim       |
-    | 12 | As perguntas do questionário são construídas de forma concisa?                  | não       |
-    | 13 | As perguntas do questionário são fáceis de entender?                            | não       |
-    | 14 | O artefato possui a declaração dos requisitos elicitados?                       | sim       |
-    | 15 | O artefato indica se os requisitos estão implementados?                         | Sim       |
-    | 16 | Houve a explicação do problema?                                                 | não       |
-    
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
+</center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Questionário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/questionario/) foram o fato de o questionário estar fechado, as questões não estarem escritas no documento e a ausência de uma forma de verificar se o problema foi explicado no início do questionário.
-
-### Requisitos Elicitados
-
-As tabelas 14 e 15 contêm as informações sobre o checklist e a verificação/inspeção do artefato relacionado à Requisitos Elicitados.
-
-=== "Preparação do checklist"
-
-    <center>
-
-    **Tabela 14**: Preparação do checklist dos Requisitos Elicitados
-
-    | ID | Descrição                                                                     |
-    |----|-------------------------------------------------------------------------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                |
-    | 03 | O artefato possui um texto de introdução?                                     |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              |
-    | 06 | O artefato contém a metodologia/método utilizado?                             |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           |
-    | 09 | O artefato indica as técnicas utilizadas na elicitação?                       |
-    | 10 | O artefato contém a rastreabilidade dos requisitos?                           |
-    | 11 | O artefato indica quais requisitos já eram implementados?                     |
-    | 12 | O artefato indica o tipo dos requisitos?                                      |
-    | 13 | O artefato possui a declaração dos requisitos elicitados?                     |
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 15**: Inspeção dos Requisitos Elicitados
-
-    | ID | Descrição                                                                     | Avaliação  |
-    |----|-------------------------------------------------------------------------------|------------|
-    | 01 | O artefato contém o histórico de versão padronizado?                          | sim        |
-    | 02 | Os autores e revisores estão identificados para cada artefato?                | sim        |
-    | 03 | O artefato possui um texto de introdução?                                     | sim        |
-    | 04 | As tabelas/imagens possuem fonte/autor?                                       | sim        |
-    | 05 | O artefato possui referências/bibliografia corretamente citadas?              | sim        |
-    | 06 | O artefato contém a metodologia/método utilizado?                             | sim        |
-    | 07 | Houve participação do cliente/persona na validação dos requisitos elicitados? | incompleto |
-    | 08 | Houve participação do cliente/persona na elicitação dos requisitos?           | incompleto |
-    | 09 | O artefato indica as técnicas utilizadas na elicitação?                       | sim        |
-    | 10 | O artefato contém a rastreabilidade dos requisitos?                           | sim        |
-    | 11 | O artefato indica quais requisitos já eram implementados?                     | sim        |
-    | 12 | O artefato indica o tipo dos requisitos?                                      | sim        |
-    | 13 | O artefato possui a declaração dos requisitos elicitados?                     | sim        |
-    
-    
-    **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
-    </center>
-
-
-#### Problemas encontrados
-
-O artefato [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/requisitosElicitados/) está correto; no entanto, devido a alguns erros nos outros artefatos que o compõem, ele acaba por estar "incompleto".
+Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao/tecnicas/questionario.md) 
 
 ### In or Out
 
@@ -613,6 +362,12 @@ Os principais problemas encontrados no artefato [Moscow](../../elicitacao/priori
 7. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 8 de junho de 2024.
 
 8. REQUISITOS DE SOFTWARE. Meu INSS. Disponível em: <https://requisitos-de-software.github.io/2024.1-Meu-INSS/>. Acesso em: 8 de junho de 2024.
+
+9. VASQUEZ, Carlos. Engenharia de Requisitos: Software orientado ao negocio.
+
+10. Personas 101, Digital.gov. Disponível em: https://digital.gov/2015/01/09/personas-101/. Acesso em: 30 jun. 2024.
+
+11. Cooper, Alan. Reimaann, Robert. Cronin, David. About Face: the essentials of interaction design.
 
 ## Histórico de versão
 
