@@ -42,7 +42,6 @@ Nos dias que foi realizada a inspeção, 30 de junho de 2024 , os artefatos aval
 | **Brainstorming**         | `1.5`  | 30/05/2024 | Correção da formatação                             | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Entrevista**            | `1.9`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Questionário**          | `1.4`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Requisitos Elicitados** | `1.5`  | 15/06/2024 | Adiciona ID para cada um dos requisitos elicitados | [Guilherme Westphall](https://github.com/west7)   | [Kauan T. Eiras](https://github.com/kauaneiras) |
 | **In or Out**             | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Three Level Scale**     | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 | **Moscow**                | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
@@ -89,21 +88,23 @@ Não foram encontrados problemas no artefato [Perfil de Usuário](https://requis
 
 ### Personas
 
-A tabela x contêm o checklist do artefato relacionado à [Personas](/docs/elicitacao/personas/personas.md)
+A tabela 4 contêm o checklist do artefato relacionado à [Personas](/docs/elicitacao/personas/personas.md)
 
 
 <center>
 
+**Tabela 4**: Checklist de Personas
+
 | ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
-| 01  | Houve a definição de um perfil de usuaario?                                                            | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per1.png)                                    |           |
-| 01  | As personas sao ficticias?                                                            | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per2.png)                                    |           |
-| 01  | As personas apesar de ficticias representam um usuario real?                                                            | [About Face: the essentials of interaction design.](./assets/Per3.png)                                    |           |
-| 01  | As personas possuem identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos, expectativas e dificuldades?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per4.png)                                    |           |
-| 01  | Existem ao menos 3 personas?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
-| 01  | Existe mais de uma persona primaria?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
-| 01  | Existe ao menos uma persona secunddaria?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
-| 01  | Existe ao menos uma aanti-persona?                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                                    |           |
+| 01  | Houve a definição de um perfil de usuário?                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per1.png)                                         |           |
+| 02  | As personas são fictícias?                                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per2.png)                                         |           |
+| 03  | As personas, apesar de fictícias, representam um usuário real?                                                                                       | [About Face: the essentials of interaction design.](./assets/Per3.png)                              |           |
+| 04  | As personas possuem identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos, expectativas e dificuldades?                   | [Interação Humano-Computador e Experiência do usuário](./assets/Per4.png)                           |           |
+| 05  | Existem ao menos 3 personas?                                                                                                                         | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
+| 06  | Existe mais de uma persona primária?                                                                                                                 | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
+| 07  | Existe ao menos uma persona secundária?                                                                                                              | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
+| 08  | Existe ao menos uma anti-persona?                                                                                                                    | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
@@ -116,9 +117,11 @@ O único problema encontrado no artefato [Personas](/docs/elicitacao/personas/pe
 
 ### Observação
 
-A tabela x contêm o checklist do artefato relacionado à [Observação](/docs/elicitacao/tecnicas/observacao.md).
+A tabela 5 contêm o checklist do artefato relacionado à [Observação](/docs/elicitacao/tecnicas/observacao.md).
 
 <center>
+
+**Tabela 5**: Checklist de Observação
 
 | ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
@@ -145,10 +148,12 @@ Os principais problemas encontrados no artefato [Observação](/docs/elicitacao/
 
 ### Brainstorming
 
-A tabela x contêm o checklist do artefato relacionado à [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md).
+A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md).
 
 
 <center>
+
+**Tabela 6**: Checklist de Brainstorming
 
 | ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
@@ -183,9 +188,11 @@ Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao
 
 ### Entrevista
 
-A tabela x contêm o checklist do artefato relacionado à [entrevista](/docs/elicitacao/tecnicas/entrevista.md).
+A tabela 7 contêm o checklist do artefato relacionado à [entrevista](/docs/elicitacao/tecnicas/entrevista.md).
 
 <center>
+
+**Tabela 7**: Checklist de Entrevista
 
 | ID  | Descrição                                                                                                                                     | Referência                                                                                          | Avaliação |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
@@ -218,9 +225,11 @@ Não foram encontrados problemas no artefato [entrevista](/docs/elicitacao/tecni
 
 ### Questionário
 
-A tabela x contêm o checklist do artefato relacionado à [Questionário](/docs/elicitacao/tecnicas/questionario.md).
+A tabela 8 contêm o checklist do artefato relacionado à [Questionário](/docs/elicitacao/tecnicas/questionario.md).
 
 <center>
+
+**Tabela 8**: Checklist de Questionário
 
 | ID  | Descrição                                                                                                               | Referência | Avaliação |
 |-----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
@@ -249,12 +258,12 @@ Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao
 
 ### In or Out
 
-A tabela 10 apresent o checklist do artefato "In or Out".
+A tabela 9 apresent o checklist do artefato "In or Out".
 
 
 <center>
 
-**Tabela 10**: Checklist do In or Out
+**Tabela 9**: Checklist do In or Out
 
 | ID | Descrição                                                                                                               | Referência | Avaliação |
 |----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
@@ -274,11 +283,11 @@ Os principais problemas encontrados no artefato [In or Out](../../elicitacao/pri
 
 ### Three Level Scale
 
-A tabela 11 apresent o checklist do artefato "Three Level Scale".
+A tabela 10 apresent o checklist do artefato "Three Level Scale".
 
 <center>
 
-**Tabela 11**: Checklist do Three Level Scale
+**Tabela 10**: Checklist do Three Level Scale
 
 | ID | Descrição                                                                                               | Referência                                       | Avaliação |
 |----|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|
@@ -302,12 +311,12 @@ O único problema encontrado no artefato [Three Level Scale](../../elicitacao/pr
 
 ### Moscow
 
-A tabela 12 apresent o checklist do artefato "Moscow".
+A tabela 11 apresent o checklist do artefato "Moscow".
 
 
 <center>
 
-**Tabela 12**: Checklist do Moscow
+**Tabela 11**: Checklist do Moscow
 
 | ID | Descrição                                                                                                               | Referência | Avaliação |
 |----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
@@ -357,3 +366,4 @@ Os principais problemas encontrados no artefato [Moscow](../../elicitacao/priori
 |--------|------------|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 | 1.0    | 30/06/2024 | Criação da página e adição da verificação dos artefatos da priorização                            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 1.1    | 01/07/2024 | Adição da verificação do perfil de usuário                           | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
+| 1.2    | 01/07/2024 | Adição de Personas, Entrevista, Questionário, Observação e Brainstorming e tambem feitas Correções                         | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan T. Eiras](https://github.com/kauaneiras) |
