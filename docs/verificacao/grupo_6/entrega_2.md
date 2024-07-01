@@ -62,43 +62,25 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 2 nas tab
 
 ### Perfil de Usuário
 
-As tabelas 8 e 9 apresentam, respectivamente, a preparação do checklist e a inspeção do artefato "Perfil de Usuário".
+A tabela 3 apresentao checklist do artefato "Perfil de Usuário".
 
-=== "Preparação do checklist"
 
-    <center>
+<center>
 
-    **Tabela 8**: Preparação do checklist do perfil de usuário
+**Tabela 3**: Checklist do Perfil de Usuário
 
-    | ID | Descrição                                                                                                                               |
-    |----|-----------------------------------------------------------------------------------------------------------------------------------------|
-    | 01 | A especificação do perfil de usuário contém informações demográficas (idade, sexo)? (BARBOSA, 2021)                                     |
-    | 02 | A especificação do perfil de usuário contém informações sobre experiência (leigo/novato, especialista)? (BARBOSA, 2021)                 |
-    | 03 | A especificação do perfil de usuário contém informações sobre atitude (tecnófilo, tecnófobo)? (BARBOSA, 2021)                           |
-    | 04 | A especificação do perfil de usuário contém informações de tarefa primária? (BARBOSA, 2021)                                             |
-    | 05 | A especificação do perfil de usuário foi obtida a partir de um estudo (entrevista, questionário, análise de documento)? (BARBOSA, 2021) |
-    
-    **Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
+| ID | Descrição                                                                                                               | Referência | Avaliação |
+|----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
+| 01 | A especificação do perfil de usuário contém informações demográficas (idade, sexo)?                                     | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
+| 02 | A especificação do perfil de usuário contém informações sobre experiência (leigo/novato, especialista)?                 | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
+| 03 | A especificação do perfil de usuário contém informações sobre atitude (tecnófilo, tecnófobo)?                           | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
+| 04 | A especificação do perfil de usuário contém informações de tarefa primária?                                             | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
+| 05 | A especificação do perfil de usuário foi obtida a partir de fontes confiáveis ? | [BARBOSA, 2021, p. 138, 139.](./assets/PU2.png)           |           |
+| 06 | A especificação do perfil de usuário foi obtida a partir de técnicas, como entrevista, grupo de foco, ou questionário? | [BARBOSA, 2021, p. 143.](./assets/PU3.png)           |           |
 
-    </center>
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
 
-=== "Inspeção"
-
-    <center>
-
-    **Tabela 9**: Inspeção do perfil de usuário
-
-    | ID | Descrição                                                                                                                               | Avaliação |
-    |----|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|
-    | 01 | A especificação do perfil de usuário contém informações demográficas (idade, sexo)? (BARBOSA, 2021)                                     | Sim       |
-    | 02 | A especificação do perfil de usuário contém informações sobre experiência (leigo/novato, especialista)? (BARBOSA, 2021)                 | Sim       |
-    | 03 | A especificação do perfil de usuário contém informações sobre atitude (tecnófilo, tecnófobo)? (BARBOSA, 2021)                           | Sim       |
-    | 04 | A especificação do perfil de usuário contém informações de tarefa primária? (BARBOSA, 2021)                                             | Sim       |
-    | 05 | A especificação do perfil de usuário foi obtida a partir de um estudo (entrevista, questionário, análise de documento)? (BARBOSA, 2021) | Sim       |
-    
-    **Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
-
-    </center>
+</center>
 
 
 #### Problemas encontrados
@@ -267,12 +249,12 @@ Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao
 
 ### In or Out
 
-A tabela X apresent o checklist do artefato "In or Out".
+A tabela 10 apresent o checklist do artefato "In or Out".
 
 
 <center>
 
-**Tabela 22**: Preparação do checklist do In or Out
+**Tabela 10**: Checklist do In or Out
 
 | ID | Descrição                                                                                                               | Referência | Avaliação |
 |----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
@@ -292,11 +274,11 @@ Os principais problemas encontrados no artefato [In or Out](../../elicitacao/pri
 
 ### Three Level Scale
 
-A tabela X apresent o checklist do artefato "Three Level Scale".
+A tabela 11 apresent o checklist do artefato "Three Level Scale".
 
 <center>
 
-**Tabela 22**: Preparação do checklist do Three Level Scale
+**Tabela 11**: Checklist do Three Level Scale
 
 | ID | Descrição                                                                                               | Referência                                       | Avaliação |
 |----|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|
@@ -320,12 +302,12 @@ O único problema encontrado no artefato [Three Level Scale](../../elicitacao/pr
 
 ### Moscow
 
-A tabela X apresent o checklist do artefato "Moscow".
+A tabela 12 apresent o checklist do artefato "Moscow".
 
 
 <center>
 
-**Tabela 22**: Preparação do checklist do Moscow
+**Tabela 12**: Checklist do Moscow
 
 | ID | Descrição                                                                                                               | Referência | Avaliação |
 |----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
@@ -374,3 +356,4 @@ Os principais problemas encontrados no artefato [Moscow](../../elicitacao/priori
 | Versão | Data       | Descição                                                 | Autor                                             | Revisor                                           |
 |--------|------------|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 | 1.0    | 30/06/2024 | Criação da página e adição da verificação dos artefatos da priorização                            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.1    | 01/07/2024 | Adição da verificação do perfil de usuário                           | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
