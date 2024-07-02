@@ -23,6 +23,7 @@ nav:
     - Apresentação 3: apresentacoes/apresentacao_3.md
     - Apresentação 4: apresentacoes/apresentacao_4.md
     - Apresentação 5.1: apresentacoes/apresentacao_5.1.md
+    - Apresentação 5.2: apresentacoes/apresentacao_5.2.md
     - Apresentação 6: apresentacoes/apresentacao_6.md
   - Planejamento do projeto:
     - Heatmap: planejamento/heatmap.md
@@ -78,7 +79,9 @@ nav:
       - Entrega 2: verificacao/grupo_7/entrega_2.md
       - Entrega 3: verificacao/grupo_7/entrega_3.md
       - Entrega 4: verificacao/grupo_7/entrega_4.md
-  - Validação: validacao/validacao.md
+  - Validação: 
+    - Validação do Protótipo: validacao/validacao.md
+    - Comprovação Informal: validacao/comprov_informal.md
 
 theme:
   name: material
