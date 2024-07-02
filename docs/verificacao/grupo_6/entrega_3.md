@@ -248,7 +248,7 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 8. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 jun. 2024.
 
 
-
+ 
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                                                       | Autor                                             | Revisor                                         |
