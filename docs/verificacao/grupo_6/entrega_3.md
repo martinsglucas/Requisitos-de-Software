@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo relatar os resultados da verificação por inspeção dos artefatos [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/specSuplementar/), [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/useCase/), [Cenários](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/cenarios/) e [Léxicos](https://requisitos-de-software.github.io/2024.1-Meu-INSS/modelagem/lexicos/) elaborado pelo [grupo 07](https://github.com/Requisitos-de-Software/2024.1-Meu-INSS) da disciplina de Requisitos de Software no semestre 2024/01 da Universidade de Brasília (UnB). A análise foi realizada nas versões disponíveis do trabalho durante a data de 09/06/2024. Os artefatos serão avaliados pelos discentes [Kallyne Macedo](https://github.com/kalipassos) e [Kauan de Torres Eiras](https://github.com/kauaneiras). A tabela 1 apresenta os objetos de verificação.
+Este documento tem como objetivo relatar os resultados da verificação por inspeção dos artefatos Especificação Suplementar, Casos de Uso, Cenários e Léxicos elaborado pelo grupo 06 da disciplina de Requisitos de Software no semestre 2024/01 da Universidade de Brasília (UnB). A análise foi realizada nas versões disponíveis do trabalho durante a data de 09/06/2024. Os artefatos serão avaliados pelos discentes [Kallyne Macedo](https://github.com/kalipassos) e [Kauan de Torres Eiras](https://github.com/kauaneiras). A tabela 1 apresenta os objetos de verificação.
 
 ## Metodologia
 

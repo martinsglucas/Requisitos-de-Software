@@ -27,12 +27,11 @@ A validação das tarefas agrupar guias e bloquear anúncios foi realizada no di
 
 <font size="3"><p>Vídeo 1: Validação Protótipo</p></font>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZcOYuMmc7Ek?si=55stVwPZ7NijbnTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p>Autor: [Kauan Eiras](https://github.com/kauaneiras) </p></font>
 
 </center>
-
 
 
 ## Validação 2 - Todas as tarefas
@@ -46,6 +45,20 @@ A validação foi realizada no dia 01/07/2024, por meio da plataforma Microsoft 
 - Bloqueio de Anúncios 
 - VPN
 
+<center>
+
+<font size="3"><p>Vídeo 2: Validação Protótipo</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TF-dwdolros?si=ITvLmqOC9JGaiOVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+<font size="3"><p>Autor: [Lucas Martins](https://github.com/martinsglucas) </p></font>
+
+</center>
+
 ## Referências
 
 ## Histórico de versão
+
+| Versão |    Data    | Descrição |                       Autor                       |                     Revisor                     |
+| :----: | :--------: | --------- | :-----------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 01/07/2024 | Validação | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
