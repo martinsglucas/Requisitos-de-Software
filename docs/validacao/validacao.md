@@ -17,7 +17,7 @@ O processo de validação dos artefatos desenvolvidos ao longo do semestre foi f
 
 </center>
 
-![email](EMAIL.png)
+![email](image.png)
 
 ## Validação 1 - Tarefas Agrupar Guias e Bloquear Anúncios
 
@@ -46,3 +46,6 @@ A validação foi realizada no dia 01/07/2024, por meio da plataforma Microsoft 
 - Bloqueio de Anúncios 
 - VPN
 
+## Referências
+
+## Histórico de versão
