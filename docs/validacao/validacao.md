@@ -17,12 +17,12 @@ O protótipo foi desenvolvido a partir dos requisitos não implementados, elenca
 
 Para a validação do protótipo, foram realizadas duas sessões de teste com usuários do Firefox. Cada usuário realizou as tarefas propostas e verificou se os critérios de aceitação das respectivas histórias de usuário foram atendidos. As histórias de usuário correspondentes aos requisitos não implementados são:
 
-- [US24 - Agrupar guias](../modelagem_agil/historias_de_usuario/historias_de_usuario/#us24-agrupar-guias)
-- [US08 - Alterar fonte do navegador](../modelagem_agil/historias_de_usuario/historias_de_usuario/#us08-alterar-fonte-do-navegador)
-- [US22 - Bloquear anúncios](../modelagem_agil/historias_de_usuario/historias_de_usuario/#us22-bloquear-anuncios)
-- [US07 - Controlar acesso à sites (controle parental)](../modelagem_agil/historias_de_usuario/historias_de_usuario/#us07-controlar-acesso-a-sites-controle-parental)
-- [US14 - Sincronizar dados](../modelagem_agil/historias_de_usuario/historias_de_usuario/#us14-sincronizar-dados)
-- [US23 - VPN](../modelagem_agil/historias_de_usuario/historias_de_usuario/##us23-vpn)
+- [US24 - Agrupar guias](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us24-agrupar-guias)
+- [US08 - Alterar fonte do navegador](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us08-alterar-fonte-do-navegador)
+- [US22 - Bloquear anúncios](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us22-bloquear-anuncios)
+- [US07 - Controlar acesso à sites (controle parental)](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us07-controlar-acesso-a-sites-controle-parental)
+- [US14 - Sincronizar dados](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us14-sincronizar-dados)
+- [US23 - VPN](../modelagem_agil/historias_de_usuario/historias_de_usuario.md#us23-vpn)
 
 ## Protótipo
 
