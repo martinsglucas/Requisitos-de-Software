@@ -1,4 +1,4 @@
-# Verificação dos artefatos da entrega 3.
+# Verificação da Entrega 3 - "Modelagem"
 
 ## Introdução
 

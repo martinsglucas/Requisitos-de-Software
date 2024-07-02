@@ -25,7 +25,7 @@ nav:
     - Apresentação 5.1: apresentacoes/apresentacao_5.1.md
     - Apresentação 5.2: apresentacoes/apresentacao_5.2.md
     - Apresentação 6: apresentacoes/apresentacao_6.md
-  - Planejamento do projeto:
+  - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
@@ -36,7 +36,7 @@ nav:
     - Licença: planejamento/licenca.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
-  - Elicitação de Requisitos:
+  - Elicitação:
     - Definição do Perfil de Usuário:
       - Análise de Documentos: elicitacao/perfil_usuario/analise_documento.md
       - Perfil de Usuário: elicitacao/perfil_usuario/perfil_de_usuario.md
@@ -69,11 +69,11 @@ nav:
     - Elos: pos-rastreabilidade/elos.md
   - Verificação:
     - Grupo 6:
-      - Entrega 1: verificacao/grupo_6/entrega_1.md
-      - Entrega 2: verificacao/grupo_6/entrega_2.md
-      - Entrega 3: verificacao/grupo_6/entrega_3.md
-      - Entrega 4: verificacao/grupo_6/entrega_4.md
-      - Entrega 6: verificacao/grupo_6/entrega_6.md
+      - Pré-Rastreabilidade: verificacao/grupo_6/entrega_1.md
+      - Elicitação: verificacao/grupo_6/entrega_2.md
+      - Modelagem: verificacao/grupo_6/entrega_3.md
+      - Modelagem Ágil: verificacao/grupo_6/entrega_4.md
+      - Pós-Rastreabilidade: verificacao/grupo_6/entrega_6.md
     - Grupo 7:
       - Entrega 1: verificacao/grupo_7/entrega_1.md
       - Entrega 2: verificacao/grupo_7/entrega_2.md
