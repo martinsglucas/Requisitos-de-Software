@@ -57,21 +57,25 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 **Tabela 3**: Checklist do Backlog
 
-| ID  | Descrição                                                                                                                                                                                                            | Referência                                                      | Avaliação |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- |
-| 01  | Os itens do product backlog estão descritos, preferencialmente, no formato de histórias de usuário?                                                                                                                  | [Agile Product Managment, p. 53](../grupo_6/assets/B5.png)      |           |
-| 02  | Os itens do product backlog estão **detalhados adequadamente**, ou seja, os itens de maior prioridade estão refinados o suficiente (histórias de usuário), permitindo que possam ser "consumidos" na próxima sprint? | [Agile Product Managment, p. 48](../grupo_6/assets/B1.png)      |           |
-| 03  | Os itens do product backlog estão **estimados** em tempo e em custo?                                                                                                                                                 | [Agile Product Managment, p. 49](../grupo_6/assets/B2.png)      |           |
-| 04  | Os itens do product backlog são **emergentes**, ou seja, eles mudam de acordo com o tempo e são alterados frequentemente?                                                                                            | [Agile Product Managment, p. 49](../grupo_6/assets/B3.png)      |           |
-| 05  | Os itens do product backlog estão **priorizados**?                                                                                                                                                                   | [Agile Product Managment, p. 49](../grupo_6/assets/B4.png)      |           |
-| 06  | Os itens de **alta prioridade** são encontrados no **topo da lista**?                                                                                                                                                | [Agile Product Managment, p. 49](../grupo_6/assets/B4.png)      |           |
-| 07  | O backlog está estruturado em **Temas** (grupo de itens relacioandos)?                                                                                                                                               | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) |           |
-| 08  | Os Temas do backlog estão subdivididos em **Épicos**?                                                                                                                                                                | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) |           |
-| 09  | Cada **Tema** contém, idealmente, **entre 2 e 5 Épicos**?                                                                                                                                                            | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) |           |
+| ID  | Descrição                                                                                                                                                                                                            | Referência                                                      | Avaliação     |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------- |
+| 01  | Os itens do product backlog estão descritos, preferencialmente, no formato de histórias de usuário?                                                                                                                  | [Agile Product Managment, p. 53](../grupo_6/assets/B5.png)      | Sim           |
+| 02  | Os itens do product backlog estão **detalhados adequadamente**, ou seja, os itens de maior prioridade estão refinados o suficiente (histórias de usuário), permitindo que possam ser "consumidos" na próxima sprint? | [Agile Product Managment, p. 48](../grupo_6/assets/B1.png)      | Sim           |
+| 03  | Os itens do product backlog estão **estimados** em tempo e em custo?                                                                                                                                                 | [Agile Product Managment, p. 49](../grupo_6/assets/B2.png)      | Não se aplica |
+| 04  | Os itens do product backlog são **emergentes**, ou seja, eles mudam de acordo com o tempo e são alterados frequentemente?                                                                                            | [Agile Product Managment, p. 49](../grupo_6/assets/B3.png)      | Não           |
+| 05  | Os itens do product backlog estão **priorizados**?                                                                                                                                                                   | [Agile Product Managment, p. 49](../grupo_6/assets/B4.png)      | Sim           |
+| 06  | Os itens de **alta prioridade** são encontrados no **topo da lista**?                                                                                                                                                | [Agile Product Managment, p. 49](../grupo_6/assets/B4.png)      | Sim           |
+| 07  | O backlog está estruturado em **Temas** (grupo de itens relacioandos)?                                                                                                                                               | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) | Sim           |
+| 08  | Os Temas do backlog estão subdivididos em **Épicos**?                                                                                                                                                                | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) | Sim           |
+| 09  | Cada **Tema** contém, idealmente, **entre 2 e 5 Épicos**?                                                                                                                                                            | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) | Incompleto    |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: ?
+**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
+
+#### Problemas encontrados
+
+Os problemas encontrados no artefato de [Backlog](../../modelagem_agil/backlog.md) foram que os itens do product backlog não são emergentes (não foram alterados frequentemente). Além disso, o tema Personalização tem apenas um épico, o que não está de acordo com o critério de 2 a 5 épicos por tema.
 
 ### Histórias de usuário
 
@@ -79,20 +83,24 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 **Tabela 4**: Checklist das Histórias de usuário
 
-| ID  | Descrição                                                                                                                                                                                                                  | Referência                                                                                                               | Avaliação |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------- |
-| 01  | As histórias de usuário são **independetes**?                                                                                                                                                                              | [User Stories Applied: For Agile Software Development, p. 17](../grupo_6/assets/U1.png)                                  |           |
-| 02  | As histórias de usuário são **negociáveis**, ou seja, elas não representam um contrato ou um requisito obrigatório para o software. Elas podem e devem ser discutidas e ajustadas juntamente com o cliente posteriormente? | [User Stories Applied: For Agile Software Development, p. 18](../grupo_6/assets/U2.png)                                  |           |
-| 03  | As histórias de usuário **agregam valor para o cliente ou usuário**? Ou seja, elas estão escritas de maneira que o cliente/usuário possa entender os benefícios que serão agregados de maneira aparente?                   | [User Stories Applied: For Agile Software Development, p. 20](../grupo_6/assets/U3.png)[ e 21](../grupo_6/assets/U4.png) |           |
-| 04  | As histórias de usuário são **estimáveis**, os desenvolvedores conseguem ter um entendimento de forma que elas possam estimar quanto tempo levará para transformar aquela história em código real?                         | [User Stories Applied: For Agile Software Development, p. 22](../grupo_6/assets/U5.png)                                  |           |
-| 05  | As histórias de usuário são **pequenas**?                                                                                                                                                                                  | [User Stories Applied: For Agile Software Development, p. 23](../grupo_6/assets/U6.png)                                  |           |
-| 06  | As histórias de usuário são **testáveis**?                                                                                                                                                                                 | [User Stories Applied: For Agile Software Development, p. 23](../grupo_6/assets/U7.png)                                  |           |
-| 07  | As histórias de usuário **são fechadas**, ou seja elas possuem **critérios de aceitação** que indicam quando uma história foi completamente implementada?                                                                  | [User Stories Applied: For Agile Software Development, p. 76 e 77](../grupo_6/assets/U8.png)                             |           |
-| 08  | As histórias de usuário estão no formato: **"Como [quem], quero [o que] para [por quê]"**?                                                                                                                                 | [REtraining. Histórias de usuário.](../grupo_6/assets/U9.png)                                                            |           |
+| ID  | Descrição                                                                                                                                                                                                                  | Referência                                                                                                               | Avaliação  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 01  | As histórias de usuário são **independetes**?                                                                                                                                                                              | [User Stories Applied: For Agile Software Development, p. 17](../grupo_6/assets/U1.png)                                  | Sim        |
+| 02  | As histórias de usuário são **negociáveis**, ou seja, elas não representam um contrato ou um requisito obrigatório para o software. Elas podem e devem ser discutidas e ajustadas juntamente com o cliente posteriormente? | [User Stories Applied: For Agile Software Development, p. 18](../grupo_6/assets/U2.png)                                  | Sim        |
+| 03  | As histórias de usuário **agregam valor para o cliente ou usuário**? Ou seja, elas estão escritas de maneira que o cliente/usuário possa entender os benefícios que serão agregados de maneira aparente?                   | [User Stories Applied: For Agile Software Development, p. 20](../grupo_6/assets/U3.png)[ e 21](../grupo_6/assets/U4.png) | Sim        |
+| 04  | As histórias de usuário são **estimáveis**, os desenvolvedores conseguem ter um entendimento de forma que elas possam estimar quanto tempo levará para transformar aquela história em código real?                         | [User Stories Applied: For Agile Software Development, p. 22](../grupo_6/assets/U5.png)                                  | Incompleto |
+| 05  | As histórias de usuário são **pequenas**?                                                                                                                                                                                  | [User Stories Applied: For Agile Software Development, p. 23](../grupo_6/assets/U6.png)                                  | Sim        |
+| 06  | As histórias de usuário são **testáveis**?                                                                                                                                                                                 | [User Stories Applied: For Agile Software Development, p. 23](../grupo_6/assets/U7.png)                                  | Sim        |
+| 07  | As histórias de usuário **são fechadas**, ou seja elas possuem **critérios de aceitação** que indicam quando uma história foi completamente implementada?                                                                  | [User Stories Applied: For Agile Software Development, p. 76 e 77](../grupo_6/assets/U8.png)                             | Sim        |
+| 08  | As histórias de usuário estão no formato: **"Como [quem], quero [o que] para [por quê]"**?                                                                                                                                 | [REtraining. Histórias de usuário.](../grupo_6/assets/U9.png)                                                            | Sim        |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: ?
+**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
+
+#### Problemas encontrados
+
+O único problema encontrado nas [Histórias de Usuário](../../modelagem_agil/historias_de_usuario/historias_de_usuario.md) foi que as histórias de usuário não são estimáveis, ou seja, os desenvolvedores não conseguem ter um entendimento de forma que possam estimar quanto tempo levará para transformar aquela história em código real.
 
 ### NFR Framework
 
@@ -100,27 +108,29 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 **Tabela 5**: Checklist do NFR Framework
 
-| ID  | Descrição                                                                                                                                                          | Referência                                      | Avaliação |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | --------- |
-| 01  | O **SIG (Softgoal Interdependency Graph)** foi feito?                                                                                                              | [NFR4ES, p. 30 e 31](../grupo_6/assets/N10.png) |           |
-| 02  | No SIG, os **Softgoals NFR** representam os requisitos não funcionais?                                                                                             | [NFR4ES, p. 31](../grupo_6/assets/N1.png)       |           |
-| 03  | No SIG, os **Softgoals NFR** são representados por **nuvens claras**?                                                                                              | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  |           |
-| 04  | No SIG, os **Softgoals de operacionalização** representam soluções para satisfazerem os Softgoals de NFR?                                                          | [NFR4ES, p. 31](../grupo_6/assets/N2.png)       |           |
-| 05  | No SIG, os **Softgoals de operacionalização** são representados por **nuvens com linhas mais grossas**?                                                            | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  |           |
-| 06  | No SIG, os **Softgoals de Afirmação** fornecem razões para decisões no desenvolvimento?                                                                            | [NFR4ES, p. 31](../grupo_6/assets/N3.png)       |           |
-| 07  | No SIG, os **Softgoals de Afirmação** são representados por **nuvens com linhas tracejadas**?                                                                      | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  |           |
-| 08  | No SIG, os softgoals são refinados até produzirem **softgoals mais especializados** (operacionalização)?                                                           | [NFR4ES, p. 32](../grupo_6/assets/N5.png)       |
-| 09  | No SIG, as **contribuições** foram corretamente representadas?                                                                                                     | [NFR4ES, p. 33 e 34](../grupo_6/assets/N6.png)  |           |
-| 10  | No SIG, os softgoals são **rotulados** de acordo com o **procedimento de avaliação**(propagação de impactos)?                                                      | [NFR4ES, p. 38](../grupo_6/assets/N7.png)       |           |
-| 11  | No NFR Framework, foram usados **cartões de especificação** para exemplificar os requisitos não funcionais?                                                        | [NFR4ES, p. 45](../grupo_6/assets/N8.png)       |           |
-| 12  | Os cartões de especificação possuem: **ID, Classificação, Descrição, Justificativa, Origem, Critérios de ajuste, Dependências, Prioridade, Conflitos e História**? | [NFR4ES, p. 45](../grupo_6/assets/N8.png)       |           |
+| ID  | Descrição                                                                                                                                                          | Referência                                      | Avaliação  |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 01  | O **SIG (Softgoal Interdependency Graph)** foi feito?                                                                                                              | [NFR4ES, p. 30 e 31](../grupo_6/assets/N10.png) | Sim        |
+| 02  | No SIG, os **Softgoals NFR** representam os requisitos não funcionais?                                                                                             | [NFR4ES, p. 31](../grupo_6/assets/N1.png)       | Sim        |
+| 03  | No SIG, os **Softgoals NFR** são representados por **nuvens claras**?                                                                                              | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  | Incompleto |
+| 04  | No SIG, os **Softgoals de operacionalização** representam soluções para satisfazerem os Softgoals de NFR?                                                          | [NFR4ES, p. 31](../grupo_6/assets/N2.png)       | Incompleto |
+| 05  | No SIG, os **Softgoals de operacionalização** são representados por **nuvens com linhas mais grossas**?                                                            | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  | Incompleto |
+| 06  | No SIG, os **Softgoals de Afirmação** fornecem razões para decisões no desenvolvimento?                                                                            | [NFR4ES, p. 31](../grupo_6/assets/N3.png)       | Incompleto |
+| 07  | No SIG, os **Softgoals de Afirmação** são representados por **nuvens com linhas tracejadas**?                                                                      | [NFR4ES, p. 31 e 32](../grupo_6/assets/N4.png)  | Sim        |
+| 08  | No SIG, os softgoals são refinados até produzirem **softgoals mais especializados** (operacionalização)?                                                           | [NFR4ES, p. 32](../grupo_6/assets/N5.png)       | Sim        |
+| 09  | No SIG, as **contribuições** foram corretamente representadas?                                                                                                     | [NFR4ES, p. 33 e 34](../grupo_6/assets/N6.png)  | Sim        |
+| 10  | No SIG, os softgoals são **rotulados** de acordo com o **procedimento de avaliação**(propagação de impactos)?                                                      | [NFR4ES, p. 38](../grupo_6/assets/N7.png)       | Sim        |
+| 11  | No NFR Framework, foram usados **cartões de especificação** para exemplificar os requisitos não funcionais?                                                        | [NFR4ES, p. 45](../grupo_6/assets/N8.png)       | Sim        |
+| 12  | Os cartões de especificação possuem: **ID, Classificação, Descrição, Justificativa, Origem, Critérios de ajuste, Dependências, Prioridade, Conflitos e História**? | [NFR4ES, p. 45](../grupo_6/assets/N8.png)       | Incompleto |
 
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: ? 
+**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
 
-## Considerações da Inspeção
+#### Problemas encontrados
+
+Os problemas encontrados no artefato de [NFR Framework](../../modelagem_agil/NFR%20Framework.md) foram que alguns softgoals NFR não foram representados por nuvens claras e alguns softgoals de operacionalização não foram representados por nuvens com linhas mais grossas, os softgoals de afirmação não fornecem razões para decisões no desenvolvimento, mas sim um detalhamento do que é esperado, e os softgoals de operacionalização não representam completamente soluções para satisfazerem os Softgoals de NFR. Por fim, alguns cartões de especificação não possuem os critérios de ajuste.
 
 
 ## Referências
@@ -135,9 +145,10 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                   | Autor                                           | Revisor |
-| ------ | ---------- | ------------------------------------------- | ----------------------------------------------- | ------- |
-| 1.0    | 28/06/2024 | Cria página                                 | [Guilherme Westphall](https://github.com/west7) |         |
-| 1.1    | 28/06/2024 | Adiciona chesklist do backlog               | [Guilherme Westphall](https://github.com/west7) |         |
-| 1.2    | 29/06/2024 | Adiciona chesklist das histórias de usuário | [Guilherme Westphall](https://github.com/west7) |         |
-| 1.3    | 29/06/2024 | Adiciona chesklist do NFR Framework         | [Guilherme Westphall](https://github.com/west7) |         |
+| Versão | Data       | Descrição                                   | Autor                                             | Revisor                                           |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 28/06/2024 | Cria página                                 | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.1    | 28/06/2024 | Adiciona chesklist do backlog               | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.2    | 29/06/2024 | Adiciona chesklist das histórias de usuário | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.3    | 29/06/2024 | Adiciona chesklist do NFR Framework         | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.4    | 01/07/2024 | Adiciona inspeção dos artefatos             | [Lucas Martins](https://github.com/martinsglucas) |                                                   |

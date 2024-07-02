@@ -272,7 +272,7 @@ Na Tabela 13, tem-se o cronograma executado para a quarta etapa de entrega.
 
 Na Tabela 14, tem-se o cronograma executado para a etapa 5.1 de entrega.
 
-<center><p><b>Tabela 14</b>: Planejamento da etapa 5.1  - Verificação e Validação de Artefatos </p>
+<center><p><b>Tabela 14</b>: Execução da etapa 5.1  - Verificação e Validação de Artefatos </p>
 
 | *Atividade*                                               | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
 |-----------------------------------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
@@ -284,6 +284,40 @@ Na Tabela 14, tem-se o cronograma executado para a etapa 5.1 de entrega.
 
 **Autor:**  [Kauan Eiras](https://github.com/kauaneiras), 2024. </center>
 
+### Entrega 6 - Pós Rastreabilidade
+
+Na Tabela 15, tem-se o cronograma executado para a sexta etapa de entrega.
+
+<center><p><b>Tabela 15</b>: Execução da etapa 6 - Pós Rastreabilidade </p>
+
+| *Atividade*                    | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
+|--------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 5.1      | 10/06/2024 | 13/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 14/06/2024 - 18/06/2024 |
+| Execução da Baseline | 13/06/2024 | 21/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 21/06/2024 - 24/06/2024 |
+| Estrutura Matriz Backward-From | 16/06/2024 | 21/06/2024 | Davi, Guilherme, Kauan, Leonardo | Lucas, Kallyne | 21/06/2024 - 24/06/2024 |
+| Estrutura matriz Forward-From | 19/06/2024 | 20/06/2024 | Davi, Guilherme  | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 21/06/2024 - 24/06/2024 |
+| Estrutura elos de Rastreabilidade | 21/06/2024 | 20/06/2024 | Guilherme  |Lucas  | 21/06/2024 - 24/06/2024 |
+| Realizar a ata das reuniões    | 17/06/2024 | 24/06/2024 | Davi                                            | Kallyne                                        | 16/06/2024 - 24/06/2024 |
+| Gravar a apresentação          | 24/06/2024 | 24/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 24/06/2024 - 24/06/2024 |
+
+**Autor:**  [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024. </center>
+
+### Entrega 5.2 - Verificação e Validação - Grupo
+
+Na Tabela 16, tem-se o cronograma executado para a sétima etapa de entrega.
+
+<center><p><b>Tabela 16</b>: Execução da etapa 5.2 - Verificação e Validação - Grupo </p>
+
+| *Atividade*                    | *Início*   | *Fim*      | *Responsáveis*                                   | *Revisores*                                      | *Periodo de Revisão*    |
+|--------------------------------|------------|------------|--------------------------------------------------|--------------------------------------------------|-------------------------|
+| Correções pós entrega 6      | 25/06/2024 | 28/06/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 28/06/2024 - 01/07/2024 |
+| prototipagem | 28/06/2024 | 01/07/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 01/07/2024 - 01/07/2024 |
+| Análise de Requisitos: Verificação dos Artefatos Grupo 06 | 28/06/2024 | 01/07/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi                         | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi                          | 01/07/2024 - 01/07/2024 |
+| Análise de Requisitos: Validação Grupo 06                 | 28/06/2024 | 01/07/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi                          | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi                          | 01/07/2024 - 01/07/2024 |
+| Realizar a ata das reuniões                               | 30/06/2024 | 01/07/2024 | Kallyne                                             | Leonardo                                          | 01/07/2024 - 01/07/2024 |
+| Gravar a apresentação                                     | 01/07/2024 | 01/07/2024 | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | Kallyne, Leonardo, Guilherme, Kauan, Lucas, Davi | 01/07/2024 - 01/07/2024 |
+
+**Autor:**  [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024. </center>
 
 ## Referências
 

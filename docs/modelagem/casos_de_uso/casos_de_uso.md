@@ -185,9 +185,8 @@ Na tabela 7, abaixo, será disposta a especificação do caso de uso "Acessar ba
 | *Pós-condições* |  O Internauta confirma o que foi digitado para realizar a pesquisa.  |
 | *Data da Criação* | 20/05/2024 |
 | *Rastreabilidade* | OBS01, BRS23, OBS29 |
-<center>
+
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/martinsglucas">Lucas Martins</a>, 2024</p></font>
-</center>
 </center>
 
 ## Referências

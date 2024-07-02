@@ -19,7 +19,7 @@ A fase de planejamento será realizada por meio de um estudo individual dos arte
 **Tabela 1**: Template para os checklists
 
 | ID             | Descrição             | Referência                      | Avaliação                        |
-|----------------|-----------------------|---------------------------------|----------------------------------|
+| -------------- | --------------------- | ------------------------------- | -------------------------------- |
 | ID do critério | Descrição do critério | Referência da qual foi retirado | Sim/Não/Incompleto/Não se aplica |
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
@@ -34,17 +34,17 @@ Nos dias que foi realizada a inspeção, 30 de junho de 2024 , os artefatos aval
 
 **Tabela 2**: Objetos de verificação
 
-|                           | Versão | Data       | Descrição                                          | Autor(es)                                         | Revisor(es)                                     |
-|---------------------------|--------|------------|----------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
-| **Perfil de Usuário**     | `1.2`  | 02/06/2024 | Correções de títulos, fontes e autores.            | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
-| **Personas**              | `1.2`  | 05/06/2024 | Correções                                          | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
-| **Observação**            | `1.5`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Brainstorming**         | `1.5`  | 30/05/2024 | Correção da formatação                             | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Entrevista**            | `1.9`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Questionário**          | `1.4`  | 30/05/2024 | Correções                                          | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **In or Out**             | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Three Level Scale**     | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
-| **Moscow**                | `1.4`  | 26/06/2024 | Adição re referências nas técnicas                 | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+|                       | Versão | Data       | Descrição                               | Autor(es)                                         | Revisor(es)                                     |
+| --------------------- | ------ | ---------- | --------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| **Perfil de Usuário** | `1.2`  | 02/06/2024 | Correções de títulos, fontes e autores. | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
+| **Personas**          | `1.2`  | 05/06/2024 | Correções                               | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre)    |
+| **Observação**        | `1.5`  | 30/05/2024 | Correções                               | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Brainstorming**     | `1.5`  | 30/05/2024 | Correção da formatação                  | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Entrevista**        | `1.9`  | 30/05/2024 | Correções                               | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Questionário**      | `1.4`  | 30/05/2024 | Correções                               | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **In or Out**         | `1.4`  | 26/06/2024 | Adição re referências nas técnicas      | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Three Level Scale** | `1.4`  | 26/06/2024 | Adição re referências nas técnicas      | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
+| **Moscow**            | `1.4`  | 26/06/2024 | Adição re referências nas técnicas      | [Kauan T. Eiras](https://github.com/kauaneiras)   | [Guilherme Westphall](https://github.com/west7) |
 
 **Autor**: [Lucas Martins](https://github.com/martinsglucas)
 
@@ -68,16 +68,16 @@ A tabela 3 apresentao checklist do artefato "Perfil de Usuário".
 
 **Tabela 3**: Checklist do Perfil de Usuário
 
-| ID | Descrição                                                                                                               | Referência | Avaliação |
-|----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
-| 01 | A especificação do perfil de usuário contém informações demográficas (idade, sexo)?                                     | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
-| 02 | A especificação do perfil de usuário contém informações sobre experiência (leigo/novato, especialista)?                 | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
-| 03 | A especificação do perfil de usuário contém informações sobre atitude (tecnófilo, tecnófobo)?                           | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
-| 04 | A especificação do perfil de usuário contém informações de tarefa primária?                                             | [BARBOSA, 2021, p. 137.](./assets/PU1.png)           |           |
-| 05 | A especificação do perfil de usuário foi obtida a partir de fontes confiáveis ? | [BARBOSA, 2021, p. 138, 139.](./assets/PU2.png)           |           |
-| 06 | A especificação do perfil de usuário foi obtida a partir de técnicas, como entrevista, grupo de foco, ou questionário? | [BARBOSA, 2021, p. 143.](./assets/PU3.png)           |           |
+| ID  | Descrição                                                                                                              | Referência                                      | Avaliação |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------- |
+| 01  | A especificação do perfil de usuário contém informações demográficas (idade, sexo)?                                    | [BARBOSA, 2021, p. 137.](./assets/PU1.png)      | Sim       |
+| 02  | A especificação do perfil de usuário contém informações sobre experiência (leigo/novato, especialista)?                | [BARBOSA, 2021, p. 137.](./assets/PU1.png)      | Sim       |
+| 03  | A especificação do perfil de usuário contém informações sobre atitude (tecnófilo, tecnófobo)?                          | [BARBOSA, 2021, p. 137.](./assets/PU1.png)      | Sim       |
+| 04  | A especificação do perfil de usuário contém informações de tarefa primária?                                            | [BARBOSA, 2021, p. 137.](./assets/PU1.png)      | Sim       |
+| 05  | A especificação do perfil de usuário foi obtida a partir de fontes confiáveis ?                                        | [BARBOSA, 2021, p. 138, 139.](./assets/PU2.png) | Sim       |
+| 06  | A especificação do perfil de usuário foi obtida a partir de técnicas, como entrevista, grupo de foco, ou questionário? | [BARBOSA, 2021, p. 143.](./assets/PU3.png)      | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
@@ -95,18 +95,18 @@ A tabela 4 contêm o checklist do artefato relacionado à [Personas](/docs/elici
 
 **Tabela 4**: Checklist de Personas
 
-| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
-| 01  | Houve a definição de um perfil de usuário?                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per1.png)                                         |           |
-| 02  | As personas são fictícias?                                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per2.png)                                         |           |
-| 03  | As personas, apesar de fictícias, representam um usuário real?                                                                                       | [About Face: the essentials of interaction design.](./assets/Per3.png)                              |           |
-| 04  | As personas possuem identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos, expectativas e dificuldades?                   | [Interação Humano-Computador e Experiência do usuário](./assets/Per4.png)                           |           |
-| 05  | Existem ao menos 3 personas?                                                                                                                         | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
-| 06  | Existe mais de uma persona primária?                                                                                                                 | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
-| 07  | Existe ao menos uma persona secundária?                                                                                                              | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
-| 08  | Existe ao menos uma anti-persona?                                                                                                                    | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png)                           |           |
+| ID  | Descrição                                                                                                                          | Referência                                                                | Avaliação |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------- |
+| 01  | Houve a definição de um perfil de usuário?                                                                                         | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per1.png)               | Sim       |
+| 02  | As personas são fictícias?                                                                                                         | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Per2.png)               | Sim       |
+| 03  | As personas, apesar de fictícias, representam um usuário real?                                                                     | [About Face: the essentials of interaction design.](./assets/Per3.png)    | Sim       |
+| 04  | As personas possuem identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos, expectativas e dificuldades? | [Interação Humano-Computador e Experiência do usuário](./assets/Per4.png) | Sim       |
+| 05  | Existem ao menos 3 personas?                                                                                                       | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
+| 06  | Existe mais de uma persona primária?                                                                                               | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
+| 07  | Existe ao menos uma persona secundária?                                                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
+| 08  | Existe ao menos uma anti-persona?                                                                                                  | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -123,28 +123,31 @@ A tabela 5 contêm o checklist do artefato relacionado à [Observação](/docs/e
 
 **Tabela 5**: Checklist de Observação
 
-| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
-| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo?                                                            | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
-| 02  | Houve a definição e exposição de um público-alvo?                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
-| 03  | Existe uma gravação da realização da técnica?                                                                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
-| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
-| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
-| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 08  | Houve a definição do tipo de observação?                                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)                                      |           |
-| 09  | O observador agiu de acordo com o tipo de observação?                                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)                                      |           |
-| 10  | O observador procurou entender o porquê das ações ao realizar perguntas?                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs2.png)                                      |           |
-| 11  | O observador explicou como funcionaria a sessão?                                                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)                                      |           |
-| 12  | O observador sugeriu a quem ele observava que "pensasse em voz alta"?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)                                      |           |
+| ID  | Descrição                                                                                 | Referência                                                       | Avaliação |
+| --- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- |
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo? | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) | Sim       |
+| 02  | Houve a definição e exposição de um público-alvo?                                         | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) | Não       |
+| 03  | Existe uma gravação da realização da técnica?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png) | Sim       |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) | Sim       |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) | Sim       |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Não       |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim       |
+| 08  | Houve a definição do tipo de observação?           Sim                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)   |           |
+| 09  | O observador agiu de acordo com o tipo de observação?                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs1.png)   | Sim       |
+| 10  | O observador procurou entender o porquê das ações ao realizar perguntas?                  | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs2.png)   | Sim       |
+| 11  | O observador explicou como funcionaria a sessão?                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)   | Sim       |
+| 12  | O observador sugeriu a quem ele observava que "pensasse em voz alta"?                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)   | Não       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Observação](/docs/elicitacao/tecnicas/observacao.md)
+Os principais problemas encontrados no artefato [Observação](/docs/elicitacao/tecnicas/observacao.md):
+02 - Não foi especificado o público alvo
+06 - O usuário elicitou os requisitos, mas não validou
+12 - O observador não sugeriu que pensase em voz alta. 
 
 ### Brainstorming
 
@@ -155,34 +158,36 @@ A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](/docs/
 
 **Tabela 6**: Checklist de Brainstorming
 
-| ID  | Descrição                                                                                                                                            | Referência                                                                                          | Avaliação |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
-| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo?                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
-| 02  | Houve a definição e exposição de um público-alvo?                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
-| 03  | Existe uma gravação da realização da técnica?                                                                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
-| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
-| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
-| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 08  | O processo foi construtivo, ou seja, livre de críticas?                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra1.png)                                         |           |
-| 09  | Houve a etapa de geração de ideias?                                                                                                                  | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)                                         |           |
-| 10  | Houve a etapa de evolução de ideias?                                                                                                                 | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)                                         |           |
-| 11  | As ideias foram avaliadas?                                                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra3.png)                                         |           |
-| 12  | Havia um moderador?                                                                                                                                  | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
-| 13  | O moderador conseguiu manter um bom ritmo do brainstorming?                                                                                          | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
-| 14  | O moderador criou regras para a sessão?                                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)                                         |           |
-| 15  | A sessão foi planejada?                                                                                                                              | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra5.png)                                         |           |
-| 16  | Foram definidos os tempos de fala?                                                                                                                   | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)                                         |           |
-| 17  | Os participantes eram de áreas diferentes (a fim de ter insights diferentes)?                                                                        | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)                                         |           |
+| ID  | Descrição                                                                                 | Referência                                                       | Avaliação |
+| --- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------- |
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no processo? | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) | Sim       |
+| 02  | Houve a definição e exposição de um público-alvo?                                         | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) | Não       |
+| 03  | Existe uma gravação da realização da técnica?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png) | Sim       |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) | Sim       |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) | Sim       |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim       |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim       |
+| 08  | O processo foi construtivo, ou seja, livre de críticas?                                   | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra1.png)      | Sim       |
+| 09  | Houve a etapa de geração de ideias?                                                       | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)      | Sim       |
+| 10  | Houve a etapa de evolução de ideias?                                                      | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra2.png)      | Sim       |
+| 11  | As ideias foram avaliadas?                                                                | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra3.png)      | Sim       |
+| 12  | Havia um moderador?                                                                       | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)      | Sim       |
+| 13  | O moderador conseguiu manter um bom ritmo do brainstorming?                               | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)      | Sim       |
+| 14  | O moderador criou regras para a sessão?                                                   | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra4.png)      | Sim       |
+| 15  | A sessão foi planejada?                                                                   | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra5.png)      | Sim       |
+| 16  | Foram definidos os tempos de fala?                                                        | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)      | Não       |
+| 17  | Os participantes eram de áreas diferentes (a fim de ter insights diferentes)?             | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)      | Não       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
-
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
 </center>
 
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md)
+Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md):
+02 - Não foi especificado o público-alvo no documento
+16 - O tempo de fala foi livre
+17 - Todos os participantes fazem faculdade na área de tecnologia.
 
 </center>
 
@@ -194,26 +199,26 @@ A tabela 7 contêm o checklist do artefato relacionado à [entrevista](/docs/eli
 
 **Tabela 7**: Checklist de Entrevista
 
-| ID  | Descrição                                                                                                                                     | Referência                                                                                          | Avaliação |
-|-----|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
-| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado na entrevista?                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png)                                    |           |
-| 02  | Houve a definição e exposição de um público-alvo?                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png)                                    |           |
-| 03  | Existe uma gravação da realização da técnica?                                                                                                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png)                                    |           |
-| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png)                                    |           |
-| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png)                                    |           |
-| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                                         | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png)                                    |           |
-| 08  | Foram criadas atas para as entrevistas?                                                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent1.png)                                      |           |
-| 09  | As entrevistas possuíam roteiros?                                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent2.png)                                      |           |
-| 10  | O entrevistador foi adequado para uma entrevista (foi um bom ouvinte, aceitou as respostas do entrevistado e também as opiniões)?             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent3.png)                                      |           |
-| 11  | Foi definido um tempo para a entrevista ou ela durou menos de duas horas?                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent4.png)                                      |           |
-| 12  | Foi definido um local para a entrevista ocorrer?                                                                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent5.png)                                      |           |
-| 13  | O entrevistador demonstrou entender o conteúdo de forma que evidencie que houve um estudo prévio?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent6.png)                                      |           |
-| 14  | As perguntas foram breves?                                                                                                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent7.png)                                      |           |
-| 15  | O entrevistador fez anotações durante a entrevista?                                                                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent8.png)                                      |           |
-| 16  | Houve a identificação do(a) entrevistado(a)?                                                                                           | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Ent9.png)                                      |           |
+| ID  | Descrição                                                                                                                         | Referência                                                       | Avaliação  |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado na entrevista?                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) | Sim        |
+| 02  | Houve a definição e exposição de um público-alvo?                                                                                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) | Sim        |
+| 03  | Existe uma gravação da realização da técnica?                                                                                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral4.png) | Sim        |
+| 04  | Os pontos importantes do vídeo foram passados para o documento de forma escrita?                                                  | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) | Sim        |
+| 05  | Os envolvidos autorizaram a utilização do vídeo em que eles apareceram?                                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) | Sim        |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim        |
+| 07  | Houve participação do cliente na elicitação dos requisitos?                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim        |
+| 08  | Foram criadas atas para as entrevistas?                                                                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent1.png)   | Sim        |
+| 09  | As entrevistas possuíam roteiros?                                                                                                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent2.png)   | Sim        |
+| 10  | O entrevistador foi adequado para uma entrevista (foi um bom ouvinte, aceitou as respostas do entrevistado e também as opiniões)? | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent3.png)   | Sim        |
+| 11  | Foi definido um tempo para a entrevista ou ela durou menos de duas horas?                                                         | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent4.png)   | Não        |
+| 12  | Foi definido um local para a entrevista ocorrer?                                                                                  | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent5.png)   | Sim        |
+| 13  | O entrevistador demonstrou entender o conteúdo de forma que evidencie que houve um estudo prévio?                                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent6.png)   | Incompleto |
+| 14  | As perguntas foram breves?                                                                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent7.png)   | Incompleto |
+| 15  | O entrevistador fez anotações durante a entrevista?                                                                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent8.png)   | Sim        |
+| 16  | Houve a identificação do(a) entrevistado(a)?                                                                                      | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Ent9.png)      | Sim        |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -221,7 +226,9 @@ A tabela 7 contêm o checklist do artefato relacionado à [entrevista](/docs/eli
 #### Problemas encontrados
 
 Não foram encontrados problemas no artefato [entrevista](/docs/elicitacao/tecnicas/entrevista.md)
-
+11 - Não foi definido tempo para entrevista
+13 - Incompleto - O entrevistador teve um estudo prévio, mas a depender do usuário, criou novas perguntas que considerou interessante para o trabalho.
+14 - Incompleto - Algumas perguntas foram longas
 
 ### Questionário
 
@@ -231,30 +238,33 @@ A tabela 8 contêm o checklist do artefato relacionado à [Questionário](/docs/
 
 **Tabela 8**: Checklist de Questionário
 
-| ID  | Descrição                                                                                                               | Referência | Avaliação |
-|-----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
-| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no questionário?                                                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) |           |
-| 02  | Houve a definição e exposição de um público-alvo?                                                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) |           |
-| 03  | Os requisitos elicitados através do questionário foram passados para o documento de forma escrita?                      | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) |           |
-| 04  | Os envolvidos autorizaram a utilização de suas respostas caso suas identidades tenham sido expostas?                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) |           |
-| 05  | Houve participação do cliente na elicitação dos requisitos?                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) |           |
-| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                                   | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) |           |
-| 07  | Foi definido um período no qual o questionário ficou aberto para respostas?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) |           |
-| 08  | O período no qual o questionário ficou aberto para respostas está descrito no documento?                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) |           |
-| 09  | Foi explicada a forma como o questionário foi distribuído para respostas?                                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest2.png) |           |
-| 10  | As perguntas do questionário foram organizadas de modo a não influenciar negativamente quem o respondeu?                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest3.png) |           |
-| 11  | As perguntas do questionário são construídas de maneira que evite mal-entendidos?                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest4.png) |           |
-| 12  | Foi definido um número de respostas que tornasse o questionário satisfatório?                                           | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest5.png) |           |
-| 13  | O questionário foi testado e isso foi abordado no documento?                                                                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest6.png) |           |
-| 14  | O questionário possui perguntas que aceitam apenas respostas livres ou limitadas?                                       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest7.png) |           |
+| ID  | Descrição                                                                                                | Referência                                                       | Avaliação  |
+| --- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| 01  | Houve a definição e explicação de um objetivo ou escopo e ele foi mencionado no questionário?            | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral3.png) | Sim        |
+| 02  | Houve a definição e exposição de um público-alvo?                                                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral6.png) | Sim        |
+| 03  | Os requisitos elicitados através do questionário foram passados para o documento de forma escrita?       | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral2.png) | Sim        |
+| 04  | Os envolvidos autorizaram a utilização de suas respostas caso suas identidades tenham sido expostas?     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral1.png) | Sim        |
+| 05  | Houve participação do cliente na elicitação dos requisitos?                                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Sim        |
+| 06  | Houve participação do cliente na validação dos requisitos elicitados?                                    | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Geral5.png) | Incompleto |
+| 07  | Foi definido um período no qual o questionário ficou aberto para respostas?                              | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) | Sim        |
+| 08  | O período no qual o questionário ficou aberto para respostas está descrito no documento?                 | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest1.png) | Sim        |
+| 09  | Foi explicada a forma como o questionário foi distribuído para respostas?                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest2.png) | Sim        |
+| 10  | As perguntas do questionário foram organizadas de modo a não influenciar negativamente quem o respondeu? | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest3.png) | Sim        |
+| 11  | As perguntas do questionário são construídas de maneira que evite mal-entendidos?                        | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest4.png) | Sim        |
+| 12  | Foi definido um número de respostas que tornasse o questionário satisfatório?                            | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest5.png) | Não        |
+| 13  | O questionário foi testado e isso foi abordado no documento?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest6.png) | Não        |
+| 14  | O questionário possui perguntas que aceitam respostas livres e limitadas?                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest7.png) | Sim        |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao/tecnicas/questionario.md) 
+Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao/tecnicas/questionario.md):
+12 - O grupo não definiu um número de respostas mínimo que seria satisfatório
+13 - O questionãrio não foi testado
+
 
 ### In or Out
 
@@ -265,20 +275,20 @@ A tabela 9 apresent o checklist do artefato "In or Out".
 
 **Tabela 9**: Checklist do In or Out
 
-| ID | Descrição                                                                                                               | Referência | Avaliação |
-|----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
-| 01 | Houve a participação do cliente no processo de priorização?                                             | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png) |           |
-| 02 | Foi elaborada uma lista de requisitos e tomada uma decisão binária (está dentro ou fora)? | [WIEGERS, 2013, p. 318.](./assets/IO1.png)           |           |
-| 03 | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/IO2.png)       |           |
-| 04 | Os requisitos possuem rastrabilidade?                                                                   | [POHL, 2016, p. 122.](./assets/TLS3.png)         |           |
+| ID  | Descrição                                                                                               | Referência                                       | Avaliação |
+| --- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------- |
+| 01  | Houve a participação do cliente no processo de priorização?                                             | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png) | Sim       |
+| 02  | Foi elaborada uma lista de requisitos e tomada uma decisão binária (está dentro ou fora)?               | [WIEGERS, 2013, p. 318.](./assets/IO1.png)       | Sim       |
+| 03  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/IO2.png)       | Sim       |
+| 04  | Os requisitos possuem rastreabilidade?                                                                  | [POHL, 2016, p. 122.](./assets/TLS3.png)         | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [In or Out](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-1-in-or-out) 
+Não foram encontrados problemas no artefato da técnica de [In or Out](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-1-in-or-out) de acordo com o checklist.
 
 
 ### Three Level Scale
@@ -289,25 +299,23 @@ A tabela 10 apresent o checklist do artefato "Three Level Scale".
 
 **Tabela 10**: Checklist do Three Level Scale
 
-| ID | Descrição                                                                                               | Referência                                       | Avaliação |
-|----|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|
-| 01 | Houve a participação do cliente no processo de priorização?                                             | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png) |           |
-| 02 | A técnica foi aplicada considerando as duas dimensões de importância e urgência?                        | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      |           |
-| 03 | A prioridade alta significa requisitos tanto importantes quanto urgentes?                               | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      |           |
-| 04 | A prioridade média significa requisitos importantes mas não urgentes?                                   | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      |           |
-| 05 | A prioridade baixa significa requisitos não importantes e não urgentes?                                 | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      |           |
-| 06 | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)       |           |
-| 07 | Os requisitos possuem rastrabilidade?                                                                   | [POHL, 2016, p. 122.](./assets/TLS3.png)         |           |
+| ID  | Descrição                                                                                               | Referência                                       | Avaliação |
+| --- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------- |
+| 01  | Houve a participação do cliente no processo de priorização?                                             | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png) | Sim       |
+| 02  | A técnica foi aplicada considerando as duas dimensões de importância e urgência?                        | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
+| 03  | A prioridade alta significa requisitos tanto importantes quanto urgentes?                               | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
+| 04  | A prioridade média significa requisitos importantes mas não urgentes?                                   | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
+| 05  | A prioridade baixa significa requisitos não importantes e não urgentes?                                 | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
+| 06  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
+| 07  | Os requisitos possuem rastreabilidade?                                                                  | [POHL, 2016, p. 122.](./assets/TLS3.png)         | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7).
 
 </center>
 
-
-
 #### Problemas encontrados
 
-O único problema encontrado no artefato [Three Level Scale](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-2-three-level-scale) 
+Não foram encontrados problemas no artefato [Three Level Scale](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-2-three-level-scale) de acordo com a checklist. 
 
 ### Moscow
 
@@ -318,23 +326,24 @@ A tabela 11 apresent o checklist do artefato "Moscow".
 
 **Tabela 11**: Checklist do Moscow
 
-| ID | Descrição                                                                                                               | Referência | Avaliação |
-|----|-------------------------------------------------------------------------------------------------------------------------|------------|-----------|
-| 01 | Houve a participação do cliente no processo de priorização?                                             | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png) |           |
-| 02 | O MUST significa um requisito deve ser satisfeito para que a solução seja considerada um sucesso? | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png)       |           |
-| 03 | O SHOULD significa um requisito é importante e deve ser incluído na solução, se possível, mas não é obrigatório para o sucesso? | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png)       |           |
-| 04 | O COULD significa um requisito desejável, mas que pode ser adiada ou elimina0da? | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png)       |           |
-| 05 | O WON'T significa um requisito que não será implementado neste momento, mas que poderá ser incluído em uma versão futura? | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png)       |           |
-| 06 | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/IO2.png)       |           |
-| 07 | Os requisitos possuem rastrabilidade?                                                                   | [POHL, 2016, p. 122.](./assets/TLS3.png)         |           |
+| ID  | Descrição                                                                                                                       | Referência                                        | Avaliação |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------- |
+| 01  | Houve a participação do cliente no processo de priorização?                                                                     | [WIEGERS, 2013, p. 314, 315.](./assets/TLS1.png)  | Sim       |
+| 02  | O MUST significa um requisito deve ser satisfeito para que a solução seja considerada um sucesso?                               | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png) | Sim       |
+| 03  | O SHOULD significa um requisito é importante e deve ser incluído na solução, se possível, mas não é obrigatório para o sucesso? | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png) | Sim       |
+| 04  | O COULD significa um requisito desejável, mas que pode ser adiada ou eliminada?                                                 | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png) | Sim       |
+| 05  | O WON'T significa um requisito que não será implementado neste momento, mas que poderá ser incluído em uma versão futura?       | [WIEGERS, 2013, p. 320, 321.](./assets/MSCW1.png) | Sim       |
+| 06  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos?                         | [WIEGERS, 2013, p. 319.](./assets/IO2.png)        | Sim       |
+| 07  | Os requisitos possuem rastreabilidade?                                                                                          | [POHL, 2016, p. 122.](./assets/TLS3.png)          | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), 2024.
+**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Moscow](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-3-moscow)
+Não foram encontrados problemas no artefato [Moscow](../../elicitacao/priorizacao/tecnicas_de_priorizacao.md#tecnica-3-moscow) de acordo com a checklist.
+
 
 ## Referências
 
@@ -362,8 +371,9 @@ Os principais problemas encontrados no artefato [Moscow](../../elicitacao/priori
 
 ## Histórico de versão
 
-| Versão | Data       | Descição                                                 | Autor                                             | Revisor                                           |
-|--------|------------|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| 1.0    | 30/06/2024 | Criação da página e adição da verificação dos artefatos da priorização                            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
-| 1.1    | 01/07/2024 | Adição da verificação do perfil de usuário                           | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
-| 1.2    | 01/07/2024 | Adição de Personas, Entrevista, Questionário, Observação e Brainstorming e tambem feitas Correções                         | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan T. Eiras](https://github.com/kauaneiras) |
+| Versão | Data       | Descição                                                                                            | Autor                                             | Revisor                                           |
+| ------ | ---------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 30/06/2024 | Criação da página e adição da verificação dos artefatos da priorização                              | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.1    | 01/07/2024 | Adição da verificação do perfil de usuário                                                          | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7)   |
+| 1.2    | 01/07/2024 | Adição de Personas, Entrevista, Questionário, Observação e Brainstorming e tambem feitas Correções  | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan T. Eiras](https://github.com/kauaneiras)   |
+| 1.3    | 01/07/2024 | Adiciona inspção dos artefatos de: "Perfil de usuário", "In or out", "Three Level Scale" e "Moscow" | [Guilherme Westphall](https://github.com/west7)   | [Leonardo Aguiar](https://github.com/Leonardo0o0) |

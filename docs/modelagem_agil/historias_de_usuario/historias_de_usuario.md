@@ -42,7 +42,7 @@ O modelo para a construção das histórias de usuário pode ser encontrado na t
 
 Nesta seção estão dispostas as histórias de usuário da tabela 2 até a tabela 23.
 
-### [US01](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site
+### [US01](../backlog.md) - Acessar site
 
 A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 
@@ -64,7 +64,7 @@ A tabela 2 apresenta a história de usuário US01 - Acessar Site.
 </center>
 
 
-### [US02](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar site formato desktop
+### [US02](../backlog.md) - Acessar site formato desktop
 
 A tabela 03 apresenta a história de usuário US02 - Acessar site formato desktop.
 
@@ -83,7 +83,7 @@ A tabela 03 apresenta a história de usuário US02 - Acessar site formato deskto
 
 </center>
 
-### [US03](../../elicitacao/priorizacao/requisitos_priorizados.md) - Favoritar sites
+### [US03](../backlog.md) - Favoritar sites
 
 A tabela 04 apresenta a história de usuário US03 - Favoritar sites.
 
@@ -102,7 +102,7 @@ A tabela 04 apresenta a história de usuário US03 - Favoritar sites.
 
 </center>
 
-### [US04](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar no navegador
+### [US04](../backlog.md) - Pesquisar no navegador
 
 A tabela 05 apresenta a história de usuário US04 - Pesquisar no navegador.
 
@@ -123,7 +123,7 @@ A tabela 05 apresenta a história de usuário US04 - Pesquisar no navegador.
 
 </center>
 
-### [US05](../../elicitacao/priorizacao/requisitos_priorizados.md) - Pesquisar por voz
+### [US05](../backlog.md) - Pesquisar por voz
 
 A tabela 06 apresenta a história de usuário US05 - Pesquisar por voz.
 
@@ -144,7 +144,7 @@ A tabela 06 apresenta a história de usuário US05 - Pesquisar por voz.
 </center>
 
 
-### [US06](../../elicitacao/priorizacao/requisitos_priorizados.md) - Iniciar leitura de páginas
+### [US06](../backlog.md) - Iniciar leitura de páginas
 
 A tabela 07 apresenta a história de usuário US06 - Iniciar leitura de páginas.
 
@@ -165,7 +165,7 @@ A tabela 07 apresenta a história de usuário US06 - Iniciar leitura de páginas
 
 </center>
 
-### [US07](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar acesso à sites (controle parental)
+### [US07](../backlog.md) - Controlar acesso à sites (controle parental)
 
 A tabela 08 apresenta a história de usuário US07 - Controlar acesso à sites (controle parental).
 
@@ -185,7 +185,7 @@ A tabela 08 apresenta a história de usuário US07 - Controlar acesso à sites (
 
 </center>
 
-### [US08](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar fonte do navegador
+### [US08](../backlog.md) - Alterar fonte do navegador
 
 A tabela 09 apresenta a história de usuário US08 - Alterar fonte do navegador.
 
@@ -206,7 +206,7 @@ A tabela 09 apresenta a história de usuário US08 - Alterar fonte do navegador.
 </center>
 
 
-### [US09](../../elicitacao/priorizacao/requisitos_priorizados.md) - Controlar por atalho de gestos
+### [US09](../backlog.md) - Controlar por atalho de gestos
 
 A tabela 10 apresenta a história de usuário US09 - Controlar por atalho de gestos.
 
@@ -227,7 +227,7 @@ A tabela 10 apresenta a história de usuário US09 - Controlar por atalho de ges
 </center>
 
 
-### [US10](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar entre o tema claro e escuro
+### [US10](../backlog.md) - Alterar entre o tema claro e escuro
 
 A tabela 11 apresenta a história de usuário US10 - Alterar entre o tema claro e escuro.
 
@@ -247,7 +247,7 @@ A tabela 11 apresenta a história de usuário US10 - Alterar entre o tema claro 
 </center>
 
 
-### [US11](../../elicitacao/priorizacao/requisitos_priorizados.md) - Gerir memória
+### [US11](../backlog.md) - Gerir memória
 
 A tabela 12 apresenta a história de usuário US11 - Gerir memória.
 
@@ -266,7 +266,7 @@ A tabela 12 apresenta a história de usuário US11 - Gerir memória.
 
 </center>
 
-### [US12](../../elicitacao/priorizacao/requisitos_priorizados.md) - Mudar idioma
+### [US12](../backlog.md) - Mudar idioma
 
 A tabela 13 apresenta a história de usuário US12 - Mudar idioma.
 
@@ -285,7 +285,7 @@ A tabela 13 apresenta a história de usuário US12 - Mudar idioma.
 
 </center>
 
-### [US13](../../elicitacao/priorizacao/requisitos_priorizados.md) - Traduzir pagina
+### [US13](../backlog.md) - Traduzir pagina
 
 A tabela 14 apresenta a história de usuário US13 - Traduzir pagina.
 
@@ -304,7 +304,7 @@ A tabela 14 apresenta a história de usuário US13 - Traduzir pagina.
 
 </center>
 
-### [US14](../../elicitacao/priorizacao/requisitos_priorizados.md) - Sincronizar dados
+### [US14](../backlog.md) - Sincronizar dados
 
 A tabela 15 apresenta a história de usuário US14 - Sincronizar dados.
 
@@ -324,7 +324,7 @@ A tabela 15 apresenta a história de usuário US14 - Sincronizar dados.
 
 </center>
 
-### [US15](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de navegação
+### [US15](../backlog.md) - Acessar histórico de navegação
 
 A tabela 16 apresenta a história de usuário US15 - Acessar histórico de navegação.
 
@@ -344,7 +344,7 @@ A tabela 16 apresenta a história de usuário US15 - Acessar histórico de naveg
 
 </center>
 
-### [US16](../../elicitacao/priorizacao/requisitos_priorizados.md) - Acessar histórico de downloads
+### [US16](../backlog.md) - Acessar histórico de downloads
 
 A tabela 17 apresenta a história de usuário US16 - Acessar histórico de downloads.
 
@@ -363,7 +363,7 @@ A tabela 17 apresenta a história de usuário US16 - Acessar histórico de downl
 
 </center>
 
-### [US17](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar histórico 
+### [US17](../backlog.md) - Limpar histórico 
 
 A tabela 18 apresenta a história de usuário US17 - Limpar histórico.
 
@@ -383,7 +383,7 @@ A tabela 18 apresenta a história de usuário US17 - Limpar histórico.
 
 </center>
 
-### [US18](../../elicitacao/priorizacao/requisitos_priorizados.md) - Limpar dados de usuário
+### [US18](../backlog.md) - Limpar dados de usuário
 
 A tabela 19 apresenta a história de usuário US18 - Limpar dados de usuário.
 
@@ -403,7 +403,7 @@ A tabela 19 apresenta a história de usuário US18 - Limpar dados de usuário.
 
 </center>
 
-### [US19](../../elicitacao/priorizacao/requisitos_priorizados.md) - Trocar de conta
+### [US19](../backlog.md) - Trocar de conta
 
 A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 
@@ -422,7 +422,7 @@ A tabela 20 apresenta a história de usuário US19 - Trocar de conta.
 
 </center>
 
-### [US20](../../elicitacao/priorizacao/requisitos_priorizados.md) - Alterar senha
+### [US20](../backlog.md) - Alterar senha
 
 A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 
@@ -441,7 +441,7 @@ A tabela 21 apresenta a história de usuário US20 - Alterar senha.
 
 </center>
 
-### [US21](../../elicitacao/priorizacao/requisitos_priorizados.md) - Ter segurança contra rastreamento, roubo de dados e ataques
+### [US21](../backlog.md) - Ter segurança contra rastreamento, roubo de dados e ataques
 
 A tabela 22 apresenta a história de usuário US21 - Ter segurança contra rastreamento, roubo de dados e ataques.
 
@@ -460,7 +460,7 @@ A tabela 22 apresenta a história de usuário US21 - Ter segurança contra rastr
  
 </center>
 
-### [US22](../../elicitacao/priorizacao/requisitos_priorizados.md) - Bloquear anúncios
+### [US22](../backlog.md) - Bloquear anúncios
 
 A tabela 23 apresenta a história de usuário US22 - Bloquear anúncios.
 
@@ -476,6 +476,40 @@ A tabela 23 apresenta a história de usuário US22 - Bloquear anúncios.
 | **Dificuldade** | Média |
 
 **Autor:** [Kallyne Macedo](https://github.com/kalipassos), 2024.
+
+</center>
+
+### [US23](../backlog.md) - VPN
+
+<center>
+
+**Tabela: 24**: US23
+
+| ID  | Descrição |
+| --- | --------- |
+| **História de usuário** | Como um usuário do navegador Firefox, desejo utilizar uma Rede Privada Virtual (VPN) integrada, para que eu possa navegar de forma segura e privada na internet. |
+| **Critérios de aceitação** | - [ ] O navegador deve oferecer uma opção para ativar/desativar a VPN integrada facilmente acessível no menu principal.<br> - [ ] O navegador deve permitir a escolha de diferentes servidores de VPN localizados em diferentes países.<br> - [ ] O navegador deve fornecer uma indicação visual clara quando a VPN estiver ativa.<br> - [ ] O usuário deve ser capaz de configurar a VPN para se conectar automaticamente ao iniciar o navegador. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024.
+
+</center>
+
+### [US24](../backlog.md) - Agrupar Guias
+
+<center>
+
+**Tabela: 25**: US24
+
+| ID  | Descrição |
+| --- | --------- |
+| **História de usuário** | Como um usuário do navegador Firefox, desejo agrupar minhas guias abertas, para que eu possa organizar minha navegação e acessar facilmente conjuntos de guias relacionadas. |
+| **Critérios de aceitação** | - [ ] O navegador deve permitir criar grupos de guias. <br> - [ ] Deve haver uma indicação visual clara dos grupos de guias.<br> - [ ] O usuário deve ser capaz de fechar e desfazer os grupos de guias.<br> - [ ] O navegador deve permitir desagrupar guias de forma rápida e fácil. |
+| **Prioridade** | Alta |
+| **Dificuldade** | Alta |
+
+**Autor:** [Kauan Eiras](https://github.com/kauaneiras), 2024 
 
 </center>
 
