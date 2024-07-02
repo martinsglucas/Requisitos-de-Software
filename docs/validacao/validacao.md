@@ -32,7 +32,7 @@ Abaixo é apresentado o protótipo desenvolvido no Figma para a validação dos 
 
 **Protótipo**: Requisitos não implementados - Firefox
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZujNRuuqHSdLu11XzDQNMJ%2FFirefox---Requisitos%3Fnode-id%3D60-511%26t%3DqFyVOfCatZmOfZhD-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A42" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="900" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZujNRuuqHSdLu11XzDQNMJ%2FFirefox---Requisitos%3Fnode-id%3D60-511%26t%3DqFyVOfCatZmOfZhD-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A42" allowfullscreen></iframe>
 
 **Autor**:  [Lucas Martins](https://github.com/martinsglucas), 2024.
 
