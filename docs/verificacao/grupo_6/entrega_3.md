@@ -73,7 +73,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 13  | O documento aborda a necessidade de testes automatizados e critérios de aceitação para garantir a qualidade do software?                                 | [PRESSMAN, 2014, p. 512](../grupo_6/assets/PRESS511512.png)     | Sim       |
 | 14  | A Especificação Suplementar inclui métricas e métodos para monitorar e avaliar continuamente o desempenho e a qualidade do sistema após a implementação? | [PRESSMAN, 2014, p. 512](../grupo_6/assets/PRESS511512.png)     | Sim       |
 
-**Autor**: [Kauan Eiras](github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0) 
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0) 
 
 </center>
 
@@ -94,7 +94,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 07  | O artefato menciona os autores da criação dos léxicos?                                          | [SERRANO, p. 25](../grupo_6/assets/Aula10p25.png)           | Sim       |
 | 08  | Os léxicos estão conectados entre si através de hyperlinks?                                     | [SERRANO, p. 20](../grupo_6/assets/Aula10p20.png)           | Sim       |
 
-**Autor**: [Kauan Eiras](github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor**: [Kauan Eiras](https://github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -237,7 +237,7 @@ Não foram encontrados problemas no artefato [Casos de uso - Mudar Idioma](https
 | 03  | Existem cenários que conjuntamente se complementam?                                                                              | [LEITE, p.52-53](../grupo_6/assets/imageC7.png)               | Não        |
 | 04  | Os cenários descrevem interações realistas e significativas com o sistema?                                                       | [BARBOSA, SILVA, 2021, p. 173](../grupo_6/assets/imageC3.png) | Sim        |
 | 05  | Os atores são apropriados e relevantes para o contexto dos cenários?                                                             | [BARBOSA, SILVA, 2021, p. 172](../grupo_6/assets/imageC2.png) | Sim        |
-| 06  | Há um episódio/evento relacionado a cada um dos cenários?                                                                        | [BARBOSA, SILVA, 2021, p. 172](../grupo_6/assets/imageC.png)  | Sim        |
+| 06  | Há um episódio/evento relacionado a cada um dos cenários?                                                                        | [BARBOSA, SILVA, 2021, p. 172](../grupo_6/assets/imageC5.png)  | Sim        |
 | 07  | Há uma referência clara aos léxicos nos cenários?                                                                                | [LEITE, p. 50](../grupo_6/assets/imageC4.png)                 | Não        |
 | 08  | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         | [LEITE, p.48-49](../grupo_6/assets/imageC6.png)               | Sim        |
 | 09  | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          | [LEITE, p.48-49](../grupo_6/assets/imageC6.png)               | Sim        |

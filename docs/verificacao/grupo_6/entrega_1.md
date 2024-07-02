@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento aborda a verificação da Entrega 1, intitulada "Pré-rastreabilidade". Esta entrega inclui o artefato [Rich Picture](docs/pre-rastreabilidade/rich-picture.md) elaborados pelo nosso grupo com base no aplicativo Firefox.
+Este documento aborda a verificação da Entrega 1, intitulada "Pré-rastreabilidade". Esta entrega inclui o artefato [Rich Picture](../../pre-rastreabilidade/rich-picture.md) elaborados pelo nosso grupo com base no aplicativo Firefox.
 
 ## Metodologia
 

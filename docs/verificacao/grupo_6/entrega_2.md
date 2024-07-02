@@ -84,11 +84,11 @@ A tabela 3 apresentao checklist do artefato "Perfil de Usuário".
 
 #### Problemas encontrados
 
-Não foram encontrados problemas no artefato [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Meu-INSS/elicitacao/perfil_de_Usuario/) de acordo com a checklist feita para realizar a verificação.
+Não foram encontrados problemas no artefato [Perfil de Usuário](../../elicitacao/perfil_usuario/perfil_de_usuario.md) de acordo com a checklist feita para realizar a verificação.
 
 ### Personas
 
-A tabela 4 contêm o checklist do artefato relacionado à [Personas](/docs/elicitacao/personas/personas.md)
+A tabela 4 contêm o checklist do artefato relacionado à [Personas](../../elicitacao/personas/personas.md)
 
 
 <center>
@@ -112,12 +112,12 @@ A tabela 4 contêm o checklist do artefato relacionado à [Personas](/docs/elici
 
 #### Problemas encontrados
 
-Nenhum problema foi encontrado no artefato [Personas](/docs/elicitacao/personas/personas.md) de acordo com a checklist feita para realizar a verificação.
+Nenhum problema foi encontrado no artefato [Personas](../../elicitacao/personas/personas.md) de acordo com a checklist feita para realizar a verificação.
 
 
 ### Observação
 
-Não foram encontrados problemas no artefato [Observação](/docs/elicitacao/tecnicas/observacao.md).
+Não foram encontrados problemas no artefato [Observação](../../elicitacao/tecnicas/observacao.md).
 
 <center>
 
@@ -144,14 +144,14 @@ Não foram encontrados problemas no artefato [Observação](/docs/elicitacao/tec
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Observação](/docs/elicitacao/tecnicas/observacao.md):
+Os principais problemas encontrados no artefato [Observação](../../elicitacao/tecnicas/observacao.md):
 02 - Não foi especificado o público alvo
 06 - O usuário elicitou os requisitos, mas não validou
 12 - O observador não sugeriu que pensase em voz alta. 
 
 ### Brainstorming
 
-A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md).
+A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](../../elicitacao/tecnicas/brainstorming.md).
 
 
 <center>
@@ -184,7 +184,7 @@ A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](/docs/
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao/tecnicas/brainstorming.md):
+Os principais problemas encontrados no artefato [brainstorming](../../elicitacao/tecnicas/brainstorming.md):
 02 - Não foi especificado o público-alvo no documento
 16 - O tempo de fala foi livre
 17 - Todos os participantes fazem faculdade na área de tecnologia.
@@ -193,7 +193,7 @@ Os principais problemas encontrados no artefato [brainstorming](/docs/elicitacao
 
 ### Entrevista
 
-A tabela 7 contêm o checklist do artefato relacionado à [entrevista](/docs/elicitacao/tecnicas/entrevista.md).
+A tabela 7 contêm o checklist do artefato relacionado à [entrevista](../../elicitacao/tecnicas/entrevista.md).
 
 <center>
 
@@ -225,14 +225,14 @@ A tabela 7 contêm o checklist do artefato relacionado à [entrevista](/docs/eli
 
 #### Problemas encontrados
 
-Não foram encontrados problemas no artefato [entrevista](/docs/elicitacao/tecnicas/entrevista.md)
+Não foram encontrados problemas no artefato [entrevista](../../elicitacao/tecnicas/entrevista.md)
 11 - Não foi definido tempo para entrevista
 13 - Incompleto - O entrevistador teve um estudo prévio, mas a depender do usuário, criou novas perguntas que considerou interessante para o trabalho.
 14 - Incompleto - Algumas perguntas foram longas
 
 ### Questionário
 
-A tabela 8 contêm o checklist do artefato relacionado à [Questionário](/docs/elicitacao/tecnicas/questionario.md).
+A tabela 8 contêm o checklist do artefato relacionado à [Questionário](../../elicitacao/tecnicas/questionario.md).
 
 <center>
 
@@ -261,7 +261,7 @@ A tabela 8 contêm o checklist do artefato relacionado à [Questionário](/docs/
 
 #### Problemas encontrados
 
-Os principais problemas encontrados no artefato [Questionário](/docs/elicitacao/tecnicas/questionario.md):
+Os principais problemas encontrados no artefato [Questionário](../../elicitacao/tecnicas/questionario.md):
 12 - O grupo não definiu um número de respostas mínimo que seria satisfatório
 13 - O questionãrio não foi testado
 
