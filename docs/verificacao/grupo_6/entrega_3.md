@@ -122,7 +122,11 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 </center>
 
-#### Problemas encontrados 
+#### Problemas encontrados
+
+De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Casos de uso](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/casos_de_uso/casos_de_uso/) sendo ele a falta de um ator secundário.
+
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 
 
@@ -214,6 +218,12 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 
 **Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
 
+</center>
+
+#### Problemas encontrados
+
+Não foram encontrados problemas no artefato [Casos de uso - Mudar Idioma](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/casos_de_uso/casos_de_uso/) de acordo com o checklist de verificação.
+
 ### Cenários
 
 <center> 
@@ -236,12 +246,16 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 
 </center>
 
+#### Problemas encontrados
+
+Foram encontrados alguns problemas no artefato [Cenários](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/cenarios/) sendo eles os cenários não serem todos testáveis, pois "Proteger os dados de usuário" não é testável, não existem cenários que se completam conjuntamente, pois todos os cenários são individuais e não tem uma conexão clára com os léxicos em nenhum dos requisitos.
+
 ## Referências
 
 1. PRESSMAN, Roger S. *Software Engineering: A Practitioner's Approach*. 7. ed. New York: McGraw-Hill, 2014.
 2. MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. *Especificação de Caso de Uso*. Disponível em: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Especificacao%20Caso%20Uso_81686821.html?nodeId=afc37190. Acesso em: 27 jun. 2024.
 3. ANUGRAH, Septriyan; PUTRA, Andri Eka. *Analisis Kualitas ISO 25010 Aplikasi Artificial Intelligence Troubleshooting Komputer dengan FURPS*. Universitas Negeri Padang; SMK N 1 Ampek Angkek, 2018. Disponível em: <URL>. Acesso em: 27 jun. 2024.
-4. ZOWGHI, D.; COULIN, C. *Requirements Elicitation: A Survey of Techniques, Approaches and Tools*. Acesso em: 08/09/2020.
+4. ZOWGHI, D.; COULIN, C. *Requirements Elicitation: A Survey of Techniques, Approaches and Tools*. Acesso em: 28 jun. 2024. 
 5. SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: Requisitos - Aula 10. Acesso em: 09 jun. 2024.
 6. SERRANO, Milene. Requisitos - Aula 11. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 40, color. Disponível em: Requisitos - Aula 11. Acesso em: 27 jun. 2024.
 7. LEITE, Júlio C. S. P.; et al. Modelos de requisitos e cenários: uma abordagem centrada no usuário. PUC-Rio. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 27 jun. 2024.
@@ -258,4 +272,4 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 | 1.2    | 01/07/2024 | Checklists cenário e casos de uso                                               | [Kallyne Macedo](https://github.com/kalipassos)   | [Kauan Eiras](https://github.com/kauaneiras)    |
 | 1.3    | 01/07/2024 | verificação Especificação Suplementar e Léxicos e caso de uso bloquear anuncios | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.4    | 01/07/2024 | Adiciona inspeção do Caso de Uso - Realizar pesquisa na web                     | [Guilherme Westphall](https://github.com/west)    | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.4    | 02/07/2024 | Verifica tabela 5 de cenários e adiciona tabela 5.5 Casos de Uso - Mudar Idioma | [Davi Pierre](https://github.com/DaviPierre)      |                                                 |
+| 1.4    | 02/07/2024 | Verifica tabela 5 de cenários e adiciona tabela 5.5 Casos de Uso - Mudar Idioma | [Davi Pierre](https://github.com/DaviPierre)      |  [Kallyne Macedo](https://github.com/kalipassos)     |

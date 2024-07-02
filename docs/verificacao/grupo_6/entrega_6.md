@@ -71,6 +71,12 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 </center>
 
+#### Problemas encontrados
+
+Não foram encontrados problemas no artefato [Elos](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/elos/) de acordo com a checklist feita para realizar a verificação.
+
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
+
 ### Forward-From
 
 <center>
@@ -91,6 +97,12 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 </center>
 
+#### Problemas encontrados
+
+De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Foward-From](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/forwardfrom/) sendo ele a falta de tipo dos requisitos.
+
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
+
 ### Backward-from
 
 
@@ -110,8 +122,13 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 **Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
-
 </center>
+
+#### Problemas encontrados
+
+De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Backward-From](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/backwardfrom/) sendo ele a falta de tipo dos requisitos.
+
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 ## Referências
 

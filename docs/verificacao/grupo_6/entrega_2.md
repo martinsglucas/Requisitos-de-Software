@@ -112,7 +112,7 @@ A tabela 4 contêm o checklist do artefato relacionado à [Personas](/docs/elici
 
 #### Problemas encontrados
 
-O único problema encontrado no artefato [Personas](/docs/elicitacao/personas/personas.md) de acordo com a checklist feita para realizar a verificação.
+Nenhum problema foi encontrado no artefato [Personas](/docs/elicitacao/personas/personas.md) de acordo com a checklist feita para realizar a verificação.
 
 
 ### Observação
