@@ -319,11 +319,6 @@ Na Tabela 16, tem-se o cronograma executado para a sétima etapa de entrega.
 
 **Autor:**  [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o), 2024. </center>
 
-## Referências
-
-1. SALES, André. Plano de Ensino. Aprender3, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/42/Plano_de_Ensino%20RE%20012024%20Turma%201%20v2.pdf. Acesso em 09 de maio de 2024.
-
-
 ## Histórico de versões
 
 | Versão | Data       | Descrição                       | Autor                                                                                                                                             | Revisor                                           |

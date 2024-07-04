@@ -69,7 +69,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 08  | Os Temas do backlog estão subdivididos em **Épicos**?                                                                                                                                                                | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) | Sim           |
 | 09  | Cada **Tema** contém, idealmente, **entre 2 e 5 Épicos**?                                                                                                                                                            | [Agile Product Managment, p. 53 e 54](../grupo_6/assets/B6.png) | Incompleto    |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
 
@@ -94,7 +94,7 @@ Os problemas encontrados no artefato de [Backlog](../../modelagem_agil/backlog.m
 | 07  | As histórias de usuário **são fechadas**, ou seja elas possuem **critérios de aceitação** que indicam quando uma história foi completamente implementada?                                                                  | [User Stories Applied: For Agile Software Development, p. 76 e 77](../grupo_6/assets/U8.png)                             | Sim        |
 | 08  | As histórias de usuário estão no formato: **"Como [quem], quero [o que] para [por quê]"**?                                                                                                                                 | [REtraining. Histórias de usuário.](../grupo_6/assets/U9.png)                                                            | Sim        |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
 
@@ -124,7 +124,7 @@ O único problema encontrado nas [Histórias de Usuário](../../modelagem_agil/h
 | 12  | Os cartões de especificação possuem: **ID, Classificação, Descrição, Justificativa, Origem, Critérios de ajuste, Dependências, Prioridade, Conflitos e História**? | [NFR4ES, p. 45](../grupo_6/assets/N8.png)       | Incompleto |
 
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Lucas Martins](https://github.com/martinsglucas)
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Lucas Martins](https://github.com/martinsglucas)
 
 </center>
 

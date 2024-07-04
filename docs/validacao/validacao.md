@@ -6,14 +6,14 @@ Este documento tem como objetivo apresentar a validação do protótipo desenvol
 
 ## Metodologia
 
-O protótipo foi desenvolvido a partir dos requisitos não implementados, elencados na [Baseline](../pos-rastreabilidade/baseline.md), a saber:
+O protótipo foi desenvolvido a partir dos requisitos não implementados, elencados na [Baseline](../pos-rastreabilidade/baseline.md), a seguir:
 
-- O aplicativo deve possuir opção de visualizar e agrupar guias
-- O aplicativo deve permitir alterar a fonte de texto em tipo e tamanho
-- O aplicativo deve incluir opção de bloquear anúncios
-- O aplicativo deve possuir opção de controle parental de acesso das páginas
-- O aplicativo deve permitir sincronização de dados pessoais com a conta do Google
-- O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)
+- [R3](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve possuir opção de visualizar e agrupar guias
+- [R21](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve permitir alterar a fonte de texto em tipo e tamanho
+- [R22](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve incluir opção de bloquear anúncios
+- [R26](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve possuir opção de controle parental de acesso das páginas
+- [R29](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve permitir sincronização de dados pessoais com a conta do Google
+- [R30](../pos-rastreabilidade/baseline.md#baseline-dos-requisitos) - O aplicativo deve oferecer opção de navegação através de rede privada virtual (VPN)
 
 Para a validação do protótipo, foram realizadas duas sessões de teste com usuários do Firefox. Cada usuário realizou as tarefas propostas e verificou se os critérios de aceitação das respectivas histórias de usuário foram atendidos. As histórias de usuário correspondentes aos requisitos não implementados são:
 
