@@ -133,9 +133,9 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 
 ## Referências 
 
-1. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024.
-2. SCHWABER, Ken; SUTHERLAND, Jeff. The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. 2020. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 24 de Maio de 2024.
-3. PICHLER, Roman. Agile Product Management with Scrum: Creating Products that Customers Love. 1. ed. Addison-Wesley Professional, 2017.
+1. **LuizTools**. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: <https://www.youtube.com/watch?v=z4ubaBwjCsU>. Acesso em 24 de Maio de 2024.
+2. **SCHWABER, Ken**; SUTHERLAND, Jeff. The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. 2020. Disponível em: <https://scrumguides.org/scrum-guide.html>. Acesso em: 24 de Maio de 2024.
+3. **PICHLER, Roman**. Agile Product Management with Scrum: Creating Products that Customers Love. 1. ed. Addison-Wesley Professional, 2017.
 
 ## Histórico de versões
 

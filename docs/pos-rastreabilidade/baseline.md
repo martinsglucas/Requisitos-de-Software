@@ -132,7 +132,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     </tr>
     </tr>
     <tr>
-        <td rowspan="5">R8</td>
+        <td rowspan="4">R8</td>
         <td><b><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/priorizacao/requisitos_priorizados/#resultado-da-priorizacao"><b>1.4</b></a></b></td>
         <td><b>O aplicativo deve possuir opção de sincronizar e salvar dados inseridos</b></td>
         <td>  Sim </td>
@@ -141,12 +141,6 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/observacao/#requisitos-elicitados">1.3</a></td>
         <td>Deve possuir opção de sincronizar dados e salvar</td>
-        <td>  Sim </td>
-        <td>  Sim </td>
-    </tr>
-    <tr>
-        <td><a href="https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/questionario/#tabela-3-requisitos-elicitados-na-entrevista">1.2</a></td>
-        <td>Sincronização de dados com a conta do Google</td>
         <td>  Sim </td>
         <td>  Sim </td>
     </tr>

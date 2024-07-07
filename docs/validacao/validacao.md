@@ -79,7 +79,11 @@ O usuário conseguiu realizar todas as tarefas propostas e apontou apenas sobre 
 
 ## Histórico de versão
 
+<center>
+
 | Versão |    Data    | Descrição |                       Autor                       |                     Revisor                     |
 | :----: | :--------: | --------- | :-----------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 01/07/2024 | Validação | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.1 | 02/07/2024 | Correção após apresentação | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7)
+
+</center>

@@ -472,11 +472,11 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 
 ## Referências
 
-1. **SILVA, Reinaldo Antônio.** NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
+1. **SILVA, Reinaldo Antônio.** NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 25 de maio de 2024.
 2. **CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J.** Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 3. **SERRANO, Maurício; SERRANO, Milene.** Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 4. **NIELSEN, Jakob. Usability Engineering.** Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
-5. **Firefox Source Tree Documentation, 2024.**  Disponível em: https://firefox-source-docs.mozilla.org/index.html. Acesso em 26 de maio de 2024.
+5. **Firefox Source Tree Documentation, 2024.**  Disponível em: <https://firefox-source-docs.mozilla.org/index.html>. Acesso em 26 de maio de 2024.
 6. **CHEMUTURI, Murali.** Mastering Software Quality Assurance: Best Practices, Tools and Techniques for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 7. **BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold.** Software & Systems Requirements Engineering: In Practice. 1. ed. McGraw-Hill, 2009.
 8. **PRESSMAN, Roger S.** Software Engineering: A Practitioner's Approach. 7th ed. New York: McGraw-Hill, 2011.

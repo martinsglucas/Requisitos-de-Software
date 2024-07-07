@@ -22,6 +22,8 @@ Figura 1: E-mail de comunicação com a comunidade brasileira do Mozilla.
 
 </center>
 
+## Resposta
+
 Até o momento, nenhuma resposta foi obtida. 
 
 ## Referências
@@ -31,6 +33,10 @@ Até o momento, nenhuma resposta foi obtida.
 
 ## Histórico de versões
 
+<center> 
+
 | Versão | Data       | Descrição                                   | Autor                                             | Revisor                                           |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | 1.0    | 01/07/2024 | Cria página                                 | [Kallyne Macedo](https://github.com/kalipassos)  | [Lucas Martins](https://github.com/martinsglucas) |
+
+</center>
