@@ -269,15 +269,63 @@ As técnicas utilizadas no desenvolvimento da [Entrega 5.2 - "Verificação e Va
 
 **Tabela 6**: Técnicas utilizadas na Entrega 5.2
 
-| Artefato                                                   | Técnica                                                            | Participantes                                                                                                                                                                                     |
-| ---------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Pré-Rastreabilidade](../verificacao/grupo_6/entrega_1.md) | [Inspeção de Fagan](../verificacao/grupo_6/entrega_1.md)           | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                      |
-| [Elicitação](../verificacao/grupo_6/entrega_2.md)          | [Inspeção de Fagan](../verificacao/grupo_6/entrega_2.md)           | [Lucas Martins](https://github.com/martinsglucas), [Leonardo Sobrinho](https://github.com/Leonardo0o0)                                                                                            |
-| [Modelagem](../verificacao/grupo_6/entrega_3.md)           | [Inspeção de Fagan](../verificacao/grupo_6/entrega_3.md)           | [Kauan Eiras](https://github.com/kauaneiras), [Kallyne Macedo](https://github.com/kalipassos)                                                                                                     |
-| [Modelagem Ágil](../verificacao/grupo_6/entrega_4.md)      | [Inspeção de Fagan](../verificacao/grupo_6/entrega_4.md)           | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                   |
-| [Pós-Rastreabilidade](../verificacao/grupo_6/entrega_6.md) | [Inspeção de Fagan](../verificacao/grupo_6/entrega_6.md)           | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                   |
-| [Validação do Protótipo](../validacao/validacao.md)        | [Validação com Usuário](../validacao/validacao.md)                 | [Guilherme Westphall](https://github.com/west7), [Davi Pierre](https://github.com/DaviPierre), [Lucas Martins](https://github.com/martinsglucas), [Kallyne Macedo](https://github.com/kalipassos) |
-| [Comprovação Informal](../validacao/comprov_informal.md)   | [Comprovação Informal via email](../validacao/comprov_informal.md) | [Kauan Eiras](https://github.com/kauaneiras)                                                                                                                                                      |
+<table border="0.5">
+        <thead>
+            <tr>
+                <th>Artefato</th>
+                <th>Técnica</th>
+                <th>Participantes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="../../verificacao/grupo_6/entrega_1">Pré-Rastreabilidade</a></td>
+                <td><a href="../../verificacao/grupo_6/entrega_1">Inspeção de Fagan</a></td>
+                <td><a href="https://github.com/DaviPierre">Davi Pierre</a></td>
+            </tr>
+            <tr>
+                <td><a href="../../verificacao/grupo_6/entrega_2">Elicitação</a></td>
+                <td><a href="../../verificacao/grupo_6/entrega_2">Inspeção de Fagan</a></td>
+                <td><a href="https://github.com/martinsglucas">Lucas Martins</a>, <a href="https://github.com/Leonardo0o0">Leonardo Sobrinho</a></td>
+            </tr>
+            <tr>
+                <td><a href="../../verificacao/grupo_6/entrega_3">Modelagem</a></td>
+                <td><a href="../../verificacao/grupo_6/entrega_3">Inspeção de Fagan</a></td>
+                <td><a href="https://github.com/kauaneiras">Kauan Eiras</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a></td>
+            </tr>
+            <tr>
+                <td><a href="../../verificacao/grupo_6/entrega_4">Modelagem Ágil</a></td>
+                <td><a href="../../verificacao/grupo_6/entrega_4">Inspeção de Fagan</a></td>
+                <td><a href="https://github.com/west7">Guilherme Westphall</a></td>
+            </tr>
+            <tr>
+                <td><a href="../../verificacao/grupo_6/entrega_6">Pós-Rastreabilidade</a></td>
+                <td><a href="../../verificacao/grupo_6/entrega_6">Inspeção de Fagan</a></td>
+                <td><a href="https://github.com/west7">Guilherme Westphall</a></td>
+            </tr>
+            <tr>
+                <td rowspan="2"><a href="../../validacao/validacao">Validação do Protótipo</a></td>
+              <td><a href="../../validacao/validacao">Prototipação de Alta Fidelidade</a></td>
+              <td>
+                <a href="https://github.com/west7">Guilherme Westphall</a>,
+                <a href="https://github.com/kauaneiras">Kauan Eiras</a>,
+                <a href="https://github.com/DaviPierre">Davi Pierre</a>,
+                <a href="https://github.com/martinsglucas">Lucas Martins</a>,
+                <a href="https://github.com/Leonardo0o0">Leonardo Sobrinho</a>,
+                <a href="https://github.com/kalipassos">Kallyne Macedo</a>
+              </td>
+            </tr>
+            <tr>
+                <td><a href="../../validacao/validacao">Validação com Usuário</a></td>
+                <td><a href="https://github.com/west7">Guilherme Westphall</a>, <a href="https://github.com/DaviPierre">Davi Pierre</a>, <a href="https://github.com/martinsglucas">Lucas Martins</a>, <a href="https://github.com/kalipassos">Kallyne Macedo</a></td>
+            </tr>
+            <tr>
+                <td><a href="../../validacao/comprov_informal">Comprovação Informal</a></td>
+                <td><a href="../../validacao/comprov_informal">Comprovação Informal via email</a></td>
+                <td><a href="https://github.com/kauaneiras">Kauan Eiras</a></td>
+            </tr>
+        </tbody>
+    </table>
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
