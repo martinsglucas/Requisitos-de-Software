@@ -2,15 +2,15 @@
 
 ## Introdução
 
-Esta página documenta as técnicas utilizadas pelo [Grupo 6](../index.md) no desenvolvimento do projeto do app Firefox. Aqui, detalhamos as metodologias aplicadas em cada etapa do projeto e os membros do grupo responsáveis por cada técnica. As tabelas a seguir resumem essas informações, proporcionando uma visão clara e organizada do nosso processo de trabalho.
+Esta página documenta as técnicas utilizadas pelo [Grupo 6](../index.md) no desenvolvimento do projeto do app **Firefox**. Aqui, detalhamos as metodologias aplicadas em cada etapa do projeto e os membros do grupo responsáveis por cada técnica. As tabelas a seguir resumem essas informações, proporcionando uma visão clara e organizada do nosso processo de trabalho.
 
 ## Tabelas das Técnicas Utilizadas
 
-Nesta seção serão dispostas as tabelas das técnicas utlizadas durante o desenvolvimento do projeto divididas de acordo com as entregas da disciplina.
+Nesta seção serão dispostas as tabelas das técnicas utlizadas durante o desenvolvimento do projeto divididas de acordo com as entregas da disciplina. Vale ressaltar que apenas artefatos de desenvolvimento serão contemplados nas tabelas, artefatos de planejamento e organização, como o cronograma e outros, não serão avaliados.
 
 ### Entrega 1 - Pré-Rastreabilidade
 
-As técnicas utilizadas no desenvolvimento da [Entrega 1 "Pré-rastreabilidade"](../pre-rastreabilidade/rich-picture.md) podem ser encontradas na Tabela 1, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 1 - "Pré-rastreabilidade"](../pre-rastreabilidade/rich-picture.md) podem ser encontradas na Tabela 1, abaixo:
 
 <center>
 
@@ -25,7 +25,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 1 "Pré-rastreabilidade"]
 
 ### Entrega 2 - Elicitação
 
-As técnicas utilizadas no desenvolvimento da [Entrega 2 "Elicitação"](../elicitacao/perfil_usuario/analise_documento.md) podem ser encontradas na Tabela 2, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 2 - "Elicitação"](../elicitacao/perfil_usuario/analise_documento.md) podem ser encontradas na Tabela 2, abaixo:
 
 <center>
 
@@ -94,7 +94,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 2 "Elicitação"](../elic
 
 ### Entrega 3 - Modelagem
 
-As técnicas utilizadas no desenvolvimento da [Entrega 3 "Modelagem"](../modelagem/lexicos/lexicos.md) podem ser encontradas na Tabela 3, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 3 - "Modelagem"](../modelagem/lexicos/lexicos.md) podem ser encontradas na Tabela 3, abaixo:
 
 <center>
 
@@ -165,7 +165,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 3 "Modelagem"](../modelag
 
 ### Entrega 4 - Modelagem Ágil
 
-As técnicas utilizadas no desenvolvimento da [Entrega 4 "Modelagem Ágil"](../modelagem_agil/backlog.md) podem ser encontradas na Tabela 4, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 4 - "Modelagem Ágil"](../modelagem_agil/backlog.md) podem ser encontradas na Tabela 4, abaixo:
 
 <center>
 
@@ -244,7 +244,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 4 "Modelagem Ágil"](../m
 
 ### Entrega 5.1 - Verificação Grupo + 1
 
-As técnicas utilizadas no desenvolvimento da [Entrega 5.1 "Verificação Grupo + 1"](../verificacao/grupo_7/entrega_1.md) podem ser encontradas na Tabela 5, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 5.1 - "Verificação Grupo + 1"](../verificacao/grupo_7/entrega_1.md) podem ser encontradas na Tabela 5, abaixo:
 
 <center>
 
@@ -263,7 +263,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 5.1 "Verificação Grupo 
 
 ### Entrega 5.2 - Verificação e Validação
 
-As técnicas utilizadas no desenvolvimento da [Entrega 5.2 "Verificação e Validação"](../verificacao/grupo_6/entrega_1.md) podem ser encontradas na Tabela 6, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 5.2 - "Verificação e Validação"](../verificacao/grupo_6/entrega_1.md) podem ser encontradas na Tabela 6, abaixo:
 
 <center>
 
@@ -285,7 +285,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 5.2 "Verificação e Vali
 
 ### Entrega 6 - Pós-Rastreabilidade
 
-As técnicas utilizadas no desenvolvimento da [Entrega 6 "Pós-rastreabilidade"](../pos-rastreabilidade/baseline.md) podem ser encontradas na Tabela 7, abaixo:
+As técnicas utilizadas no desenvolvimento da [Entrega 6 - "Pós-rastreabilidade"](../pos-rastreabilidade/baseline.md) podem ser encontradas na Tabela 7, abaixo:
 
 <center>
 
