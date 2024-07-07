@@ -93,7 +93,6 @@ nav:
     - Verificação e Validação dos Artefatos: entrega_final/v&v.md
     - Ferramentas Utilizadas: entrega_final/ferramentas.md
     - Apresentações: entrega_final/apresentacoes.md
-    - Facilidades e Dificuldades: entrega_final/facil_dificil.md
 
 theme:
   name: material
