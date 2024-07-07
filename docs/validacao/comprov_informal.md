@@ -16,7 +16,7 @@ Dessa forma, uma mensagem de contato foi redigida de forma a apresentar os membr
 
 Figura 1: E-mail de comunicação com a comunidade brasileira do Mozilla. 
 
-![imagem](image.png)
+![imagem](assets/image.png)
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
