@@ -25,7 +25,7 @@ A divisão dos requisitos para a construção da matriz foi a mesma definida ant
 | Leonardo Aguiar     | R5, R11, R17, R23, R29, R35 e R41 |
 | Lucas Martins       | R6, R12, R18, R24, R30, R36 e R42 |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7)
+**Autor**: [Guilherme Westphall](https://github.com/west7), 2024.
 
 </center>
 
@@ -84,9 +84,21 @@ Nesta seção, está disposta a matriz de rastreabilidade *backward-from*, na Ta
  | R42 | RNF  | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques                                                                                                                | [BRS12, BRS21](../elicitacao/tecnicas/brainstorming.md#tabela-2-requisitos-elicitados)                                                                                                                                                                                                                     |
 
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas).
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas), 2024. 
 </center>
 
+
+> Legenda para tabela 2:
+> 
+> - CENx: Cenário nº x
+> - UCx: Caso de uso nº x
+> - Ex: Épico nº x
+> - Tx: Tema nº x
+> - USx: História de usuário nº x
+> - NFRx: NFR nº x
+> - Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e +: Componentes da especificação suplementar
+> - RF: Requisito Funcional
+> - RNF: Requisito Não Funcional
 
 
 ## Referências
@@ -104,3 +116,4 @@ Nesta seção, está disposta a matriz de rastreabilidade *backward-from*, na Ta
 | 1.2    | 21/06/2024 | Adiciona tabela 1  e Metodologia                                                                             | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.3    | 21/06/2024 | Adiciona versão atual do R42                                                                                 | [Lucas Martins](https://github.com/martinsglucas)                                                                                                                                              | [Kauan Eiras](https://github.com/kauaneiras)      |
 | 1.4    | 23/06/2024 | Corrige links da tabela                                                                                      | [Leonardo Aguiar](https://github.com/Leonardo0o0)                                                                                                                                              | [Guilherme Westphall](https://github.com/west7)   |
+| 1.5    | 08/07/2024 | Adiciona tipo de requisito                                                                                   | [Kallyne Macedo](https://github.com/kalipassos)                                                                                                                                                | [Guilherme Westphall](https://github.com/west7)   |

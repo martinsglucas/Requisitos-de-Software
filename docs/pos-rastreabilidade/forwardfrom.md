@@ -25,7 +25,7 @@ A divisão dos requisitos para a construção da matriz foi a mesma definida ant
 | Leonardo Aguiar     | R5, R11, R17, R23, R29, R35 e R41 |
 | Lucas Martins       | R6, R12, R18, R24, R30, R36 e R42 |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7)
+**Autor**: [Guilherme Westphall](https://github.com/west7), 2024. 
 
 </center>
 
@@ -85,7 +85,7 @@ Nesta seção está apresentada a matriz de rastreabilidade *forward-from* na Ta
 |           |
 
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas).
+**Autor**: [Davi Pierre](https://github.com/DaviPierre), [Guilherme Westphall](https://github.com/west7), [Kallyne Macedo](https://github.com/kalipassos), [Leonardo Aguiar](https://github.com/Leonardo0o0), [Kauan Eiras](https://github.com/kauaneiras), [Lucas Martins](https://github.com/martinsglucas), 2024.
 </center>
 
 
@@ -98,6 +98,9 @@ Nesta seção está apresentada a matriz de rastreabilidade *forward-from* na Ta
 > - USx: História de usuário nº x
 > - NFRx: NFR nº x
 > - Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e +: Componentes da especificação suplementar
+> - RF: Requisito Funcional
+> - RNF: Requisito Não Funcional
+
 
 
 ## Referências
@@ -108,10 +111,11 @@ Nesta seção está apresentada a matriz de rastreabilidade *forward-from* na Ta
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                                               | Autor                                           | Revisor                                           |
-|--------|------------|-------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
-| 1.0    | 19/06/2024 | Criação da tabela 1                                                     | [Davi Pierre](https://github.com/DaviPierre)    | [Kallyne Macedo](https://github.com/kalipassos)   |
-| 1.1    | 20/06/2024 | Adiciona legenda e campos faltantes a tabela                            | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)      |
-| 1.2    | 20/06/2024 | Adiciona rastreabilidade do R2, R8, R14, R20, R26, R32 e R38 a tabela 2 | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.3    | 21/06/2024 | Adiciona tabela 1  e Metodologia                                        | [Guilherme Westphall](https://github.com/west7) | [Kallyne Macedo](https://github.com/kalipassos)   |
-| 1.4    | 21/06/2024 | Adiciona rastreabilidade dos requisitos R6, R12, R18, R24, R30, R36 e R42 a tabela 2 | [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)
+| Versão | Data       | Descrição                                                                            | Autor                                             | Revisor                                           |
+|--------|------------|--------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| 1.0    | 19/06/2024 | Criação da tabela 1                                                                  | [Davi Pierre](https://github.com/DaviPierre)      | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.1    | 20/06/2024 | Adiciona legenda e campos faltantes a tabela                                         | [Guilherme Westphall](https://github.com/west7)   | [Davi Pierre](https://github.com/DaviPierre)      |
+| 1.2    | 20/06/2024 | Adiciona rastreabilidade do R2, R8, R14, R20, R26, R32 e R38 a tabela 2              | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
+| 1.3    | 21/06/2024 | Adiciona tabela 1  e Metodologia                                                     | [Guilherme Westphall](https://github.com/west7)   | [Kallyne Macedo](https://github.com/kalipassos)   |
+| 1.4    | 21/06/2024 | Adiciona rastreabilidade dos requisitos R6, R12, R18, R24, R30, R36 e R42 a tabela 2 | [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre)      |
+| 1.6    | 08/07/2024 | Adiciona tipo de requisito                                                           | [Kallyne Macedo](https://github.com/kalipassos)   | [Guilherme Westphall](https://github.com/west7)   |
