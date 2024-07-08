@@ -65,6 +65,8 @@ Autor(es): [Kallyne Macedo](http://github.com/kalipassos), [Lucas Martins](https
 
 ## Referências
 
+1. SOMMERVILLE, I. Engenharia de software. São Paulo: Pearson, 2007.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                                                            | Autor                                           | Revisor                                        |
