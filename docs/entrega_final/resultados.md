@@ -41,28 +41,22 @@ Durante o semestre 2024.1, durante o período da disciplina de requisitos, nós 
 ### Pontos positivos
 
 * Como o desenvolvimento foi em grupo, nós melhoramos nosso trabalho em equipe e habilidades de comunicação.
-
 * Dado a natureza teórica da matéria, aprendemos como documentar melhor um software e técnicas para fazer isso, com destaque no processo de requisitos.
-
 * Por conta da dedicação da equipe, fizemos um trabalho em que todos concordamos que ficou com uma qualidade muito boa.
-
 * Com a orientação do professor e as aulas ministradas, aprendemos a importância da engenharia de requisitos para um projeto e como ela impacta um software.
-
 * Por conta das apresentações dos grupos durante o semestre, conseguimos fazer com que nosso projeto, na nossa visão, evoluísse para uma forma melhor do que os feitos em anos anteriores na matéria.
-
 * Por conta da ferramenta do Teams que utilizamos, as gravações que tivemos que apresentar durante o semestre foram realizadas com certa facilidade.
-
 * Pela forma de como eram organizadas as entregas, o projeto recebeu correções entre as etapas, o que contribuiu ao deixar a documentação mais coerente e correta e para que o projeto fosse entregue da melhor maneira possível. 
 
 ### Pontos negativos
 
 * Quanto ao conteúdo disponibilizado na ferramenta Aprender3, que fornece apoio para a disciplina, o grupo apresentou dificuldade de localizar as referências de vários materiais, o que dificultou o estudo do conteúdo durante o semestre.
-
 * Por conta da ordem que os conteúdos foram passados, foi difícil fazer um cronograma que fosse mais específico, uma vez que ainda não conhecíamos muitas das técnicas que usamos no desenvolvimento do projeto.
-
 * Por conta da greve que ocorreu durante o semestre, nós tivemos dificuldade de ajustar o ritmo de quando e o que deveria ser feito durante as etapas.
+* Por, no ínicio, não entender a importância de algumas etapas do projeto, acabamos por ficar meio perdidos e isso nos atrapalhou nas entregas futuras, necessitando de muito retrabalho de artefatos anteriores. Talvez, se uma visão geral do trabalho fosse apresentada no começo, especialmente sobre a importância da fase de elicitação dos requisitos, poderíamos ter nos organizado muito melhor.
+* Por ser um projeto com prazos curtos e muito trabalho a ser feito, não conseguimos dar a atenção que gostaríamos para algumas fases do projeto. 
 
-## conclusão
+## Conclusão
 
 Com a finalização das entregas e considerações finais do grupo, foi concluído que a engenharia de requisitos é uma parte muito importante no desenvolvimento de um software, ela promove um alinhamento das expectativas do usuário com o resultado final de um software, facilita o desenvolvimento ao evitar retrabalhos e, a partir de uma boa documentação, garante que todos os envolvidos estejam na mesma página sobre o que estão trabalhando. Além disso, para que ela seja realmente efetiva é necessário que se conheça um conjunto de técnicas e como elas funcionam, além de saber como aproveitá-las e, se for o caso, adaptá-las da melhor forma para cada caso necessário de softwares diferentes.
 
@@ -70,6 +64,10 @@ Concluímos também que a entrega do projeto de requisitos do aplicativo firefox
 
 Esperamos que com os pontos positivos e pontos negativos, dentro de facilidades e dificuldades, que levantamos sirvam de inspiração para possíveis mudanças positivas que ajudem os próximos alunos que fizerem essa matéria.
 
+
+## Referências
+
+1. SOMMERVILLE, I. Engenharia de software. São Paulo: Pearson, 2007.
 
 ## Histórico de versão
 

@@ -2,6 +2,8 @@
 
 ## Introdução
 
+## Referências
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |

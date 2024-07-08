@@ -95,6 +95,16 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 </center>
 
+## Referências
+
+1. MASTER2TEACH. Fagan Inspection Methodology - Benefits of Software Inspections. Disponível em: https://www.youtube.com/watch?v=v_Lz2l_XsTQ. Acesso em: 3 jul. 2024.
+
+2. REQUISITOS, Milane Serrano e Mauricio Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 3 jul. 2024.
+
+3. ENGENHARIA DE REQUISITOS, RE-training. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades. Acesso em: 3 jul. 2024.
+
+4. Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH. Disponível em: https://revistas.unibh.br/dtec/article/view/440. Acesso em: 3 jul. 2024
+
 ## Histórico de versão
 
 
