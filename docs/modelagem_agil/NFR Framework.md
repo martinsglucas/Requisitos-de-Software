@@ -297,6 +297,7 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 | **Descrição**         | O requisito "Desempenho" refere-se à capacidade do Firefox de carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. Isso inclui a velocidade de carregamento de páginas, a eficiência na execução de scripts e a capacidade de resposta do navegador. |
 | **Justificativa**     | O desempenho é um fator crítico para a satisfação do usuário, influenciando diretamente a experiência de navegação e a eficácia do navegador. Um desempenho lento ou ineficiente pode levar à frustração do usuário, à perda de produtividade e à insatisfação geral com o navegador. |
 | **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Critérios de Ajuste** | - [ ] Descarte de objetos não usados.<br>- [ ] Pré-carregamento de componentes críticos.<br>- [ ] Compressão de imagens.<br>- [ ] Pré-carregamento de CSS essenciais.<br>- [ ] Uso de cache.<br>- [ ] Minimização de processos em background.<br>- [ ] Monitoramento da CPU.
 | **Dependências**      | O desempenho depende de uma implementação eficiente das funcionalidades suportadas, como o carregamento de páginas, a execução de scripts e a resposta do navegador. Atualizações contínuas são necessárias para manter o desempenho do navegador. |
 | **Prioridade**        | Alta. O desempenho é um fator crítico para a satisfação do usuário e a eficácia do navegador, influenciando diretamente a experiência de navegação e a produtividade do usuário. |
 | **Conflitos**         | Não foram identificados conflitos. |
@@ -498,3 +499,4 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 | 2.0    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
 | 2.1 | 05/06/2024 | Correção de imagens | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 2.2 | 29/06/2024 | Adiciona critérios de ajuste ao NFR05 | [Guilherme Westphall](https://github.com/west7) | [Leonardo Aguiar](https://github.com/Leonardo0o0) | 
+| 2.3 | 08/07/2024 | Adiciona critérios de ajuste ao NFR03 | [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre) | 

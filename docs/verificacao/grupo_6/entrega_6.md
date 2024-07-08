@@ -142,4 +142,4 @@ De acordo com a checklist de verificação foi encontrado apenas um probelma no 
 | 1.1    | 01/07/2024 | Adiciona chesklist dos Elos                                 | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.2    | 01/06/2024 | Adiciona chesklist do Forward-from                          | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.3    | 01/06/2024 | Adiciona chesklist do Backward-from                         | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.4    | 02/06/2024 | Verificação dos artefatos Foward-From, Backward-from e Elos | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
+| 1.4    | 02/06/2024 | Verificação dos artefatos Foward-From, Backward-from e Elos | [Davi Pierre](https://github.com/DaviPierre)    |    [Guilherme Westphall](https://github.com/west7)                                          |
