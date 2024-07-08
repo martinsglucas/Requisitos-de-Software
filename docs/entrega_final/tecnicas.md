@@ -356,7 +356,9 @@ O projeto de documentação de requisitos do aplicativo Firefox utilizou uma var
 
 ## Referências
 
-1. WIEGERS, Karl E.; BEATTY, Joy. Software requirements. Pearson Education, 2013. 
+
+1. NEBULAS DESIGN. The importance of documentation in software development. Disponível em: <https://www.nebulasdesign.com/programming-code/the-importance-of-documentation-in-software-development/>. Acesso em: 8 jul. 2024.
+2. WIEGERS, Karl E.; BEATTY, Joy. Software requirements. Pearson Education, 2013. 
 
 
 ## Histórico de versão
