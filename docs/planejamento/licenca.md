@@ -37,8 +37,8 @@ A licença foi acessada pela última no dia 30/05/2024 às 21h24 e o PDF da Lice
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                           | Autor               | Revisor |
-| ------ | ---------- | ----------------------------------- | ------------------- | ------- |
-| 1.0    | 01/04/2024 | Criação da página da licença | Kauan de Torres Eiras | Lucas Martins |
-| 1.1    | 01/04/2024 | Tradução da licença | Kauan de Torres Eiras | Lucas Martins |
-| 1.2    | 30/05/2024 | Adição do PDF da Licença | Kauan de Torres Eiras | Lucas Martins |
+| Versão | Data       | Descrição                    | Autor                                        | Revisor                                           |
+| ------ | ---------- | ---------------------------- | -------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 01/04/2024 | Criação da página da licença | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Gabriel](https://github.com/martinsglucas) |
+| 1.1    | 01/04/2024 | Tradução da licença          | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Gabriel](https://github.com/martinsglucas) |
+| 1.2    | 30/05/2024 | Adição do PDF da Licença     | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Gabriel](https://github.com/martinsglucas) |

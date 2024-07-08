@@ -112,11 +112,11 @@ A observação utilizada para a elicitação de requisitos das Tabelas 2 e 3 foi
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                 | Autor                                           | Revisor                                      |
-| ------ | ---------- | ----------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| 1.0    | 14/04/2024 | Criação do documento                      | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.1    | 14/04/2024 | Adição da introdução e metodologia        | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.2    | 14/04/2024 | Adição das tabelas                        | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.3    | 14/04/2024 | Adição do link de gravação e bibliografia | [Guilherme Westphall](https://github.com/west7) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.4    | 15/04/2024 | Adição de justificativa e correções de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan T. Eiras](https://github.com/kauaneiras) |
-| 1.5    | 30/05/2024 | Correções | [Kauan Eiras](https://github.com/kauaneiras) | [Guilherme Westphall](https://github.com/west7) |
+| Versão | Data       | Descrição                                    | Autor                                           | Revisor                                         |
+| ------ | ---------- | -------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 14/04/2024 | Criação do documento                         | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.1    | 14/04/2024 | Adição da introdução e metodologia           | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.2    | 14/04/2024 | Adição das tabelas                           | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.3    | 14/04/2024 | Adição do link de gravação e bibliografia    | [Guilherme Westphall](https://github.com/west7) | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.4    | 15/04/2024 | Adição de justificativa e correções de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan Eiras](https://github.com/kauaneiras)    |
+| 1.5    | 30/05/2024 | Correções                                    | [Kauan Eiras](https://github.com/kauaneiras)    | [Guilherme Westphall](https://github.com/west7) |
