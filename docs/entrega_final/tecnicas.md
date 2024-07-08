@@ -350,7 +350,14 @@ As técnicas utilizadas no desenvolvimento da [Entrega 6 - "Pós-rastreabilidade
 
 </center>
 
+## Conclusão
+
+O projeto de documentação de requisitos do aplicativo Firefox utilizou uma variedade de técnicas para garantir a integridade e clareza dos requisitos ao longo de todas as fases. Foram aplicadas técnicas que estabeleceram uma base sólida, métodos de elicitação para entender as necessidades dos usuários, transformações dos requisitos em modelos claros e práticas ágeis para adaptação rápida. Verificações colaborativas garantiram a qualidade e conformidade dos requisitos, e a consolidação final assegurou a rastreabilidade e gerenciamento dos requisitos ao longo do ciclo de vida do projeto. Este projeto exemplifica a importância de uma abordagem meticulosa na documentação de requisitos, servindo como um modelo prático e eficaz para projetos futuros na área.
+
 ## Referências
+
+1. WIEGERS, Karl E.; BEATTY, Joy. Software requirements. Pearson Education, 2013. 
+
 
 ## Histórico de versão
 
