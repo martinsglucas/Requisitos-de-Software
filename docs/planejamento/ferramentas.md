@@ -36,8 +36,8 @@ Este documento lista as ferramentas que usaremos durante o desenvolvimento deste
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                 | Autor               | Revisor         |
-| ------ | ---------- | ----------------------------------------- | ------------------- | --------------- |
-| 1.0    | 28/03/2024 | Criação da página de ferramentas          | Guilherme Westphall | Lucas Martins   |
-| 1.1    | 01/04/2024 | Adição da ferramenta Microsoft Whiteboard | Lucas Martins       | Kauan De Torres |
-| 1.2    | 29/05/2024 | Adiciona correções                        | Guilherme Westphall | Kallyne Macedo  |
+| Versão | Data       | Descrição                                 | Autor                                             | Revisor                                           |
+| ------ | ---------- | ----------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 28/03/2024 | Criação da página de ferramentas          | [Guilherme Westphall](https://github.com/west7)   | [Lucas Gabriel](https://github.com/martinsglucas) |
+| 1.1    | 01/04/2024 | Adição da ferramenta Microsoft Whiteboard | [Lucas Gabriel](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)      |
+| 1.2    | 29/05/2024 | Adiciona correções                        | [Guilherme Westphall](https://github.com/west7)   | [Kallyne Macedo](https://github.com/kalipassos)   |

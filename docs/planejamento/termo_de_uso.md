@@ -33,7 +33,7 @@ O termo de uso foi acessado pela última no dia 30/05/2024 às 21h11 e o PDF do 
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                           | Autor               | Revisor |
-| ------ | ---------- | ----------------------------------- | ------------------- | ------- |
-| 1.0    | 01/04/2024 | Criação do documento de Termos de Uso | Kauan de Torres  | Lucas Martins |
-| 1.1    | 30/05/2024 | Link do Termo de Uso em PDF | Kauan de Torres  | Lucas Martins |
+| Versão | Data       | Descrição                             | Autor                                        | Revisor                                           |
+| ------ | ---------- | ------------------------------------- | -------------------------------------------- | ------------------------------------------------- |
+| 1.0    | 01/04/2024 | Criação do documento de Termos de Uso | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Gabriel](https://github.com/martinsglucas) |
+| 1.1    | 30/05/2024 | Link do Termo de Uso em PDF           | [Kauan Eiras](https://github.com/kauaneiras) | [Lucas Gabriel](https://github.com/martinsglucas) |
