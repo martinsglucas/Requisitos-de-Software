@@ -100,5 +100,5 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 | Versão | Data       | Descrição                                                   | Autor                                           | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
 | 1.0    | 03/07/2024 | Criação da página                                           | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.1    | 04/07/2024 | Construção das tabelas de verificação das entregas 1 e 2    | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
-| 1.2    | 05/07/2024 | Construção das tabelas de verificação das entregas 3, 4 e 6 | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
+| 1.1    | 04/07/2024 | Construção das tabelas de verificação das entregas 1 e 2    | [Davi Pierre](https://github.com/DaviPierre)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+| 1.2    | 05/07/2024 | Construção das tabelas de verificação das entregas 3, 4 e 6 | [Davi Pierre](https://github.com/DaviPierre)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
