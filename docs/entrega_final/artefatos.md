@@ -63,6 +63,8 @@ Autor(es): [Kallyne Macedo](http://github.com/kalipassos), [Lucas Martins](https
 
 </center>
 
+## Referências
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                                                            | Autor                                           | Revisor                                        |

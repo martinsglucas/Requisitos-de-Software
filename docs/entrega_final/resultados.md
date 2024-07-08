@@ -71,6 +71,8 @@ Concluímos também que a entrega do projeto de requisitos do aplicativo firefox
 Esperamos que com os pontos positivos e pontos negativos, dentro de facilidades e dificuldades, que levantamos sirvam de inspiração para possíveis mudanças positivas que ajudem os próximos alunos que fizerem essa matéria.
 
 
+## Referências
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |

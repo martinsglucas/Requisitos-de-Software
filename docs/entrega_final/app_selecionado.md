@@ -25,6 +25,8 @@ Baseado na análise, o Firefox foi escolhido por apresentar as seguintes caracte
 - Disponibilidade de informações: as informações do Firefox são abertas para todos
 - Código OpenSource: O Firefox é licenciado sob a Mozilla Public License 2.0 (MPL-2.0), uma licença livre e de código aberto que permite que qualquer pessoa use, modifique e distribua o software.
 
+## Referências
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |

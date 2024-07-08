@@ -41,6 +41,8 @@ na tabela a seguir sera apresentado a execução do Projeto.
 
 </center>
 
+## Referências
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |

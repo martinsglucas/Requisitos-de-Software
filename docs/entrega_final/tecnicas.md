@@ -350,6 +350,7 @@ As técnicas utilizadas no desenvolvimento da [Entrega 6 - "Pós-rastreabilidade
 
 </center>
 
+## Referências
 
 ## Histórico de versão
 
