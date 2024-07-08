@@ -16,13 +16,14 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 <td align="center"><a href="https://github.com/west7"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101183849?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Westphall</b></sub></a><br /></td>
 
-<td align="center"><a href="https://github.com/kalipassos"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1717632000&v=beta&t=m2MffYI54l4dkBtnoTA-G9isHnY5iRga6RRApZYqwRI" width="100px;" alt=""/><br /><sub><b>Kallyne Macêdo</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/kalipassos"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1726099200&v=beta&t=7O86g7iJ-XLob0O2MVG2JFhmD8Ciy67XLTHqnFa0uq8" width="100px;" alt=""/><br /><sub><b>Kallyne Macêdo</b></sub></a><br /></td>
+
 
 <td align="center"><a href="https://github.com/kauaneiras"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43351064?v=4" width="100px;" alt=""/><br /><sub><b>Kauan T. Eiras</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/martinsglucas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104236229?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Martins</b></sub></a><br /></td>
 
-<td align="center"><a href="https://github.com/Leonardo0o0"><img style="border-radius: 50%;" src="https://i.ibb.co/frtnYkn/image.png" width="100px;" alt=""/><br /><sub><b>Leonardo Sobrinho</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Leonardo0o0"><img style="border-radius: 50%;" src="https://i.ibb.co/frtnYkn/image.png" width="100px;" alt=""/><br /><sub><b>Leonardo Aguiar</b></sub></a><br /></td>
 </center>
 
 </tr>
@@ -32,9 +33,9 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                    | Autor(es)                               | Revisor(es)                             |
-| ------ | ---------- | ---------------------------- | --------------------------------------- | --------------------------------------- |
-| 1.0    | 31/03/2024 | Criação do Pages             | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1    | 01/04/2024 | Tema claro e escuro          | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 2.0    | 01/04/2024 | Formatação das páginas do Pages | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 2.1    | 18/04/2024 | Correção tópico membros do grupo | [Kallyne Macedo](https://github.com/kalipassos) | [Kauan de Torres Eiras](https://github.com/kauaneiras) |
+| Versão | Data       | Descrição                        | Autor(es)                                              | Revisor(es)                                            |
+|--------|------------|----------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 1.0    | 31/03/2024 | Criação do Pages                 | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)        |
+| 1.1    | 01/04/2024 | Tema claro e escuro              | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)        |
+| 2.0    | 01/04/2024 | Formatação das páginas do Pages  | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Kallyne Macedo](https://github.com/kalipassos)        |
+| 2.1    | 18/04/2024 | Correção tópico membros do grupo | [Kallyne Macedo](https://github.com/kalipassos)        | [Kauan de Torres Eiras](https://github.com/kauaneiras) |

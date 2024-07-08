@@ -17,7 +17,7 @@ Para a construção da baseline, os requisitos foram dividos igualmente entre o 
 **Tabela 1**: Divisão dos requisitos
 
 | Integrante          | Requisitos                        |
-| ------------------- | --------------------------------- |
+|---------------------|-----------------------------------|
 | Davi Pierre         | R1, R7, R13, R19, R25, R31 e R37  |
 | Guilherme Westphall | R2, R8, R14, R20, R26, R32 e R38  |
 | Kallyne Macedo      | R3, R9, R15, R21, R27, R33 e R39  |
@@ -120,7 +120,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
     <tr>
         <td rowspan="2">R7</td>
         <td><b><a href="">1.1</a></b></td>
-        <td><b>O aplicativo deve ser possível instalar extensões de uso</b></td>
+        <td><b>O aplicativo deve possibilitar a instalação de extensões de uso</b></td>
         <td>  Sim </td>
         <td>  Sim </td>
     </tr>
@@ -701,7 +701,7 @@ Nesta seção está apresentada a baseline dos requisitos, conforme a Tabela 1 a
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                             | Autor                                                                                                                                                                                                                                                                                              | Revisor                                         |
-| ------ | ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+|--------|------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 1.0    | 13/06/2024 | Criação da página                                     | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.1    | 15/06/2024 | Cria tabela 1                                         | [Guilherme Westphall](https://github.com/west7)                                                                                                                                                                                                                                                    | [Davi Pierre](https://github.com/DaviPierre)    |
 | 1.2    | 16/06/2024 | Adiciona o texto de introdução e da metodologia       | [Davi Pierre](https://github.com/DaviPierre)                                                                                                                                                                                                                                                       | [Kauan Eiras](https://github.com/kauaneiras)    |

@@ -65,6 +65,12 @@ O épico de acessibilidade engloba as funcionalidades que permitem o usuário mo
 
 "Eu, como usuário, desejo que o aplicativo seja acessível para deficientes visuais".
 
+##### E03.1*. Preferências 
+
+O épico de preferências engloba as funcionalidades que permitem o usuário moldar o sistema de forma que atenda aos seus gostos pessoais e traga uma experiência de uso mais individual e agradável para o usuário.
+
+"Eu, como usuário, desejo ter uma experiência de uso mais agradável as minhas preferências".
+
 #### T03. Dados
 
 ##### E04. Performance

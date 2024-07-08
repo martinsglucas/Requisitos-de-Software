@@ -19,4 +19,4 @@ O propósito desta página é hospedar a apresentação da Segunda Entrega em fo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 24/04/2024 | Criação do documento | [Kallyne Macedo](https://github.com/kalipassos) | Lucas Martins |
+| 1.0 | 24/04/2024 | Criação do documento | [Kallyne Macedo](https://github.com/kalipassos) | [Lucas Martins](https://github.com/martinsglucas) |

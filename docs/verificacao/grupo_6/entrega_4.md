@@ -151,4 +151,4 @@ Os problemas encontrados no artefato de [NFR Framework](../../modelagem_agil/NFR
 | 1.1    | 28/06/2024 | Adiciona chesklist do backlog               | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.2    | 29/06/2024 | Adiciona chesklist das histórias de usuário | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
 | 1.3    | 29/06/2024 | Adiciona chesklist do NFR Framework         | [Guilherme Westphall](https://github.com/west7)   | [Lucas Martins](https://github.com/martinsglucas) |
-| 1.4    | 01/07/2024 | Adiciona inspeção dos artefatos             | [Lucas Martins](https://github.com/martinsglucas) |                                                   |
+| 1.4    | 01/07/2024 | Adiciona inspeção dos artefatos             | [Lucas Martins](https://github.com/martinsglucas) |   [Guilherme Westphall](https://github.com/west7)                                               |

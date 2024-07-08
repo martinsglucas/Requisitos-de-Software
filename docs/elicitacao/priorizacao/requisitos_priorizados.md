@@ -68,7 +68,7 @@ A técnica "In or Out" foi aplicada no dia 19 de abril de 2024, das 23:28 às 23
 | RNF  | O aplicativo deve ser de fácil uso                                                     | [BRS12](../tecnicas/brainstorming.md/#tabela-2-requisitos-elicitados), [QST07](../tecnicas/questionario.md/#resultado), [BRS21](../tecnicas/brainstorming.md/#tabela-2-requisitos-elicitados)                                                                      | In        |
 | RF   | O aplicativo deve conter uma ferramenta de correção ortográfica                        | [BRS19](../tecnicas/brainstorming.md/#tabela-2-requisitos-elicitados)                                                                                                                                                                                              | Out       |
 
-**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -78,7 +78,7 @@ A técnica "In or Out" foi aplicada no dia 19 de abril de 2024, das 23:28 às 23
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yE3rQ8teDhQ?si=dWXW6rEr3l_HkSTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan T. Eiras](https://github.com/kauaneiras), 2024
+**Autores**: [Guilherme Westphall](https://github.com/west7) e [Kauan Eiras](https://github.com/kauaneiras), 2024
 
 </center>
 
@@ -311,17 +311,17 @@ A Tabela 8 mostra os requisitos que tiveram maior prioridade nas técnicas [In o
 
 | Versão | Data       | Descrição                                                                                   | Autor                                                                                              | Revisor                                           |
 | ------ | ---------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1.0    | 19/04/2024 | Cria página                                                                                 | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan T. Eiras](https://github.com/kauaneiras)   |
-| 1.1    | 19/04/2024 | Adiciona tabela 1 e 2                                                                       | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan T. Eiras](https://github.com/kauaneiras)   |
-| 1.2    | 19/04/2024 | Adiciona link da gravação                                                                   | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan T. Eiras](https://github.com/kauaneiras)   |
-| 1.3    | 20/04/2024 | Atualização do link da gravação para youtube                                                | [Kauan T. Eiras](https://github.com/kauaneiras)                                                    | [Guilherme Westphall](https://github.com/west7)   |
+| 1.0    | 19/04/2024 | Cria página                                                                                 | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan Eiras](https://github.com/kauaneiras)   |
+| 1.1    | 19/04/2024 | Adiciona tabela 1 e 2                                                                       | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan Eiras](https://github.com/kauaneiras)   |
+| 1.2    | 19/04/2024 | Adiciona link da gravação                                                                   | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan Eiras](https://github.com/kauaneiras)   |
+| 1.3    | 20/04/2024 | Atualização do link da gravação para youtube                                                | [Kauan Eiras](https://github.com/kauaneiras)                                                    | [Guilherme Westphall](https://github.com/west7)   |
 | 1.4    | 21/04/2024 | Adiciona aplicação da técnica three level scale                                             | [Lucas Martins](https://github.com/martinglucas)                                                   | [Davi Pierre](https://github.com/DaviPierre)      |
 | 1.5    | 20/04/2024 | Adiciona o metodo MOSCOW                                                                    | [Leonardo Sobrinho](https://github.com/Leonardo0o0)                                                | [Kallyne Macedo](https://github.com/kalipassos)   |
 | 1.6    | 22/04/2024 | Adiciona o vídeo do método MOSCOW                                                           | [Kallyne Macedo](https://github.com/kalipassos)                                                    | [Guilherme Westphall](https://github.com/west7)   |
-| 1.7    | 26/05/2024 | Adiciona tabela de resultado da priorização                                                 | [Lucas Martins](https://github.com/martinsglucas)                                                  | [Kauan T. Eiras](https://github.com/kauaneiras)   |
-| 1.8    | 28/05/2024 | Adiciona correções da técnica In or out                                                     | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan T. Eiras](https://github.com/kauaneiras)   |
+| 1.7    | 26/05/2024 | Adiciona tabela de resultado da priorização                                                 | [Lucas Martins](https://github.com/martinsglucas)                                                  | [Kauan Eiras](https://github.com/kauaneiras)   |
+| 1.8    | 28/05/2024 | Adiciona correções da técnica In or out                                                     | [Guilherme Westphall](https://github.com/west7)                                                    | [Kauan Eiras](https://github.com/kauaneiras)   |
 | 1.9    | 03/06/2024 | Atualização da legenda da tabela 4, da legenda do vídeo 2 e do texto da "Three level scale" | [Davi Pierre](https://github.com/DaviPierre)                                                       | [Lucas Martins](https://github.com/martinsglucas) |
-| 2.0    | 05/06/2024 | Incrementa tabela de entrevistas, links da rastreabilidade                                  | [Kallyne Macedo](https://github.com/kalipassos), [Lucas Martins](https://github.com/martinsglucas) | [Kauan T. Eiras](https://github.com/kauaneiras)   |
+| 2.0    | 05/06/2024 | Incrementa tabela de entrevistas, links da rastreabilidade                                  | [Kallyne Macedo](https://github.com/kalipassos), [Lucas Martins](https://github.com/martinsglucas) | [Kauan Eiras](https://github.com/kauaneiras)   |
 | 2.1    | 15/06/2024 | Adiciona IDs na tabela 8 referentes aos requisitos R8, R14, R20, R26, R32 e R38             | [Guilherme Westphall](https://github.com/west7)                                                    | [Davi Pierre](https://github.com/DaviPierre)      |
 | 2.2    | 19/06/2024 | Adiciona IDs na tabela 8                                                                    | [Leonardo Sobrinho](https://github.com/Leonardo0o0)                                                | [Davi Pierre](https://github.com/DaviPierre)      |
 | 2.3    | 26/06/2024 | Adição de links referenciando as técnicas na rastreabilidade.                               | [Kauan Eiras](https://github.com/kauaneiras)                                                       | [Davi Pierre](https://github.com/DaviPierre)      |

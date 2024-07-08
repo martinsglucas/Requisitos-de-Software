@@ -12,7 +12,7 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 **Tabela 1:** Síntase dos artefatos de verificação de Pre-rastreabilidade
 
-| Artefato                                                                                                                           | Autor(es)                                    | Revisor(es)                                     |
+| Artefato                                                                                                                           | Autor da checklist                           | Inspecionado por                                |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------- |
 | [Verificação do Rich Picture](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_1/#rich-picture) | [Davi Pierre](https://github.com/DaviPierre) | [Kallyne Macedo](https://github.com/kalipassos) |
 
@@ -26,7 +26,7 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 **Tabela 2:** Síntase de artefatos de verificação de Elicitação
 
-| Artefato                                                                                                                      | Autor(es)                                         | Revisor(es)                                     |
+| Artefato                                                                                                                      | Autor da checklist                                | Inspecionado por                                |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
 | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_2/#perfil-de-usuario) | [Lucas Martins](https://github.com/martinsglucas) | [Guilherme Westphall](https://github.com/west7) |
 | [Personas](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_2/#personas)                   | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kauan Eiras](https://github.com/kauaneiras)    |
@@ -48,7 +48,7 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 **Tabela 3:** Síntase de artefatos de verificação de Modelagem
 
-| Artefato                                                                                                                                                              | Autor(es)                                       | Revisor(es)                                       |
+| Artefato                                                                                                                                                              | Autor da checklist                              | Inspecionado por                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
 | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_3/#especificacao-suplementar)                         | [Kauan Eiras](https://github.com/kauaneiras)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | [Léxicos](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_3/#lexicos)                                                             | [Kauan Eiras](https://github.com/kauaneiras)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
@@ -69,7 +69,7 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 **Tabela 4:** Síntase dos artefatos de verificação de Modelagem Ágil
 
-| Artefato                                                                                                                            | Autor(es)                                       | Revisor(es)                                       |
+| Artefato                                                                                                                            | Autor da checklist                              | Inspecionado por                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
 | [Backlog](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_4/#backlog)                           | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
 | [Histórias de usuário](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_4/#historias-de-usuario) | [Guilherme Westphall](https://github.com/west7) | [Lucas Martins](https://github.com/martinsglucas) |
@@ -85,7 +85,7 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 **Tabela 6:** Síntase dos artefatos de verificação de Pós-rastreabilidade
 
-| Artefato                                                                                                              | Autor(es)                                       | Revisor(es)                                  |
+| Artefato                                                                                                              | Autor da checklist                              | Inspecionado por                             |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
 | [Elos](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_6/#elos)                   | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | [Forward-From](https://requisitos-de-software.github.io/2024.1-Firefox/verificacao/grupo_6/entrega_6/#forward-from)   | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
@@ -97,8 +97,9 @@ Validação e Verificação de software são processos essenciais no desenvolvim
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                                   | Autor                                           | Revisor                                      |
-| ------ | ---------- | ----------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| 1.0    | 03/07/2024 | Criação da página                                           | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.1    | 04/07/2024 | Construção das tabelas de verificação das entregas 1 e 2    | [Davi Pierre](https://github.com/DaviPierre)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
-| 1.2    | 05/07/2024 | Construção das tabelas de verificação das entregas 3, 4 e 6 | [Davi Pierre](https://github.com/DaviPierre)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+
+| Versão | Data       | Descrição                                                   | Autor                                           | Revisor                                         |
+| ------ | ---------- | ----------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 03/07/2024 | Criação da página                                           | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre)    |
+| 1.1    | 04/07/2024 | Construção das tabelas de verificação das entregas 1 e 2    | [Davi Pierre](https://github.com/DaviPierre)    | [Guilherme Westphall](https://github.com/west7) |
+| 1.2    | 05/07/2024 | Construção das tabelas de verificação das entregas 3, 4 e 6 | [Davi Pierre](https://github.com/DaviPierre)    | [Guilherme Westphall](https://github.com/west7) |
