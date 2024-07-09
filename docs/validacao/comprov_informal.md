@@ -16,11 +16,13 @@ Dessa forma, uma mensagem de contato foi redigida de forma a apresentar os membr
 
 Figura 1: E-mail de comunicação com a comunidade brasileira do Mozilla. 
 
-![imagem](image.png)
+![imagem](assets/image.png)
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras), 2024.
 
 </center>
+
+## Resposta
 
 Até o momento, nenhuma resposta foi obtida. 
 
@@ -31,6 +33,10 @@ Até o momento, nenhuma resposta foi obtida.
 
 ## Histórico de versões
 
+<center> 
+
 | Versão | Data       | Descrição                                   | Autor                                             | Revisor                                           |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | 1.0    | 01/07/2024 | Cria página                                 | [Kallyne Macedo](https://github.com/kalipassos)  | [Lucas Martins](https://github.com/martinsglucas) |
+
+</center>

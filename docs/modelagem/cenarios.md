@@ -44,14 +44,14 @@ Cada cenário é descrito conforme a Tabela 2.
 
 | Elemento | Descrição |
 | --- | --- |
-| título | o título do cenário |
-| objetivo | o objetivo a ser alcançado pela tarefa |
-| contexto | descreve a localização geográfica e o estado inicial da tarefa |
-| recursos | meios de apoio e dispositivos que necessitam estar disponíveis para o cenário |
-| atores | pessoa que realiza a tarefa descrita no cenário |
-| episódios | frases que descrevem como o cenário acontece e seu comportamento |
-| restrição | características que o cenário deve seguir |
-| exceção | situações que impedem a realização do cenário |
+| Título | O título do cenário |
+| Objetivo | O objetivo a ser alcançado pela tarefa |
+| Contexto | Descreve a localização geográfica e o estado inicial da tarefa |
+| Recursos | Meios de apoio e dispositivos que necessitam estar disponíveis para o cenário |
+| Atores | Pessoa que realiza a tarefa descrita no cenário |
+| Episódios | Frases que descrevem como o cenário acontece e seu comportamento |
+| Restrição | Características que o cenário deve seguir |
+| Exceção | Situações que impedem a realização do cenário |
 
 **Fonte**: LEITE, 1997
 

@@ -297,6 +297,7 @@ Na tabela 5, temos o cartão de especificação do softgoal "Desempenho".
 | **Descrição**         | O requisito "Desempenho" refere-se à capacidade do Firefox de carregar páginas e executar operações rapidamente, com um tempo máximo de resposta de 1 segundo. Isso inclui a velocidade de carregamento de páginas, a eficiência na execução de scripts e a capacidade de resposta do navegador. |
 | **Justificativa**     | O desempenho é um fator crítico para a satisfação do usuário, influenciando diretamente a experiência de navegação e a eficácia do navegador. Um desempenho lento ou ineficiente pode levar à frustração do usuário, à perda de produtividade e à insatisfação geral com o navegador. |
 | **Origem do Requisito** | [Especificação suplementar](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/especificacao-suplementar/) e [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Firefox/elicitacao/tecnicas/requisitos_elicitados/).|
+| **Critérios de Ajuste** | - [ ] Descarte de objetos não usados.<br>- [ ] Pré-carregamento de componentes críticos.<br>- [ ] Compressão de imagens.<br>- [ ] Pré-carregamento de CSS essenciais.<br>- [ ] Uso de cache.<br>- [ ] Minimização de processos em background.<br>- [ ] Monitoramento da CPU.
 | **Dependências**      | O desempenho depende de uma implementação eficiente das funcionalidades suportadas, como o carregamento de páginas, a execução de scripts e a resposta do navegador. Atualizações contínuas são necessárias para manter o desempenho do navegador. |
 | **Prioridade**        | Alta. O desempenho é um fator crítico para a satisfação do usuário e a eficácia do navegador, influenciando diretamente a experiência de navegação e a produtividade do usuário. |
 | **Conflitos**         | Não foram identificados conflitos. |
@@ -473,11 +474,11 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 
 ## Referências
 
-1. **SILVA, Reinaldo Antônio.** NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 25 de maio de 2024.
+1. **SILVA, Reinaldo Antônio.** NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 25 de maio de 2024.
 2. **CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J.** Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 3. **SERRANO, Maurício; SERRANO, Milene.** Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 4. **NIELSEN, Jakob. Usability Engineering.** Boston: Academic Press, 1993. ISBN 0125184050, p. 24.
-5. **Firefox Source Tree Documentation, 2024.**  Disponível em: https://firefox-source-docs.mozilla.org/index.html. Acesso em 26 de maio de 2024.
+5. **Firefox Source Tree Documentation, 2024.**  Disponível em: <https://firefox-source-docs.mozilla.org/index.html>. Acesso em 26 de maio de 2024.
 6. **CHEMUTURI, Murali.** Mastering Software Quality Assurance: Best Practices, Tools and Techniques for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
 7. **BERENBACH, Brian; PAULISH, Daniel; KAZMEIER, Juergen; RUDORFER, Arnold.** Software & Systems Requirements Engineering: In Practice. 1. ed. McGraw-Hill, 2009.
 8. **PRESSMAN, Roger S.** Software Engineering: A Practitioner's Approach. 7th ed. New York: McGraw-Hill, 2011.
@@ -500,3 +501,4 @@ Na tabela 8, temos o cartão de especificação do softgoal "Implementação".
 | 2.1 | 05/06/2024 | Correção de imagens | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 2.2 | 29/06/2024 | Adiciona critérios de ajuste ao NFR05 | [Guilherme Westphall](https://github.com/west7) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 | 2.3 | 05/07/2024 | Correção de imagens e adição do tópico critérios de ajuste ao NFR04 | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Davi Pierre](https://github.com/DaviPierre) |
+| 2.4 | 08/07/2024 | Adiciona critérios de ajuste ao NFR03 | [Lucas Martins](https://github.com/martinsglucas) | [Davi Pierre](https://github.com/DaviPierre) | 

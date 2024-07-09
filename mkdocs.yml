@@ -14,9 +14,11 @@ nav:
     - Reunião 15/04: atas/ata_15_04.md
     - Reunião 06/05: atas/ata_06_05.md
     - Reunião 22/05: atas/ata_22_05.md
+    - Reunião 29/05: atas/ata_29_05.md
     - Reunião 05/06: atas/ata_05_06.md
     - Reunião 10/06: atas/ata_10_06.md
-    - Reunião 24/06: atas/ata_24_06.md
+    - Reunião 13/06: atas/ata_13_06.md
+    - Reunião 19/06: atas/ata_19_06.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao_1.md
     - Apresentação 2: apresentacoes/apresentacao_2.md
@@ -67,21 +69,32 @@ nav:
     - Backward From: pos-rastreabilidade/backwardfrom.md
     - Forward From: pos-rastreabilidade/forwardfrom.md
     - Elos: pos-rastreabilidade/elos.md
-  - Verificação:
-    - Grupo 6:
-      - Pré-Rastreabilidade: verificacao/grupo_6/entrega_1.md
-      - Elicitação: verificacao/grupo_6/entrega_2.md
-      - Modelagem: verificacao/grupo_6/entrega_3.md
-      - Modelagem Ágil: verificacao/grupo_6/entrega_4.md
-      - Pós-Rastreabilidade: verificacao/grupo_6/entrega_6.md
-    - Grupo 7:
-      - Entrega 1: verificacao/grupo_7/entrega_1.md
-      - Entrega 2: verificacao/grupo_7/entrega_2.md
-      - Entrega 3: verificacao/grupo_7/entrega_3.md
-      - Entrega 4: verificacao/grupo_7/entrega_4.md
-  - Validação: 
-    - Validação do Protótipo: validacao/validacao.md
-    - Comprovação Informal: validacao/comprov_informal.md
+  - V&V:
+    - Verificação:
+      - Grupo 6:
+        - Pré-Rastreabilidade: verificacao/grupo_6/entrega_1.md
+        - Elicitação: verificacao/grupo_6/entrega_2.md
+        - Modelagem: verificacao/grupo_6/entrega_3.md
+        - Modelagem Ágil: verificacao/grupo_6/entrega_4.md
+        - Pós-Rastreabilidade: verificacao/grupo_6/entrega_6.md
+      - Grupo 7:
+        - Pré-Rastreabilidade: verificacao/grupo_7/entrega_1.md
+        - Elicitação: verificacao/grupo_7/entrega_2.md
+        - Modelagem: verificacao/grupo_7/entrega_3.md
+        - Modelagem Ágil: verificacao/grupo_7/entrega_4.md
+    - Validação: 
+      - Validação do Protótipo: validacao/validacao.md
+      - Comprovação Informal: validacao/comprov_informal.md
+  - Entrega Final:
+    - Aplicativo Selecionado: entrega_final/app_selecionado.md
+    - Planejamento dos Recursos e das Entregas: entrega_final/planejamento.md
+    - Execução do Projeto: entrega_final/execucao.md
+    - Resultados Alcançados: entrega_final/resultados.md
+    - Técnicas Utilizadas: entrega_final/tecnicas.md
+    - Artefatos Sintetizados: entrega_final/artefatos.md
+    - Verificação e Validação dos Artefatos: entrega_final/v&v.md
+    - Ferramentas Utilizadas: entrega_final/ferramentas.md
+    - Apresentações: entrega_final/apresentacoes.md
 
 theme:
   name: material

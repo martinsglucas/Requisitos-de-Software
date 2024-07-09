@@ -77,7 +77,7 @@ A tabela 3 apresentao checklist do artefato "Perfil de Usuário".
 | 05  | A especificação do perfil de usuário foi obtida a partir de fontes confiáveis ?                                        | [BARBOSA, 2021, p. 138, 139.](./assets/PU2.png) | Sim       |
 | 06  | A especificação do perfil de usuário foi obtida a partir de técnicas, como entrevista, grupo de foco, ou questionário? | [BARBOSA, 2021, p. 143.](./assets/PU3.png)      | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
+**Autor da lista de verificação**: [Lucas Martins](https://github.com/martinsglucas), **Inspecionado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
@@ -106,7 +106,7 @@ A tabela 4 contêm o checklist do artefato relacionado à [Personas](../../elici
 | 07  | Existe ao menos uma persona secundária?                                                                                            | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
 | 08  | Existe ao menos uma anti-persona?                                                                                                  | [Interação Humano-Computador e Experiência do usuário](./assets/Per5.png) | Sim       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
+**Autor da lista de verificação**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Inspecionado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -138,7 +138,7 @@ Não foram encontrados problemas no artefato [Observação](../../elicitacao/tec
 | 11  | O observador explicou como funcionaria a sessão?                                          | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)   | Sim       |
 | 12  | O observador sugeriu a quem ele observava que "pensasse em voz alta"?                     | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Obs3.png)   | Não       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
+**Autor da lista de verificação**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Inspecionado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -178,7 +178,7 @@ A tabela 6 contêm o checklist do artefato relacionado à [brainstorming](../../
 | 16  | Foram definidos os tempos de fala?                                                        | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)      | Não       |
 | 17  | Os participantes eram de áreas diferentes (a fim de ter insights diferentes)?             | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Bra6.png)      | Não       |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
+**Autor da lista de verificação**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Inspecionado por**: [Kauan Eiras](https://github.com/kauaneiras).
 </center>
 
 
@@ -218,7 +218,7 @@ A tabela 7 contêm o checklist do artefato relacionado à [entrevista](../../eli
 | 15  | O entrevistador fez anotações durante a entrevista?                                                                               | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Ent8.png)   | Sim        |
 | 16  | Houve a identificação do(a) entrevistado(a)?                                                                                      | [ENGENHARIA DE REQUISITOS, RE-training.](./assets/Ent9.png)      | Sim        |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
+**Autor da lista de verificação**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Inspecionado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -255,7 +255,7 @@ A tabela 8 contêm o checklist do artefato relacionado à [Questionário](../../
 | 13  | O questionário foi testado e isso foi abordado no documento?                                             | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest6.png) | Não        |
 | 14  | O questionário possui perguntas que aceitam respostas livres e limitadas?                                | [VASQUEZ, Carlos. Engenharia de Requisitos](./assets/Quest7.png) | Sim        |
 
-**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Verificado por**: [Kauan Eiras](https://github.com/kauaneiras).
+**Autor da lista de verificação**: [Leonardo Aguiar](https://github.com/Leonardo0o0), **Inspecionado por**: [Kauan Eiras](https://github.com/kauaneiras).
 
 </center>
 
@@ -282,7 +282,7 @@ A tabela 9 apresent o checklist do artefato "In or Out".
 | 03  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/IO2.png)       | Sim       |
 | 04  | Os requisitos possuem rastreabilidade?                                                                  | [POHL, 2016, p. 122.](./assets/TLS3.png)         | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
+**Autor da lista de verificação**: [Lucas Martins](https://github.com/martinsglucas), **Inspecionado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
@@ -309,7 +309,7 @@ A tabela 10 apresent o checklist do artefato "Three Level Scale".
 | 06  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos? | [WIEGERS, 2013, p. 319.](./assets/TLS2.png)      | Sim       |
 | 07  | Os requisitos possuem rastreabilidade?                                                                  | [POHL, 2016, p. 122.](./assets/TLS3.png)         | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7).
+**Autor da lista de verificação**: [Lucas Martins](https://github.com/martinsglucas), **Inspecionado por**: [Guilherme Westphall](https://github.com/west7).
 
 </center>
 
@@ -336,7 +336,7 @@ A tabela 11 apresent o checklist do artefato "Moscow".
 | 06  | A prioridade de cada requisito foi incluída como um atributo do requisito nos documentos de requisitos?                         | [WIEGERS, 2013, p. 319.](./assets/IO2.png)        | Sim       |
 | 07  | Os requisitos possuem rastreabilidade?                                                                                          | [POHL, 2016, p. 122.](./assets/TLS3.png)          | Sim       |
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas), **Verificado por**: [Guilherme Westphall](https://github.com/west7)
+**Autor da lista de verificação**: [Lucas Martins](https://github.com/martinsglucas), **Inspecionado por**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
