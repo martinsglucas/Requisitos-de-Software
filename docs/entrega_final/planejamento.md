@@ -175,6 +175,7 @@ O método escolhido para a disposição dos dados consiste na reorganização da
 
 </center>
 
+## Histórico de versão
 
 | Versão | Data       | Descrição                                                                            | Autor                                           | Revisor                                        |
 | ------ | ---------- | ------------------------------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------- |
