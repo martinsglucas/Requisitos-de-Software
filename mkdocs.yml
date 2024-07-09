@@ -86,14 +86,14 @@ nav:
       - Validação do Protótipo: validacao/validacao.md
       - Comprovação Informal: validacao/comprov_informal.md
   - Entrega Final:
-    - Apresentações: entrega_final/apresentacoes.md
-    - Ferramentas Utilizadas: entrega_final/ferramentas.md
     - Aplicativo Selecionado: entrega_final/app_selecionado.md
     - Planejamento dos Recursos e das Entregas: entrega_final/planejamento.md
     - Execução do Projeto: entrega_final/execucao.md
     - Técnicas Utilizadas: entrega_final/tecnicas.md
+    - Ferramentas Utilizadas: entrega_final/ferramentas.md
     - Artefatos Sintetizados: entrega_final/artefatos.md
     - Verificação e Validação dos Artefatos: entrega_final/v&v.md
+    - Apresentações: entrega_final/apresentacoes.md
     - Resultados Alcançados: entrega_final/resultados.md
 
 theme:
