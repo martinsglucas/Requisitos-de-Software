@@ -27,6 +27,8 @@ Baseado na análise, o Firefox foi escolhido por apresentar as seguintes caracte
 
 ## Referências
 
+1. MOZILLA Foundation. Use o Firefox para computador - Mozilla. Disponível em: https://www.mozilla.org/pt-BR/firefox/new/. Acesso em 31/03/2024.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição         | Autor                                           | Revisor |
