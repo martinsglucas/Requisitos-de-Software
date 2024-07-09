@@ -16,7 +16,9 @@ Nesta seção são apresentados os objetivos definidos no início do projeto, el
 
 * Corrigir o máximo de erros possíveis
 
-* todos os integrantes prototiparem ao menos 1 funcionalidade
+* Ter requisitos bem definidos e testáveis
+
+* Todos os integrantes prototiparem ao menos 1 funcionalidade
 
 * Realizar a entrega de todos os artefatos solicitados
 
@@ -52,7 +54,6 @@ Durante o semestre 2024.1, durante o período da disciplina de requisitos, nós 
 
 * Quanto ao conteúdo disponibilizado na ferramenta Aprender3, que fornece apoio para a disciplina, o grupo apresentou dificuldade de localizar as referências de vários materiais, o que dificultou o estudo do conteúdo durante o semestre.
 * Por conta da ordem que os conteúdos foram passados, foi difícil fazer um cronograma que fosse mais específico, uma vez que ainda não conhecíamos muitas das técnicas que usamos no desenvolvimento do projeto.
-* Por conta da greve que ocorreu durante o semestre, nós tivemos dificuldade de ajustar o ritmo de quando e o que deveria ser feito durante as etapas.
 * Por, no ínicio, não entender a importância de algumas etapas do projeto, acabamos por ficar meio perdidos e isso nos atrapalhou nas entregas futuras, necessitando de muito retrabalho de artefatos anteriores. Talvez, se uma visão geral do trabalho fosse apresentada no começo, especialmente sobre a importância da fase de elicitação dos requisitos, poderíamos ter nos organizado muito melhor.
 * Por ser um projeto com prazos curtos e muito trabalho a ser feito, não conseguimos dar a atenção que gostaríamos para algumas fases do projeto. 
 
