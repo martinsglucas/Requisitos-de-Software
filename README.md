@@ -17,9 +17,10 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 <td align="center"><a href="https://github.com/west7"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101183849?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Westphall</b></sub></a><br /></td>
 
-<td align="center"><a href="https://github.com/kalipassos"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1717632000&v=beta&t=m2MffYI54l4dkBtnoTA-G9isHnY5iRga6RRApZYqwRI" width="100px;" alt=""/><br /><sub><b>Kallyne Macêdo</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/kalipassos"><img style="border-radius: 50%;" src="[21:49] Kallyne Macedo Passos
+https://media.licdn.com/dms/image/D4D03AQH6VXD0cGfrTA/profile-displayphoto-shrink_800_800/0/1680625762596?e=1726099200&v=beta&t=7O86g7iJ-XLob0O2MVG2JFhmD8Ciy67XLTHqnFa0uq8" width="100px;" alt=""/><br /><sub><b>Kallyne Macêdo</b></sub></a><br /></td>
 
-<td align="center"><a href="https://github.com/kauaneiras"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43351064?v=4" width="100px;" alt=""/><br /><sub><b>Kauan T. Eiras</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/kauaneiras"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43351064?v=4" width="100px;" alt=""/><br /><sub><b>Kauan Eiras</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/martinsglucas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104236229?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Martins</b></sub></a><br /></td>
 
