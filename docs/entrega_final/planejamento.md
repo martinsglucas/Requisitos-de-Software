@@ -21,8 +21,9 @@ O método escolhido para a disposição dos dados consiste na reorganização da
 </center>
 
 
-
 ## Cronograma Planejado
+
+<center>
 
 **Tabela 2**: Cronograma Planejado
 
@@ -83,11 +84,12 @@ O método escolhido para a disposição dos dados consiste na reorganização da
 
 **Autor**: [Kauan Eiras](https://github.com/kauaneiras)
 
+</center>
+
+
+## Cronograma Executado
+
 <center>
-
-## Execução
-
-### Cronograma Executado
 
 **Tabela 3**: Cronograma Executado
 
