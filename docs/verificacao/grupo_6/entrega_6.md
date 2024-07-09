@@ -67,7 +67,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 08  | Na construção dos elos estão descritos: **Categoria, Elementos rastreáveis e o Elo**?                                      | [SERRANO p. 22](../grupo_6/assets/E3.png)       | Sim       |
 | 09  | Os elos são construídos da seguinte maneira: "[Elemento 1] relação [Elemento 2]"?                                          | [SERRANO p. 22](../grupo_6/assets/E3.png)       | Sim       |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -75,7 +75,6 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 
 Não foram encontrados problemas no artefato [Elos](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/elos/) de acordo com a checklist feita para realizar a verificação.
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 ### Forward-From
 
@@ -93,7 +92,7 @@ Não foram encontrados problemas no artefato [Elos](https://requisitos-de-softwa
 | 06  | Cada **requisito** da matriz contém sua **descrição**?                                               | [Visure solutions](../grupo_6/assets/FF3.png)                              | Sim       |
 | 07  | Existem **hyperlinks** entre os requisitos e os artefatos?                                           | [Visure solutions](../grupo_6/assets/FF3.png)                              | Sim       |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -101,7 +100,6 @@ Não foram encontrados problemas no artefato [Elos](https://requisitos-de-softwa
 
 De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Foward-From](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/forwardfrom/) sendo ele a falta de tipo dos requisitos.
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 ### Backward-from
 
@@ -120,7 +118,7 @@ De acordo com a checklist de verificação foi encontrado apenas um probelma no 
 | 06  | Cada **requisito** da matriz contém sua **descrição**?                                                       | [Visure solutions](../grupo_6/assets/FF3.png)                              | Sim       |
 | 07  | Existem **hyperlinks** entre os requisitos e os artefatos?                                                   | [Visure solutions](../grupo_6/assets/FF3.png)                              | Sim       |
 
-**Autor**: [Guilherme Westphall](https://github.com/west7), **Verificado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Guilherme Westphall](https://github.com/west7), **Inspecionado por**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -128,7 +126,6 @@ De acordo com a checklist de verificação foi encontrado apenas um probelma no 
 
 De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Backward-From](https://requisitos-de-software.github.io/2024.1-Firefox/pos-rastreabilidade/backwardfrom/) sendo ele a falta de tipo dos requisitos.
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 ## Referências
 
@@ -145,4 +142,4 @@ De acordo com a checklist de verificação foi encontrado apenas um probelma no 
 | 1.1    | 01/07/2024 | Adiciona chesklist dos Elos                                 | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.2    | 01/06/2024 | Adiciona chesklist do Forward-from                          | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
 | 1.3    | 01/06/2024 | Adiciona chesklist do Backward-from                         | [Guilherme Westphall](https://github.com/west7) | [Davi Pierre](https://github.com/DaviPierre) |
-| 1.4    | 02/06/2024 | Verificação dos artefatos Foward-From, Backward-from e Elos | [Davi Pierre](https://github.com/DaviPierre)    |                                              |
+| 1.4    | 02/06/2024 | Verificação dos artefatos Foward-From, Backward-from e Elos | [Davi Pierre](https://github.com/DaviPierre)    |    [Guilherme Westphall](https://github.com/west7)                                          |

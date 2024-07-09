@@ -539,11 +539,10 @@ A validação das Histórias de Usuário é uma etapa crucial para garantir que 
 
 ## Referências
 
-1. SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 15](https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 22 de maio de 2024.
-2. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn. Simplilearn. Youtube, 31 de jul. 2020. Disponível em: https://www.youtube.com/watch?v=SRRQCDZQ6G4. Acesso em: 22 maio 2024. 
-3. PERSONAS, REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario. Acesso em: 5 de Julho de 2024.
-4. COHN, Mike. User Stories Applied: For Agile Software Development. Addison-Wesley Professional, 2004.
-5. REtraining. Histórias de usuário. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario. Acesso em: 5 de Julho de 2024.
+1. Agile User Stories | How To Write User Stories | Epic And User Story Examples | Simplilearn. Simplilearn. Youtube, 31 de jul. 2020. Disponível em: <https://www.youtube.com/watch?v=SRRQCDZQ6G4>. Acesso em: 22 maio 2024. 
+2. PERSONAS, REtraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario>. Acesso em: 5 de Julho de 2024.
+3. COHN, Mike. User Stories Applied: For Agile Software Development. Addison-Wesley Professional, 2004.
+4. REtraining. Histórias de usuário. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario>. Acesso em: 5 de Julho de 2024.
 
 ## Histórico de versões
 

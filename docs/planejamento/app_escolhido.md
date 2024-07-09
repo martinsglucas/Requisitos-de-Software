@@ -32,6 +32,6 @@ MOZILLA Foundation. Use o Firefox para computador - Mozilla. Disponível em: htt
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor | Revisor
-|:------:|:----:|-----------|:-----:|:------:
-| 1.0 | 31/03/2024 | Criação do documento | [Kauan de Torres Eiras](https://github.com/kauaneiras) | [Leonardo Aguiar](https://github.com/Leonardo0o0)
+| Versão |    Data    | Descrição            |                    Autor                     |                      Revisor                      |
+| :----: | :--------: | -------------------- | :------------------------------------------: | :-----------------------------------------------: |
+|  1.0   | 31/03/2024 | Criação do documento | [Kauan Eiras](https://github.com/kauaneiras) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |

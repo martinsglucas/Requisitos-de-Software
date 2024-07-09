@@ -22,7 +22,7 @@ A fase de planejamento será realizada por meio de um estudo individual dos arte
 | -------------- | --------------------- | ------------------------------- | -------------------------------- |
 | ID do critério | Descrição do critério | Referência da qual foi retirado | Sim/Não/Incompleto/Não se aplica |
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre)
+**Autor**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
@@ -75,7 +75,7 @@ A tabela 3 apresentao checklist do artefato "Rich Picture".
 | 10  | A linguagem do Rich Picture está de simples compreensão do leitor?                                               | [Growing Wings on the Way: Systems Thinking for Messy Situations](../grupo_6/assets/R2.png) | Sim       |
 
 
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), **Verificado por:** [Kallyne Macedo](https://github.com/kalipassos), 2024.
+**Autor da lista de verificação**: [Davi Pierre](https://github.com/DaviPierre), **Inspecionado por:** [Kallyne Macedo](https://github.com/kalipassos), 2024.
 
 </center>
 

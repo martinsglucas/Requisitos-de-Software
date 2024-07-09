@@ -73,7 +73,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 13  | O documento aborda a necessidade de testes automatizados e critérios de aceitação para garantir a qualidade do software?                                 | [PRESSMAN, 2014, p. 512](../grupo_6/assets/PRESS511512.png)     | Sim       |
 | 14  | A Especificação Suplementar inclui métricas e métodos para monitorar e avaliar continuamente o desempenho e a qualidade do sistema após a implementação? | [PRESSMAN, 2014, p. 512](../grupo_6/assets/PRESS511512.png)     | Sim       |
 
-**Autor**: [Kauan Eiras](https://github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0) 
+**Autor da lista de verificação**: [Kauan Eiras](https://github.com/kauaneiras), **Inspecionado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0) 
 
 </center>
 
@@ -94,7 +94,7 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 07  | O artefato menciona os autores da criação dos léxicos?                                          | [SERRANO, p. 25](../grupo_6/assets/Aula10p25.png)           | Sim       |
 | 08  | Os léxicos estão conectados entre si através de hyperlinks?                                     | [SERRANO, p. 20](../grupo_6/assets/Aula10p20.png)           | Sim       |
 
-**Autor**: [Kauan Eiras](https://github.com/kauaneiras), **Verificado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
+**Autor da lista de verificação**: [Kauan Eiras](https://github.com/kauaneiras), **Inspecionado por**: [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024
 
 </center>
 
@@ -118,15 +118,13 @@ Nesta seção, serão dispostos os checklists dos artefatos da Entrega 4 nas tab
 | 10  | No diagrama, os casos de uso levantados representam requisitos?                                              | [SERRANO, p. 8](../grupo_6/assets/image-6.png)       | Sim        |
 
 
-**Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Kallyne Macedo](https://github.com/kalipassos), **Inspecionado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
 #### Problemas encontrados
 
 De acordo com a checklist de verificação foi encontrado apenas um probelma no artefato [Casos de uso](https://requisitos-de-software.github.io/2024.1-Firefox/modelagem/casos_de_uso/casos_de_uso/) sendo ele a falta de um ator secundário.
-
-**Autor**: [Davi Pierre](https://github.com/DaviPierre), 2024
 
 
 
@@ -173,7 +171,7 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 | 07  | Na especificação, a validação do diagrama de casos de uso foi realizada com um usuário?                       | [SERRANO, p. 19](../grupo_6/assets/image-15.png)     | Não       |
 | 08  | Na especificação, na validação do diagrama, há a especificação da técnica utilizada?                          | [SERRANO, p. 19](../grupo_6/assets/image-16.png)     | Sim       |
 
-**Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Leonardo Aguiar](https://github.com/Leonardo0o0)
+**Autor da lista de verificação**: [Kallyne Macedo](https://github.com/kalipassos), **Inspecionado por**:  [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
 </center>
 
@@ -195,7 +193,7 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 | 07  | Na especificação, a validação do diagrama de casos de uso foi realizada com um usuário?                       | [SERRANO, p. 19](../grupo_6/assets/image-15.png)     | Não       |
 | 08  | Na especificação, na validação do diagrama, há a especificação da técnica utilizada?                          | [SERRANO, p. 19](../grupo_6/assets/image-16.png)     | Sim       |
 
-**Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Lucas Martins](https://github.com/martinsglucas), 2024
+**Autor da lista de verificação**: [Kallyne Macedo](https://github.com/kalipassos), **Inspecionado por**:  [Lucas Martins](https://github.com/martinsglucas), 2024
 
 </center>
 
@@ -216,7 +214,7 @@ O único problema encontrado na especificação do Caso de uso [Realizar Pesquis
 | 07  | Na especificação, a validação do diagrama de casos de uso foi realizada com um usuário?                       | [SERRANO, p. 19](../grupo_6/assets/image-15.png)     | Não       |
 | 08  | Na especificação, na validação do diagrama, há a especificação da técnica utilizada?                          | [SERRANO, p. 19](../grupo_6/assets/image-16.png)     | Sim       |
 
-**Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Kallyne Macedo](https://github.com/kalipassos), **Inspecionado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 
@@ -242,7 +240,7 @@ Não foram encontrados problemas no artefato [Casos de uso - Mudar Idioma](https
 | 08  | O artefato menciona as técnicas utilizadas para desenvolver os cenários?                                                         | [LEITE, p.48-49](../grupo_6/assets/imageC6.png)               | Sim        |
 | 09  | A introdução ou metodologia trazem referências que justifiquem a forma que o trabalho foi desenvolvido?                          | [LEITE, p.48-49](../grupo_6/assets/imageC6.png)               | Sim        |
 
-**Autor**: [Kallyne Macedo](https://github.com/kalipassos), **Verificado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
+**Autor da lista de verificação**: [Kallyne Macedo](https://github.com/kalipassos), **Inspecionado por**:  [Davi Pierre](https://github.com/DaviPierre), 2024
 
 </center>
 

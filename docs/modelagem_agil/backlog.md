@@ -65,6 +65,12 @@ O épico de acessibilidade engloba as funcionalidades que permitem o usuário mo
 
 "Eu, como usuário, desejo que o aplicativo seja acessível para deficientes visuais".
 
+##### E03.1*. Preferências 
+
+O épico de preferências engloba as funcionalidades que permitem o usuário moldar o sistema de forma que atenda aos seus gostos pessoais e traga uma experiência de uso mais individual e agradável para o usuário.
+
+"Eu, como usuário, desejo ter uma experiência de uso mais agradável as minhas preferências".
+
 #### T03. Dados
 
 ##### E04. Performance
@@ -133,9 +139,9 @@ O épico de segurança engloba as funcionalidades que protegem o usuário de dan
 
 ## Referências 
 
-1. LuizTools. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em 24 de Maio de 2024.
-2. SCHWABER, Ken; SUTHERLAND, Jeff. The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. 2020. Disponível em: https://scrumguides.org/scrum-guide.html. Acesso em: 24 de Maio de 2024.
-3. PICHLER, Roman. Agile Product Management with Scrum: Creating Products that Customers Love. 1. ed. Addison-Wesley Professional, 2017.
+1. **LuizTools**. Product Backlog - Introdução. YouTube, 21 de março de 2020. Disponível em: <https://www.youtube.com/watch?v=z4ubaBwjCsU>. Acesso em 24 de Maio de 2024.
+2. **SCHWABER, Ken**; SUTHERLAND, Jeff. The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. 2020. Disponível em: <https://scrumguides.org/scrum-guide.html>. Acesso em: 24 de Maio de 2024.
+3. **PICHLER, Roman**. Agile Product Management with Scrum: Creating Products that Customers Love. 1. ed. Addison-Wesley Professional, 2017.
 
 ## Histórico de versões
 

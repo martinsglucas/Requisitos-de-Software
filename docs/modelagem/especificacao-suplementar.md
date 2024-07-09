@@ -24,13 +24,13 @@ Na tabela 1, são apresentados os requisitos identificados em relação à usabi
 
 **Tabela 1**: Requisitos de Usabilidade.
 
-| ID  |                                                                                 Descrição                                                                                  |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| US1 |                                                              Deve ser possível visualizar em formato desktop                                                               |
-| US2 |                  Deve disponibilizar formas de facilitar seu uso principal, como criar atalhos, sugestões personalizadas de pesquisa e pesquisa por voz.                   |
-| US3 | Deve disponibilizar formas de se adaptar ao usuário, incluindo acessibilidade, personalizar a tela inicial do navegador, mudar o idioma e mudar entre tema claro e escuro. |
-| US4 |                                                  O aplicativo deve fornecer feedback imediato após cada ação do usuário.                                                   |
-| US5 |                                               O aplicativo deve permitir que os usuários desfaçam ações sempre que possível.                                               |
+|  ID   |                                                                                 Descrição                                                                                  |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  US1  |                                                              Deve ser possível visualizar em formato desktop                                                               |
+|  US2  |                  Deve disponibilizar formas de facilitar seu uso principal, como criar atalhos, sugestões personalizadas de pesquisa e pesquisa por voz.                   |
+|  US3  | Deve disponibilizar formas de se adaptar ao usuário, incluindo acessibilidade, personalizar a tela inicial do navegador, mudar o idioma e mudar entre tema claro e escuro. |
+|  US4  |                                                  O aplicativo deve fornecer feedback imediato após cada ação do usuário.                                                   |
+|  US5  |                                               O aplicativo deve permitir que os usuários desfaçam ações sempre que possível.                                               |
 
 **Autor:**  [Leonardo Aguiar](https://github.com/Leonardo0o0), 2024.
 
@@ -46,15 +46,15 @@ Na tabela 2, são apresentados os requisitos identificados em relação à confi
 
 **Tabela 2**: Requisitos de Confiabilidade
 
-|  ID  |                                                                                                    Descrição                                                                                                     |   Subcategoria   |
-|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|
-| RC01 | O aplicativo deve ter um Tempo Médio Entre Falhas (MTBF) de no mínimo 1000 horas de uso, e um Tempo Médio para Reparo (MTTR) de no máximo 1 hora, conforme medido por ferramentas de monitoramento de desempenho | Disponibilidade  |
-| RC02 |                               O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana, conforme comprovado por um sistema de segurança                                | Disponibilidade  |
-| RC03 |                                                                 O backup dos dados deve ser realizado automaticamente pelo menos uma vez por dia                                                                 | Recuperabilidade |
-| RC04 |                                         O aplicativo deve carregar as páginas Web com 99.9% de precisão, exibindo os elementos adequadamente, conforme diretrizes do W3C                                         |     Precisão     |
-| RC05 |                                                                     O aplicativo deve ser atualizado sem interromper a navegação do usuário                                                                      | Disponibilidade  |
-| RC06 |                                                      O aplicativo deve ser capaz de restaurar a sessão do usuário em menos de 1 minuto, caso falhe ou trave                                                      | Recuperabilidade |
-| RC07 |                                                 O navegador deve ser compatível com pelo menos 90% das páginas web, comprovado através de uma amostra de sites.                                                  |     Precisão     |
+|  ID   |                                                                                                    Descrição                                                                                                     |   Subcategoria   |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+| RC01  | O aplicativo deve ter um Tempo Médio Entre Falhas (MTBF) de no mínimo 1000 horas de uso, e um Tempo Médio para Reparo (MTTR) de no máximo 1 hora, conforme medido por ferramentas de monitoramento de desempenho | Disponibilidade  |
+| RC02  |                               O aplicativo deve apresentar proteção contra ataques maliciosos 24 horas por dia, 7 dias da semana, conforme comprovado por um sistema de segurança                                | Disponibilidade  |
+| RC03  |                                                                 O backup dos dados deve ser realizado automaticamente pelo menos uma vez por dia                                                                 | Recuperabilidade |
+| RC04  |                                         O aplicativo deve carregar as páginas Web com 99.9% de precisão, exibindo os elementos adequadamente, conforme diretrizes do W3C                                         |     Precisão     |
+| RC05  |                                                                     O aplicativo deve ser atualizado sem interromper a navegação do usuário                                                                      | Disponibilidade  |
+| RC06  |                                                      O aplicativo deve ser capaz de restaurar a sessão do usuário em menos de 1 minuto, caso falhe ou trave                                                      | Recuperabilidade |
+| RC07  |                                                 O navegador deve ser compatível com pelo menos 90% das páginas web, comprovado através de uma amostra de sites.                                                  |     Precisão     |
 
 **Autor:**  [Kallyne Macedo](https://github.com/kalipassos), 2024
 </center>
@@ -70,7 +70,7 @@ Na tabela 3, são apresentados os requisitos identificados em relação ao desem
 **Tabela 3**: Requisitos de Desempenho
 
 | Identificador |                                                                                                                                  Descrição                                                                                                                                   |
-|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     DES01     |                                                                                          O sistema deve apresentar tempo de resposta inferior a 1 segundo ao realizar uma pesquisa                                                                                           |
 |     DES02     |                                                  O navegador deve ser capaz de iniciar e estar pronto para uso em menos de 3 segundos em dispositivos móveis com pelo menos 4 GB de RAM e processador quad-core de 1.8 GHz                                                   |
 |     DES03     |                                          As páginas web devem começar a ser renderizadas em menos de 1 segundo e estar totalmente carregadas em menos de 3 segundos em conexões de internet de alta velocidade (pelo menos 50 Mbps)                                          |
@@ -95,7 +95,7 @@ Na tabela 4, são apresentados os requisitos identificados em relação à supor
 **Tabela 4**: Requisitos de Suportabilidade.
 
 |  ID   |                                                                                      Descrição                                                                                       |
-|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | SUP01 |                O aplicativo deve prover suporte técnico em casos de erros de execução e bugs através de sistema de tickets/reclamações com SLA inicial de até um dia                 |
 | SUP02 |             O sistema deve ser extensível para permitir a adição de novas funcionalidades e acompanhar as mudanças, com validação pela aplicação de um framework modular             |
 | SUP03 |                                         O aplicativo deve ter sua documentação sempre atualizada, com cobertura de pelo menos 90% do sistema                                         |
@@ -116,11 +116,11 @@ Na tabela 5, são apresentados os requisitos identificados em relação às rest
 
 **Tabela 5**: Requisitos de Restrições de Design
 
-|  ID  |                                              Descrição                                               |
-|:----:|:----------------------------------------------------------------------------------------------------:|
-| RD01 | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
-| RD02 |        O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel        |
-| RD03 |                  O aplicativo deve seguir diretrizes de acessibilidade da WCAG 2.1                   |
+|  ID   |                                              Descrição                                               |
+| :---: | :--------------------------------------------------------------------------------------------------: |
+| RD01  | O aplicativo deve ser compatível com as diretrizes de design do sistema operacional (Android ou iOS) |
+| RD02  |        O design do aplicativo deve ser responsivo e adaptável ao tamanho do dispositivo móvel        |
+| RD03  |                  O aplicativo deve seguir diretrizes de acessibilidade da WCAG 2.1                   |
 
 **Autor:**  [Kallyne Macedo](https://github.com/kalipassos), 2024
 </center>
@@ -136,7 +136,7 @@ Na tabela 6, são apresentados os requisitos em relação à implementação.
 **Tabela 6**: Requisitos de Implementação
 
 | Identificador |                                                               Descrição                                                               |
-|:-------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 |     IMP01     | O código-fonte deve seguir os padrões de codificação definidos pela Mozilla, como aqueles especificados no Mozilla Coding Style Guide |
 |     IMP02     |     O sistema deve ser desenvolvido de forma modular, permitindo a reutilização de componentes em diferentes partes do navegador      |
 |     IMP03     |          A documentação técnica do sistema, incluindo diagramas de arquitetura e manuais de API, deve ser mantida atualizada          |
@@ -158,7 +158,7 @@ Na tabela 7, foram listados na tabela os Requisitos Não Funcionais (RNF) relaci
 **Tabela 7**: Requisitos de Interface
 
 | Identificador | Descrição                                                                                                                                                                           |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | INT01         | Os elementos da interface devem ser organizados conforme as diretrizes do Acorn Design                                                                                              |
 | INT02         | O usuário deve conseguir acessar qualquer parte do sistema em no máximo três cliques, validado através de testes de usabilidade com aprovação de 90%                                |
 | INT03         | Mensagens de erro devem ser exibidas em tons de vermelho entre #ffdfe7 e #810220, devendo ocupar pelo menos 15% da tela visível                                                     |
@@ -196,11 +196,11 @@ Requisitos físicos: refere-se ao hardware onde o sistema vai ser alocado, como 
 ## Histórico de Versões 
 
 | Versão |    Data    | Descrição                                         |                       Autor                       |                      Revisor                      |
-|:------:|:----------:|---------------------------------------------------|:-------------------------------------------------:|:-------------------------------------------------:|
+| :----: | :--------: | ------------------------------------------------- | :-----------------------------------------------: | :-----------------------------------------------: |
 |  1.0   | 19/05/2024 | Introdução e Metodologia                          |  [Kallyne Macedo](https://github.com/kalipassos)  | [Lucas Martins](https://github.com/martinsglucas) |
 |  1.1   | 20/05/2024 | Usabilidade, Suportabilidade e Requisitos Físicos | [Leonardo Aguiar](https://github.com/Leonardo0o0) |   [Davi Pierre](https://github.com/DaviPierre)    |
-|  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação          | [Lucas Martins](https://github.com/martinsglucas) |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
-|  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface  |  [Kallyne Macedo](https://github.com/kalipassos)  |  [Kauan T. Eiras](https://github.com/kauaneiras)  |
+|  1.2   | 20/05/2024 | Desempenho e Requisitos de Implementação          | [Lucas Martins](https://github.com/martinsglucas) |   [Kauan Eiras](https://github.com/kauaneiras)    |
+|  1.3   | 20/05/2024 | Confiabilidade, Restrições de Design e Interface  |  [Kallyne Macedo](https://github.com/kalipassos)  |   [Kauan Eiras](https://github.com/kauaneiras)    |
 |  1.4   | 27/05/2024 | Melhor especificação para o Desempenho            | [Lucas Martins](https://github.com/martinsglucas) | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
 |  1.5   | 05/06/2024 | Reescrita da especificação de forma testável      |  [Kallyne Macedo](https://github.com/kalipassos)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
-|  1.6   | 27/06/2024 | Referenciação Bibliográfica      |  [Kauan Eiras](https://github.com/kauaneiras)  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
+|  1.6   | 27/06/2024 | Referenciação Bibliográfica                       |   [Kauan Eiras](https://github.com/kauaneiras)    | [Leonardo Aguiar](https://github.com/Leonardo0o0) |
