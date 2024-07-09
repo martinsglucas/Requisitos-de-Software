@@ -41,7 +41,7 @@ Na tabela abaixo, é apresentada uma relação consolidada das ferramentas utili
 
 **Figura 1**: Repositório GitHub do grupo - Firefox
 
-![](image-1.png)
+![](assets/image-1.png)
 **Autor**: [Kallyne Macedo](http://github.com/kalipassos), 2024.
 </center>
 
@@ -51,7 +51,7 @@ No [Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/), foi cri
 
 **Figura 2**: Equipe Teams de desenvolvimento do projeto
 
-![](image.png)
+![](assets/image.png)
 **Autor**: [Kallyne Macedo](http://github.com/kalipassos), 2024.
 </center>
 
@@ -63,7 +63,8 @@ No [Miro](https://miro.com/pt/), foi criado um layout de cronograma para a organ
 
 **Figura 3**: Cronograma Planejado no Miro
 
-![Miro](<REQ 2024.1 - G6.jpg>)
+![Miro](assets/REQ%202024.1%20-%20G6.jpg)
+
 **Autor**: [Kallyne Macedo](http://github.com/kalipassos), 2024.
 </center>
 
